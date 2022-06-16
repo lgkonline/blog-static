@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uglify &#8211; LGK Blog</title>
+	<atom:link href="/tag/uglify/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 03 Apr 2022 18:59:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Uglify &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mach deinen Code prettier</title>
+		<link>/mach-deinen-code-prettier/</link>
+					<comments>/mach-deinen-code-prettier/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Automatisierung]]></category>
+		<category><![CDATA[CI]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[format]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<guid isPermaLink="false">/?p=2222</guid>
+
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
+
+
+
+<p>Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und befriedigt nebenbei den inneren Monk. <br>Arbeitet man mit mehreren Personen an einem Projekt, kannst du entweder regelmäßig von Hand den Code der anderen formatieren oder du lässt es machen, automatisch!</p>
+
+
+
+<h2>Installiere Prettier</h2>
+
+
+
+<p>Das geht mit dem Tool <a rel="noreferrer noopener" href="https://prettier.io/" target="_blank">Prettier</a>! Du legst zuvor in einer Config-Datei (.prettierrc.json) die Regeln fest (Semikolons ja/nein, maximale Zeilenlänge etc.) und führst dann Prettier aus. In einer separaten Datei (.prettierignore) kannst du noch definieren, welche Ordner und Dateien dabei unangetastet bleiben sollen.</p>
+
+
+
+<p>Folge einfach dem offiziellen Guide, um Prettier bei dir einzurichten: <a href="https://prettier.io/docs/en/install.html" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<h2>Prettier bei jedem Git Commit ausführen</h2>
+
+
+
+<p>Du kannst Prettier jedes Mal manuell ausführen oder dafür eine Extension in deinem Code-Editor installieren. Ich finde es allerdings angenehmer, dass Prettier automatisch vor jedem Git Commit ausgeführt wird. So wird sichergestellt, dass kein unschöner Code nach GitHub gelangt (oder wo auch immer du Git hostest). Auch funktioniert das ganze dann unabhängig davon, welchen Code-Editor du oder Team-Kolleg:innen verwenden. </p>
+
+
+
+<p>Ich bin einfach den Abschnitt &#8220;Git hooks&#8221; gefolgt: <a href="https://prettier.io/docs/en/install.html#git-hooks" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<p>Das Tool &#8220;Husky&#8221; sorgt also dafür, dass Prettier vor jedem Git Commit-Befehl ausgeführt wird und der Code formatiert wird.</p>
+
+
+
+<h2>Meine bevorzugten Einstellungen</h2>
+
+
+
+<p>Meine .prettierrc.json-Datei sieht so aus:</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "fluid": false
+}
+</code></pre>
+
+
+
+<ul><li>Zur Einrückung werden 4 Leerzeichen verwendet.</li><li>Ich nutze keine Semikolons (bei JavaScript und TypeScript).</li><li>Ich nutze doppelte Anführungszeichen bei Strings (<code>"</code>).</li><li>Keine Kommata, wo es nicht notwendig ist (z.B. in TypeScript Interfaces).</li><li>Leerzeichen um geschweifte Klammern (<code>{ foo: bar }</code>).</li><li>Für bracketSameLine siehe: <a rel="noreferrer noopener" href="https://prettier.io/docs/en/options.html#bracket-line" target="_blank">https://prettier.io/docs/en/options.html#bracket-line</a></li></ul>
+
+
+
+<p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
+		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Bechleunigung]]></category>
+		<category><![CDATA[Compiler]]></category>
+		<category><![CDATA[Compress]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1630</guid>
+
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
+<p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
+<p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
+<pre>
+npm install uglify-js -g
+</pre>
+<p>Navigiere anschließend mit <code>cd</code> zu deinem Projekt-Ordner.</p>
+<p>In meinem Beispiel sieht mein Projekt-Ordner so aus:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Führe nun diesen Befehl aus:</p>
+<pre>
+uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
+</pre>
+<p>Zuerst kommt der Befehl <code>uglifyjs</code>, anschließend die zu kombinierenden Dateien (durch Leerzeichen getrennt). Das <code>-o</code> steht für &#8220;Output&#8221; und kennzeichnet die Ausgabe-Datei. In diesem Fall <code>js/script.min.js</code>.</p>
+<p>Wichtig bei der Eingabe ist auch die Reihenfolge der Dateien.</p>
+<div class="clearfix"></div>
+<p>Anschließend müsste unser Ordner so aussehen:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+<li><strong>script.min.js</strong></li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Und aus:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/search.js"></script>
+</pre>
+<p>wird:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="script.min.js"></script>
+</pre>
+<div class="clearfix"></div>
+<h3>Erweiterungen für Entwicklungsumgebungen?</h3>
+<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
+<p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
+<p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
+<hr>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

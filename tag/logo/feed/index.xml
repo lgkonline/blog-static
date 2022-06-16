@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>logo &#8211; LGK Blog</title>
+	<atom:link href="/tag/logo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 31 Jul 2014 17:55:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>logo &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neues Logo für startmon</title>
+		<link>/neues-logo-fuer-startmon/</link>
+					<comments>/neues-logo-fuer-startmon/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2014 17:21:28 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Bildmarke]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[Wortmarke]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1144</guid>
+
+					<description><![CDATA[Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte. Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat. Es besteht nun aus einer Bild- und einer Wortmarke. Die Idee hinter der&#8230; <a class="more-link" href="/neues-logo-fuer-startmon/">Continue reading <span class="screen-reader-text">Neues Logo für startmon</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="wp-caption thumbnail">
+<a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png" alt="Neues startmon-Logo" width="1000" height="212" class="aligncenter size-full wp-image-1146 img-responsive" srcset="/wp-content/uploads/2014/07/startmon-neues-logo.png 1000w, /wp-content/uploads/2014/07/startmon-neues-logo-300x63.png 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
+</div>
+<figure id="attachment_1150" aria-describedby="caption-attachment-1150" style="width: 150px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon-150x150.png" alt="Altes Logo" width="150" height="150" class="size-thumbnail wp-image-1150" srcset="/wp-content/uploads/2014/07/favicon-150x150.png 150w, /wp-content/uploads/2014/07/favicon.png 265w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption id="caption-attachment-1150" class="wp-caption-text">Das ehemalige Logo</figcaption></figure>
+<p>Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte.</p>
+<p>Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat.</p>
+<p>Es besteht nun aus einer Bild- und einer Wortmarke.</p>
+<figure id="attachment_1164" aria-describedby="caption-attachment-1164" style="width: 376px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo-ani.gif" alt="Neues Logo auf startmon" width="376" height="303" class="size-full wp-image-1164" /><figcaption id="caption-attachment-1164" class="wp-caption-text">Neues Logo in Aktion</figcaption></figure>
+<h2>Die Idee hinter der Bildmarke</h2>
+<p>Die Farben stammen noch aus der mys-Zeit. mys war mein erstes Projekt, welches eine personalisierte Startseite ermöglichen sollte. <a href="/index.php?s=mys" title="" target="">Ein paar Artikel zu mys findet ihr hier</a>.</p>
+<p>Die Form stellt weiterhin ein Monster dar. Allerdings in einer etwas abstrakteren Variante. Ziel ist es, dass die inneren Formen etwas an einer Lupe erinnern sollen.</p>
+<h2>Roboto als Schriftart</h2>
+<p>Die Wortmarke wird in der Standard-Schriftart Roboto dargestellt. Diese wird auch innerhalb vom Dienst verwendet. Die Farbe kann je nach Einsatzort variieren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-logo-fuer-startmon/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Das Dashboard wird von einem Menü abgelöst</title>
+		<link>/das-dashboard-wird-von-einem-menu-abgelost/</link>
+					<comments>/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 20:33:41 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[Menü]]></category>
+		<category><![CDATA[Navigation]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=678</guid>
+
+					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, /wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
+Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte.</p>
+<p>Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet.</p>
+<p>Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das LGK-Logo gelangst du zu Kontakt und Impressum.</p>
+<p>Außerdem habe ich Links zu meiner deviantART-Seite und zu meinem Twitter-Account gesetzt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
+		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[deisgn]]></category>
+		<category><![CDATA[form]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[konvertieren]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umwandeln]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
+
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="box">
+<h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
+<p><center><br />
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/bxzVjUi9F2U" frameborder="0" allowfullscreen></iframe></center></p>
+<p style="text-align: right;"><a href="http://www.youtube.com/watch?v=bxzVjUi9F2U" target="_blank">Auf YouTube ansehen</a></p>
+<p>Musik: <a href="http://www.audioagency.de/" target="_blank">http://www.audioagency.de/</a></p>
+<p>In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt.<br />
+So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden.</p>
+<p>Ich hoffe, den einen oder anderen damit einen Tipp geben zu können.</p>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft präsentiert neues Logo</title>
+		<link>/microsoft-prasentiert-neues-logo/</link>
+					<comments>/microsoft-prasentiert-neues-logo/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 24 Aug 2012 18:27:43 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[neues]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=532</guid>
+
+					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, /wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
+<p>Microsoft präsentiert mit einem Image-Video ihr neues Logo.</p>
+<p>Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold.</p>
+<p>Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist ein neues Logo auch nötig, da das alte einfach nicht mehr zum Kachel-Design passte.</p>
+<div class="float-reg"></div>
+<p>Artikel auf TechNet:<br /><a href="http://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx" target="_blank">http://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx</a></p>
+<div class="box">
+<h3 class="widget-title">Microsoft präsentiert ihr neues Logo</h3>
+<p><center></p>
+<div style="background-color: #000000; width: 640px;">
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/OzkZWvAJUr0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>&nbsp;</p>
+<p></center></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neuer Twitter-Vogel</title>
+		<link>/neuer-twitter-vogel/</link>
+					<comments>/neuer-twitter-vogel/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 17:00:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[bird]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[larry]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[social network]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=467</guid>
+
+					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, /wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Das stolze Markenzeichen von Twitter ist das Vogel-Symbol.</p>
+<p>Dieses Symbol wurde nun leicht ver&auml;ndert. Der Vogel, der im &Uuml;brigen auf den Namen &#8220;Larry&#8221; h&ouml;rt, fliegt jetzt<br />
+nicht mehr geradeaus, sondern schr&auml;g nach oben.</p>
+<p>Unter <a href="https://twitter.com/about/logos" target="_blank">https://twitter.com/about/logos</a> k&ouml;nnt ihr das neue<br />
+Logo runterladen und es nutzen.</p>
+<p>Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&auml;ndern sollt. Der Vogel darf weder eine Sprechblase erhalten,<br />
+gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, wie der Schriftzug oder das &#8220;t&#8221;, mehr verwendet werden.</p>
+<div class="box">
+<h3 class="widget-title">Twitter präsentiert ihren neuen Vogel</h3>
+<p><center></p>
+<div style="background-color: #000000; width: 640px;">
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/Fh20pdCrCAU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>&nbsp;</p>
+<p></center></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neuer-twitter-vogel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Erneut eine neue LGK-Welt</title>
+		<link>/erneut-eine-neue-lgk-welt/</link>
+					<comments>/erneut-eine-neue-lgk-welt/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 04 Mar 2012 17:52:05 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[logo]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=404</guid>
+
+					<description><![CDATA[Das neue Logo hat gar keine Ähnlichkeit mehr mit den alten. Die Älteren hatten immer jeweils den Vorgänger als Vorlage. Dieses Mal wollte ich aber kein &#8220;Upgrade&#8221; mehr, sondern etwas komplett neues. Ich hoffe es ist mir gelungen und ihr mögt es. 😉 Hier eine kleine Zeitleiste mit den wichtigsten Logos. Eigentlich waren noch einige&#8230; <a class="more-link" href="/erneut-eine-neue-lgk-welt/">Continue reading <span class="screen-reader-text">Erneut eine neue LGK-Welt</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_405" aria-describedby="caption-attachment-405" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/cartoon-vision.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/cartoon-vision-300x105.jpg" alt="" title="Cartoon Vision" width="300" height="105" class="size-medium wp-image-405" srcset="/wp-content/uploads/2012/03/cartoon-vision-300x105.jpg 300w, /wp-content/uploads/2012/03/cartoon-vision.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-405" class="wp-caption-text">Das neue LGK-Design trägt den Namen &quot;Cartoon Vision&quot;</figcaption></figure><br />
+Das neue Logo hat gar keine Ähnlichkeit mehr mit den alten. Die Älteren hatten immer jeweils den Vorgänger als Vorlage.</p>
+<p>Dieses Mal wollte ich aber kein &#8220;Upgrade&#8221; mehr, sondern etwas komplett neues. Ich hoffe es ist mir gelungen und ihr mögt es. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Hier eine kleine Zeitleiste mit den wichtigsten Logos. Eigentlich waren noch einige mehr in Gebrauch.<br />
+<img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/lgk_timeline.jpg" alt="" title="Die LGK-Logos" width="697" height="130" class="alignnone size-full wp-image-407" srcset="/wp-content/uploads/2012/03/lgk_timeline.jpg 697w, /wp-content/uploads/2012/03/lgk_timeline-300x55.jpg 300w" sizes="(max-width: 697px) 100vw, 697px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/erneut-eine-neue-lgk-welt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comedy Central Deutschland bekommt neues Logo + Design</title>
+		<link>/comedy-central-deutschland-bekommt-neues-logo-design/</link>
+					<comments>/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2011 18:42:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Fernsehen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[comedy central]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[mtv]]></category>
+		<category><![CDATA[nickelodeon]]></category>
+		<category><![CDATA[viva]]></category>
+		<guid isPermaLink="false">http://lgkclub.de.vu/?p=261</guid>
+
+					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_263" aria-describedby="caption-attachment-263" style="width: 200px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-263" title="" src="/blog/wp-content/uploads/2011/09/183713323_200.jpg" alt="" width="200" height="150" /><figcaption id="caption-attachment-263" class="wp-caption-text">Quelle: vimeo.com</figcaption></figure>
+<p>Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich.<br />
+Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen.<br />
+<strong>Das neue Design soll am 1. Oktober 2011 on Air kommen.</strong></p>
+<p>In Amerika ist das schlichte Design schon länger im Einsatz. Nun ziehen Ableger in Europa nach. Comedy Central Niederlande bekommt u.a. auch das neue Design.</p>
+<p>Ich bin eigentlich froh, dass die glasige 3D-Welt abgeschafft wird. Es passt einfach nicht zum Konzept des Senders, einen auf &#8220;professionell&#8221; zu machen.<br />
+Das neue Logo wird allerdings wohl gewöhnungsbedürftig sein. Das Gebäude-Logo fand ich persönlich nämlich immer sehr schick.</p>
+<div class="box">
+<h3 class="widget-title">Video: Trailer zum neuen Comedy Central-Design</h3>
+<p><center></p>
+<div style="background-color: #000000; width: 368px;">
+<div style="padding: 4px;"><object width="368" height="293" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://media.mtvnservices.com/mgid:hcx:content:comedycentral.de:70320dd1-d9b2-4437-a09a-45eb4760110d" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="base" value="." /><param name="flashvars" value="" /><embed width="360" height="293" type="application/x-shockwave-flash" src="http://media.mtvnservices.com/mgid:hcx:content:comedycentral.de:70320dd1-d9b2-4437-a09a-45eb4760110d" allowfullscreen="true" allowscriptaccess="always" base="." flashvars="" /></object></p>
+<p style="text-align: left; background-color: #ffffff; padding: 4px; margin-top: 4px; margin-bottom: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><strong><a href="http://www.comedycentral.de/videos/comedy-central-new-logo-trailer-693108/">Comedy Central New Logo Trailer</a></strong><br />
+Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Germany&lt;/a&gt;</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p></center></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

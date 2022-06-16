@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dezimal &#8211; LGK Blog</title>
+	<atom:link href="/tag/dezimal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Fri, 02 Sep 2011 18:02:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>dezimal &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PDF: Dezimalzahl in Dualzahl umrechnen &#8212; und umgekehrt</title>
+		<link>/pdf-dezimalzahl-in-dualzahl-umrechnen-und-umgekehrt/</link>
+					<comments>/pdf-dezimalzahl-in-dualzahl-umrechnen-und-umgekehrt/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2011 18:02:10 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[dezimal]]></category>
+		<category><![CDATA[dual]]></category>
+		<category><![CDATA[informatik]]></category>
+		<category><![CDATA[mathe]]></category>
+		<category><![CDATA[matik]]></category>
+		<guid isPermaLink="false">http://lgkclub.de.vu/?p=244</guid>
+
+					<description><![CDATA[Das Thema ist auf dem ersten Blick vielleicht etwas öde, für einen Informatiker aber sicher sehr wichtig. Da ich damit erst auch Schwierigkeiten hatte, habe ich mir ein Dokument erstellt (falls ich es später mal vergesse). Gerne lasse ich euch auch daran teilhaben. Ihr könnt das Dokument als PDF downloaden oder direkt im Browser ansehen&#8230; <a class="more-link" href="/pdf-dezimalzahl-in-dualzahl-umrechnen-und-umgekehrt/">Continue reading <span class="screen-reader-text">PDF: Dezimalzahl in Dualzahl umrechnen &#8212; und umgekehrt</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_250" aria-describedby="caption-attachment-250" style="width: 128px" class="wp-caption alignright"><a href="http://bit.ly/p1gJpP"><img loading="lazy" src="http://lgkclub.de.vu/wp-content/uploads/2011/09/1314985669_education.png" alt="Quelle: Iconfinder.com (http://bit.ly/p1gJpP)" title="Quelle: Iconfinder.com (http://bit.ly/p1gJpP)" width="128" height="128" class="size-full wp-image-250" /></a><figcaption id="caption-attachment-250" class="wp-caption-text">Quelle: Iconfinder.com</figcaption></figure>Das Thema ist auf dem ersten Blick vielleicht etwas öde, für einen Informatiker aber sicher sehr wichtig.<br />
+Da ich damit erst auch Schwierigkeiten hatte, habe ich mir ein Dokument erstellt (falls ich es später mal vergesse).</p>
+<p>Gerne lasse ich euch auch daran teilhaben. Ihr könnt das Dokument als PDF downloaden oder direkt im Browser ansehen (mittels Plugin).</p>
+<div class="box">
+<h3 class="widget-title">PDF Download</h3>
+<p><a href="/wp-content/uploads/2011/09/Dual-und-Dezimalsystem.pdf" target="_blank" title="Download"><img src="/wp-includes/images/crystal/document.png" style="float: left; margin-right: 20px;" /><br />
+Dual-und-Dezimalsystem.pdf</a><br />
+<em>Ich hab versucht, etwas zu erklären, was ich erst kurz vorher selbst verstanden habe: Die Umrechnung einer Dezimalzahl in eine Dualzahl &#8212; und umgekehrt. Ich hoffe, ich kann mit dieser PDF Einigen helfen, die das Thema selbst nicht ganz peilen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em></p>
+<div style="float: none; clear: both;"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pdf-dezimalzahl-in-dualzahl-umrechnen-und-umgekehrt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

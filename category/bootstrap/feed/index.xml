@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bootstrap &#8211; LGK Blog</title>
+	<atom:link href="/category/bootstrap/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 09 Apr 2015 06:50:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Bootstrap &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neues WordPress-Theme ist verfügbar</title>
+		<link>/neues-wordpress-theme-ist-verfuegbar/</link>
+					<comments>/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2014 12:09:29 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[Winegum]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[ZIP]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1359</guid>
+
+					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="/wp-content/uploads/2014/11/screenshot-300x219.png 300w, /wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure>
+<p>Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;.<br />
+Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen.</p>
+<p>Den Download-Link findet ihr auf <a href="http://lgkonline.com/winegum/" target="_blank">http://lgkonline.com/winegum/</a>.</p>
+<p>Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo setzen und noch einiges mehr.<br />
+Auch könnt ihr entscheiden, ob ihr eine Sidebar wollt und wenn, wo sie überall angezeigt werden soll.</p>
+<p>Außerdem könnt ihr Links zu sozialen Netzwerken setzen, z.B. zu eurem Facebook- oder Twitter-Profil.<br />
+Derzeit werden diese Dienste angeboten:</p>
+<ul>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>YouTube</li>
+<li>Instagram</li>
+<li>GitHub</li>
+<li>Vine</li>
+<li>Google+</li>
+</ul>
+<div class="btn-group">
+<a href="http://lgkonline.com/winegum/" class="btn btn-success" target="_blank"><i class="fa fa-download"></i> Zum Download</a><a href="https://github.com/lgkonline/Winegum" target="_blank" class="btn btn-primary"><i class="fa fa-github"></i> Winegum auf GitHub</a>
+</div>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Version von orange_files steht zum Download bereit</title>
+		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Dateien]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[FTP]]></category>
+		<category><![CDATA[Neue Version]]></category>
+		<category><![CDATA[orange_files]]></category>
+		<category><![CDATA[Organizer]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
+
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
+<p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
+<p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
+Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
+<p>Ebenfalls lassen sich in <code>OPTIONS.php</code> die Thumbnails jetzt komplett abschalten. Auch die Icons für die verschiedenen Dateiformate bekamen ein Facelift.</p>
+<p>Das fancyBox-Plugin ist nun bereits bei dem Installations-Paket integriert. Bilder werden so in einer schicken Lightbox angezeigt.<br />
+In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz einfach deaktivieren.</p>
+<p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alle abgerundeten Umrandungen in Bootstrap ausschalten.</title>
+		<link>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
+					<comments>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2014 11:00:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[Stylesheet]]></category>
+		<category><![CDATA[theme]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1179</guid>
+
+					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/bootstrap-2.png" alt="Bootstrap" width="282" height="264" class="alignright size-full wp-image-1183" /></p>
+<p>Ich nutze für meine Projekte gerne das Framework <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.<br />
+Allerdings gefallen mir die abgerundeten Elemente nicht besonders.</p>
+<p>Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten:</p>
+<pre class="prettyprint lang-css">
+.alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}}
+</pre>
+<p><span id="more-1179"></span></p>
+<p>Oder ausführlich:</p>
+<pre class="prettyprint lang-css">
+.img-thumbnail,
+code,
+kbd,
+pre,
+pre code,
+.form-control,
+.input-sm,
+.form-horizontal .form-group-sm .form-control,
+.input-lg,
+.form-horizontal .form-group-lg .form-control,
+.btn,
+.btn-link,
+.btn-lg,
+.btn-group-lg > .btn,
+.btn-sm,
+.btn-group-sm > .btn,
+.btn-xs,
+.btn-group-xs > .btn,
+.dropdown-menu,
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn,
+.btn-group-vertical > .btn:not(:first-child):not(:last-child),
+.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn,
+.input-group-lg > .form-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn,
+.input-group-sm > .form-control,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .btn,
+.input-group-addon:not(:first-child):not(:last-child),
+.input-group-btn:not(:first-child):not(:last-child),
+.input-group .form-control:not(:first-child):not(:last-child),
+.input-group-addon,
+.input-group-addon.input-sm,
+.input-group-addon.input-lg,
+.nav-tabs > li > a,
+.nav-tabs.nav-justified > li > a,
+.nav-pills > li > a,
+.nav-tabs-justified > li > a,
+.navbar-toggle,
+.breadcrumb,
+.pagination,
+.pager li > a,
+.pager li > span,
+.container .jumbotron,
+.thumbnail,
+.alert,
+.progress,
+.panel,
+.panel > .list-group .list-group-item,
+.panel-group .panel,
+.well,
+.well-lg,
+.well-sm,
+.modal-content,
+.tooltip-inner,
+.popover,
+.nav-pills > li > a,
+.label,
+.img-rounded,
+.list-group-item:first-child,
+.list-group-item:last-child {
+  border-radius: 0;
+}
+
+@media (min-width: 768px) {
+    .nav-tabs.nav-justified > li > a {
+        border-radius: 0 0 0 0;
+    }
+    
+    .navbar-static-top,
+    .navbar-fixed-top,
+    .navbar-fixed-bottom,
+    .navbar {
+        border-radius: 0 0 0 0;
+    }
+}
+</pre>
+<p><strong>Update am 09.04.2015:</strong> Die Elemente <code>.list-group-item:first-child</code> und <code>.list-group-item:last-child</code> wurden hinzugefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

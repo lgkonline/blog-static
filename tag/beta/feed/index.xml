@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beta &#8211; LGK Blog</title>
+	<atom:link href="/tag/beta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 05 Jul 2015 13:43:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>beta &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Startmon Rookie &#8211; Wie es weiter geht</title>
+		<link>/startmon-rookie-wie-es-weiter-geht/</link>
+					<comments>/startmon-rookie-wie-es-weiter-geht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2015 13:43:02 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Rookie]]></category>
+		<category><![CDATA[testen]]></category>
+		<guid isPermaLink="false">/?p=1682</guid>
+
+					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="/wp-content/uploads/2015/07/rookie-300x225.png 300w, /wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert.</p>
+<p>Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden.</p>
+<p>Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden kann.</p>
+<p>Um das zu realisieren, muss der grundsätzliche Code neu geschrieben werden. Diese neue Version, welche die Release-Nummer 12.x erhalten wird, nenne ich während sie noch in der Entstehung ist &#8220;Startmon Rookie&#8221; (hergeleitet aus Digimon).</p>
+<div class="clearfix"></div>
+<p><a href="/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, /wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, /wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Neues Feature: Pocket</h2>
+<p>Pocket ist ein Dienst, um schnell Web-Inhalte als Favorit zu speichern und das plattform-unabhängig. In der neuesten Firefox-Version ist Pocket bereits fest integriert.</p>
+<p>Dank der API von Pocket, können gespeicherte Links aus Pocket auch direkt auf Startmon angezeigt werden.</p>
+<h2>Startmon Rookie testen</h2>
+<p>Sobald Startmon Rookie die grundsätzlichen Funktionen übernommen hat, werde ich es online zur Verfügung stellen und es so oft es geht updaten.</p>
+<p>Sobald es so weit ist, werde ich es natürlich bekannt geben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon: Öffentliche Preview jetzt online</title>
+		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[startseite]]></category>
+		<category><![CDATA[Suchmaschine]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
+
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+<p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
+<p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
+<p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
+<div class="clearfix"></div>
+<p><span id="more-1119"></span></p>
+<h2>Auch für mobile Endgeräte</h2>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
+<p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
+<p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
+<h2>Feedback gefragt</h2>
+<p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LGK Start 10.0 jetzt testen!</title>
+		<link>/lgk-start-10-0-jetzt-testen/</link>
+					<comments>/lgk-start-10-0-jetzt-testen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2013 17:59:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[testen]]></category>
+		<category><![CDATA[Version 10]]></category>
+		<category><![CDATA[Vorschau]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=740</guid>
+
+					<description><![CDATA[Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link: lgkonline.de/start_new Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren. Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das&#8230; <a class="more-link" href="/lgk-start-10-0-jetzt-testen/">Continue reading <span class="screen-reader-text">LGK Start 10.0 jetzt testen!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_741" aria-describedby="caption-attachment-741" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg" alt="Die neue &quot;Über LGK Start&quot;-Ansicht" width="300" height="154" class="size-medium wp-image-741" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02-1024x525.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg 1599w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-741" class="wp-caption-text">Die neue &#8220;Über LGK Start&#8221;-Ansicht</figcaption></figure>
+<p>Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link:<br />
+<a href="/start_new">lgkonline.de/start_new</a></p>
+<p>Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren.</p>
+<p>Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das Menü-Design stammt aus der LGK-Leiste, welche sich immer ganz oben mittig befindet, auch hier im Blog.</p>
+<div class="float-none"></div>
+<p>Das besondere an der &#8220;Über LGK Start&#8221;-Ansicht ist außerdem das jQuery-Plugin Page Scroller LITE (<a href="http://www.pagescroller.com/" target="_blank">Zur Plugin-Website</a>).</p>
+<p>Öffnet man die Ansicht, steht ganz oben die Überschrift &#8220;LGK Start Touch&#8221;. Klickt man links im Menü beispielsweise auf &#8220;Über LGK Start&#8221;, wird smooth nach unten gescrollt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-10-0-jetzt-testen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testet den nächsten LGK Start</title>
+		<link>/testet-den-nachsten-lgk-start/</link>
+					<comments>/testet-den-nachsten-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Sep 2012 18:21:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hintergrund]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<category><![CDATA[water bubble]]></category>
+		<category><![CDATA[waterline]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=641</guid>
+
+					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, /wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
+<p>In <a href="http://lgkonline.de/blog/?p=623">diesem Artikel</a> habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet.</p>
+<p>Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt.</p>
+<p>Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt und ihr direkt nach YouTube weitergeleitet werdet.</p>
+<p>Um die Seite auch optisch ein wenig zu verbessern, kam ein neuer Hintergrund hinzu. Diesen seht ihr auch links im Bild.</p>
+<p>Auf meiner deviantART-Seite findet ihr diesen Hintergrund als Wallpaper: <a href="http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105" target="_blank">http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105</a></p>
+<p><strong><a href="http://lgkonline.de/mys/new/" target="_blank">Klicke hier, um das neue LGK Start zu testen.</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Photoshop-Funktion: Video</title>
+		<link>/neue-photoshop-funktion-video/</link>
+					<comments>/neue-photoshop-funktion-video/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bearbeitung]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[creative suite]]></category>
+		<category><![CDATA[cs6]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
+
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+<p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
+<p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
+<p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
+Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
+<p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
+<div class="float-reg"></div>
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
+Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
+<div class="float-reg"></div>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<ul>
+<li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
+<li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

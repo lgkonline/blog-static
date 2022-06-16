@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CSS &#8211; LGK Blog</title>
+	<atom:link href="/tag/css/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>CSS &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reblog: Dark mode in 5 minutes, with inverted lightness variables</title>
+		<link>/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 15:51:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Link]]></category>
+		<category><![CDATA[Reblog]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[dark mode]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2408</guid>
+
+					<description><![CDATA[Direct link ➔ To have a dark mode is a more and more common thing. But it can be pretty tricky. Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way: Dark mode in 5 minutes, with inverted lightness variables – Lea Verou&#8230; <a class="more-link" href="/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/">Continue reading <span class="screen-reader-text">Reblog: Dark mode in 5 minutes, with inverted lightness variables</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-red-background-color has-background"><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Direct link ➔</a></p>
+
+
+
+<p>To have a dark mode is a more and more common thing. But it can be pretty tricky.</p>
+
+
+
+<p>Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way:</p>
+
+
+
+<p><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Dark mode in 5 minutes, with inverted lightness variables – Lea Verou</a></p>
+
+
+
+<p>I already followed that guide for my latest web project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Synchronisiere Colorganize-Paletten mit LESS und Sass</title>
+		<link>/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
+					<comments>/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 14:04:36 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Pre-processor]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Sass]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1441</guid>
+
+					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, /wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure></p>
+<p>LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;.<br />
+Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen.<br />
+<a href="http://www.der-zyklop.de/blog/scss-sass-less">Mehr über die Vorteile von CSS Pre-Prozessoren &raquo;</a></p>
+<hr>
+<p>Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden.<br />
+Ein <code>@import</code> genügt und du kannst deine Farben aus deiner Palette innerhalb deines Projektes benutzen.<br />
+Sobald du etwas an deiner Palette in der Web App änderst, wirkt sich das automatisch auf deinen Code aus.<br />
+Wenn du eine z.B. aus LESS-generierte CSS-Datei verwendest, muss diese vorher neu komprimiert werden.</p>
+<p>Damit du eine Palette mit LESS oder Sass nutzen willst, muss diese als &#8220;public&#8221; markiert sein.<br />
+Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markiert. So kannst du das ändern:</p>
+<ol>
+<li>Klicke oben rechts auf &#8220;Edit mode&#8221;, um in den Bearbeitungs-Modus zu gelangen.</li>
+<li>Klicke links im Paletten-Menü auf das jeweilige Stift-Symbol, um die Palette zu bearbeiten.</li>
+<li>Aktiviere &#8220;public&#8221;, indem du auf den entsprechenden Button klickst.</li>
+</ol>
+<div class="clearfix"></div>
+<p><figure id="attachment_1457" aria-describedby="caption-attachment-1457" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png" alt="Variablen-Namen können schnell und einfach kopiert werden." width="500" height="182" class="size-medium wp-image-1457 img-responsive" /></a><figcaption id="caption-attachment-1457" class="wp-caption-text">Variablen-Namen können schnell und einfach kopiert werden.</figcaption></figure></p>
+<p>Die Variablen-Namen der Farben stehen immer griffbereit. Ein Klick genügt und die gewünschte Farb-Variable kann in deinen LESS-, bzw. Sass-Code eingefügt werden.</p>
+<hr>
+<p><a href="http://colorganize.com/" class="btn btn-primary">Probiere es gleich aus &raquo;</a></p>
+<p>Falls du noch nicht registriert bist, ist es übrigens auch möglich sich mit seinen Twitter-Account anzumelden. <a href="http://blog.lgkonline.com/update-bei-colorganize-einloggen-mit-twitter/" title="Update bei Colorganize – Einloggen mit Twitter" target="">Mehr dazu hier &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alle abgerundeten Umrandungen in Bootstrap ausschalten.</title>
+		<link>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
+					<comments>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2014 11:00:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[Stylesheet]]></category>
+		<category><![CDATA[theme]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1179</guid>
+
+					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/bootstrap-2.png" alt="Bootstrap" width="282" height="264" class="alignright size-full wp-image-1183" /></p>
+<p>Ich nutze für meine Projekte gerne das Framework <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.<br />
+Allerdings gefallen mir die abgerundeten Elemente nicht besonders.</p>
+<p>Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten:</p>
+<pre class="prettyprint lang-css">
+.alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}}
+</pre>
+<p><span id="more-1179"></span></p>
+<p>Oder ausführlich:</p>
+<pre class="prettyprint lang-css">
+.img-thumbnail,
+code,
+kbd,
+pre,
+pre code,
+.form-control,
+.input-sm,
+.form-horizontal .form-group-sm .form-control,
+.input-lg,
+.form-horizontal .form-group-lg .form-control,
+.btn,
+.btn-link,
+.btn-lg,
+.btn-group-lg > .btn,
+.btn-sm,
+.btn-group-sm > .btn,
+.btn-xs,
+.btn-group-xs > .btn,
+.dropdown-menu,
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn,
+.btn-group-vertical > .btn:not(:first-child):not(:last-child),
+.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn,
+.input-group-lg > .form-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn,
+.input-group-sm > .form-control,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .btn,
+.input-group-addon:not(:first-child):not(:last-child),
+.input-group-btn:not(:first-child):not(:last-child),
+.input-group .form-control:not(:first-child):not(:last-child),
+.input-group-addon,
+.input-group-addon.input-sm,
+.input-group-addon.input-lg,
+.nav-tabs > li > a,
+.nav-tabs.nav-justified > li > a,
+.nav-pills > li > a,
+.nav-tabs-justified > li > a,
+.navbar-toggle,
+.breadcrumb,
+.pagination,
+.pager li > a,
+.pager li > span,
+.container .jumbotron,
+.thumbnail,
+.alert,
+.progress,
+.panel,
+.panel > .list-group .list-group-item,
+.panel-group .panel,
+.well,
+.well-lg,
+.well-sm,
+.modal-content,
+.tooltip-inner,
+.popover,
+.nav-pills > li > a,
+.label,
+.img-rounded,
+.list-group-item:first-child,
+.list-group-item:last-child {
+  border-radius: 0;
+}
+
+@media (min-width: 768px) {
+    .nav-tabs.nav-justified > li > a {
+        border-radius: 0 0 0 0;
+    }
+    
+    .navbar-static-top,
+    .navbar-fixed-top,
+    .navbar-fixed-bottom,
+    .navbar {
+        border-radius: 0 0 0 0;
+    }
+}
+</pre>
+<p><strong>Update am 09.04.2015:</strong> Die Elemente <code>.list-group-item:first-child</code> und <code>.list-group-item:last-child</code> wurden hinzugefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mit Orange Files Dateien teilen</title>
+		<link>/mit-orange-files-dateien-teilen/</link>
+					<comments>/mit-orange-files-dateien-teilen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2013 18:09:19 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[client]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Dienst]]></category>
+		<category><![CDATA[file viewer]]></category>
+		<category><![CDATA[LGK Orange]]></category>
+		<category><![CDATA[Orange Files]]></category>
+		<category><![CDATA[Service]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=902</guid>
+
+					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, /wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen.</p>
+<p>Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort.</p>
+<p>Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen.</p>
+<p>Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch. Orange Files dient dann als Viewer. Damit aber nicht jeder Zugriff zu deinen Dateien bekommt, kannst du den Client durch Keys schützen.</p>
+<p>Weitere Infos und den Link zum Download findest du hier:<br />
+<a href="http://lgk.bplaced.net/orange-files/" target="_blank">orange-files.tk</a></p>
+<p>Es ist mir wichtig hervorzuheben, dass Orange Files nicht dazu dient, seine Dateien zu sichern.<br />
+Die Methode der Keys dient nur wenig Schutz.</p>
+<p>Orange Files ist lediglich dazu da, seine Dateien aufzulisten um es für Andere übersichtlicher zu halten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Version von orange css</title>
+		<link>/neue-version-von-orange-css/</link>
+					<comments>/neue-version-von-orange-css/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2013 13:19:01 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Neuerungen]]></category>
+		<category><![CDATA[Stylesheet]]></category>
+		<category><![CDATA[Update]]></category>
+		<category><![CDATA[Version]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=828</guid>
+
+					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, /wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure></p>
+<p>Der CSS-Standard orange css wurde nun aktualisiert.</p>
+<p>Es gibt zwei neue Definitionen und zwei weitere Verbesserungen.</p>
+<p>Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden.<br />
+Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box.</p>
+<p>Außerdem wurden die Tags <code>&lt;code&gt;</code> und <code>&lt;li&gt;</code> neu gestylt.</p>
+<div class="clear-both"></div>
+<p>Wer orange css per Einbindung nutzt, braucht nichts zu ändern. Wer den Stylesheet runtergeladen hat, sollte sich die neueste Version von der Website runterladen: <a href="http://orange-css.tk/" target="_blank">orange-css.tk</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-version-von-orange-css/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>orange css im Einsatz!</title>
+		<link>/orange-css-im-einsatz/</link>
+					<comments>/orange-css-im-einsatz/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 Jul 2013 11:40:43 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[Impressum]]></category>
+		<category><![CDATA[Kontakt]]></category>
+		<category><![CDATA[orange css]]></category>
+		<category><![CDATA[Stylesheet]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=820</guid>
+
+					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, /wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, /wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure></p>
+<p>Das hauseigene CSS-Framework <a href="http://orange-css.tk/" target="_blank">orange css</a> wird jetzt für das Kontaktformular und dem Impressum verwendet: <a href="/about" target="_blank">lgkonline.de/about</a></p>
+<p>orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version.</p>
+<p>Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit.</p>
+<p>Hier geht&#8217;s zur Seite: <a href="http://orange-css.tk/" target="_blank">orange-css.tk</a><br />
+Eine Dokumentation gibt es auch.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/orange-css-im-einsatz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Die Zukunft der Web-Programmierung: Adobe Edge Code</title>
+		<link>/die-zukunft-der-web-programmierung-adobe-edge-code/</link>
+					<comments>/die-zukunft-der-web-programmierung-adobe-edge-code/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 28 May 2013 20:21:38 +0000</pubDate>
+				<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[Animate]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Edge]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Programmieren]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=721</guid>
+
+					<description><![CDATA[Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung. Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten. Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste. Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche&#8230; <a class="more-link" href="/die-zukunft-der-web-programmierung-adobe-edge-code/">Continue reading <span class="screen-reader-text">Die Zukunft der Web-Programmierung: Adobe Edge Code</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_725" aria-describedby="caption-attachment-725" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01-300x177.jpg" alt="&quot;Quick Edit&quot; kann sehr nützlich sein." width="300" height="177" class="size-medium wp-image-725" srcset="/wp-content/uploads/2013/05/edge-code-01-300x177.jpg 300w, /wp-content/uploads/2013/05/edge-code-01.jpg 1021w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-725" class="wp-caption-text">&#8220;Quick Edit&#8221; kann sehr nützlich sein.</figcaption></figure>Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung.</p>
+<p>Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten.</p>
+<p>Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste.</p>
+<p>Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche Features.</p>
+<p>Mit Live Preview zum Beispiel, braucht man lediglich <strong>Strg + Alt + P</strong> drücken, und die Seite, an der man gerade arbeitet, wird direkt im Browser angezeigt.</p>
+<p>Mit <strong>Strg + E</strong> lässt sich ein markiertes HTML-Element direkt stylen, ohne dass man extra zur CSS-Datei wechseln muss.</p>
+<div class="float-none"></div>
+<p>Momentan gibt es Edge Code nur als Preview und gratis zum Downloaden. Hoffentlich bleibt auch die finale Version kostenlos. Das Programm hat eine aufgeräumte Oberfläche und macht die Web-Entwicklung einfach smarter.</p>
+<p>Edge Code und weitere interessante Teile der Adobe Edge-Familie findest du hier: <a href="http://html.adobe.com/edge/" target="_blank">http://html.adobe.com/edge/</a></p>
+<p><figure id="attachment_728" aria-describedby="caption-attachment-728" style="width: 300px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02-300x162.jpg" alt="Edge Animate. Meinen Artikel dazu auf MMdia.de." width="300" height="162" class="size-medium wp-image-728" srcset="/wp-content/uploads/2013/05/edge-code-02-300x162.jpg 300w, /wp-content/uploads/2013/05/edge-code-02-1024x553.jpg 1024w, /wp-content/uploads/2013/05/edge-code-02.jpg 1347w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-728" class="wp-caption-text">Edge Animate. Meinen Artikel dazu auf <a href="http://www.mmdia.de/2013/01/25/so-werden-html5-animationen-und-spiele-erstellt/" target="_blank">MMdia.de</a>.</figcaption></figure></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/die-zukunft-der-web-programmierung-adobe-edge-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

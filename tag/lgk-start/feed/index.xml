@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LGK Start &#8211; LGK Blog</title>
+	<atom:link href="/tag/lgk-start/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 28 Jul 2014 17:59:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>LGK Start &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Personalisierung von Startmon nimmt Form an</title>
+		<link>/personalisierung-von-startmon-nimmt-form-an/</link>
+					<comments>/personalisierung-von-startmon-nimmt-form-an/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2014 17:59:55 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Änderungs-Modus]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Personalisierung]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1132</guid>
+
+					<description><![CDATA[Mit dem Änderungs-Modus können Nutzer ihre Startseite den eigenen Wünschen anpassen. Und zwar so, dass die Änderungen sofort sichtbar werden. Alle Elemente, die sich anpassen lassen, sind blau umrandet. Momentan sind das nur die personalisierten Links-Listen. Später sollen u.a. auch noch die Suchmaschinen-Masken hinzu kommen. Unter start.lgkonline.com kann bereits eine Preview von Startmon getestet werden.&#8230; <a class="more-link" href="/personalisierung-von-startmon-nimmt-form-an/">Continue reading <span class="screen-reader-text">Personalisierung von Startmon nimmt Form an</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Mit dem Änderungs-Modus können Nutzer ihre Startseite den eigenen Wünschen anpassen. Und zwar so, dass die Änderungen sofort sichtbar werden.</p>
+<p>Alle Elemente, die sich anpassen lassen, sind blau umrandet.<br />
+Momentan sind das nur die personalisierten Links-Listen.</p>
+<p>Später sollen u.a. auch noch die Suchmaschinen-Masken hinzu kommen.</p>
+
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_1.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Änderungs-Modus" loading="lazy" style="width:100%;height:81.19%;max-width:808px;" /></a>
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_2.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Erstellen einer eigenen Liste" loading="lazy" style="width:100%;height:69.79%;max-width:940px;" /></a>
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_3.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Links erstellen" loading="lazy" style="width:100%;height:42.12%;max-width:952px;" /></a>
+
+<p>Unter <a href="http://start.lgkonline.com/" target="_blank">start.lgkonline.com</a> kann bereits eine Preview von Startmon getestet werden. Wenn dir einfällt, was man besser machen könnte, nutze gerne den Feedback-Button oder kommentiere hier im Blog.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/personalisierung-von-startmon-nimmt-form-an/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon: Öffentliche Preview jetzt online</title>
+		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[startseite]]></category>
+		<category><![CDATA[Suchmaschine]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
+
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+<p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
+<p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
+<p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
+<div class="clearfix"></div>
+<p><span id="more-1119"></span></p>
+<h2>Auch für mobile Endgeräte</h2>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
+<p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
+<p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
+<h2>Feedback gefragt</h2>
+<p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kleines Update für LGK Start</title>
+		<link>/kleines-update-fuer-lgk-start/</link>
+					<comments>/kleines-update-fuer-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2013 13:03:03 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Autocomplete]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Scrollbar]]></category>
+		<category><![CDATA[Suchvorschläge]]></category>
+		<category><![CDATA[Update]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=913</guid>
+
+					<description><![CDATA[Nach langer Zeit gibt es nun zwei Änderungen an LGK Start: Der Algorithmus zum Erzeugen der Autofill-Daten Um zu vermeiden, dass Tippfehler als Daten für die Autofill-Funktion genutzt werden, muss nach einem Begriff mindestens zwei Mal gesucht worden sein. Also suche ich z.B. nach &#8220;Goggle&#8221;, wird der Begriff erst gespeichert, wenn danach noch jemand nach&#8230; <a class="more-link" href="/kleines-update-fuer-lgk-start/">Continue reading <span class="screen-reader-text">Kleines Update für LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Nach langer Zeit gibt es nun zwei Änderungen an LGK Start:</p>
+<h2>Der Algorithmus zum Erzeugen der Autofill-Daten</h2>
+<p>Um zu vermeiden, dass Tippfehler als Daten für die Autofill-Funktion genutzt werden, muss nach einem Begriff mindestens zwei Mal gesucht worden sein.</p>
+<p>Also suche ich z.B. nach &#8220;Goggle&#8221;, wird der Begriff erst gespeichert, wenn danach noch jemand nach &#8220;Goggle&#8221; sucht.</p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/10/lgkstart-10-4-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/10/lgkstart-10-4-1-300x119.jpg" alt="LGK Start 10.4.1" width="300" height="119" class="alignright size-medium wp-image-914" srcset="/wp-content/uploads/2013/10/lgkstart-10-4-1-300x119.jpg 300w, /wp-content/uploads/2013/10/lgkstart-10-4-1.jpg 831w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Scrollbar für die Autofill-Liste</h2>
+<p>Da die Liste für Suchvorschläge schnell mal ziemlich lang werden kann, würde sie so die gesamte Seite verschieben.</p>
+<p>Deshalb wurde der Liste nun eine Scroll-Leiste verpasst.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/kleines-update-fuer-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Ansicht des &#8220;Über LGK Start&#8221;-Menüs</title>
+		<link>/neue-ansicht-des-uber-lgk-start-menus/</link>
+					<comments>/neue-ansicht-des-uber-lgk-start-menus/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 Jul 2013 10:35:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Menü]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=815</guid>
+
+					<description><![CDATA[Ein Nachteil des &#8220;Über LGK Start&#8221;-Menüs war, dass es den Inhalt überdeckt, wenn das Browser-Fenster zu klein war. Dieses Problem wurde nun gelöst: Ist das Fenster kleiner als 1300 Pixel, verwandelt sich das Menü in eine kompakte Ansicht bestehend aus Symbolen. Auf nach LGK Start &#187;]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg" alt="" width="300" height="162" class="alignleft size-medium wp-image-816" srcset="/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg 300w, /wp-content/uploads/2013/07/lgkstart_10-2.jpg 722w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Ein Nachteil des &#8220;Über LGK Start&#8221;-Menüs war, dass es den Inhalt überdeckt, wenn das Browser-Fenster zu klein war.</p>
+<p>Dieses Problem wurde nun gelöst: Ist das Fenster kleiner als 1300 Pixel, verwandelt sich das Menü in eine kompakte Ansicht bestehend aus Symbolen.</p>
+<p><a href="http://lgkonline.de/start" target="_blank">Auf nach LGK Start &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-ansicht-des-uber-lgk-start-menus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LGK Start 10.1 Final ist fertig</title>
+		<link>/lgk-start-10-1-final-ist-fertig/</link>
+					<comments>/lgk-start-10-1-final-ist-fertig/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 29 Jun 2013 15:40:29 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Final]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Version]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=795</guid>
+
+					<description><![CDATA[Ich habe LGK Start 10.1 jetzt zur finalen Version erklärt. Besucht mal lgkonline.de/start, um das Ergebnis zu sehen. Außerdem habe ich dieses kleine Filmchen erstellt:]]></description>
+										<content:encoded><![CDATA[<p>Ich habe LGK Start 10.1 jetzt zur finalen Version erklärt. Besucht mal <a href="/start" target="_blank">lgkonline.de/start</a>, um das Ergebnis zu sehen.</p>
+<p>Außerdem habe ich dieses kleine Filmchen erstellt:</p>
+<p><iframe loading="lazy" class="box" src="http://lgkonline.de/files/start_new/Presentation.html" width="883px" height="450px" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-10-1-final-ist-fertig/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LGK Start 10.0 jetzt testen!</title>
+		<link>/lgk-start-10-0-jetzt-testen/</link>
+					<comments>/lgk-start-10-0-jetzt-testen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2013 17:59:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[testen]]></category>
+		<category><![CDATA[Version 10]]></category>
+		<category><![CDATA[Vorschau]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=740</guid>
+
+					<description><![CDATA[Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link: lgkonline.de/start_new Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren. Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das&#8230; <a class="more-link" href="/lgk-start-10-0-jetzt-testen/">Continue reading <span class="screen-reader-text">LGK Start 10.0 jetzt testen!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_741" aria-describedby="caption-attachment-741" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg" alt="Die neue &quot;Über LGK Start&quot;-Ansicht" width="300" height="154" class="size-medium wp-image-741" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02-1024x525.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg 1599w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-741" class="wp-caption-text">Die neue &#8220;Über LGK Start&#8221;-Ansicht</figcaption></figure>
+<p>Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link:<br />
+<a href="/start_new">lgkonline.de/start_new</a></p>
+<p>Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren.</p>
+<p>Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das Menü-Design stammt aus der LGK-Leiste, welche sich immer ganz oben mittig befindet, auch hier im Blog.</p>
+<div class="float-none"></div>
+<p>Das besondere an der &#8220;Über LGK Start&#8221;-Ansicht ist außerdem das jQuery-Plugin Page Scroller LITE (<a href="http://www.pagescroller.com/" target="_blank">Zur Plugin-Website</a>).</p>
+<p>Öffnet man die Ansicht, steht ganz oben die Überschrift &#8220;LGK Start Touch&#8221;. Klickt man links im Menü beispielsweise auf &#8220;Über LGK Start&#8221;, wird smooth nach unten gescrollt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-10-0-jetzt-testen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vorschau auf LGK Start Version 10</title>
+		<link>/vorschau-auf-lgk-start-version-10/</link>
+					<comments>/vorschau-auf-lgk-start-version-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 08 Jun 2013 19:11:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Foto]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=732</guid>
+
+					<description><![CDATA[Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen. Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt. Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen. Es&#8230; <a class="more-link" href="/vorschau-auf-lgk-start-version-10/">Continue reading <span class="screen-reader-text">Vorschau auf LGK Start Version 10</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_733" aria-describedby="caption-attachment-733" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg" alt="So in etwa wird LGK Start bald ausschauen" width="300" height="146" class="size-medium wp-image-733" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01-1024x501.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg 1630w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-733" class="wp-caption-text">So in etwa wird LGK Start bald ausschauen</figcaption></figure>
+<p>Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen.</p>
+<p>Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt.</p>
+<p>Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen.</p>
+<p>Es gibt noch weitere optische Änderungen. Die Tabs für die Suchmaschinen wurden etwas breiter, so wirken die Icons nicht mehr so gequetscht.<br />
+Was auf dem Bild links nicht zu sehen ist: Die aktuelle Suchmaschine wird nun statt statischer Farbe, durch Animation zwischen zwei Farben hervorgehoben.</p>
+<p>Außerdem gibt es einen neuen Menüpunkt in der Links-Liste: Entwickler-Tools. Darin findet man Links zu Seiten, wie loremipsum.de oder Codecadamy.</p>
+<p>Wenn die Seite fertig ist, findet ihr sie unter: <a href="http://lgkonline.de/start">lgkonline.de/start</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vorschau-auf-lgk-start-version-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Es gibt einen neuen Werbebanner für LGK Start</title>
+		<link>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/</link>
+					<comments>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2013 18:35:59 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Bannertausch]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Partner]]></category>
+		<category><![CDATA[Werbebanner]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=713</guid>
+
+					<description><![CDATA[Ich habe mithilfe von Adobe Edge Animate einen Werbebanner für LGK Start erstellt. Das heißt, die Animation basiert auf HTML5. Das hat einige Vorteile gegenüber Flash-Bannern. Wenn du LGK Start unterstützen willst, kannst du den Banner gerne auf deine Seite einbinden. Hier ist der Code dafür: Lass auch gerne einen Kommentar mit einen Banner von&#8230; <a class="more-link" href="/es-gibt-einen-neuen-werbebanner-fur-lgk-start/">Continue reading <span class="screen-reader-text">Es gibt einen neuen Werbebanner für LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="http://lgkonline.de/files/start-werbebanner/lgkstart.html" width="728px" height="90px" frameborder="0" scrolling="no"></iframe></p>
+<p>Ich habe mithilfe von Adobe Edge Animate einen Werbebanner für LGK Start erstellt. Das heißt, die Animation basiert auf HTML5.<br />
+Das hat einige Vorteile gegenüber Flash-Bannern.</p>
+<p>Wenn du LGK Start unterstützen willst, kannst du den Banner gerne auf deine Seite einbinden.</p>
+<p>Hier ist der Code dafür:</p>
+<pre class="prettyprint lang-html">
+<iframe src="http://lgkonline.de/files/start-werbebanner/lgkstart.html" 
+width="728px" height="90px" frameborder="0" scrolling="no"></iframe>
+</pre>
+<p>Lass auch gerne einen Kommentar mit einen Banner von dir da, dann kann ich diesen ebenfalls auf diese Seite einbinden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LGK mys startet in die zweite Runde</title>
+		<link>/lgk-mys-startet-in-die-zweite-runde/</link>
+					<comments>/lgk-mys-startet-in-die-zweite-runde/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 18:07:33 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[Personalisierung]]></category>
+		<category><![CDATA[Projekt]]></category>
+		<category><![CDATA[startseite]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=702</guid>
+
+					<description><![CDATA[Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;. Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen. Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen. Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar&#8230; <a class="more-link" href="/lgk-mys-startet-in-die-zweite-runde/">Continue reading <span class="screen-reader-text">LGK mys startet in die zweite Runde</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_703" aria-describedby="caption-attachment-703" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg" alt="mys ermöglicht dem Nutzer, LGK Start selbst anzupassen." width="300" height="153" class="size-medium wp-image-703" srcset="/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot01-1024x523.jpg 1024w, /wp-content/uploads/2013/04/mys2-screenshot01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-703" class="wp-caption-text">mys ermöglicht dem Nutzer, LGK Start selbst anzupassen.</figcaption></figure>
+<p>Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;.</p>
+<p>Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen.</p>
+<p>Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen.</p>
+<div style="clear: both;"></div>
+<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg" alt="" width="300" height="147" class="alignleft size-medium wp-image-709" srcset="/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot02.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar ändern.</p>
+<p>Ist der Nutzer eingeloggt, wird dessen Avatar im LGK-Menü angezeigt. Ist man nicht eingeloggt, ist anstatt des Avatars das mys-Logo mit Link zur Infoseite zu sehen.</p>
+<p>Fährt man mit den Cursor über das mys-Logo, erscheint außerdem ein Dropdown-Menü mit Links zur Einlogg- und Registrieren-Seite.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-mys-startet-in-die-zweite-runde/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LGK Start erreicht Version 9.0</title>
+		<link>/lgk-start-erreicht-version-9-0/</link>
+					<comments>/lgk-start-erreicht-version-9-0/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 14:36:09 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Handy]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Touch]]></category>
+		<category><![CDATA[Version 9.0]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=685</guid>
+
+					<description><![CDATA[Ich habe die Version von LGK Start jetzt auf 9.0 hochgestuft. Neuerungen gibt es eigentlich nicht, es wurde lediglich das Design an das des neuen LGK-Menüs angepasst. Fährt man nun mit der Maus über einen Punkt der LGK Start-Menüs, startet eine Animation als Hintergrund. Auch die Blockboxes wurden optisch aufgepeppt. Das sind die Fenster, die&#8230; <a class="more-link" href="/lgk-start-erreicht-version-9-0/">Continue reading <span class="screen-reader-text">LGK Start erreicht Version 9.0</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_691" aria-describedby="caption-attachment-691" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/lgkstart_9-0_small1.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/lgkstart_9-0_small1-300x129.jpg" alt="Die wesentlichen Veränderungen." width="300" height="129" class="size-medium wp-image-691" srcset="/wp-content/uploads/2013/04/lgkstart_9-0_small1-300x129.jpg 300w, /wp-content/uploads/2013/04/lgkstart_9-0_small1.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-691" class="wp-caption-text">Die wesentlichen Veränderungen.</figcaption></figure>
+<p>Ich habe die Version von LGK Start jetzt auf 9.0 hochgestuft.</p>
+<p>Neuerungen gibt es eigentlich nicht, es wurde lediglich das Design an das des neuen LGK-Menüs angepasst.</p>
+<p>Fährt man nun mit der Maus über einen Punkt der LGK Start-Menüs, startet eine Animation als Hintergrund.</p>
+<p>Auch die Blockboxes wurden optisch aufgepeppt. Das sind die Fenster, die erscheinen, wenn man im Optionen-Menü ein Link klickt.</p>
+<div style="clear:both;"></div>
+<figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 267px" class="wp-caption alignright"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="267" height="570" class="size-full wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone.png 267w, /wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w" sizes="(max-width: 267px) 100vw, 267px" /><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure>
+<p>Optisch hat sich auch etwas an der mobilen Version von LGK Start getan.</p>
+<p>Das Design ist jetzt mehr an das der Standard-Version angelegt.</p>
+<p>Außerdem passt sich die Größe des Eingabefeldes und der Buttons dem Bildschirm an.</p>
+<p>Wenn LGK Start auf einem mobilen Gerät aufgerufen wird, wechselt die Seite sofort zur mobilen Version.</p>
+<p>Alternativ kann auch direkt <a href="http://lgkonline.de/start/touch" target="_blank">lgkonline.de/start/touch</a> aufgerufen werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-erreicht-version-9-0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

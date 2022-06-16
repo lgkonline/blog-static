@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web &#8211; LGK Blog</title>
+	<atom:link href="/tag/web/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Web &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I hacked Piskel and added a new feature for me</title>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2442</guid>
+
+					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
+										<content:encoded><![CDATA[
+<p>I recently started using <a rel="noreferrer noopener" href="https://www.piskelapp.com/" target="_blank">Piskel</a> more often, which is a cool web app to create cute pixel graphics and animations. It&#8217;s pretty nice to use, but there was a thing I was bothering me. The color picker tool only works in scope of the app. But I wanted to transfer colors from my Affinity project to the Piskel browser app.</p>
+
+
+
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How I made Piskel to use the native input color control" width="750" height="563" src="https://www.youtube.com/embed/_plfYNt8gJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>My goal was to be able to do this</figcaption></figure>
+
+
+
+<p>For each color had to pick the color inside of Affinity Designer, copy the hex code, open the color dialog on Piskel, paste the code and press enter. If you want to transfer a lot of colors, this can get a little bit annoying. </p>
+
+
+
+<p>The good thing: Piskel is an Open Source web project. That means with a little effort I could solve this problem for me. Because I know, there is a native color control which has a picker which works across the whole screen (atleast in Chromium browsers): <code>&lt;input type="color"&gt;</code> </p>
+
+
+
+<iframe loading="lazy" width="100%" height="300" src="//jsfiddle.net/s76gmfua/6/embedded/result,html/" allowfullscreen="allowfullscreen" allowpaymentrequest="" frameborder="0"></iframe>
+
+
+
+<p>Great. Now I needed to bring this to the Piskel application and make it overwrite the current color. I tried to find some kind of a state in the JavaScript code I could use. Because Piskel&#8217;s <a rel="noreferrer noopener" href="https://github.com/piskelapp/piskel" target="_blank">source code is on GitHub</a>, I could just clone the project to my machine and search through the code. Because I know from the User Interface that the main color is called &#8220;primary color&#8221; I was searching for &#8220;primary&#8221;. And voila, I found an event called <code>"SELECT_PRIMARY_COLOR"</code>. Sounds like exactly what I need. Now I needed to know how to trigger this event. So I was searching for where <code>"SELECT_PRIMARY_COLOR"</code> is used in the code and this is what I found:</p>
+
+
+
+<p><code>$.publish(Events.SELECT_PRIMARY_COLOR, [color])</code></p>
+
+
+
+<p>Nice, looks like I could just use something like <code>$.publish("SELECT_PRIMARY_COLOR", "#ff00ff")</code>. I tested it in the browser console and it worked! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I now also used the console to put the color input element to the HTML document and passed an event listener when the input is changed:</p>
+
+
+
+<pre class="wp-block-code"><code>const colorInput = 
+  document.createElement("input")
+
+colorInput.id = "lgkColorInput"
+colorInput.className = "tool-icon"
+colorInput.title = "Native color picker"
+colorInput.type = "color"
+
+// The tools container of Piskel's UI
+document.getElementById("tools-container")
+  .append(colorInput)
+
+document.getElementById("lgkColorInput")
+  .addEventListener(
+    "input", 
+    ({currentTarget}) =&gt; {
+      $.publish("SELECT_PRIMARY_COLOR", 
+      currentTarget.value)
+    }
+  )</code></pre>
+
+
+
+<p>It looks great, like it was always part of the UI. I found the <code>"tool-icon"</code> class name, because all other tool buttons use it too.</p>
+
+
+
+<p>Awesome, but everything I run on the browser console is just temporary, so I needed a way to always execute it when I&#8217;m on Piskel. The good thing; there is a browser extension for this: <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">Custom</a> <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">JavaScript for Websites 2</a><br>I installed it, pasted my code in and it works!</p>
+
+
+
+<p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How I created a card game with Svelte</title>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[svelte]]></category>
+		<category><![CDATA[trend]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
+
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
+
+
+
+<p>You can see it on the sub-domain, I later called my project “Skip it!” and it is a card game you can play anywhere. On your phone, on your computer and on your tablet. If you know the card game “Skip-Bo”, you could probably guess, how you can play my game. I chose to create a clone of Skip-Bo because I sometimes play it with my family and also enjoyed playing the iPad app a while ago. Through the iPad app I found out how addicting and fun the game can be and the game-play might be simple enough to create it with my skills in web technologies.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+
+
+
+<p>The developer experience using SvelteKit and Svelte was awesome! For years I primarily use React for my projects. I actually felt a little nostalgic, because I wrote actual HTML again, instead of JSX (no more&nbsp;<code>className</code>) and handling states is way more straightforward. I also use Svelte’s feature for scoped stylesheets. In previous projects I normally use SCSS and create global stylesheets. In Skip it! I switched to component-scoped architecture. Benefit is, you automatically just keep CSS, you will actually use, because the code-editor will underline unused CSS rules.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+
+
+
+<p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reblog: Dark mode in 5 minutes, with inverted lightness variables</title>
+		<link>/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 15:51:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Link]]></category>
+		<category><![CDATA[Reblog]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[dark mode]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2408</guid>
+
+					<description><![CDATA[Direct link ➔ To have a dark mode is a more and more common thing. But it can be pretty tricky. Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way: Dark mode in 5 minutes, with inverted lightness variables – Lea Verou&#8230; <a class="more-link" href="/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/">Continue reading <span class="screen-reader-text">Reblog: Dark mode in 5 minutes, with inverted lightness variables</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-red-background-color has-background"><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Direct link ➔</a></p>
+
+
+
+<p>To have a dark mode is a more and more common thing. But it can be pretty tricky.</p>
+
+
+
+<p>Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way:</p>
+
+
+
+<p><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Dark mode in 5 minutes, with inverted lightness variables – Lea Verou</a></p>
+
+
+
+<p>I already followed that guide for my latest web project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Try to avoid loops in JavaScript for better performance</title>
+		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/?p=1961</guid>
+
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
+<p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
+<p>Here is a simple example:</p>
+<pre class="prettyprint lang-js">
+const exampleDataArray = [
+	{
+		id: 8462943,
+		name: "Google",
+		url: "http://google.com/"
+	},
+	{
+		id: 9847323,
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	{
+		id: 938442934,
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+];
+
+function getDataById(id) {
+	for (let i = 0; i < exampleDataArray.length; i++) {
+		if (exampleDataArray[i].id === id) {
+			return exampleDataArray[i];
+		}
+	}
+}
+</pre>
+<p>So in this example when I want to get an item by its ID or any other property I have to go through each other item first. Depending on how many items you have and how often you need to get one item, it can take lot of time.</p>
+<p>If you use an object instead of an array it could look like this:</p>
+<pre class="prettyprint lang-js">
+const exampleDataObject = {
+	8462943: {
+		name: "Google",
+		url: "http://google.com/"
+	},
+	9847323: {
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	938442934: {
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+};
+
+function getDataById(id) {
+	return exampleDataObject[id];
+}
+</pre>
+<p>This way we can directly point to the item we want and don't have to use a loop.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</title>
+		<link>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
+					<comments>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2015 16:51:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Miniphpy]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Komprimierung]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1782</guid>
+
+					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="/wp-content/uploads/2015/10/logo.png 1174w, /wp-content/uploads/2015/10/logo-300x90.png 300w, /wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+<p>In den Artikeln <a href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
+<p>Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit nutze ich für das Kompilieren von LESS-Dateien die Anwendung <a href="http://koala-app.com/" title="undefined" target="">Koala</a>.</p>
+<p>Nur für das Kombinieren von JavaScript-Dateien habe ich bisher noch keine Lösung gefunden. Und deswegen habe ich mir einfach selbst eine gemacht: <strong>Miniphpy</strong></p>
+<p><a href="/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, /wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, /wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Durch das Web-Interface kannst du deine Dateien zu Bündel kombinieren. Um auf Dateien zu verweisen, kannst du entweder einen lokalen Pfad oder eine URI zu einer Datei angeben.</p>
+<p>Die Dateien werden dann, abhängig von der Reihenfolge, zusammgefügt und anschließend komprimiert.</p>
+<p>Hierbei kannst du wählen, ob die Komprimierung lokal (erfolgt mithilfe von Bibliotheken, die in Miniphpy enthalten sind) oder remote (dabei werden APIs der Komprimierungs-Dienste <a href="http://javascript-minifier.com/" title="undefined" target="_blank">http://javascript-minifier.com/</a> und <a href="http://cssminifier.com/" title="undefined" target="_blank">http://cssminifier.com/</a> verwendet) passieren soll.</p>
+<p>Da Miniphpy eine PHP-Anwendung ist, musst du Apache (z.B. durch <a href="https://www.apachefriends.org/de/index.html" title="undefined" target="_blank">XAMPP</a>) auf deinem PC am Laufen haben. </p>
+<div class="btn-group">
+	<a href="https://github.com/lgkonline/Miniphpy/releases/download/v1.0/Miniphpy.v1.0.zip" class="btn btn-primary btn-lg">Download Miniphpy Version 1.0 (ZIP)</a> <a href="http://go.lgk.io/miniphpy" target="_blank" class="btn btn-default btn-lg">Zu GitHub</a>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
+		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Bechleunigung]]></category>
+		<category><![CDATA[Compiler]]></category>
+		<category><![CDATA[Compress]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1630</guid>
+
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
+<p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
+<p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
+<pre>
+npm install uglify-js -g
+</pre>
+<p>Navigiere anschließend mit <code>cd</code> zu deinem Projekt-Ordner.</p>
+<p>In meinem Beispiel sieht mein Projekt-Ordner so aus:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Führe nun diesen Befehl aus:</p>
+<pre>
+uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
+</pre>
+<p>Zuerst kommt der Befehl <code>uglifyjs</code>, anschließend die zu kombinierenden Dateien (durch Leerzeichen getrennt). Das <code>-o</code> steht für &#8220;Output&#8221; und kennzeichnet die Ausgabe-Datei. In diesem Fall <code>js/script.min.js</code>.</p>
+<p>Wichtig bei der Eingabe ist auch die Reihenfolge der Dateien.</p>
+<div class="clearfix"></div>
+<p>Anschließend müsste unser Ordner so aussehen:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+<li><strong>script.min.js</strong></li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Und aus:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/search.js"></script>
+</pre>
+<p>wird:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="script.min.js"></script>
+</pre>
+<div class="clearfix"></div>
+<h3>Erweiterungen für Entwicklungsumgebungen?</h3>
+<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
+<p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
+<p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
+<hr>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[colorganize]]></category>
+		<category><![CDATA[Organizer]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[widget]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
+
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
+<p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
+Es ist keine extra Registrierung nötig.</p>
+<p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
+<p>Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.).</p>
+<p><a href="http://colorganize.com/" class="btn btn-primary" target="_blank" title="Wird im neuen Tab geöffnet">Teste es gleich aus: colorganize.com</a><br />
+<span id="more-1375"></span></p>
+<div class="clearfix"></div>
+<hr>
+<h3>Der Farb-Picker ist zurück!</h3>
+<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
+<p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
+Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
+<h3>Ideen für die Zukunft</h3>
+<p>Neben der Möglichkeit, sich mit verschiedenen Diensten einzuloggen, wünsche ich mir, dass Farbpaletten geteilt werden können.<br />
+Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weitergeben können. Die Empfänger müssen nicht bei Colorganize eingeloggt sein.</p>
+<p>Ebenfalls wäre es nett, wenn Nutzer ihre Paletten auf eigenen Projekt-Seiten einbetten könnten. </p>
+<p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Die Zukunft der Web-Programmierung: Adobe Edge Code</title>
+		<link>/die-zukunft-der-web-programmierung-adobe-edge-code/</link>
+					<comments>/die-zukunft-der-web-programmierung-adobe-edge-code/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 28 May 2013 20:21:38 +0000</pubDate>
+				<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[Animate]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Edge]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Programmieren]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=721</guid>
+
+					<description><![CDATA[Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung. Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten. Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste. Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche&#8230; <a class="more-link" href="/die-zukunft-der-web-programmierung-adobe-edge-code/">Continue reading <span class="screen-reader-text">Die Zukunft der Web-Programmierung: Adobe Edge Code</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_725" aria-describedby="caption-attachment-725" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01-300x177.jpg" alt="&quot;Quick Edit&quot; kann sehr nützlich sein." width="300" height="177" class="size-medium wp-image-725" srcset="/wp-content/uploads/2013/05/edge-code-01-300x177.jpg 300w, /wp-content/uploads/2013/05/edge-code-01.jpg 1021w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-725" class="wp-caption-text">&#8220;Quick Edit&#8221; kann sehr nützlich sein.</figcaption></figure>Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung.</p>
+<p>Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten.</p>
+<p>Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste.</p>
+<p>Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche Features.</p>
+<p>Mit Live Preview zum Beispiel, braucht man lediglich <strong>Strg + Alt + P</strong> drücken, und die Seite, an der man gerade arbeitet, wird direkt im Browser angezeigt.</p>
+<p>Mit <strong>Strg + E</strong> lässt sich ein markiertes HTML-Element direkt stylen, ohne dass man extra zur CSS-Datei wechseln muss.</p>
+<div class="float-none"></div>
+<p>Momentan gibt es Edge Code nur als Preview und gratis zum Downloaden. Hoffentlich bleibt auch die finale Version kostenlos. Das Programm hat eine aufgeräumte Oberfläche und macht die Web-Entwicklung einfach smarter.</p>
+<p>Edge Code und weitere interessante Teile der Adobe Edge-Familie findest du hier: <a href="http://html.adobe.com/edge/" target="_blank">http://html.adobe.com/edge/</a></p>
+<p><figure id="attachment_728" aria-describedby="caption-attachment-728" style="width: 300px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02-300x162.jpg" alt="Edge Animate. Meinen Artikel dazu auf MMdia.de." width="300" height="162" class="size-medium wp-image-728" srcset="/wp-content/uploads/2013/05/edge-code-02-300x162.jpg 300w, /wp-content/uploads/2013/05/edge-code-02-1024x553.jpg 1024w, /wp-content/uploads/2013/05/edge-code-02.jpg 1347w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-728" class="wp-caption-text">Edge Animate. Meinen Artikel dazu auf <a href="http://www.mmdia.de/2013/01/25/so-werden-html5-animationen-und-spiele-erstellt/" target="_blank">MMdia.de</a>.</figcaption></figure></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/die-zukunft-der-web-programmierung-adobe-edge-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
+		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Funktion]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
+
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<p><figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure></p>
+<p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
+Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
+<p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
+Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut machen.</p>
+<p>Das ist zwar kein Weltuntergang, aber ich als Betreiber von LGK Start, wollte den Nutzern diese &#8220;Qual&#8221; ersparen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="float-reg"></div>
+<p><span id="more-481"></span></p>
+<h2>Wie funktioniert das Ganze nun?</h2>
+<p>Ganz einfach:</p>
+<ol>
+<li>Du machst eine ganz normale Sucheingabe.</li>
+<li>Aktiviere den Haken ganz links in der Eingabeleiste.</li>
+<li>Fertig.<br />Deine Eingabe bleibt erhalten. Jetzt kannst du einfach in einen anderen Suchdienst, wie z.B. Wikipedia wechseln.</li>
+</ol>
+<h2>Angepasstes Design</h2>
+<p>Memory ist auch einer der Gründe, warum ich das Design noch weiter verändert habe.<br />Denn die Suchleiste wurde allmählich zu eng und auch die Suchdienst-Buttons wirkten etwas gequetscht.</p>
+<p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
+<p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
+<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<p><figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

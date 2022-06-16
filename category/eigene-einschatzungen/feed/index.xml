@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eigene Einschätzungen &#8211; LGK Blog</title>
+	<atom:link href="/category/eigene-einschatzungen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:38:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Eigene Einschätzungen &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The code behind the new SP-Studio</title>
+		<link>/the-code-behind-the-new-sp-studio/</link>
+					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<category><![CDATA[south park]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2146</guid>
+
+					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+
+
+
+<p>For some months I&#8217;m working on a cool project. It&#8217;s a web app where users can design their own characters in a South Park style. It&#8217;s the new modern version of the <a href="https://sp-studio.de/" target="_blank" rel="noreferrer noopener">SP-Studio</a>.</p>
+
+
+
+<span id="more-2146"></span>
+
+
+
+<p>The older version is already about 19 years old(!) and was running with Adobe Flash. Modern browsers stopped recommending using Flash already since many years, but technically still supported it. But at the end of 2020, Flash will be entirely shut down (R.I.P. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f622.png" alt="😢" class="wp-smiley" style="height: 1em; max-height: 1em;" />).</p>
+
+
+
+<p>Honestly it&#8217;s been some years since I visited sp-studio.de the last time, but when I was younger, I was a big fan of it. That&#8217;s why it&#8217;s a big honor for me, to bring this cool project to a new life by developing this new modern version.</p>
+
+
+
+<p>Not only doesn&#8217;t this new version depend on Flash anymore, it&#8217;s designed mobile-first and works on multiple platforms: smartphones, tables, laptops and desktops. It&#8217;s also a <a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" data-type="URL" data-id="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App</a> (PWA for short). This means, you can visit it normally with your browser, but are also able to install it on your device, so it will act like an app.</p>
+
+
+
+<p>To find out all other things that changed since the older version, <a rel="noreferrer noopener" href="https://www.sp-studio.de/the-new-sp-studio/" target="_blank">please check out this post</a>. On this post, I want to write about the code and the technology behind this new version.</p>
+
+
+
+<h2>Why React?</h2>
+
+
+
+<p>I would say I&#8217;m already very experienced by using the <a rel="noreferrer noopener" href="https://reactjs.org/" target="_blank">React</a> library because I already use it for a while for different projects. Compared to them, SP-Studio is actually pretty simple and straightforward to code. For the project I don&#8217;t even need any other big libraries like <a rel="noreferrer noopener" href="https://reactrouter.com/" data-type="URL" data-id="https://reactrouter.com/" target="_blank">React Router</a>, since we don&#8217;t need different pages. I also don&#8217;t use complex state mangers like <a rel="noreferrer noopener" href="https://redux.js.org/" data-type="URL" data-id="https://redux.js.org/" target="_blank">Redux</a>, I just work with props and states to let the different components talk to each other.</p>
+
+
+
+<p>The project folder is generated with <a rel="noreferrer noopener" href="https://create-react-app.dev/" data-type="URL" data-id="https://create-react-app.dev/" target="_blank">create-react-app</a> (or &#8220;CRA&#8221; for short) and the TypeScript template. TypeScript forces me to work less chaotically, that&#8217;s why I love it. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2>Working with the SVG assets</h2>
+
+
+
+<p>The most important task the app has to do, is to read the different assets the user should be able to add to its character. All assets are prepared by Janina as SVG files. And that&#8217;s another benefit from React, because it natively supports components in SVG format and can also manipulate its attributes with code.</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+
+
+
+<p>This is how the SVG file of the default body asset looks like:</p>
+
+
+
+<style type="text/css">
+.wp-block-code {max-height: 500px;}
+</style>
+
+
+
+<pre class="wp-block-code"><code>&lt;svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="385px" height="385px" viewBox="0 0 385 385"&gt;
+&lt;defs&gt;
+&lt;filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB"&gt;
+&lt;feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0" result="result1"/&gt;
+&lt;/filter&gt;
+
+&lt;g id="col1n_0_Layer0_0_FILL"&gt;
+&lt;path fill="#8FAFCD" stroke="none" d="
+M 191.6 95.8
+Q 191.6 56.1 163.55 28.05 147.35 11.85 127.25 5 112.55 0 95.8 0 79.05 0 64.35 5 44.25 11.85 28.05 28.05 0 56.1 0 95.8 0 128.15 18.6 152.8
+L 19.75 154.25
+Q 20.2 154.8 20.65 155.35
+L 21.55 156.45
+Q 24.55 160.05 28 163.5
+L 28.05 163.55
+Q 28.4 163.9 28.75 164.25 32.25 167.65 35.9 170.65 35.8 170.75 35.8 170.85
+L 35.75 170.85
+Q 29.4 179.35 24.6 189.8 17.15 205.9 13.45 226.55 13.4 226.75 13.4 226.95 13.25 229.4 13.55 231.8 15.7 245.9 31 249.35 31.2 249.4 31.45 249.45
+L 31.5 249.4
+Q 31.65 249.45 31.75 249.45 31.95 250.05 32.15 250.6 32.55 251.55 33.25 252.35 33.25 252.4 33.3 252.45
+L 33.3 271.9
+Q 29.4 272.6 25.5 274.4 24.15 275 22.8 275.75
+L 168.8 275.75
+Q 167.45 275 166.1 274.4 162.2 272.6 158.3 271.9
+L 158.3 252.45
+Q 158.35 252.4 158.35 252.35 159.05 251.55 159.45 250.6 159.65 250.05 159.85 249.45 159.95 249.45 160.1 249.4
+L 160.15 249.45
+Q 160.4 249.4 160.6 249.35 175.9 245.9 178.05 231.8 178.35 229.4 178.2 226.95 178.2 226.75 178.15 226.55 174.45 205.9 167 189.8 162.2 179.35 155.85 170.85
+L 155.8 170.85
+Q 155.8 170.75 155.7 170.65 159.35 167.65 162.85 164.25 163.2 163.9 163.55 163.55 163.6 163.55 163.6 163.5
+L 170.85 155.45
+Q 171.35 154.85 171.85 154.25 172.45 153.45 173.05 152.7
+L 173.1 152.65
+Q 191.6 128.05 191.6 95.8 Z"/&gt;
+&lt;/g&gt;
+
+&lt;g id="hll_0_Layer0_0_FILL"&gt;
+&lt;path fill="#6486A6" stroke="none" d="
+M -36.05 227.75
+Q -36.15 227.75 -36.25 227.75
+L -40.15 227.9
+Q -40.8 227.95 -41.45 228 -49.95 228.6 -54.6 229.65 -59.3 230.65 -59.95 230.95 -60.1 231 -60.2 231.05 -52.2 229.75 -44.1 229.25 -43.8 229.2 -43.45 229.2 -42.45 229.15 -41.45 229.1 -41.25 229.05 -41.1 229.05 -40.95 229.05 -40.8 229.05 -25.4 228.4 -10.75 231.05
+L -6.6 231.75
+Q -5.45 231.95 -4.3 232.2 -2.55 232.55 -0.85 232.95 -0.7 233 -0.55 233.05 -0.45 233.05 -0.35 233.1 -0.2 233.1 -0.05 233.15 -0.45 233 -0.85 232.9 -2.55 232.3 -4.3 231.85 -4.85 231.7 -5.35 231.55 -5.5 231.5 -5.6 231.5 -16.4 228.5 -27.6 227.9 -28 227.85 -28.4 227.85 -28.95 227.8 -29.55 227.8
+L -36.05 227.75
+M -32.65 175.55
+Q -29.6 176.75 -26.4 175.55 -24.8 173.9 -26.05 171.95 -26.15 171.8 -26.2 171.7 -29.25 170.7 -33.1 171.7 -33.6 172.4 -33.7 173.1 -33.9 174.2 -32.9 175.35 -32.8 175.45 -32.65 175.55
+M 3.2 203.7
+Q 1.95 202.55 0.95 203.7 0.9 203.95 0.95 204.25 1.2 205.85 1.1 207.5
+L 1.2 207.55
+Q 1.9 207.85 2.25 207.2 2.3 207.1 2.35 207 2.5 206.55 2.65 206.15 2.9 205.35 3.05 204.6 3.1 204.45 3.1 204.3 3.15 204 3.2 203.7
+M 58.6 229.65
+Q 53.95 228.6 45.45 228 44.8 227.95 44.15 227.9
+L 40.25 227.75
+Q 40.15 227.75 40.05 227.75
+L 33.55 227.8
+Q 32.95 227.8 32.4 227.85 32 227.85 31.6 227.9 20.4 228.5 9.6 231.5 9.5 231.5 9.35 231.55 8.85 231.7 8.3 231.85 6.55 232.3 4.85 232.9 4.45 233 4.05 233.15 4.2 233.1 4.35 233.1 4.45 233.05 4.55 233.05 4.7 233 4.85 232.95 6.55 232.55 8.3 232.2 9.45 231.95 10.6 231.75
+L 14.75 231.05
+Q 29.4 228.4 44.8 229.05 44.95 229.05 45.1 229.05 45.25 229.05 45.45 229.1 46.45 229.15 47.45 229.2 47.8 229.2 48.1 229.25 56.2 229.75 64.2 231.05 64.1 231 63.95 230.95 63.3 230.65 58.6 229.65
+M 29.55 173.1
+Q 29.35 174.2 30.35 175.35 30.45 175.45 30.6 175.55 33.65 176.75 36.85 175.55 38.45 173.9 37.2 171.95 37.1 171.8 37.05 171.7 34 170.7 30.15 171.7 29.65 172.4 29.55 173.1 Z"/&gt;
+&lt;/g&gt;
+
+&lt;g id="hdd_0_Layer0_0_FILL"&gt;
+&lt;path fill="#49657E" stroke="none" d="
+M -54 165.45
+Q -54.05 165.5 -54.05 165.55
+L -58.35 187.4
+Q -58.8 189.5 -59.2 191.45 -59.25 191.75 -59.3 192.05 -59.5 192.85 -59.65 193.65 -61.15 201 -61.95 205.8 -62.7 210.2 -61.5 205.2 -61.1 202.7 -60.05 198.95 -59.95 198.35 -59.8 197.7 -59.1 194.55 -58.5 192.05 -57.85 189 -57.35 186.95
+L -57.3 186.95 -57.35 186.9 -57.35 186.85
+Q -57.15 185.95 -57 185.3 -56.8 184.35 -56.6 183.75
+L -56.6 183.7
+Q -56.6 183.55 -56.55 183.45 -56.4 182.7 -56.35 182.6
+L -53.1 165.8 -53.05 165.75
+Q -53.05 165.5 -53.15 165.35 -53.25 165.15 -53.45 165.15 -53.65 165.1 -53.75 165.15 -53.8 165.15 -53.8 165.2 -53.85 165.2 -53.9 165.25 -53.95 165.3 -54 165.45
+M 27.8 218.55
+Q 33.6279296875 217.7416015625 39.1 216.6 38.95 216.6 38.8 216.65 37.85 216.7 36.9 216.8 36.15 216.85 35.4 216.95 22.3 218.15 9.1 218.4 4.6 218.5 0.1 218.5 -16.9 218.4 -34 216.7 -34.65 216.6 -35.2 216.55 -29.3919921875 217.7255859375 -23.35 218.55 -12.069921875 220.075390625 0.1 220.4 0.25 220.4 0.45 220.4 0.55 220.4 0.65 220.4
+L 0.65 220.5 2.05 232.7 2.05 232.3 2.1 232.7 3.5 220.5 3.5 220.4 3.55 220.4
+Q 3.7 220.4 3.9 220.45 6.5 220.35 9.1 220.25 18.86171875 219.7953125 27.8 218.55
+M 57.9 165.35
+L 57.85 165.3
+Q 57.7 165.25 57.5 165.3 57.3 165.3 57.2 165.5 57.1 165.65 57.15 165.9
+L 60.4 182.75
+Q 60.5 182.95 61.45 187.05
+L 61.45 187.1
+Q 61.9 189.1 62.55 192.05 63.1 194.45 63.75 197.45 63.8 197.65 63.85 197.85 64.1 199.05 64.35 200.1 65.35 203.45 65.7 205.85 66.75 210.15 66 205.95 65.1 200.65 63.35 192.05 62.95 189.9 62.45 187.55
+L 58.1 165.7
+Q 58.1 165.65 58.1 165.6 58 165.4 57.9 165.35
+M 60.15 131.25
+Q 58.8 132.3 57.35 133.35
+L 55.8 134.5
+Q 35.45 148.6 10 150.5
+L 8.9 150.55
+Q 5.55 150.75 2.1 150.75
+L 1.9 150.75
+Q -1.55 150.75 -4.9 150.55
+L -6 150.5
+Q -31.45 148.6 -51.8 134.5
+L -53.35 133.35
+Q -54.8 132.3 -56.15 131.25
+L -57.3 130.35
+Q -47.2814453125 139.16015625 -35.85 144.45 -17.9216796875 152.2900390625 1.9 152.3
+L 2.1 152.3
+Q 21.92265625 152.2900390625 39.85 144.45 51.3 139.15 61.3 130.4
+L 60.15 131.25 Z"/&gt;
+&lt;/g&gt;
+&lt;/defs&gt;
+
+&lt;g id="col1n" transform="matrix( 1, 0, 0, 1, 96.65,58) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use xlink:href="#col1n_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+
+&lt;g id="col1d" transform="matrix( 1.000518798828125, 0, 0, 1, 190.5,98.75) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use xlink:href="#hll_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+
+&lt;g id="col1s" transform="matrix( 1.000518798828125, 0, 0, 1, 190.5,98.75) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use filter="url(#Filter_1)" xlink:href="#hdd_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;</code></pre>
+
+
+
+<p>Unfortunately I can&#8217;t directly use it like this for the application. It has to be formatted in a JSX format, also it needs to be a real React Component with props, so the values like colors can be changed from outside. That&#8217;s why wrote a script, which converts it to this:</p>
+
+
+
+<pre class="wp-block-code"><code>import React from "react"
+import { AssetSvgProps } from "../../../shared/assets"
+
+export const defaultColors = {
+    "col1d": "#6486A6",
+    "col1n": "#8FAFCD",
+    "col1s": "#49657E"
+}
+
+function SkiSki001({ colors = defaultColors, onClick, outerTransform, transform }: AssetSvgProps) {
+    return (
+        &lt;g transform={outerTransform}&gt;&lt;g onClick={onClick} transform={transform}&gt;&lt;defs&gt;
+                &lt;path
+                    fill={colors.col1n}
+                    d="M191.6 95.8q0-39.7-28.05-67.75-16.2-16.2-36.3-23.05-14.7-5-31.45-5T64.35 5q-20.1 6.85-36.3 23.05Q0 56.1 0 95.8q0 32.35 18.6 57l1.15 1.45.9 1.1.9 1.1q3 3.6 6.45 7.05l.05.05.7.7q3.5 3.4 7.15 6.4-.1.1-.1.2h-.05q-6.35 8.5-11.15 18.95-7.45 16.1-11.15 36.75-.05.2-.05.4-.15 2.45.15 4.85Q15.7 245.9 31 249.35q.2.05.45.1l.05-.05q.15.05.25.05.2.6.4 1.15.4.95 1.1 1.75 0 .05.05.1v19.45q-3.9.7-7.8 2.5-1.35.6-2.7 1.35h146q-1.35-.75-2.7-1.35-3.9-1.8-7.8-2.5v-19.45q.05-.05.05-.1.7-.8 1.1-1.75.2-.55.4-1.15.1 0 .25-.05l.05.05q.25-.05.45-.1 15.3-3.45 17.45-17.55.3-2.4.15-4.85 0-.2-.05-.4-3.7-20.65-11.15-36.75-4.8-10.45-11.15-18.95h-.05q0-.1-.1-.2 3.65-3 7.15-6.4l.7-.7q.05 0 .05-.05l7.25-8.05 1-1.2q.6-.8 1.2-1.55l.05-.05q18.5-24.6 18.5-56.85z"
+                    id="SkiSki001__col1n_0_Layer0_0_FILL"
+                /&gt;
+                &lt;path
+                    fill={colors.col1d}
+                    d="M-36.05 227.75h-.2l-3.9.15-1.3.1q-8.5.6-13.15 1.65-4.7 1-5.35 1.3-.15.05-.25.1 8-1.3 16.1-1.8.3-.05.65-.05l2-.1q.2-.05.35-.05h.3q15.4-.65 30.05 2l4.15.7q1.15.2 2.3.45 1.75.35 3.45.75l.3.1q.1 0 .2.05.15 0 .3.05-.4-.15-.8-.25-1.7-.6-3.45-1.05-.55-.15-1.05-.3-.15-.05-.25-.05-10.8-3-22-3.6-.4-.05-.8-.05-.55-.05-1.15-.05l-6.5-.05m3.4-52.2q3.05 1.2 6.25 0 1.6-1.65.35-3.6-.1-.15-.15-.25-3.05-1-6.9 0-.5.7-.6 1.4-.2 1.1.8 2.25.1.1.25.2M3.2 203.7q-1.25-1.15-2.25 0-.05.25 0 .55.25 1.6.15 3.25l.1.05q.7.3 1.05-.35l.1-.2q.15-.45.3-.85.25-.8.4-1.55.05-.15.05-.3l.1-.6m55.4 25.95q-4.65-1.05-13.15-1.65l-1.3-.1-3.9-.15h-.2l-6.5.05q-.6 0-1.15.05-.4 0-.8.05-11.2.6-22 3.6-.1 0-.25.05-.5.15-1.05.3-1.75.45-3.45 1.05-.4.1-.8.25.15-.05.3-.05.1-.05.2-.05l.3-.1q1.7-.4 3.45-.75 1.15-.25 2.3-.45l4.15-.7q14.65-2.65 30.05-2h.3q.15 0 .35.05l2 .1q.35 0 .65.05 8.1.5 16.1 1.8-.1-.05-.25-.1-.65-.3-5.35-1.3M29.55 173.1q-.2 1.1.8 2.25.1.1.25.2 3.05 1.2 6.25 0 1.6-1.65.35-3.6-.1-.15-.15-.25-3.05-1-6.9 0-.5.7-.6 1.4z"
+                    id="SkiSki001__hll_0_Layer0_0_FILL"
+                /&gt;
+                &lt;path
+                    fill={colors.col1s}
+                    d="M-54 165.45q-.05.05-.05.1l-4.3 21.85q-.45 2.1-.85 4.05l-.1.6q-.2.8-.35 1.6-1.5 7.35-2.3 12.15-.75 4.4.45-.6.4-2.5 1.45-6.25.1-.6.25-1.25.7-3.15 1.3-5.65.65-3.05 1.15-5.1h.05l-.05-.05v-.05q.2-.9.35-1.55.2-.95.4-1.55v-.05q0-.15.05-.25.15-.75.2-.85l3.25-16.8.05-.05q0-.25-.1-.4-.1-.2-.3-.2-.2-.05-.3 0-.05 0-.05.05-.05 0-.1.05t-.1.2m81.8 53.1q5.828-.808 11.3-1.95-.15 0-.3.05-.95.05-1.9.15-.75.05-1.5.15-13.1 1.2-26.3 1.45-4.5.1-9 .1-17-.1-34.1-1.8-.65-.1-1.2-.15 5.808 1.176 11.85 2 11.28 1.525 23.45 1.85h.55v.1l1.4 12.2v-.4l.05.4 1.4-12.2v-.1h.05q.15 0 .35.05l5.2-.2q9.762-.455 18.7-1.7m30.1-53.2l-.05-.05q-.15-.05-.35 0-.2 0-.3.2-.1.15-.05.4l3.25 16.85q.1.2 1.05 4.3v.05q.45 2 1.1 4.95.55 2.4 1.2 5.4l.1.4q.25 1.2.5 2.25 1 3.35 1.35 5.75 1.05 4.3.3.1-.9-5.3-2.65-13.9-.4-2.15-.9-4.5L58.1 165.7v-.1q-.1-.2-.2-.25m2.25-34.1q-1.35 1.05-2.8 2.1l-1.55 1.15q-20.35 14.1-45.8 16l-1.1.05q-3.35.2-6.8.2h-.2q-3.45 0-6.8-.2l-1.1-.05q-25.45-1.9-45.8-16l-1.55-1.15q-1.45-1.05-2.8-2.1l-1.15-.9q10.019 8.81 21.45 14.1 17.928 7.84 37.75 7.85h.2q19.823-.01 37.75-7.85 11.45-5.3 21.45-14.05l-1.15.85z"
+                    id="SkiSki001__hdd_0_Layer0_0_FILL"
+                /&gt;
+                &lt;filter
+                    id="SkiSki001__Filter_1"
+                    x="-20%"
+                    y="-20%"
+                    width="140%"
+                    height="140%"
+                    colorInterpolationFilters="sRGB"
+                &gt;
+                    &lt;feColorMatrix
+                        in="SourceGraphic"
+                        values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0"
+                        result="result1"
+                    /&gt;
+                &lt;/filter&gt;
+            &lt;/defs&gt;
+            &lt;use
+                href="#SkiSki001__col1n_0_Layer0_0_FILL"
+                transform="translate(96.65 58)"
+                id="SkiSki001__col1n"
+            /&gt;
+            &lt;use
+                href="#SkiSki001__hll_0_Layer0_0_FILL"
+                transform="matrix(1.00052 0 0 1 190.5 98.75)"
+                id="SkiSki001__col1d"
+            /&gt;
+            &lt;use
+                filter="url(#SkiSki001__Filter_1)"
+                href="#SkiSki001__hdd_0_Layer0_0_FILL"
+                transform="matrix(1.00052 0 0 1 190.5 98.75)"
+                id="SkiSki001__col1s"
+            /&gt;
+        &lt;/g&gt;&lt;/g&gt;
+    )
+}
+
+export default SkiSki001</code></pre>
+
+
+
+<p>But the script does do more than just to convert the asset to a React-friendly format. Actually this part is realized with the library <a rel="noreferrer noopener" href="https://www.npmjs.com/package/@svgr/core" data-type="URL" data-id="https://www.npmjs.com/package/@svgr/core" target="_blank">@svgr/core</a>.<br>My script extracts the primary color tones from the vector graphic and sets them as the default color options. These colors can be overwritten later by the user. The script does also do some more things to make it easier to work with the components from outside.</p>
+
+
+
+<h2>Workflow with GitHub and Vercel</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+
+
+
+<p>I host and manage all my code repositories on GitHub, so I also do this one. GitHub is awesome for collaborating, and it&#8217;s easy for Janina to upload new assets. Even though the productive version wouldn&#8217;t be hosted there, we also use <a rel="noreferrer noopener" href="https://vercel.com/" data-type="URL" data-id="https://vercel.com/" target="_blank">Vercel</a> to deploy and host states of the site for testing and debugging. Vercel works seamlessly together with GitHub and automatically deploys when I push new changes, so I can easily show them to Janina or to test them on different devices.</p>
+
+
+
+<h2>That&#8217;s it</h2>
+
+
+
+<p>for this article. If you would like to know more details about certain things or have any questions, let me know in the comments. </p>
+
+
+
+<p>The final version of the app will be launched tomorrow as I write this, so check it out when it&#8217;s published: <a rel="noreferrer noopener" href="https://sp-studio.de/" target="_blank">https://sp-studio.de/</a></p>
+
+
+
+<p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple M1: Potential für die gesamte PC-Sparte?</title>
+		<link>/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
+					<comments>/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 11:34:08 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[apple silicon]]></category>
+		<category><![CDATA[arm]]></category>
+		<category><![CDATA[big sur]]></category>
+		<category><![CDATA[macos]]></category>
+		<guid isPermaLink="false">/?p=2128</guid>
+
+					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.apple.com/apple-events/november-2020/" target="_blank" rel="noopener noreferrer">Im November</a> hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt.</p>
+<p><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
+<p>Aber auch für Microsoft bietet das meiner Ansicht nach die Chance, Windows ARM endlich attraktiver zu machen. Tatsächlich war Microsoft in dem Bereich schon viel weiter, <a href="https://de.wikipedia.org/wiki/Microsoft_Windows_RT" target="_blank" rel="noopener noreferrer">Windows RT</a> wurde bereits 2012 veröffentlicht. Möglicherweise seiner Zeit voraus, konnte es sich aber nicht gut behaupten. Es gab nur wenig gute Apps, die dafür entwickelt wurden und es war auch nicht möglich, x86-Apps zu emulieren, so wie es mit Apple M1 und macOS Big Sur möglich ist (Stichwort Rosetta 2).</p>
+<p>Microsoft war leider noch nie erfolgreich darin, Entwickler zu überzeugen, Software für ihre Plattform anzupassen. Windows Phone und Windows Mobile hatten ein ähnliches Problem. Das ist leider auch ein Teufelskreis. Entwickler werden Apps eher für Betriebssysteme schreiben, die auch von der Mehrheit genutzt wird (iOS/Android). Apple ist darin deutlich besser. Bereits in der kurzen Zeit, seitdem macOS mit Apple Silicon angekündigt hat, haben bereits viele Entwickler begonnen, ihre Software anzupassen und auf ARM-Architektur zu optimieren. Und deswegen glaube ich, dass bald auch Windows-ARM-Geräte wieder interessanter werden können. Denn wenn Software wie Photoshop einmal für Apple M1 umgeschrieben wurde, könnte es auch einfacher sein, diesen Code auch für andere ARM-CPUs zu kompilieren.</p>
+<p>Glaubt ihr, dass wir schon bald mehr ARM-PCs mit Windows sehen werden?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
+		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[Icon]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[unicode]]></category>
+		<guid isPermaLink="false">/?p=1925</guid>
+
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="wp-caption alignleft">
+<div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
+</div>
+<p>Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen.</p>
+<p>Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind Symbole ein wichtiger Bestandteil. Ein &#9776; öffnet ein Menü, ein 	&#128270; führt eine Suche aus und mit einem &#9829; favorisiere ich etwas.</p>
+<p>Oh, hast du gesehen, wie ich Icons sogar hier im Artikel verwendet habe? Und das ging ganz einfach. Und damit kommen wir zum eigentlichen Thema dieses Artikels. &#12320;</p>
+<p>Ich benutzte dafür keine Icon-Library wie <a href="http://fontawesome.io/" target="_blank">FontAwesome</a>. Für das &#12320; zum Beispiel habe ich nur folgendes als HTML geschrieben: <code>&amp;#12320;</code><br />
+Damit habe ich einfach nur den Unicode für dieses Symbol benutzt. Denn eine Menge Icons haben &#8212; genauso wie Buchstaben und Ziffern &#8212; einen eigenen Unicode.<br />
+Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwendete Schriftart dieses auch enthält. </p>
+<h2>Finde Icons mit Graphemica</h2>
+<p>Graphemica sucht Icons im Unicode basierend auf Stichwörter.</p>
+<p><a class="btn btn-primary" href="http://graphemica.com/" target="_blank">http://graphemica.com/</a></p>
+<p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Das &#8220;Thin Design&#8221;-Phänomen</title>
+		<link>/das-thin-design-phaenomen/</link>
+					<comments>/das-thin-design-phaenomen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 08 May 2016 12:00:09 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Thin Design]]></category>
+		<guid isPermaLink="false">/?p=1889</guid>
+
+					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie.<br />
+Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard.</p>
+<p>Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren. </p>
+<p>&#8220;Thin Design&#8221; scheint ein Teil davon zu sein. Und es beschränkt sich nicht nur auf die Typografie. Wer in letzter Zeit die Design-Entwicklungen von Microsoft (Windows 10) und Apple (OS X, iOS) verfolgt hat, wird feststellen, dass auch Symbole vom Schlankheitswahn betroffen sind.</p>
+<p>Hier mal ein Beispiel, das ich auf der Apple-Website gefunden habe:<br />
+<a href="/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0223.jpg 998w, /wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, /wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<h2>Wo kann ich &#8220;Thin Design&#8221; einsetzen &#8211; wo nicht?</h2>
+<p>Als UX-Elemente halte ich &#8220;Thin Design&#8221; für eine angebrachte Sache. Sowohl für Typografie, Symbole, aber auch für andere Controls, wie Buttons, Eingabefelder, Trennlinien.<br />
+Linien sollten aber möglichst vektorbasiert erzeugt werden und nicht beispielsweise als Bitmap, um eine Skalierbarkeit zu ermöglichen. Es besteht nämlich die Gefahr, dass die Linien dadurch verschwinden könnten. Bei Webdesign könnten Thin-Elemente beispielsweise per CSS (Border) oder SVG erzeugt werden.</p>
+<p>Unangebracht halte ich Thin Design allerdings beim Logo-Design. Ein Logo muss universell einsetzbar sein und eine starke und selbstbewusste Darstellung haben. Besteht eine Bildmarke nur aus dünnen Linien, kann es schnell untergehen, wenn nicht sogar verschwinden. In Fließtexten bieten sich &#8220;leichte&#8221; Schriftarten auch nicht an, weil dadurch die Lesbarkeit beeinträchtigt werden kann.</p>
+<p>Beim Redesign der Nachrichten-Feeds auf Startmon.com habe ich mich auch mal am &#8220;Thin Design&#8221; orientiert.<br />
+Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="undefined" target="_blank">https://startmon.com/</a> gehst und dann bei &#8220;Nachrichten-Feeds&#8221; unten links auf den Maximieren-Button klickst.</p>
+<p><a href="/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, /wp-content/uploads/2016/05/scr-0224-300x197.png 300w, /wp-content/uploads/2016/05/scr-0224-768x505.png 768w, /wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/das-thin-design-phaenomen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Melde dich nie mehr bei einer Web App an.</title>
+		<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+					<comments>/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2015 15:58:40 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Authentication]]></category>
+		<category><![CDATA[Authorization]]></category>
+		<category><![CDATA[Einstellungen]]></category>
+		<category><![CDATA[Login]]></category>
+		<category><![CDATA[Modell]]></category>
+		<category><![CDATA[Rumspinnerei]]></category>
+		<guid isPermaLink="false">/?p=1705</guid>
+
+					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="/wp-content/uploads/2015/09/no-pwd.png 400w, /wp-content/uploads/2015/09/no-pwd-150x150.png 150w, /wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss.</p>
+<p>Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft vom Anbieter vollgespamt zu werden.</p>
+<p>Glücklicherweise bieten es mittlerweile auch viele Dienste an, sich mit Google+, Facebook oder Twitter anzumelden. Doch wie wäre es, wenn du dich gar nicht anmelden bräuchtest?</p>
+<p>Häufig ist eine Anmeldung an einem Service nur notwendig, damit deine vorgenommenen Einstellungen erhalten bleiben. Nehmen wir als Beispiel <a href="https://color.adobe.com/de/create/color-wheel/" target="_blank">Adobe Color CC</a>.<br />
+Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speichern. Um den Dienst zu nutzen, ist keine Anmeldung notwendig. Du kannst ihn auch ohne verwenden. Nur kannst du die Farben dann eben nicht speichern.</p>
+<p>Um die Farben zu speichern, musst du ein Adobe-Konto besitzen und dich anmelden. Doch wie wäre es, wenn du die Farben in anderer Form speichern könntest? Als Cookie in deinem Browser! Und wenn du die Einstellungen in einem anderen Browser nutzen willst, exportier einfach den Cookie und füg ihn im anderen Browser wieder ein.</p>
+<h2>Speicher deine Einstellungen einfach ab.</h2>
+<p>Die <a href="https://icomoon.io/app" target="_blank">IcoMoon App</a> verfolgt bereits diesen Ansatz. Mit diesem Dienst kannst du aus SVG-Dateien WebFont-Icons machen und diese in Sammlungen speichern. Es ist keine Anmeldung erforderlich. Die Einstellungen bleiben im Browser gespeichert. Du kannst die Einstellungen in Form einer <code>config.json</code>-Datei exportieren und in einem anderen Browser wieder importieren.</p>
+<p>Also, ich finde dieses Konzept genial. Natürlich eignet es sich nicht für alle Anwendungen. Denn wenn die Einstellungen als Cookies gespeichert werden, sind sie leicht für andere einsehbar. Aber solange es sich nicht um sensible Daten handelt, halte ich es für völlig in Ordnung.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[colorganize]]></category>
+		<category><![CDATA[Organizer]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[widget]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
+
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
+<p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
+Es ist keine extra Registrierung nötig.</p>
+<p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
+<p>Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.).</p>
+<p><a href="http://colorganize.com/" class="btn btn-primary" target="_blank" title="Wird im neuen Tab geöffnet">Teste es gleich aus: colorganize.com</a><br />
+<span id="more-1375"></span></p>
+<div class="clearfix"></div>
+<hr>
+<h3>Der Farb-Picker ist zurück!</h3>
+<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
+<p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
+Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
+<h3>Ideen für die Zukunft</h3>
+<p>Neben der Möglichkeit, sich mit verschiedenen Diensten einzuloggen, wünsche ich mir, dass Farbpaletten geteilt werden können.<br />
+Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weitergeben können. Die Empfänger müssen nicht bei Colorganize eingeloggt sein.</p>
+<p>Ebenfalls wäre es nett, wenn Nutzer ihre Paletten auf eigenen Projekt-Seiten einbetten könnten. </p>
+<p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue 3DS-Geräte im Anmarsch</title>
+		<link>/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Ankündigung]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Konsole]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[New Nintendo 3DS]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
+
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure></p>
+<p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
+<p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
+<p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
+<p>Auffallende Neuigkeit ist auch ein zweiter Analog-Stick. Dieser fällt allerdings deutlich kleiner aus, als von manchen gehofft.</p>
+<p>Ebenso soll der 3D-Effekt deutlich verbessert werden. Bisher mussten 3DS-Besitzer direkt auf den Bildschirm gucken, um den Effekt wahrzunehmen. Ansonsten wurde das Bild schnell verschwommen.<br />
+Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.</p>
+<p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
+<p><span id="more-1189"></span></p>
+<hr>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Verbessertes 3D</h2>
+<p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
+Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Das C-Pad</h2>
+<p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Neue Schulter-Tasten</h2>
+<p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Gefärbte ABXY-Knöpfe</h2>
+<p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
+<p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Amiibo</h2>
+<p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
+<p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
+<p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Mehr Speed</h2>
+<p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
+<p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Personalisierbarer Home-Screen</h2>
+<p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
+<p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Hard-Cover für den New Nintendo 3DS</h2>
+<p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
+<p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<h2>Neue Positionen</h2>
+<p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
+<p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
+<p>Auf der Unterseite hat sich einiges getan. Der Einschub für 3DS- und DS-Karten befindet sich nun unten links. Wahrscheinlich war auf der Oberseite aufgrund der neuen Schulter-Tasten kein Platz mehr.<br />
+Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
+<p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
+<div class="clearfix"></div>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Zubehör und Nicht-Zubehör</h2>
+<p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
+Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
+<p>Außerdem sind mehrere Lade-Muscheln abgebildet. Das Gerät wird demnach hochkant angeschlossen.</p>
+<p>Im Übrigen werden nun statt SD- microSD-Karten verwendet. Eine 4 GB große wird aber mitgeliefert.</p>
+<div class="clearfix"></div>
+<h2>Preis und Veröffentlichung</h2>
+<p>Der Nintendo 3DS wird in Japan 16.000 Yen (umgerechnet ca. EUR 116,94) und der Nintendo 3DS LL 18.800 (umgerechnet ca. EUR 137,71) kosten.<br />
+Ich fürchte allerdings, dass es für uns einen deutlichen Aufschlag geben wird, da der aktuelle 3DS XL für rund 180 Euro zu haben ist. Trotzdem würde ich mich natürlich über einen niedrigeren Preis freuen.</p>
+<p>Eine Veröffentlichung für Amerika oder Europa wurde noch nicht angekündigt. Ein Verkaufsstart für 2014 wird deshalb ausgeschlossen.<br />
+Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
+<hr>
+<p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Der Google-Glocke wurde Leben eingehaucht</title>
+		<link>/der-google-glocke-wurde-leben-eingehaucht/</link>
+					<comments>/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 15:48:29 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Now Service Windows Android Taskbar Innovation]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1104</guid>
+
+					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure></p>
+<p>Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt.</p>
+<p>Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat.</p>
+<h2>Verschmelzung von Android und Chrome</h2>
+<p>Auf der letzten Google I/O (<a href="https://www.youtube.com/watch?v=9pmPa_KxsAM" target="_blank" title="Zum Video">Keynote ansehen &raquo;</a>) wurde verkündet, man wolle Android und Google Chrome näher verbinden.<br />
+So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter Android sollen Web-Apps mehr Beachtung finden, indem diese unter &#8220;geöffnete Apps&#8221; auftauchen sollen.</p>
+<p><figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure></p>
+<p>Die Benachrichtungs-Glocke ist wohl ebenfalls Teil dieses &#8220;Verschmelzungs-Prozesses&#8221;. Denn sie übernimmt eine Aufgabe, die Chrome vorher nicht hatte: Benachrichtigungen.</p>
+<p>Einige Apps können die Benachrichtigungen anscheint benutzen. YouTube ist leider bisher noch nicht dabei.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Autocomplete und Wallpaper einreichen</title>
+		<link>/autocomplete-und-wallpaper-einreichen/</link>
+					<comments>/autocomplete-und-wallpaper-einreichen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2013 14:40:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Autocomplete]]></category>
+		<category><![CDATA[Feedback]]></category>
+		<category><![CDATA[neue Funktion]]></category>
+		<category><![CDATA[Open Build]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=766</guid>
+
+					<description><![CDATA[Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5. Open Build öffnen. Autocomplete Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen. Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann. Diese ist zwar&#8230; <a class="more-link" href="/autocomplete-und-wallpaper-einreichen/">Continue reading <span class="screen-reader-text">Autocomplete und Wallpaper einreichen</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5.</p>
+<p><a href="http://lgkonline.de/start_new/" target="_blank">Open Build öffnen.</a></p>
+<h2>Autocomplete</h2>
+<p><figure id="attachment_767" aria-describedby="caption-attachment-767" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg" alt="Autocomplete in Aktion" width="300" height="149" class="size-medium wp-image-767" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-767" class="wp-caption-text">Autocomplete in Aktion</figcaption></figure></p>
+<p>Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen.<br />
+Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann.</p>
+<p>Diese ist zwar noch lange nicht so groß, wie die von Google, aber es ist zu mindest schon mal ein Anfang.</p>
+<p>Und mit der Zeit wird sich der Wortschatz füllen.</p>
+<div class="clear-both"></div>
+<h2>Eigene Wallpaper einreichen</h2>
+<p><figure id="attachment_775" aria-describedby="caption-attachment-775" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg" alt="Bereichere LGK Start mit eigenen Werken" width="300" height="149" class="size-medium wp-image-775" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-775" class="wp-caption-text">Bereichere LGK Start mit eigenen Werken</figcaption></figure></p>
+<p>Als Hintergrund sieht man bei LGK Start immer einen hübschen Wallpaper. Mal ist es ein Ozean, mal die Erde von oben oder eben was ganz anderes.</p>
+<p>Diese Bilder stehen alle unter Creative Commons-Lizenz, so dass ich sie verwenden darf.</p>
+<p>Nun bietet sich die Möglichkeit, eigene Wallpaper einzureichen.</p>
+<p>Dadurch kann man seine Werke verbreiten, etwas Werbung für sich machen und den Nutzern von LGK Start den Tag versüßen.</p>
+<p>Besuche <a href="http://lgkonline.de/start_new/" target="_blank">die Open Build</a> und fahre mit der Maus über das Menü-Icon, links oben und das Formular wird sichtbar.</p>
+<p>Das Bild kann direkt auf meinen Server geladen werden oder es wird woanders hochgeladen und der entsprechende Link wird ins Formular eingefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/autocomplete-und-wallpaper-einreichen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

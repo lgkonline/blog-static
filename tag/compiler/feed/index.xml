@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compiler &#8211; LGK Blog</title>
+	<atom:link href="/tag/compiler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 11 May 2015 11:25:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Compiler &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
+		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Bechleunigung]]></category>
+		<category><![CDATA[Compiler]]></category>
+		<category><![CDATA[Compress]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1630</guid>
+
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
+<p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
+<p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
+<pre>
+npm install uglify-js -g
+</pre>
+<p>Navigiere anschließend mit <code>cd</code> zu deinem Projekt-Ordner.</p>
+<p>In meinem Beispiel sieht mein Projekt-Ordner so aus:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Führe nun diesen Befehl aus:</p>
+<pre>
+uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
+</pre>
+<p>Zuerst kommt der Befehl <code>uglifyjs</code>, anschließend die zu kombinierenden Dateien (durch Leerzeichen getrennt). Das <code>-o</code> steht für &#8220;Output&#8221; und kennzeichnet die Ausgabe-Datei. In diesem Fall <code>js/script.min.js</code>.</p>
+<p>Wichtig bei der Eingabe ist auch die Reihenfolge der Dateien.</p>
+<div class="clearfix"></div>
+<p>Anschließend müsste unser Ordner so aussehen:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+<li><strong>script.min.js</strong></li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Und aus:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/search.js"></script>
+</pre>
+<p>wird:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="script.min.js"></script>
+</pre>
+<div class="clearfix"></div>
+<h3>Erweiterungen für Entwicklungsumgebungen?</h3>
+<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
+<p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
+<p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
+<hr>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

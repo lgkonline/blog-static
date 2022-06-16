@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>screenshot &#8211; LGK Blog</title>
+	<atom:link href="/tag/screenshot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Fri, 31 Aug 2012 13:39:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>screenshot &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vorschau auf das neue LGK Start</title>
+		<link>/vorschau-auf-das-neue-lgk-start/</link>
+					<comments>/vorschau-auf-das-neue-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 31 Aug 2012 13:39:44 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[screenshot]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=623</guid>
+
+					<description><![CDATA[Wie ich bereits berichtet habe, arbeite ich an einem Dienst, womit man seine Startseite selbst anpassen kann. Diesen Dienst könnt ihr auch bereits unter mys testen. Momentan wird dort aber noch das Design von LGK Start verwendet. Rechts seht ihr, wie mys vielleicht mal aussehen wird. Ich möchte in Zukunft noch mehr darauf achten, dass&#8230; <a class="more-link" href="/vorschau-auf-das-neue-lgk-start/">Continue reading <span class="screen-reader-text">Vorschau auf das neue LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg" alt="" title="So sieht mys vielleicht bald aus" width="300" height="152" class="alignright size-medium wp-image-624" srcset="/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg 300w, /wp-content/uploads/2012/08/lgkstart-preview.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Wie ich bereits <a href="?p=525">berichtet habe, arbeite ich an einem Dienst, womit man seine Startseite selbst anpassen kann.</a></p>
+<p>Diesen Dienst könnt ihr auch bereits unter <a href="/mys">mys testen.</a></p>
+<p>Momentan wird dort aber noch das Design von <a href="/start">LGK Start</a> verwendet. Rechts seht ihr, wie mys vielleicht mal aussehen wird.</p>
+<p>Ich möchte in Zukunft noch mehr darauf achten, dass die Seite schneller geladen wird.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vorschau-auf-das-neue-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

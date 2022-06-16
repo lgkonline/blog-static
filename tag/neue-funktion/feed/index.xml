@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neue Funktion &#8211; LGK Blog</title>
+	<atom:link href="/tag/neue-funktion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Wed, 26 Jun 2013 14:40:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>neue Funktion &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Autocomplete und Wallpaper einreichen</title>
+		<link>/autocomplete-und-wallpaper-einreichen/</link>
+					<comments>/autocomplete-und-wallpaper-einreichen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2013 14:40:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Autocomplete]]></category>
+		<category><![CDATA[Feedback]]></category>
+		<category><![CDATA[neue Funktion]]></category>
+		<category><![CDATA[Open Build]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=766</guid>
+
+					<description><![CDATA[Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5. Open Build öffnen. Autocomplete Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen. Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann. Diese ist zwar&#8230; <a class="more-link" href="/autocomplete-und-wallpaper-einreichen/">Continue reading <span class="screen-reader-text">Autocomplete und Wallpaper einreichen</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5.</p>
+<p><a href="http://lgkonline.de/start_new/" target="_blank">Open Build öffnen.</a></p>
+<h2>Autocomplete</h2>
+<figure id="attachment_767" aria-describedby="caption-attachment-767" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg" alt="Autocomplete in Aktion" width="300" height="149" class="size-medium wp-image-767" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-767" class="wp-caption-text">Autocomplete in Aktion</figcaption></figure>
+<p>Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen.<br />
+Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann.</p>
+<p>Diese ist zwar noch lange nicht so groß, wie die von Google, aber es ist zu mindest schon mal ein Anfang.</p>
+<p>Und mit der Zeit wird sich der Wortschatz füllen.</p>
+<div class="clear-both"></div>
+<h2>Eigene Wallpaper einreichen</h2>
+<figure id="attachment_775" aria-describedby="caption-attachment-775" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg" alt="Bereichere LGK Start mit eigenen Werken" width="300" height="149" class="size-medium wp-image-775" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-775" class="wp-caption-text">Bereichere LGK Start mit eigenen Werken</figcaption></figure>
+<p>Als Hintergrund sieht man bei LGK Start immer einen hübschen Wallpaper. Mal ist es ein Ozean, mal die Erde von oben oder eben was ganz anderes.</p>
+<p>Diese Bilder stehen alle unter Creative Commons-Lizenz, so dass ich sie verwenden darf.</p>
+<p>Nun bietet sich die Möglichkeit, eigene Wallpaper einzureichen.</p>
+<p>Dadurch kann man seine Werke verbreiten, etwas Werbung für sich machen und den Nutzern von LGK Start den Tag versüßen.</p>
+<p>Besuche <a href="http://lgkonline.de/start_new/" target="_blank">die Open Build</a> und fahre mit der Maus über das Menü-Icon, links oben und das Formular wird sichtbar.</p>
+<p>Das Bild kann direkt auf meinen Server geladen werden oder es wird woanders hochgeladen und der entsprechende Link wird ins Formular eingefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/autocomplete-und-wallpaper-einreichen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

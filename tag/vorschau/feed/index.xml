@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vorschau &#8211; LGK Blog</title>
+	<atom:link href="/tag/vorschau/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:59:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Vorschau &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LGK Start 10.0 jetzt testen!</title>
+		<link>/lgk-start-10-0-jetzt-testen/</link>
+					<comments>/lgk-start-10-0-jetzt-testen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2013 17:59:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[testen]]></category>
+		<category><![CDATA[Version 10]]></category>
+		<category><![CDATA[Vorschau]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=740</guid>
+
+					<description><![CDATA[Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link: lgkonline.de/start_new Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren. Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das&#8230; <a class="more-link" href="/lgk-start-10-0-jetzt-testen/">Continue reading <span class="screen-reader-text">LGK Start 10.0 jetzt testen!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_741" aria-describedby="caption-attachment-741" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg" alt="Die neue &quot;Über LGK Start&quot;-Ansicht" width="300" height="154" class="size-medium wp-image-741" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-02-300x154.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02-1024x525.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-02.jpg 1599w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-741" class="wp-caption-text">Die neue &#8220;Über LGK Start&#8221;-Ansicht</figcaption></figure>
+<p>Ihr könnt nun die nächste Version austesten. Benutzt dazu diesen Link:<br />
+<a href="/start_new">lgkonline.de/start_new</a></p>
+<p>Ich habe mir dabei vor allem die Macht von jQuery zu nutzen gemacht. Testet mal die neue &#8220;Über LGK Start&#8221;-Ansicht. Dazu müsst ihr lediglich den Cursor über das Symbol links oben fahren.</p>
+<p>Außerdem wollte ich das Design noch einheitlicher machen. Vor allem das Menü-Design stammt aus der LGK-Leiste, welche sich immer ganz oben mittig befindet, auch hier im Blog.</p>
+<div class="float-none"></div>
+<p>Das besondere an der &#8220;Über LGK Start&#8221;-Ansicht ist außerdem das jQuery-Plugin Page Scroller LITE (<a href="http://www.pagescroller.com/" target="_blank">Zur Plugin-Website</a>).</p>
+<p>Öffnet man die Ansicht, steht ganz oben die Überschrift &#8220;LGK Start Touch&#8221;. Klickt man links im Menü beispielsweise auf &#8220;Über LGK Start&#8221;, wird smooth nach unten gescrollt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-10-0-jetzt-testen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

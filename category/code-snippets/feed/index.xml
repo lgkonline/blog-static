@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Code Snippets &#8211; LGK Blog</title>
+	<atom:link href="/category/code-snippets/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Code Snippets &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I hacked Piskel and added a new feature for me</title>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2442</guid>
+
+					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
+										<content:encoded><![CDATA[
+<p>I recently started using <a rel="noreferrer noopener" href="https://www.piskelapp.com/" target="_blank">Piskel</a> more often, which is a cool web app to create cute pixel graphics and animations. It&#8217;s pretty nice to use, but there was a thing I was bothering me. The color picker tool only works in scope of the app. But I wanted to transfer colors from my Affinity project to the Piskel browser app.</p>
+
+
+
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How I made Piskel to use the native input color control" width="750" height="563" src="https://www.youtube.com/embed/_plfYNt8gJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>My goal was to be able to do this</figcaption></figure>
+
+
+
+<p>For each color had to pick the color inside of Affinity Designer, copy the hex code, open the color dialog on Piskel, paste the code and press enter. If you want to transfer a lot of colors, this can get a little bit annoying. </p>
+
+
+
+<p>The good thing: Piskel is an Open Source web project. That means with a little effort I could solve this problem for me. Because I know, there is a native color control which has a picker which works across the whole screen (atleast in Chromium browsers): <code>&lt;input type="color"&gt;</code> </p>
+
+
+
+<iframe loading="lazy" width="100%" height="300" src="//jsfiddle.net/s76gmfua/6/embedded/result,html/" allowfullscreen="allowfullscreen" allowpaymentrequest="" frameborder="0"></iframe>
+
+
+
+<p>Great. Now I needed to bring this to the Piskel application and make it overwrite the current color. I tried to find some kind of a state in the JavaScript code I could use. Because Piskel&#8217;s <a rel="noreferrer noopener" href="https://github.com/piskelapp/piskel" target="_blank">source code is on GitHub</a>, I could just clone the project to my machine and search through the code. Because I know from the User Interface that the main color is called &#8220;primary color&#8221; I was searching for &#8220;primary&#8221;. And voila, I found an event called <code>"SELECT_PRIMARY_COLOR"</code>. Sounds like exactly what I need. Now I needed to know how to trigger this event. So I was searching for where <code>"SELECT_PRIMARY_COLOR"</code> is used in the code and this is what I found:</p>
+
+
+
+<p><code>$.publish(Events.SELECT_PRIMARY_COLOR, [color])</code></p>
+
+
+
+<p>Nice, looks like I could just use something like <code>$.publish("SELECT_PRIMARY_COLOR", "#ff00ff")</code>. I tested it in the browser console and it worked! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I now also used the console to put the color input element to the HTML document and passed an event listener when the input is changed:</p>
+
+
+
+<pre class="wp-block-code"><code>const colorInput = 
+  document.createElement("input")
+
+colorInput.id = "lgkColorInput"
+colorInput.className = "tool-icon"
+colorInput.title = "Native color picker"
+colorInput.type = "color"
+
+// The tools container of Piskel's UI
+document.getElementById("tools-container")
+  .append(colorInput)
+
+document.getElementById("lgkColorInput")
+  .addEventListener(
+    "input", 
+    ({currentTarget}) =&gt; {
+      $.publish("SELECT_PRIMARY_COLOR", 
+      currentTarget.value)
+    }
+  )</code></pre>
+
+
+
+<p>It looks great, like it was always part of the UI. I found the <code>"tool-icon"</code> class name, because all other tool buttons use it too.</p>
+
+
+
+<p>Awesome, but everything I run on the browser console is just temporary, so I needed a way to always execute it when I&#8217;m on Piskel. The good thing; there is a browser extension for this: <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">Custom</a> <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">JavaScript for Websites 2</a><br>I installed it, pasted my code in and it works!</p>
+
+
+
+<p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>If / else statement inside of React Component&#8217;s Render method</title>
+		<link>/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<guid isPermaLink="false">/?p=1993</guid>
+
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
+<p>You could do it like this:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" ?
+                    <h1>LGK is awesome!</h1>
+                : 
+                    <h1>LGK is not awesome :C</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+<p>This works without any problem. But you always have to set the else part. But in many situations you only need the &#8220;if part&#8221;.<br />
+In this case, this way is much nicer:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" &&
+                    <h1>LGK is awesome!</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Node.js: Check if you are in debug or production mode</title>
+		<link>/node-js-check-if-you-are-in-debug-or-production-mode/</link>
+					<comments>/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 10 May 2017 08:12:16 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Debug]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Production]]></category>
+		<category><![CDATA[Publish]]></category>
+		<guid isPermaLink="false">/?p=1983</guid>
+
+					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it.<br />
+For example you have to use another web service URL.</p>
+<p>Here is how can do it:</p>
+<pre class="prettyprint lang-js">
+var webApiUrl;
+
+if (process.env.NODE_ENV === "production") {
+	// use in production
+	webApiUrl = "http://myapp.online/awesome-app/api";
+}
+else {
+	// use on debugging
+	webApiUrl = "/api";
+}
+</pre>
+<p>If you do it like me and use Webpack, you can start the debug mode with <code>webpack -d</code> and the production mode with <code>webpack -p</code>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JS: Hide an element when clicking on somewhere else</title>
+		<link>/js-hide-an-element-when-clicking-on-somewhere-else/</link>
+					<comments>/js-hide-an-element-when-clicking-on-somewhere-else/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:54:39 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[DOM]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">/?p=1980</guid>
+
+					<description><![CDATA[Hint: I used the functions removeClass() and addClass() to make things easier. You can find them on See the Pen Hide an element when clicking on somewhere else by Lars Gerrit Kliesing LGK (@lgkonline) on CodePen.]]></description>
+										<content:encoded><![CDATA[<p>Hint: I used the functions <code>removeClass()</code> and <code>addClass()</code> to make things easier. You can find them on <a href="/javascript-hasclass-addclass-removeclass-helper-functions/" title="undefined" target="null"></a></p>
+<p data-height="491" data-theme-id="0" data-slug-hash="rjorrw" data-default-tab="js,result" data-user="lgkonline" data-embed-version="2" data-pen-title="Hide an element when clicking on somewhere else" class="codepen">See the Pen <a href="http://codepen.io/lgkonline/pen/rjorrw/">Hide an element when clicking on somewhere else</a> by Lars Gerrit Kliesing LGK (<a href="http://codepen.io/lgkonline">@lgkonline</a>) on <a href="http://codepen.io/">CodePen</a>.</p>
+<p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/js-hide-an-element-when-clicking-on-somewhere-else/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</title>
+		<link>/javascript-hasclass-addclass-removeclass-helper-functions/</link>
+					<comments>/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:52:16 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[DOM]]></category>
+		<category><![CDATA[Helper]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">/?p=1977</guid>
+
+					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
+										<content:encoded><![CDATA[<p>If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you:</p>
+<pre class="prettyprint lang-js">
+function hasClass(el, className) {
+    if (el.classList)
+        return el.classList.contains(className);
+    else
+        return !!el.className.match(new RegExp('(\\s|^)' + className + '(\\s|$)'));
+}
+
+function addClass(el, className) {
+    if (el.classList)
+        el.classList.add(className);
+    else if (!hasClass(el, className)) 
+        el.className += " " + className;
+}
+
+function removeClass(el, className) {
+    if (el.classList)
+        el.classList.remove(className);
+    else if (hasClass(el, className))
+        el.className=el.className.replace(new RegExp('(\\s|^)' + className + '(\\s|$)'), ' ');
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Regular expression collection</title>
+		<link>/regular-expression-collection/</link>
+					<comments>/regular-expression-collection/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:36:08 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[example]]></category>
+		<category><![CDATA[regex]]></category>
+		<category><![CDATA[regular expression]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">/?p=1971</guid>
+
+					<description><![CDATA[On this post I want to collect different regular expressions, that I used in my projects so I can find them very quick, when I need them in the future. For more useful regular expressions you should check out this page: Containing a string but not multiple others See the Pen Regex example: Containing String&#8230; <a class="more-link" href="/regular-expression-collection/">Continue reading <span class="screen-reader-text">Regular expression collection</span></a>]]></description>
+										<content:encoded><![CDATA[<p>On this post I want to collect different regular expressions, that I used in my projects so I can find them very quick, when I need them in the future.<br />
+For more useful regular expressions you should check out this page: <a href="https://projects.lukehaas.me/regexhub/" title="undefined" target="_blank"></a></p>
+<h2>Containing a string but not multiple others</h2>
+<p data-height="600" data-theme-id="0" data-slug-hash="GmOVBR" data-default-tab="js,result" data-user="lgkonline" data-embed-version="2" data-pen-title="Regex example: Containing String but not multiple others" class="codepen">See the Pen <a href="https://codepen.io/lgkonline/pen/GmOVBR/">Regex example: Containing String but not multiple others</a> by Lars Gerrit Kliesing LGK (<a href="http://codepen.io/lgkonline">@lgkonline</a>) on <a href="http://codepen.io/">CodePen</a>.</p>
+<p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/regular-expression-collection/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

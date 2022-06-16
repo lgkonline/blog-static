@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML5 &#8211; LGK Blog</title>
+	<atom:link href="/tag/html5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Fri, 04 Aug 2017 09:50:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>HTML5 &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>If / else statement inside of React Component&#8217;s Render method</title>
+		<link>/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<guid isPermaLink="false">/?p=1993</guid>
+
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
+<p>You could do it like this:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" ?
+                    <h1>LGK is awesome!</h1>
+                : 
+                    <h1>LGK is not awesome :C</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+<p>This works without any problem. But you always have to set the else part. But in many situations you only need the &#8220;if part&#8221;.<br />
+In this case, this way is much nicer:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" &&
+                    <h1>LGK is awesome!</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neues Web-Tool: &#060;html_bones&#062; &#8211; Um schneller mit HTML-Projekten zu beginnen</title>
+		<link>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
+					<comments>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2014 09:48:40 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Frameworks]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Vorlage]]></category>
+		<category><![CDATA[Web-App]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1307</guid>
+
+					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, /wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, /wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Unter <a href="http://bones.lgkonline.com/" target="_blank" title="Öffne Link im neuen Tab">bones.lgkonline.com</a> befindet sich die neue Web App &#8220;&lt;html_bones&gt;&#8221;.</p>
+<p>Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind.</p>
+<p>Beispielsweise ist das Element <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code> unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte.</p>
+<p>Auch häufig genutzte Frameworks wie <a href="http://getbootstrap.com/" target="_blank" title="Öffne Link im neuen Tab">Bootstrap</a> oder <a href="http://jquery.com/" target="_blank" title="Öffne Link im neuen Tab">jQuery</a> können mit einem Klick der HTML-Seite per CDN eingebunden werden.</p>
+<p>Es ist keine Registrierung nötig. Genutzte Einstellungen können bei Bedarf als Cookie gespeichert werden um das nächste mal die gleiche Vorlage vorzufinden.</p>
+<p><a href="http://bones.lgkonline.com/" target="_blank" class="btn btn-primary" title="Öffne Link im neuen Tab">Auf geht&#8217;s: bones.lgkonline.com &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

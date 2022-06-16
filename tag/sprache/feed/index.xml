@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sprache &#8211; LGK Blog</title>
+	<atom:link href="/tag/sprache/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 16 Jun 2013 17:20:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Sprache &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aktueller Stand der LGK Start Open Build</title>
+		<link>/aktueller-stand-der-lgk-start-open-build/</link>
+					<comments>/aktueller-stand-der-lgk-start-open-build/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2013 17:20:01 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Sprache]]></category>
+		<category><![CDATA[Suche]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=747</guid>
+
+					<description><![CDATA[Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert. Es werden regelmäßig Meilensteine der Entwicklung online gestellt. Neu bei der Version 10.0.2 Open Build sind folgende Dinge: Neue Such-Methode Deutsche und englische Sprache Neue Such-Methode Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert. Aber&#8230; <a class="more-link" href="/aktueller-stand-der-lgk-start-open-build/">Continue reading <span class="screen-reader-text">Aktueller Stand der LGK Start Open Build</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert.</p>
+<p>Es werden regelmäßig Meilensteine der Entwicklung online gestellt.</p>
+<p>Neu bei der Version 10.0.2 Open Build sind folgende Dinge:</p>
+<ul>
+<li><a href="#p01">Neue Such-Methode</a></li>
+<li><a href="#p02">Deutsche und englische Sprache</a></li>
+</ul>
+<p></p>
+<h2><a name="p01"></a>Neue Such-Methode</h2>
+<p>
+Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert.
+</p>
+<p>
+Aber innerlich hat sich das Prinzip komplett geändert. Vor allem setzt die neue Suche mehr auf die Magie von jQuery. Dadurch wurde u.a. ein Bug beseitigt, welcher das Zurückbringen nach einer Suche auf LGK Start verhindert hat.
+</p>
+<h2><a name="p02"></a>Deutsche und englische Sprache</h2>
+<p>
+Ein Wunsch von mir war es, LGK Start auch in englischer Sprache anbieten zu können. Das ist nun der Fall. Die Seite erkennt automatisch, welche Sprache der Benutzer eingestellt hat, und stellt daraufhin entweder die deutsche oder die englische Version dar.
+</p>
+<p>
+Diese unterscheiden sich nicht nur durch die Sprache. Auch einige Dienste in den Link-Menüs wurden ausgetauscht.
+</p>
+<p>
+Die englische Version kann auch durch diese Adresse aufgerufen werden:<br />
+<a href="http://lgkonline.de/start_new?lang=eng" target="_blank">lgkonline.de/start_new?lang=eng</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/aktueller-stand-der-lgk-start-open-build/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

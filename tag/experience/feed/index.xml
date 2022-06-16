@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>experience &#8211; LGK Blog</title>
+	<atom:link href="/tag/experience/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Fri, 19 Aug 2011 17:07:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>experience &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Black Eyed Peas Experience (Videospiel)</title>
+		<link>/black-eyed-peas-experience-videospiel/</link>
+					<comments>/black-eyed-peas-experience-videospiel/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 19 Aug 2011 17:07:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[black eyed peas]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[kinect]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[xbox 360]]></category>
+		<guid isPermaLink="false">http://lgkclub.de.vu/?p=195</guid>
+
+					<description><![CDATA[Ich berichte in diesen Tagen ja immer öfters über die diesjährige gamescom in Köln. Und dieser Trailer wurde dort vorgestellt: Video: Black Eyed Peas Experience &#8211; Trailer (Gamescom 2011)&#160;(1:39) Quelle: Golem.de Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;]]></description>
+										<content:encoded><![CDATA[<p>Ich berichte in diesen Tagen ja immer öfters über die diesjährige gamescom in Köln.<br />
+Und dieser Trailer wurde dort vorgestellt:</p>
+<div class="box">
+<object width="550" height="309"><param name="movie" value="http://video.golem.de/player/videoplayer.swf?id=5593&#038;autoPl=false"></param><param name="allowFullScreen" value="true"></param><param name="AllowScriptAccess" value="always"><embed src="http://video.golem.de/player/videoplayer.swf?id=5593&#038;autoPl=false" type="application/x-shockwave-flash" allowfullscreen="true" AllowScriptAccess="always" width="550" height="309"></embed></object></p>
+<div style="width:550px; text-align:center; font-family:verdana,sans-serif; font-size:0.8em;"><a href="http://video.golem.de/games/5593/the-black-eyed-peas-experience-trailer-(gamescom-2011).html">Video: Black Eyed Peas Experience &#8211; Trailer (Gamescom 2011)</a>&nbsp;(1:39)</div>
+<h3 class="widget-title">Quelle: Golem.de</h3>
+</div>
+<p><a href="http://www.gamezone.de/news_detail.asp?nid=101447" target="_blank">Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

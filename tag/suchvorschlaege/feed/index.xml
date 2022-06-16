@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suchvorschläge &#8211; LGK Blog</title>
+	<atom:link href="/tag/suchvorschlaege/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 10 Jun 2014 10:11:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Suchvorschläge &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kleines Update für LGK Start</title>
+		<link>/kleines-update-fuer-lgk-start/</link>
+					<comments>/kleines-update-fuer-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2013 13:03:03 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Autocomplete]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Scrollbar]]></category>
+		<category><![CDATA[Suchvorschläge]]></category>
+		<category><![CDATA[Update]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=913</guid>
+
+					<description><![CDATA[Nach langer Zeit gibt es nun zwei Änderungen an LGK Start: Der Algorithmus zum Erzeugen der Autofill-Daten Um zu vermeiden, dass Tippfehler als Daten für die Autofill-Funktion genutzt werden, muss nach einem Begriff mindestens zwei Mal gesucht worden sein. Also suche ich z.B. nach &#8220;Goggle&#8221;, wird der Begriff erst gespeichert, wenn danach noch jemand nach&#8230; <a class="more-link" href="/kleines-update-fuer-lgk-start/">Continue reading <span class="screen-reader-text">Kleines Update für LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Nach langer Zeit gibt es nun zwei Änderungen an LGK Start:</p>
+<h2>Der Algorithmus zum Erzeugen der Autofill-Daten</h2>
+<p>Um zu vermeiden, dass Tippfehler als Daten für die Autofill-Funktion genutzt werden, muss nach einem Begriff mindestens zwei Mal gesucht worden sein.</p>
+<p>Also suche ich z.B. nach &#8220;Goggle&#8221;, wird der Begriff erst gespeichert, wenn danach noch jemand nach &#8220;Goggle&#8221; sucht.</p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/10/lgkstart-10-4-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/10/lgkstart-10-4-1-300x119.jpg" alt="LGK Start 10.4.1" width="300" height="119" class="alignright size-medium wp-image-914" srcset="/wp-content/uploads/2013/10/lgkstart-10-4-1-300x119.jpg 300w, /wp-content/uploads/2013/10/lgkstart-10-4-1.jpg 831w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Scrollbar für die Autofill-Liste</h2>
+<p>Da die Liste für Suchvorschläge schnell mal ziemlich lang werden kann, würde sie so die gesamte Seite verschieben.</p>
+<p>Deshalb wurde der Liste nun eine Scroll-Leiste verpasst.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/kleines-update-fuer-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

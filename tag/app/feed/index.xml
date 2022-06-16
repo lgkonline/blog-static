@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>App &#8211; LGK Blog</title>
+	<atom:link href="/tag/app/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 27 Apr 2015 17:53:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>App &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>html_bones 2.1 ist online!</title>
+		<link>/html_bones-2-1-ist-online/</link>
+					<comments>/html_bones-2-1-ist-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 17:53:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html_bones]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Layout]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Neue Version]]></category>
+		<category><![CDATA[Release]]></category>
+		<guid isPermaLink="false">/?p=1541</guid>
+
+					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, /wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, /wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen.<br />
+Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden.</p>
+<p>So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst.</p>
+<p>Es ist keine Anmeldung oder Registrierung notwendig.<br />
+<a href="http://bones.lgk.io/" title="" target="_blank" class="btn btn-primary">Jetzt starten &raquo;</a></p>
+<p><span id="more-1541"></span></p>
+<h3>Änderungen zur vorherigen Version</h3>
+<p>Während v1.x vor allem mit PHP lief, läuft v2.1 ausschließlich client-seitig. Das heißt: Weniger Laden.<br />
+Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbeitet werden. Das kostete viel Zeit, vor allem, weil man höchst wahrscheinlich mehrere Elemente hintereinander an- und abwählen möchte.</p>
+<p>v2.1 dagegen läuft ausschließlich mit HTML, CSS und JavaScript. Das hat allerdings auch Nachteile, da ich so mehr auf die Browserkompatibilität achten musste. So gibt es mit IE leider immer noch einen Bug, den ich nicht lösen konnte (das UTF-8-Meta-Element kann nicht ausgewählt werden).</p>
+<h3>Das Design: Materialize</h3>
+<p>Ich bin zwar ein riesen Bootstrap-Fan, hier wollte ich aber mal ein anderes CSS-Framework testen: <a href="http://materializecss.com/" title="" target="_blank">Materialize CSS</a>.</p>
+<p>Wie sich bereits heraushören lässt, basiert Materialize auf das Material Design von Google. Zu diesem Zeitpunkt befindet sich das Framework allerdings noch im Alpha-Status.</p>
+<ul>
+<li><a href="http://materializecss.com/" title="" target="_blank">Materialize Website</a></li>
+<li><a href="https://github.com/Dogfalo/materialize" title="" target="_blank">Materialize auf GitHub</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/html_bones-2-1-ist-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[colorganize]]></category>
+		<category><![CDATA[Organizer]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[widget]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
+
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure>
+<p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
+Es ist keine extra Registrierung nötig.</p>
+<p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
+<p>Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.).</p>
+<p><a href="http://colorganize.com/" class="btn btn-primary" target="_blank" title="Wird im neuen Tab geöffnet">Teste es gleich aus: colorganize.com</a><br />
+<span id="more-1375"></span></p>
+<div class="clearfix"></div>
+<hr>
+<h3>Der Farb-Picker ist zurück!</h3>
+<figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure>
+<p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
+Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
+<h3>Ideen für die Zukunft</h3>
+<p>Neben der Möglichkeit, sich mit verschiedenen Diensten einzuloggen, wünsche ich mir, dass Farbpaletten geteilt werden können.<br />
+Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weitergeben können. Die Empfänger müssen nicht bei Colorganize eingeloggt sein.</p>
+<p>Ebenfalls wäre es nett, wenn Nutzer ihre Paletten auf eigenen Projekt-Seiten einbetten könnten. </p>
+<p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Redesign von colorganize.com</title>
+		<link>/redesign-von-colorganize-com/</link>
+					<comments>/redesign-von-colorganize-com/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2014 10:42:28 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[Redesign]]></category>
+		<category><![CDATA[Web-App]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1265</guid>
+
+					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, /wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, /wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure>
+<p>colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor.<br />
+Aber es gibt auch ein paar nette neue Features.</p>
+<p>Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick.</p>
+<p>Außerdem speichert der Client deine letzte Position, wenn du ihn schließt.<br />
+Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#, Hex, RGB oder RGBA).</p>
+<p><a href="http://colorganize.com/" target="_blank" title="Öffne im neuen Tab" class="btn btn-primary">Besuche colorganize.com &raquo;</a></p>
+<p>Ich habe außerdem eine Hosted App für Chrome erstellt. Diese wird womöglich bald im Chrome Web Store veröffentlicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/redesign-von-colorganize-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 8: Erste Test-Version veröffentlicht</title>
+		<link>/windows-8-erste-test-version-veroffentlicht/</link>
+					<comments>/windows-8-erste-test-version-veroffentlicht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2011 18:01:38 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Tablet-PC]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">http://lgkclub.de.vu/?p=254</guid>
+
+					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="/wp-content/uploads/2011/09/windows8-preview.jpg 468w, /wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
+Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
+<p>Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.<span id="more-254"></span></p>
+<p>CHIP Online war schnell und es ist bereits jetzt ein Test-Video verfügbar:</p>
+<div class="box">
+<h3 class="widget-title">Video</h3>
+<p><iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/stgxjDQg0L4?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>Ich hatte vor, Windows 8 selbst zu testen. Die Bilder aus dem Video haben mir aber ein wenig die Lust vergehen lassen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Windows 8 scheint hauptsächlich für Tablet-PCs gemacht zu sein. Ich werde also wohl erst mal bis zur Beta warten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

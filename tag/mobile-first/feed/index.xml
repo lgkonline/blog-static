@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mobile-first &#8211; LGK Blog</title>
+	<atom:link href="/tag/mobile-first/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>mobile-first &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

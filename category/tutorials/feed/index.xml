@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorials &#8211; LGK Blog</title>
+	<atom:link href="/category/tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Tutorials &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I hacked Piskel and added a new feature for me</title>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2442</guid>
+
+					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
+										<content:encoded><![CDATA[
+<p>I recently started using <a rel="noreferrer noopener" href="https://www.piskelapp.com/" target="_blank">Piskel</a> more often, which is a cool web app to create cute pixel graphics and animations. It&#8217;s pretty nice to use, but there was a thing I was bothering me. The color picker tool only works in scope of the app. But I wanted to transfer colors from my Affinity project to the Piskel browser app.</p>
+
+
+
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How I made Piskel to use the native input color control" width="750" height="563" src="https://www.youtube.com/embed/_plfYNt8gJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>My goal was to be able to do this</figcaption></figure>
+
+
+
+<p>For each color had to pick the color inside of Affinity Designer, copy the hex code, open the color dialog on Piskel, paste the code and press enter. If you want to transfer a lot of colors, this can get a little bit annoying. </p>
+
+
+
+<p>The good thing: Piskel is an Open Source web project. That means with a little effort I could solve this problem for me. Because I know, there is a native color control which has a picker which works across the whole screen (atleast in Chromium browsers): <code>&lt;input type="color"&gt;</code> </p>
+
+
+
+<iframe loading="lazy" width="100%" height="300" src="//jsfiddle.net/s76gmfua/6/embedded/result,html/" allowfullscreen="allowfullscreen" allowpaymentrequest="" frameborder="0"></iframe>
+
+
+
+<p>Great. Now I needed to bring this to the Piskel application and make it overwrite the current color. I tried to find some kind of a state in the JavaScript code I could use. Because Piskel&#8217;s <a rel="noreferrer noopener" href="https://github.com/piskelapp/piskel" target="_blank">source code is on GitHub</a>, I could just clone the project to my machine and search through the code. Because I know from the User Interface that the main color is called &#8220;primary color&#8221; I was searching for &#8220;primary&#8221;. And voila, I found an event called <code>"SELECT_PRIMARY_COLOR"</code>. Sounds like exactly what I need. Now I needed to know how to trigger this event. So I was searching for where <code>"SELECT_PRIMARY_COLOR"</code> is used in the code and this is what I found:</p>
+
+
+
+<p><code>$.publish(Events.SELECT_PRIMARY_COLOR, [color])</code></p>
+
+
+
+<p>Nice, looks like I could just use something like <code>$.publish("SELECT_PRIMARY_COLOR", "#ff00ff")</code>. I tested it in the browser console and it worked! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I now also used the console to put the color input element to the HTML document and passed an event listener when the input is changed:</p>
+
+
+
+<pre class="wp-block-code"><code>const colorInput = 
+  document.createElement("input")
+
+colorInput.id = "lgkColorInput"
+colorInput.className = "tool-icon"
+colorInput.title = "Native color picker"
+colorInput.type = "color"
+
+// The tools container of Piskel's UI
+document.getElementById("tools-container")
+  .append(colorInput)
+
+document.getElementById("lgkColorInput")
+  .addEventListener(
+    "input", 
+    ({currentTarget}) =&gt; {
+      $.publish("SELECT_PRIMARY_COLOR", 
+      currentTarget.value)
+    }
+  )</code></pre>
+
+
+
+<p>It looks great, like it was always part of the UI. I found the <code>"tool-icon"</code> class name, because all other tool buttons use it too.</p>
+
+
+
+<p>Awesome, but everything I run on the browser console is just temporary, so I needed a way to always execute it when I&#8217;m on Piskel. The good thing; there is a browser extension for this: <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">Custom</a> <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">JavaScript for Websites 2</a><br>I installed it, pasted my code in and it works!</p>
+
+
+
+<p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>If / else statement inside of React Component&#8217;s Render method</title>
+		<link>/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<guid isPermaLink="false">/?p=1993</guid>
+
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
+<p>You could do it like this:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" ?
+                    <h1>LGK is awesome!</h1>
+                : 
+                    <h1>LGK is not awesome :C</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+<p>This works without any problem. But you always have to set the else part. But in many situations you only need the &#8220;if part&#8221;.<br />
+In this case, this way is much nicer:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" &&
+                    <h1>LGK is awesome!</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Try to avoid loops in JavaScript for better performance</title>
+		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/?p=1961</guid>
+
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
+<p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
+<p>Here is a simple example:</p>
+<pre class="prettyprint lang-js">
+const exampleDataArray = [
+	{
+		id: 8462943,
+		name: "Google",
+		url: "http://google.com/"
+	},
+	{
+		id: 9847323,
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	{
+		id: 938442934,
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+];
+
+function getDataById(id) {
+	for (let i = 0; i < exampleDataArray.length; i++) {
+		if (exampleDataArray[i].id === id) {
+			return exampleDataArray[i];
+		}
+	}
+}
+</pre>
+<p>So in this example when I want to get an item by its ID or any other property I have to go through each other item first. Depending on how many items you have and how often you need to get one item, it can take lot of time.</p>
+<p>If you use an object instead of an array it could look like this:</p>
+<pre class="prettyprint lang-js">
+const exampleDataObject = {
+	8462943: {
+		name: "Google",
+		url: "http://google.com/"
+	},
+	9847323: {
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	938442934: {
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+};
+
+function getDataById(id) {
+	return exampleDataObject[id];
+}
+</pre>
+<p>This way we can directly point to the item we want and don't have to use a loop.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
+		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[Icon]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[unicode]]></category>
+		<guid isPermaLink="false">/?p=1925</guid>
+
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="wp-caption alignleft">
+<div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
+</div>
+<p>Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen.</p>
+<p>Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind Symbole ein wichtiger Bestandteil. Ein &#9776; öffnet ein Menü, ein 	&#128270; führt eine Suche aus und mit einem &#9829; favorisiere ich etwas.</p>
+<p>Oh, hast du gesehen, wie ich Icons sogar hier im Artikel verwendet habe? Und das ging ganz einfach. Und damit kommen wir zum eigentlichen Thema dieses Artikels. &#12320;</p>
+<p>Ich benutzte dafür keine Icon-Library wie <a href="http://fontawesome.io/" target="_blank">FontAwesome</a>. Für das &#12320; zum Beispiel habe ich nur folgendes als HTML geschrieben: <code>&amp;#12320;</code><br />
+Damit habe ich einfach nur den Unicode für dieses Symbol benutzt. Denn eine Menge Icons haben &#8212; genauso wie Buchstaben und Ziffern &#8212; einen eigenen Unicode.<br />
+Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwendete Schriftart dieses auch enthält. </p>
+<h2>Finde Icons mit Graphemica</h2>
+<p>Graphemica sucht Icons im Unicode basierend auf Stichwörter.</p>
+<p><a class="btn btn-primary" href="http://graphemica.com/" target="_blank">http://graphemica.com/</a></p>
+<p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
+		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Bechleunigung]]></category>
+		<category><![CDATA[Compiler]]></category>
+		<category><![CDATA[Compress]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1630</guid>
+
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
+<p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
+<p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
+<pre>
+npm install uglify-js -g
+</pre>
+<p>Navigiere anschließend mit <code>cd</code> zu deinem Projekt-Ordner.</p>
+<p>In meinem Beispiel sieht mein Projekt-Ordner so aus:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Führe nun diesen Befehl aus:</p>
+<pre>
+uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
+</pre>
+<p>Zuerst kommt der Befehl <code>uglifyjs</code>, anschließend die zu kombinierenden Dateien (durch Leerzeichen getrennt). Das <code>-o</code> steht für &#8220;Output&#8221; und kennzeichnet die Ausgabe-Datei. In diesem Fall <code>js/script.min.js</code>.</p>
+<p>Wichtig bei der Eingabe ist auch die Reihenfolge der Dateien.</p>
+<div class="clearfix"></div>
+<p>Anschließend müsste unser Ordner so aussehen:</p>
+<div class="pull-left alignleft well" style="min-width: 250px;">
+<ul>
+<li>js
+<ul>
+<li>jquery.js</li>
+<li>main.js</li>
+<li>search.js</li>
+<li><strong>script.min.js</strong></li>
+</ul>
+</li>
+<li>css
+<ul>
+<li>&#8230;</li>
+</ul>
+</li>
+<li>index.html</li>
+</ul>
+</div>
+<p>Und aus:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/search.js"></script>
+</pre>
+<p>wird:</p>
+<pre class="prettyprint lang-html">
+<script type="text/javascript" src="script.min.js"></script>
+</pre>
+<div class="clearfix"></div>
+<h3>Erweiterungen für Entwicklungsumgebungen?</h3>
+<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
+<p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
+<p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
+<hr>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</title>
+		<link>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
+					<comments>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 08 May 2015 14:50:03 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Beschleunigung]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können:</p>
+<pre class="prettyprint lang-html">
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap-theme.css">
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap-fileinput/css/bootstrap-fileinput.css">
+		<link rel="stylesheet" type="text/css" href="./css/main.css">
+		<link rel="stylesheet" type="text/css" href="./css/home.css">
+	</head>
+
+	<body>
+		...
+	</body>
+</html>
+</pre>
+<p>Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern.<br />
+Und jede Millisekunde, die der Nutzer warten muss, ist eine Gefahr, dass dieser die Seite wieder verlassen will.</p>
+<p>In diesem Artikel möchte ich ein paar Tipps geben, wie ihr CSS-Dateien kombinieren könnt, sodass der Browser nur noch jeweils eine Datei abfragen muss.</p>
+<h3>Los geht&#8217;s: CSS-Dateien mit LESS verbinden</h3>
+<p>LESS ist ein CSS Pre-Prozessor. LESS-Dateien beinhalten erweiterten CSS-Code, welcher anschließend durch einen Compiler zu einer normalen CSS-Datei kompiliert wird.</p>
+<p>LESS-Dateien können mehrere LESS-Dateien importieren. Die kompilierte CSS-Datei sieht dann so aus, als hätte ich einfach die einzelnen Codes hintereinander eingefügt.</p>
+<h3>Beispiel</h3>
+<div class="row">
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/main.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+</pre>
+</p></div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/home.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+#nav li#home {
+	font-weight: bold;
+	background-color: orange;
+}
+</pre>
+</p></div>
+</p></div>
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/style.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+@import url("main.less");
+@import url("home.less");
+</pre>
+</p></div>
+<p style="text-align: center;">
+			<span class="glyphicon glyphicon-arrow-down"></span> LESS-Compiler generiert CSS
+		</p>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./css/style.css</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+#nav li#home {
+	font-weight: bold;
+	background-color: orange;
+}
+</pre>
+</p></div>
+<p style="text-align: center;">
+			<span class="glyphicon glyphicon-arrow-down"></span> CSS-Datei minimiert
+		</p>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./css/style.min.css</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body{font-family:Arial,sans-serif;font-size:14px;color:#000}#nav li#home{font-weight:700;background-color:orange}
+</pre>
+</p></div>
+</p></div>
+</div>
+<p>Bei vielen CSS-Dateien macht das auf jeden Fall Sinn. Für viele Entwicklungsumgebungen und Code-Editor gibt es passende Plugins, welche aus LESS-Dateien automatisch CSS-Dateien generieren. Unter anderem für <a href="https://github.com/jdiehl/brackets-less-autocompile" title="" target="_blank">Brackets</a>, <a href="http://vswebessentials.com/" title="" target="_blank">Visual Studio</a> oder auch NetBeans.</p>
+<p>In dem Beispiel habe ich die <code>style.css</code> außerdem noch minimiert (zu: <code>style.min.css</code>). So schrumpft auch nochmal die Größe der End-Datei. Auch hierfür gibt es entsprechende Plugins. Mit <a href="http://cssminifier.com/" title="" target="_blank">CSS Minifier</a> geht das auch online.</p>
+<h3>Vorher / nachher</h3>
+<p>Wenn wir das auch noch mit unseren CSS-Frameworks machen wird aus:</p>
+<pre class="prettyprint lang-html">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap-fileinput/css/bootstrap-fileinput.css">
+<link rel="stylesheet" type="text/css" href="./css/main.css">
+<link rel="stylesheet" type="text/css" href="./css/home.css">
+</pre>
+<p>schnell das hier:</p>
+<pre class="prettyprint lang-html">
+<link rel="stylesheet" type="text/css" href="./css/style.min.css">
+</pre>
+<p><strong>Was beachtet sei:</strong> Drch die Kombinierung ändern sich auch die Verweise. Bei Bootstrap bespielsweise müssen dann die Verweise zu den Font-Dateien geändert werden.<br />
+Öffne dafür die <code>bootstrap.less</code> und ersetze alle <code>../fonts/</code> durch <code>../lib/bootstrap/fonts/</code>.</p>
+<h3>JavaScript-Dateien kombinieren</h3>
+<p>Gut, die Stylesheets haben wir somit auf eine Datei reduziert. Doch auch bei den JavaScript-Dateien auf einer Seite kann sich einiges ansammeln.</p>
+<p>In einem seperaten Artikel möchte ich darauf eingehen, JavaScript-Dateien zu kombinieren.<br />
+Der Link wird dann hier angefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Photoshop-Tutorial: Pipetten-Werkzeug außerhalb verwenden</title>
+		<link>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
+					<comments>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2015 10:00:55 +0000</pubDate>
+				<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[colorganize]]></category>
+		<category><![CDATA[Farbe]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[Pipette]]></category>
+		<guid isPermaLink="false">/?p=1490</guid>
+
+					<description><![CDATA[Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes. Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen. Video direkt auf YouTube ansehen.]]></description>
+										<content:encoded><![CDATA[<div class="embed-responsive embed-responsive-16by9">
+  <iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/Hmq3HMy56Yo" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes.<br />
+Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen.</p>
+<p><a href="https://www.youtube.com/watch?v=Hmq3HMy56Yo">Video direkt auf YouTube ansehen.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Start Touch als Startseite für das Smartphone</title>
+		<link>/start-touch-als-startseite-fuer-das-smartphone/</link>
+					<comments>/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2014 10:43:25 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Einstellung]]></category>
+		<category><![CDATA[Handy]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[QR]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[startseite]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=923</guid>
+
+					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, /wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
+Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon.<br />
+Nichts weiter. Ohne Schnickschnack.</p>
+<p>Damit eignet es sich vor allem für ältere oder langsamere Smartphones.</p>
+<h2>Wie richte ich Start Touch als Startseite ein?</h2>
+<p>Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten.</p>
+<p>Am schnellsten geht es, wenn du die Seite über diesen QR-Code öffnest:<br />
+<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, /wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
+<div class="clear-both"></div>
+<p>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</title>
+		<link>/tutorial-long-shadow-icon-flat-mit-photoshop/</link>
+					<comments>/tutorial-long-shadow-icon-flat-mit-photoshop/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 13:04:25 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Long Shadow]]></category>
+		<category><![CDATA[Modern UI]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=836</guid>
+
+					<description><![CDATA[Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen. Aber auch Google und nun auch Apple ziehen nun mit. Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese. Seht einfach selbst: Weitere Beispiele findet ihr in diesem Artikel auf&#8230; <a class="more-link" href="/tutorial-long-shadow-icon-flat-mit-photoshop/">Continue reading <span class="screen-reader-text">Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen.</p>
+<p>Aber auch Google und nun auch Apple ziehen nun mit.</p>
+<p>Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese.</p>
+<p>Seht einfach selbst:</p>
+<p><figure id="attachment_839" aria-describedby="caption-attachment-839" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-839" alt="Das Icon zu Google Fonts. (Quelle: designmodo.com)" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/flat-shadow.jpg" width="600" height="320" srcset="/wp-content/uploads/2013/07/flat-shadow.jpg 600w, /wp-content/uploads/2013/07/flat-shadow-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-839" class="wp-caption-text">Das Icon zu Google Fonts. (Quelle: <a href="http://designmodo.com/long-shadows-design/" target="_blank">designmodo.com</a>)</figcaption></figure></p>
+<p>Weitere Beispiele findet ihr <a href="http://designmodo.com/long-shadows-design/" target="_blank">in diesem Artikel auf designmodo.com</a>.</p>
+<h2>Tutorial</h2>
+<p>Aber dies soll ein Tutorial sein, darüber wie man &#8220;Long Shadow&#8221;-Icons mit Photoshop verwirklichen kann.<span id="more-836"></span></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4.png"><img loading="lazy" class="size-medium wp-image-847 alignleft" title="Die Vorlage für den 45°-Schatten." alt="Die Vorlage für den 45°-Schatten." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4-300x168.png" width="300" height="168" srcset="/wp-content/uploads/2013/07/Screenshot-4-300x168.png 300w, /wp-content/uploads/2013/07/Screenshot-4-1024x575.png 1024w, /wp-content/uploads/2013/07/Screenshot-4.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Für den Schatten verwende ich eine selbstgemachte Vorlage, womit es einfacher ist den Schatten zu erstellen.</p>
+<p>Die Vorlage hier als PSD: <a href="/files/45-Grad-Form.psd" target="_blank">45-Grad-Form.psd</a></p>
+<p>Wie bei dem Beispiel mit dem Google Fonts-Icon, erstellen wir einen 45°-Schatten, welcher nach unten rechts scheint.</p>
+<div class="clear-both"></div>
+<p>Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe <strong><span style="color: #00a89b;">#00a89b</span></strong>.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.png"><img loading="lazy" class="aligncenter size-large wp-image-851" title="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." alt="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.jpg" width="600" height="337" /></a></p>
+<p>Für das Tutorial wollen wir ein &#8220;Home&#8221;-Icon machen.<br />
+Also fügen wir ein Haus-Symbol ein. Das Icon stammt von <a href="http://iconmonstr.com/" target="_blank">iconmonstr.com</a>. Dort findet ihr noch viele weitere Icons, die ihr verwenden könnt.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png"><img loading="lazy" class="aligncenter size-full wp-image-855" title="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." alt="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png" width="600" height="368" srcset="/wp-content/uploads/2013/07/Screenshot-7.png 866w, /wp-content/uploads/2013/07/Screenshot-7-300x183.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>Da das Symbol aus zwei Körpern (Haus und Schornstein) besteht, erstellen wir zwei voneinander getrennte Schatten.</p>
+<p>Zuerst ist das Haus dran. Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.png"><img loading="lazy" class="aligncenter size-large wp-image-860" title="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." alt="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.jpg" width="600" height="337" /></a></p>
+<p>In einer neuen Ebene unter dem Haus-Symbol färben wir den unteren Bereich mit dem Pinsel-Werkzeug (B) schwarz. Das Schwarz muss dabei über der Vorlage liegen.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-8.png"><img loading="lazy" class="aligncenter size-large wp-image-863" title="In einer neuen Ebene unter dem Haus-Symbol färben wir den unteren Bereich schwarz." alt="In einer neuen Ebene unter dem Haus-Symbol färben wir den unteren Bereich schwarz." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-8.jpg" width="600" height="337" /></a></p>
+<p>Das Schwarze soll unser Schatten werden. Der Teil des Schattens, das nun über die Vorlage steht soll nun abgeschnitten werden.</p>
+<p>Dafür müssen wir die beiden Vorlagen-Ebenen in eine Auswahl umwandeln. Am einfachsten geht das, wenn man STRG gedrückt hält und auf die entsprechende Ebenen-Miniatur klickt.</p>
+<p>Halte ich zu STRG auch noch SHIFT (Umschalt) gedrückt, kann ich eine Ebene zur Auswahl hinzufügen.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-9.png"><img loading="lazy" class="aligncenter size-large wp-image-863" title="Halte ich zu STRG auch noch SHIFT (Umschalt) gedrückt, kann ich eine Ebene zur Auswahl hinzufügen." alt="Halte ich zu STRG auch noch SHIFT (Umschalt) gedrückt, kann ich eine Ebene zur Auswahl hinzufügen." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-9.jpg" width="600" height="337" /></a></p>
+<p>Wechseln wir nun wieder zur &#8220;Schatten&#8221;-Ebene und drücken ENTF, werden die überschüssigen Teile sauber abgetrennt.</p>
+<p>Die Auswahl kannst du übrigens mit STRG + D aufheben.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-10.png"><img loading="lazy" class="aligncenter size-large wp-image-863" title="Wechseln wir nun wieder zur &quot;Schatten&quot;-Ebene und drücken ENTF, werden die überschüssigen Teile sauber abgetrennt." alt="Wechseln wir nun wieder zur &quot;Schatten&quot;-Ebene und drücken ENTF, werden die überschüssigen Teile sauber abgetrennt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-10.jpg" width="600" height="337" /></a></p>
+<p>Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht.</p>
+<p>Auch hier, geht es am einfachsten, wenn du den Icon-Hintergrund mit STRG und Klick auf die Miniatur auswählst.</p>
+<p>Allerdings musst du danach die Auswahl noch umkehren, da wir ja den Teil des Schattens außerhalb des Icon-Hintergrundes entfernen wollen.</p>
+<p>Nun, auch dafür gibt es einen Tastenkürzel, und zwar STRG + SHIFT (Umschalt) + I.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.png"><img loading="lazy" class="aligncenter size-full wp-image-871" title="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." alt="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-11.jpg 600w, /wp-content/uploads/2013/07/Screenshot-11-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>Wechseln wir nun wieder zur &#8220;Schatten&#8221;-Ebene und drücken ENTF, wird der unschöne Überschuss entfernt.</p>
+<p>Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt.</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.png"><img loading="lazy" class="aligncenter size-full wp-image-875" title="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." alt="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-12.jpg 600w, /wp-content/uploads/2013/07/Screenshot-12-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>Das Resultat ist doch schon mal ganz ansprechend. Die vorherigen Schritte wiederholen wir jetzt, allerdings beim Schornstein.<br />
+Das sieht dann so aus:</p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.png"><img loading="lazy" class="aligncenter size-full wp-image-879" title="Das Resultat ist doch schon mal ganz ansprechend." alt="Das Resultat ist doch schon mal ganz ansprechend." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-13.jpg 600w, /wp-content/uploads/2013/07/Screenshot-13-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>Das fertige Projekt könnt ihr hier als PSD runterladen: <a href="/files/home-long-shadow.psd" target="_blank">home-long-shadow.psd</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tutorial-long-shadow-icon-flat-mit-photoshop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
+		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[deisgn]]></category>
+		<category><![CDATA[form]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[konvertieren]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umwandeln]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
+
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="box">
+<h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
+<p><center><br />
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/bxzVjUi9F2U" frameborder="0" allowfullscreen></iframe></center></p>
+<p style="text-align: right;"><a href="http://www.youtube.com/watch?v=bxzVjUi9F2U" target="_blank">Auf YouTube ansehen</a></p>
+<p>Musik: <a href="http://www.audioagency.de/" target="_blank">http://www.audioagency.de/</a></p>
+<p>In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt.<br />
+So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden.</p>
+<p>Ich hoffe, den einen oder anderen damit einen Tipp geben zu können.</p>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

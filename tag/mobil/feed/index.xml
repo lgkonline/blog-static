@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobil &#8211; LGK Blog</title>
+	<atom:link href="/tag/mobil/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 02 Apr 2013 14:36:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Mobil &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LGK Start erreicht Version 9.0</title>
+		<link>/lgk-start-erreicht-version-9-0/</link>
+					<comments>/lgk-start-erreicht-version-9-0/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 14:36:09 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Handy]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Touch]]></category>
+		<category><![CDATA[Version 9.0]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=685</guid>
+
+					<description><![CDATA[Ich habe die Version von LGK Start jetzt auf 9.0 hochgestuft. Neuerungen gibt es eigentlich nicht, es wurde lediglich das Design an das des neuen LGK-Menüs angepasst. Fährt man nun mit der Maus über einen Punkt der LGK Start-Menüs, startet eine Animation als Hintergrund. Auch die Blockboxes wurden optisch aufgepeppt. Das sind die Fenster, die&#8230; <a class="more-link" href="/lgk-start-erreicht-version-9-0/">Continue reading <span class="screen-reader-text">LGK Start erreicht Version 9.0</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_691" aria-describedby="caption-attachment-691" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/lgkstart_9-0_small1.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/04/lgkstart_9-0_small1-300x129.jpg" alt="Die wesentlichen Veränderungen." width="300" height="129" class="size-medium wp-image-691" srcset="/wp-content/uploads/2013/04/lgkstart_9-0_small1-300x129.jpg 300w, /wp-content/uploads/2013/04/lgkstart_9-0_small1.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-691" class="wp-caption-text">Die wesentlichen Veränderungen.</figcaption></figure>
+<p>Ich habe die Version von LGK Start jetzt auf 9.0 hochgestuft.</p>
+<p>Neuerungen gibt es eigentlich nicht, es wurde lediglich das Design an das des neuen LGK-Menüs angepasst.</p>
+<p>Fährt man nun mit der Maus über einen Punkt der LGK Start-Menüs, startet eine Animation als Hintergrund.</p>
+<p>Auch die Blockboxes wurden optisch aufgepeppt. Das sind die Fenster, die erscheinen, wenn man im Optionen-Menü ein Link klickt.</p>
+<div style="clear:both;"></div>
+<figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 267px" class="wp-caption alignright"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="267" height="570" class="size-full wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone.png 267w, /wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w" sizes="(max-width: 267px) 100vw, 267px" /><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure>
+<p>Optisch hat sich auch etwas an der mobilen Version von LGK Start getan.</p>
+<p>Das Design ist jetzt mehr an das der Standard-Version angelegt.</p>
+<p>Außerdem passt sich die Größe des Eingabefeldes und der Buttons dem Bildschirm an.</p>
+<p>Wenn LGK Start auf einem mobilen Gerät aufgerufen wird, wechselt die Seite sofort zur mobilen Version.</p>
+<p>Alternativ kann auch direkt <a href="http://lgkonline.de/start/touch" target="_blank">lgkonline.de/start/touch</a> aufgerufen werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lgk-start-erreicht-version-9-0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

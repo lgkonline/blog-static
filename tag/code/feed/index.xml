@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Code &#8211; LGK Blog</title>
+	<atom:link href="/tag/code/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 03 Apr 2022 18:59:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Code &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mach deinen Code prettier</title>
+		<link>/mach-deinen-code-prettier/</link>
+					<comments>/mach-deinen-code-prettier/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Automatisierung]]></category>
+		<category><![CDATA[CI]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[format]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<guid isPermaLink="false">/?p=2222</guid>
+
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
+
+
+
+<p>Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und befriedigt nebenbei den inneren Monk. <br>Arbeitet man mit mehreren Personen an einem Projekt, kannst du entweder regelmäßig von Hand den Code der anderen formatieren oder du lässt es machen, automatisch!</p>
+
+
+
+<h2>Installiere Prettier</h2>
+
+
+
+<p>Das geht mit dem Tool <a rel="noreferrer noopener" href="https://prettier.io/" target="_blank">Prettier</a>! Du legst zuvor in einer Config-Datei (.prettierrc.json) die Regeln fest (Semikolons ja/nein, maximale Zeilenlänge etc.) und führst dann Prettier aus. In einer separaten Datei (.prettierignore) kannst du noch definieren, welche Ordner und Dateien dabei unangetastet bleiben sollen.</p>
+
+
+
+<p>Folge einfach dem offiziellen Guide, um Prettier bei dir einzurichten: <a href="https://prettier.io/docs/en/install.html" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<h2>Prettier bei jedem Git Commit ausführen</h2>
+
+
+
+<p>Du kannst Prettier jedes Mal manuell ausführen oder dafür eine Extension in deinem Code-Editor installieren. Ich finde es allerdings angenehmer, dass Prettier automatisch vor jedem Git Commit ausgeführt wird. So wird sichergestellt, dass kein unschöner Code nach GitHub gelangt (oder wo auch immer du Git hostest). Auch funktioniert das ganze dann unabhängig davon, welchen Code-Editor du oder Team-Kolleg:innen verwenden. </p>
+
+
+
+<p>Ich bin einfach den Abschnitt &#8220;Git hooks&#8221; gefolgt: <a href="https://prettier.io/docs/en/install.html#git-hooks" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<p>Das Tool &#8220;Husky&#8221; sorgt also dafür, dass Prettier vor jedem Git Commit-Befehl ausgeführt wird und der Code formatiert wird.</p>
+
+
+
+<h2>Meine bevorzugten Einstellungen</h2>
+
+
+
+<p>Meine .prettierrc.json-Datei sieht so aus:</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "fluid": false
+}
+</code></pre>
+
+
+
+<ul><li>Zur Einrückung werden 4 Leerzeichen verwendet.</li><li>Ich nutze keine Semikolons (bei JavaScript und TypeScript).</li><li>Ich nutze doppelte Anführungszeichen bei Strings (<code>"</code>).</li><li>Keine Kommata, wo es nicht notwendig ist (z.B. in TypeScript Interfaces).</li><li>Leerzeichen um geschweifte Klammern (<code>{ foo: bar }</code>).</li><li>Für bracketSameLine siehe: <a rel="noreferrer noopener" href="https://prettier.io/docs/en/options.html#bracket-line" target="_blank">https://prettier.io/docs/en/options.html#bracket-line</a></li></ul>
+
+
+
+<p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Try to avoid loops in JavaScript for better performance</title>
+		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/?p=1961</guid>
+
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
+<p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
+<p>Here is a simple example:</p>
+<pre class="prettyprint lang-js">
+const exampleDataArray = [
+	{
+		id: 8462943,
+		name: "Google",
+		url: "http://google.com/"
+	},
+	{
+		id: 9847323,
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	{
+		id: 938442934,
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+];
+
+function getDataById(id) {
+	for (let i = 0; i < exampleDataArray.length; i++) {
+		if (exampleDataArray[i].id === id) {
+			return exampleDataArray[i];
+		}
+	}
+}
+</pre>
+<p>So in this example when I want to get an item by its ID or any other property I have to go through each other item first. Depending on how many items you have and how often you need to get one item, it can take lot of time.</p>
+<p>If you use an object instead of an array it could look like this:</p>
+<pre class="prettyprint lang-js">
+const exampleDataObject = {
+	8462943: {
+		name: "Google",
+		url: "http://google.com/"
+	},
+	9847323: {
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	938442934: {
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+};
+
+function getDataById(id) {
+	return exampleDataObject[id];
+}
+</pre>
+<p>This way we can directly point to the item we want and don't have to use a loop.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Redesign von colorganize.com</title>
+		<link>/redesign-von-colorganize-com/</link>
+					<comments>/redesign-von-colorganize-com/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2014 10:42:28 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[Redesign]]></category>
+		<category><![CDATA[Web-App]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1265</guid>
+
+					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, /wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, /wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure></p>
+<p>colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor.<br />
+Aber es gibt auch ein paar nette neue Features.</p>
+<p>Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick.</p>
+<p>Außerdem speichert der Client deine letzte Position, wenn du ihn schließt.<br />
+Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#, Hex, RGB oder RGBA).</p>
+<p><a href="http://colorganize.com/" target="_blank" title="Öffne im neuen Tab" class="btn btn-primary">Besuche colorganize.com &raquo;</a></p>
+<p>Ich habe außerdem eine Hosted App für Chrome erstellt. Diese wird womöglich bald im Chrome Web Store veröffentlicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/redesign-von-colorganize-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Die Zukunft der Web-Programmierung: Adobe Edge Code</title>
+		<link>/die-zukunft-der-web-programmierung-adobe-edge-code/</link>
+					<comments>/die-zukunft-der-web-programmierung-adobe-edge-code/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 28 May 2013 20:21:38 +0000</pubDate>
+				<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[Animate]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Edge]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Programmieren]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=721</guid>
+
+					<description><![CDATA[Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung. Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten. Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste. Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche&#8230; <a class="more-link" href="/die-zukunft-der-web-programmierung-adobe-edge-code/">Continue reading <span class="screen-reader-text">Die Zukunft der Web-Programmierung: Adobe Edge Code</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_725" aria-describedby="caption-attachment-725" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01-300x177.jpg" alt="&quot;Quick Edit&quot; kann sehr nützlich sein." width="300" height="177" class="size-medium wp-image-725" srcset="/wp-content/uploads/2013/05/edge-code-01-300x177.jpg 300w, /wp-content/uploads/2013/05/edge-code-01.jpg 1021w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-725" class="wp-caption-text">&#8220;Quick Edit&#8221; kann sehr nützlich sein.</figcaption></figure>Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung.</p>
+<p>Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten.</p>
+<p>Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste.</p>
+<p>Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche Features.</p>
+<p>Mit Live Preview zum Beispiel, braucht man lediglich <strong>Strg + Alt + P</strong> drücken, und die Seite, an der man gerade arbeitet, wird direkt im Browser angezeigt.</p>
+<p>Mit <strong>Strg + E</strong> lässt sich ein markiertes HTML-Element direkt stylen, ohne dass man extra zur CSS-Datei wechseln muss.</p>
+<div class="float-none"></div>
+<p>Momentan gibt es Edge Code nur als Preview und gratis zum Downloaden. Hoffentlich bleibt auch die finale Version kostenlos. Das Programm hat eine aufgeräumte Oberfläche und macht die Web-Entwicklung einfach smarter.</p>
+<p>Edge Code und weitere interessante Teile der Adobe Edge-Familie findest du hier: <a href="http://html.adobe.com/edge/" target="_blank">http://html.adobe.com/edge/</a></p>
+<p><figure id="attachment_728" aria-describedby="caption-attachment-728" style="width: 300px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02-300x162.jpg" alt="Edge Animate. Meinen Artikel dazu auf MMdia.de." width="300" height="162" class="size-medium wp-image-728" srcset="/wp-content/uploads/2013/05/edge-code-02-300x162.jpg 300w, /wp-content/uploads/2013/05/edge-code-02-1024x553.jpg 1024w, /wp-content/uploads/2013/05/edge-code-02.jpg 1347w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-728" class="wp-caption-text">Edge Animate. Meinen Artikel dazu auf <a href="http://www.mmdia.de/2013/01/25/so-werden-html5-animationen-und-spiele-erstellt/" target="_blank">MMdia.de</a>.</figcaption></figure></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/die-zukunft-der-web-programmierung-adobe-edge-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

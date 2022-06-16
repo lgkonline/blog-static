@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hacks &#8211; LGK Blog</title>
+	<atom:link href="/tag/hacks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>hacks &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I hacked Piskel and added a new feature for me</title>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2442</guid>
+
+					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
+										<content:encoded><![CDATA[
+<p>I recently started using <a rel="noreferrer noopener" href="https://www.piskelapp.com/" target="_blank">Piskel</a> more often, which is a cool web app to create cute pixel graphics and animations. It&#8217;s pretty nice to use, but there was a thing I was bothering me. The color picker tool only works in scope of the app. But I wanted to transfer colors from my Affinity project to the Piskel browser app.</p>
+
+
+
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How I made Piskel to use the native input color control" width="750" height="563" src="https://www.youtube.com/embed/_plfYNt8gJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>My goal was to be able to do this</figcaption></figure>
+
+
+
+<p>For each color had to pick the color inside of Affinity Designer, copy the hex code, open the color dialog on Piskel, paste the code and press enter. If you want to transfer a lot of colors, this can get a little bit annoying. </p>
+
+
+
+<p>The good thing: Piskel is an Open Source web project. That means with a little effort I could solve this problem for me. Because I know, there is a native color control which has a picker which works across the whole screen (atleast in Chromium browsers): <code>&lt;input type="color"&gt;</code> </p>
+
+
+
+<iframe loading="lazy" width="100%" height="300" src="//jsfiddle.net/s76gmfua/6/embedded/result,html/" allowfullscreen="allowfullscreen" allowpaymentrequest="" frameborder="0"></iframe>
+
+
+
+<p>Great. Now I needed to bring this to the Piskel application and make it overwrite the current color. I tried to find some kind of a state in the JavaScript code I could use. Because Piskel&#8217;s <a rel="noreferrer noopener" href="https://github.com/piskelapp/piskel" target="_blank">source code is on GitHub</a>, I could just clone the project to my machine and search through the code. Because I know from the User Interface that the main color is called &#8220;primary color&#8221; I was searching for &#8220;primary&#8221;. And voila, I found an event called <code>"SELECT_PRIMARY_COLOR"</code>. Sounds like exactly what I need. Now I needed to know how to trigger this event. So I was searching for where <code>"SELECT_PRIMARY_COLOR"</code> is used in the code and this is what I found:</p>
+
+
+
+<p><code>$.publish(Events.SELECT_PRIMARY_COLOR, [color])</code></p>
+
+
+
+<p>Nice, looks like I could just use something like <code>$.publish("SELECT_PRIMARY_COLOR", "#ff00ff")</code>. I tested it in the browser console and it worked! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I now also used the console to put the color input element to the HTML document and passed an event listener when the input is changed:</p>
+
+
+
+<pre class="wp-block-code"><code>const colorInput = 
+  document.createElement("input")
+
+colorInput.id = "lgkColorInput"
+colorInput.className = "tool-icon"
+colorInput.title = "Native color picker"
+colorInput.type = "color"
+
+// The tools container of Piskel's UI
+document.getElementById("tools-container")
+  .append(colorInput)
+
+document.getElementById("lgkColorInput")
+  .addEventListener(
+    "input", 
+    ({currentTarget}) =&gt; {
+      $.publish("SELECT_PRIMARY_COLOR", 
+      currentTarget.value)
+    }
+  )</code></pre>
+
+
+
+<p>It looks great, like it was always part of the UI. I found the <code>"tool-icon"</code> class name, because all other tool buttons use it too.</p>
+
+
+
+<p>Awesome, but everything I run on the browser console is just temporary, so I needed a way to always execute it when I&#8217;m on Piskel. The good thing; there is a browser extension for this: <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">Custom</a> <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">JavaScript for Websites 2</a><br>I installed it, pasted my code in and it works!</p>
+
+
+
+<p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

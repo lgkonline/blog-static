@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LESS &#8211; LGK Blog</title>
+	<atom:link href="/tag/less/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sat, 31 Oct 2015 16:51:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>LESS &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</title>
+		<link>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
+					<comments>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2015 16:51:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Miniphpy]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Komprimierung]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=1782</guid>
+
+					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="/wp-content/uploads/2015/10/logo.png 1174w, /wp-content/uploads/2015/10/logo-300x90.png 300w, /wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+<p>In den Artikeln <a href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
+<p>Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit nutze ich für das Kompilieren von LESS-Dateien die Anwendung <a href="http://koala-app.com/" title="undefined" target="">Koala</a>.</p>
+<p>Nur für das Kombinieren von JavaScript-Dateien habe ich bisher noch keine Lösung gefunden. Und deswegen habe ich mir einfach selbst eine gemacht: <strong>Miniphpy</strong></p>
+<p><a href="/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, /wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, /wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Durch das Web-Interface kannst du deine Dateien zu Bündel kombinieren. Um auf Dateien zu verweisen, kannst du entweder einen lokalen Pfad oder eine URI zu einer Datei angeben.</p>
+<p>Die Dateien werden dann, abhängig von der Reihenfolge, zusammgefügt und anschließend komprimiert.</p>
+<p>Hierbei kannst du wählen, ob die Komprimierung lokal (erfolgt mithilfe von Bibliotheken, die in Miniphpy enthalten sind) oder remote (dabei werden APIs der Komprimierungs-Dienste <a href="http://javascript-minifier.com/" title="undefined" target="_blank">http://javascript-minifier.com/</a> und <a href="http://cssminifier.com/" title="undefined" target="_blank">http://cssminifier.com/</a> verwendet) passieren soll.</p>
+<p>Da Miniphpy eine PHP-Anwendung ist, musst du Apache (z.B. durch <a href="https://www.apachefriends.org/de/index.html" title="undefined" target="_blank">XAMPP</a>) auf deinem PC am Laufen haben. </p>
+<div class="btn-group">
+	<a href="https://github.com/lgkonline/Miniphpy/releases/download/v1.0/Miniphpy.v1.0.zip" class="btn btn-primary btn-lg">Download Miniphpy Version 1.0 (ZIP)</a> <a href="http://go.lgk.io/miniphpy" target="_blank" class="btn btn-default btn-lg">Zu GitHub</a>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</title>
+		<link>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
+					<comments>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 08 May 2015 14:50:03 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Beschleunigung]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Optimierung]]></category>
+		<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können:</p>
+<pre class="prettyprint lang-html">
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap-theme.css">
+		<link rel="stylesheet" type="text/css" href="./lib/bootstrap-fileinput/css/bootstrap-fileinput.css">
+		<link rel="stylesheet" type="text/css" href="./css/main.css">
+		<link rel="stylesheet" type="text/css" href="./css/home.css">
+	</head>
+
+	<body>
+		...
+	</body>
+</html>
+</pre>
+<p>Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern.<br />
+Und jede Millisekunde, die der Nutzer warten muss, ist eine Gefahr, dass dieser die Seite wieder verlassen will.</p>
+<p>In diesem Artikel möchte ich ein paar Tipps geben, wie ihr CSS-Dateien kombinieren könnt, sodass der Browser nur noch jeweils eine Datei abfragen muss.</p>
+<h3>Los geht&#8217;s: CSS-Dateien mit LESS verbinden</h3>
+<p>LESS ist ein CSS Pre-Prozessor. LESS-Dateien beinhalten erweiterten CSS-Code, welcher anschließend durch einen Compiler zu einer normalen CSS-Datei kompiliert wird.</p>
+<p>LESS-Dateien können mehrere LESS-Dateien importieren. Die kompilierte CSS-Datei sieht dann so aus, als hätte ich einfach die einzelnen Codes hintereinander eingefügt.</p>
+<h3>Beispiel</h3>
+<div class="row">
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/main.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+</pre>
+</p></div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/home.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+#nav li#home {
+	font-weight: bold;
+	background-color: orange;
+}
+</pre>
+</p></div>
+</p></div>
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./less/style.less</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+@import url("main.less");
+@import url("home.less");
+</pre>
+</p></div>
+<p style="text-align: center;">
+			<span class="glyphicon glyphicon-arrow-down"></span> LESS-Compiler generiert CSS
+		</p>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./css/style.css</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+#nav li#home {
+	font-weight: bold;
+	background-color: orange;
+}
+</pre>
+</p></div>
+<p style="text-align: center;">
+			<span class="glyphicon glyphicon-arrow-down"></span> CSS-Datei minimiert
+		</p>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">./css/style.min.css</h4>
+</p></div>
+<pre class="prettyprint lang-css">
+body{font-family:Arial,sans-serif;font-size:14px;color:#000}#nav li#home{font-weight:700;background-color:orange}
+</pre>
+</p></div>
+</p></div>
+</div>
+<p>Bei vielen CSS-Dateien macht das auf jeden Fall Sinn. Für viele Entwicklungsumgebungen und Code-Editor gibt es passende Plugins, welche aus LESS-Dateien automatisch CSS-Dateien generieren. Unter anderem für <a href="https://github.com/jdiehl/brackets-less-autocompile" title="" target="_blank">Brackets</a>, <a href="http://vswebessentials.com/" title="" target="_blank">Visual Studio</a> oder auch NetBeans.</p>
+<p>In dem Beispiel habe ich die <code>style.css</code> außerdem noch minimiert (zu: <code>style.min.css</code>). So schrumpft auch nochmal die Größe der End-Datei. Auch hierfür gibt es entsprechende Plugins. Mit <a href="http://cssminifier.com/" title="" target="_blank">CSS Minifier</a> geht das auch online.</p>
+<h3>Vorher / nachher</h3>
+<p>Wenn wir das auch noch mit unseren CSS-Frameworks machen wird aus:</p>
+<pre class="prettyprint lang-html">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap/css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" href="./lib/bootstrap-fileinput/css/bootstrap-fileinput.css">
+<link rel="stylesheet" type="text/css" href="./css/main.css">
+<link rel="stylesheet" type="text/css" href="./css/home.css">
+</pre>
+<p>schnell das hier:</p>
+<pre class="prettyprint lang-html">
+<link rel="stylesheet" type="text/css" href="./css/style.min.css">
+</pre>
+<p><strong>Was beachtet sei:</strong> Drch die Kombinierung ändern sich auch die Verweise. Bei Bootstrap bespielsweise müssen dann die Verweise zu den Font-Dateien geändert werden.<br />
+Öffne dafür die <code>bootstrap.less</code> und ersetze alle <code>../fonts/</code> durch <code>../lib/bootstrap/fonts/</code>.</p>
+<h3>JavaScript-Dateien kombinieren</h3>
+<p>Gut, die Stylesheets haben wir somit auf eine Datei reduziert. Doch auch bei den JavaScript-Dateien auf einer Seite kann sich einiges ansammeln.</p>
+<p>In einem seperaten Artikel möchte ich darauf eingehen, JavaScript-Dateien zu kombinieren.<br />
+Der Link wird dann hier angefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Synchronisiere Colorganize-Paletten mit LESS und Sass</title>
+		<link>/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
+					<comments>/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 14:04:36 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Pre-processor]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Sass]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1441</guid>
+
+					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, /wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure>
+<p>LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;.<br />
+Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen.<br />
+<a href="http://www.der-zyklop.de/blog/scss-sass-less">Mehr über die Vorteile von CSS Pre-Prozessoren &raquo;</a></p>
+<hr>
+<p>Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden.<br />
+Ein <code>@import</code> genügt und du kannst deine Farben aus deiner Palette innerhalb deines Projektes benutzen.<br />
+Sobald du etwas an deiner Palette in der Web App änderst, wirkt sich das automatisch auf deinen Code aus.<br />
+Wenn du eine z.B. aus LESS-generierte CSS-Datei verwendest, muss diese vorher neu komprimiert werden.</p>
+<p>Damit du eine Palette mit LESS oder Sass nutzen willst, muss diese als &#8220;public&#8221; markiert sein.<br />
+Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markiert. So kannst du das ändern:</p>
+<ol>
+<li>Klicke oben rechts auf &#8220;Edit mode&#8221;, um in den Bearbeitungs-Modus zu gelangen.</li>
+<li>Klicke links im Paletten-Menü auf das jeweilige Stift-Symbol, um die Palette zu bearbeiten.</li>
+<li>Aktiviere &#8220;public&#8221;, indem du auf den entsprechenden Button klickst.</li>
+</ol>
+<div class="clearfix"></div>
+<figure id="attachment_1457" aria-describedby="caption-attachment-1457" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png" alt="Variablen-Namen können schnell und einfach kopiert werden." width="500" height="182" class="size-medium wp-image-1457 img-responsive" /></a><figcaption id="caption-attachment-1457" class="wp-caption-text">Variablen-Namen können schnell und einfach kopiert werden.</figcaption></figure>
+<p>Die Variablen-Namen der Farben stehen immer griffbereit. Ein Klick genügt und die gewünschte Farb-Variable kann in deinen LESS-, bzw. Sass-Code eingefügt werden.</p>
+<hr>
+<p><a href="http://colorganize.com/" class="btn btn-primary">Probiere es gleich aus &raquo;</a></p>
+<p>Falls du noch nicht registriert bist, ist es übrigens auch möglich sich mit seinen Twitter-Account anzumelden. <a href="http://blog.lgkonline.com/update-bei-colorganize-einloggen-mit-twitter/" title="Update bei Colorganize – Einloggen mit Twitter" target="">Mehr dazu hier &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

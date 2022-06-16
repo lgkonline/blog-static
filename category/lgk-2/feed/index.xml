@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LGK &#8211; LGK Blog</title>
+	<atom:link href="/category/lgk-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>LGK &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I created a card game with Svelte</title>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[svelte]]></category>
+		<category><![CDATA[trend]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
+
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
+
+
+
+<p>You can see it on the sub-domain, I later called my project “Skip it!” and it is a card game you can play anywhere. On your phone, on your computer and on your tablet. If you know the card game “Skip-Bo”, you could probably guess, how you can play my game. I chose to create a clone of Skip-Bo because I sometimes play it with my family and also enjoyed playing the iPad app a while ago. Through the iPad app I found out how addicting and fun the game can be and the game-play might be simple enough to create it with my skills in web technologies.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+
+
+
+<p>The developer experience using SvelteKit and Svelte was awesome! For years I primarily use React for my projects. I actually felt a little nostalgic, because I wrote actual HTML again, instead of JSX (no more&nbsp;<code>className</code>) and handling states is way more straightforward. I also use Svelte’s feature for scoped stylesheets. In previous projects I normally use SCSS and create global stylesheets. In Skip it! I switched to component-scoped architecture. Benefit is, you automatically just keep CSS, you will actually use, because the code-editor will underline unused CSS rules.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+
+
+
+<p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The new design for my (this) blog</title>
+		<link>/the-new-design-for-my-this-blog/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2416</guid>
+
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
+
+
+
+<p>But I think it’s not too late to still write a little post about it.</p>
+
+
+
+<h2>The goal: make the blog look like the rest of lgk.io</h2>
+
+
+
+<p>The blog runs with WordPress and now with a new child theme of the preinstalled Twenty Twenty-One, I just called „Twenty Twenty-One LGK“. In the past I used a theme I totally created myself, it was called „Winegum“. It’s still available on GitHub (<a href="https://github.com/lgkonline/Winegum1" target="_blank" rel="noreferrer noopener">https://github.com/lgkonline/Winegum1</a>), but I really don’t recommend to use it anymore. It’s very outdated not compatible with modern WordPress features and third-party plugins. It might also be better for security reasons to use a theme, which is activity maintained. That’s why I switched to Twenty Twenty-One.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img loading="lazy" width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+
+
+
+<p>I used the color customisation options of the theme to make it match better with my&nbsp;<a rel="noreferrer noopener" href="https://lgk.io/" target="_blank">portfolio site</a>. That was the first step to the current look of the blog. From there I created my child theme and replaced parts of the theme, most important part is the header.</p>
+
+
+
+<p>By the way: my portfolio site and this blog are running on completely different technologies. The blog is a PHP-server-rendered WordPress site and my portfolio is a React Single-Page-Application. So my task was to bring the header of my React app to the WordPress theme and make it look as seamless as possible.</p>
+
+
+
+<p>I’m pretty happy with the result. When you switch between „Blog“ and „Start“ for example, you are switching between two totally separated sites, hopefully without mentioning it. The blog uses the same colors and the same font now.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+
+
+
+<h2>The new search bar</h2>
+
+
+
+<p>One thing was still missing on the new theme: a search bar. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But hey, better late than never, right? It’s now there too!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+
+
+
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The code behind the new SP-Studio</title>
+		<link>/the-code-behind-the-new-sp-studio/</link>
+					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<category><![CDATA[south park]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2146</guid>
+
+					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+
+
+
+<p>For some months I&#8217;m working on a cool project. It&#8217;s a web app where users can design their own characters in a South Park style. It&#8217;s the new modern version of the <a href="https://sp-studio.de/" target="_blank" rel="noreferrer noopener">SP-Studio</a>.</p>
+
+
+
+<span id="more-2146"></span>
+
+
+
+<p>The older version is already about 19 years old(!) and was running with Adobe Flash. Modern browsers stopped recommending using Flash already since many years, but technically still supported it. But at the end of 2020, Flash will be entirely shut down (R.I.P. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f622.png" alt="😢" class="wp-smiley" style="height: 1em; max-height: 1em;" />).</p>
+
+
+
+<p>Honestly it&#8217;s been some years since I visited sp-studio.de the last time, but when I was younger, I was a big fan of it. That&#8217;s why it&#8217;s a big honor for me, to bring this cool project to a new life by developing this new modern version.</p>
+
+
+
+<p>Not only doesn&#8217;t this new version depend on Flash anymore, it&#8217;s designed mobile-first and works on multiple platforms: smartphones, tables, laptops and desktops. It&#8217;s also a <a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" data-type="URL" data-id="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App</a> (PWA for short). This means, you can visit it normally with your browser, but are also able to install it on your device, so it will act like an app.</p>
+
+
+
+<p>To find out all other things that changed since the older version, <a rel="noreferrer noopener" href="https://www.sp-studio.de/the-new-sp-studio/" target="_blank">please check out this post</a>. On this post, I want to write about the code and the technology behind this new version.</p>
+
+
+
+<h2>Why React?</h2>
+
+
+
+<p>I would say I&#8217;m already very experienced by using the <a rel="noreferrer noopener" href="https://reactjs.org/" target="_blank">React</a> library because I already use it for a while for different projects. Compared to them, SP-Studio is actually pretty simple and straightforward to code. For the project I don&#8217;t even need any other big libraries like <a rel="noreferrer noopener" href="https://reactrouter.com/" data-type="URL" data-id="https://reactrouter.com/" target="_blank">React Router</a>, since we don&#8217;t need different pages. I also don&#8217;t use complex state mangers like <a rel="noreferrer noopener" href="https://redux.js.org/" data-type="URL" data-id="https://redux.js.org/" target="_blank">Redux</a>, I just work with props and states to let the different components talk to each other.</p>
+
+
+
+<p>The project folder is generated with <a rel="noreferrer noopener" href="https://create-react-app.dev/" data-type="URL" data-id="https://create-react-app.dev/" target="_blank">create-react-app</a> (or &#8220;CRA&#8221; for short) and the TypeScript template. TypeScript forces me to work less chaotically, that&#8217;s why I love it. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2>Working with the SVG assets</h2>
+
+
+
+<p>The most important task the app has to do, is to read the different assets the user should be able to add to its character. All assets are prepared by Janina as SVG files. And that&#8217;s another benefit from React, because it natively supports components in SVG format and can also manipulate its attributes with code.</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+
+
+
+<p>This is how the SVG file of the default body asset looks like:</p>
+
+
+
+<style type="text/css">
+.wp-block-code {max-height: 500px;}
+</style>
+
+
+
+<pre class="wp-block-code"><code>&lt;svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="385px" height="385px" viewBox="0 0 385 385"&gt;
+&lt;defs&gt;
+&lt;filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB"&gt;
+&lt;feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0" result="result1"/&gt;
+&lt;/filter&gt;
+
+&lt;g id="col1n_0_Layer0_0_FILL"&gt;
+&lt;path fill="#8FAFCD" stroke="none" d="
+M 191.6 95.8
+Q 191.6 56.1 163.55 28.05 147.35 11.85 127.25 5 112.55 0 95.8 0 79.05 0 64.35 5 44.25 11.85 28.05 28.05 0 56.1 0 95.8 0 128.15 18.6 152.8
+L 19.75 154.25
+Q 20.2 154.8 20.65 155.35
+L 21.55 156.45
+Q 24.55 160.05 28 163.5
+L 28.05 163.55
+Q 28.4 163.9 28.75 164.25 32.25 167.65 35.9 170.65 35.8 170.75 35.8 170.85
+L 35.75 170.85
+Q 29.4 179.35 24.6 189.8 17.15 205.9 13.45 226.55 13.4 226.75 13.4 226.95 13.25 229.4 13.55 231.8 15.7 245.9 31 249.35 31.2 249.4 31.45 249.45
+L 31.5 249.4
+Q 31.65 249.45 31.75 249.45 31.95 250.05 32.15 250.6 32.55 251.55 33.25 252.35 33.25 252.4 33.3 252.45
+L 33.3 271.9
+Q 29.4 272.6 25.5 274.4 24.15 275 22.8 275.75
+L 168.8 275.75
+Q 167.45 275 166.1 274.4 162.2 272.6 158.3 271.9
+L 158.3 252.45
+Q 158.35 252.4 158.35 252.35 159.05 251.55 159.45 250.6 159.65 250.05 159.85 249.45 159.95 249.45 160.1 249.4
+L 160.15 249.45
+Q 160.4 249.4 160.6 249.35 175.9 245.9 178.05 231.8 178.35 229.4 178.2 226.95 178.2 226.75 178.15 226.55 174.45 205.9 167 189.8 162.2 179.35 155.85 170.85
+L 155.8 170.85
+Q 155.8 170.75 155.7 170.65 159.35 167.65 162.85 164.25 163.2 163.9 163.55 163.55 163.6 163.55 163.6 163.5
+L 170.85 155.45
+Q 171.35 154.85 171.85 154.25 172.45 153.45 173.05 152.7
+L 173.1 152.65
+Q 191.6 128.05 191.6 95.8 Z"/&gt;
+&lt;/g&gt;
+
+&lt;g id="hll_0_Layer0_0_FILL"&gt;
+&lt;path fill="#6486A6" stroke="none" d="
+M -36.05 227.75
+Q -36.15 227.75 -36.25 227.75
+L -40.15 227.9
+Q -40.8 227.95 -41.45 228 -49.95 228.6 -54.6 229.65 -59.3 230.65 -59.95 230.95 -60.1 231 -60.2 231.05 -52.2 229.75 -44.1 229.25 -43.8 229.2 -43.45 229.2 -42.45 229.15 -41.45 229.1 -41.25 229.05 -41.1 229.05 -40.95 229.05 -40.8 229.05 -25.4 228.4 -10.75 231.05
+L -6.6 231.75
+Q -5.45 231.95 -4.3 232.2 -2.55 232.55 -0.85 232.95 -0.7 233 -0.55 233.05 -0.45 233.05 -0.35 233.1 -0.2 233.1 -0.05 233.15 -0.45 233 -0.85 232.9 -2.55 232.3 -4.3 231.85 -4.85 231.7 -5.35 231.55 -5.5 231.5 -5.6 231.5 -16.4 228.5 -27.6 227.9 -28 227.85 -28.4 227.85 -28.95 227.8 -29.55 227.8
+L -36.05 227.75
+M -32.65 175.55
+Q -29.6 176.75 -26.4 175.55 -24.8 173.9 -26.05 171.95 -26.15 171.8 -26.2 171.7 -29.25 170.7 -33.1 171.7 -33.6 172.4 -33.7 173.1 -33.9 174.2 -32.9 175.35 -32.8 175.45 -32.65 175.55
+M 3.2 203.7
+Q 1.95 202.55 0.95 203.7 0.9 203.95 0.95 204.25 1.2 205.85 1.1 207.5
+L 1.2 207.55
+Q 1.9 207.85 2.25 207.2 2.3 207.1 2.35 207 2.5 206.55 2.65 206.15 2.9 205.35 3.05 204.6 3.1 204.45 3.1 204.3 3.15 204 3.2 203.7
+M 58.6 229.65
+Q 53.95 228.6 45.45 228 44.8 227.95 44.15 227.9
+L 40.25 227.75
+Q 40.15 227.75 40.05 227.75
+L 33.55 227.8
+Q 32.95 227.8 32.4 227.85 32 227.85 31.6 227.9 20.4 228.5 9.6 231.5 9.5 231.5 9.35 231.55 8.85 231.7 8.3 231.85 6.55 232.3 4.85 232.9 4.45 233 4.05 233.15 4.2 233.1 4.35 233.1 4.45 233.05 4.55 233.05 4.7 233 4.85 232.95 6.55 232.55 8.3 232.2 9.45 231.95 10.6 231.75
+L 14.75 231.05
+Q 29.4 228.4 44.8 229.05 44.95 229.05 45.1 229.05 45.25 229.05 45.45 229.1 46.45 229.15 47.45 229.2 47.8 229.2 48.1 229.25 56.2 229.75 64.2 231.05 64.1 231 63.95 230.95 63.3 230.65 58.6 229.65
+M 29.55 173.1
+Q 29.35 174.2 30.35 175.35 30.45 175.45 30.6 175.55 33.65 176.75 36.85 175.55 38.45 173.9 37.2 171.95 37.1 171.8 37.05 171.7 34 170.7 30.15 171.7 29.65 172.4 29.55 173.1 Z"/&gt;
+&lt;/g&gt;
+
+&lt;g id="hdd_0_Layer0_0_FILL"&gt;
+&lt;path fill="#49657E" stroke="none" d="
+M -54 165.45
+Q -54.05 165.5 -54.05 165.55
+L -58.35 187.4
+Q -58.8 189.5 -59.2 191.45 -59.25 191.75 -59.3 192.05 -59.5 192.85 -59.65 193.65 -61.15 201 -61.95 205.8 -62.7 210.2 -61.5 205.2 -61.1 202.7 -60.05 198.95 -59.95 198.35 -59.8 197.7 -59.1 194.55 -58.5 192.05 -57.85 189 -57.35 186.95
+L -57.3 186.95 -57.35 186.9 -57.35 186.85
+Q -57.15 185.95 -57 185.3 -56.8 184.35 -56.6 183.75
+L -56.6 183.7
+Q -56.6 183.55 -56.55 183.45 -56.4 182.7 -56.35 182.6
+L -53.1 165.8 -53.05 165.75
+Q -53.05 165.5 -53.15 165.35 -53.25 165.15 -53.45 165.15 -53.65 165.1 -53.75 165.15 -53.8 165.15 -53.8 165.2 -53.85 165.2 -53.9 165.25 -53.95 165.3 -54 165.45
+M 27.8 218.55
+Q 33.6279296875 217.7416015625 39.1 216.6 38.95 216.6 38.8 216.65 37.85 216.7 36.9 216.8 36.15 216.85 35.4 216.95 22.3 218.15 9.1 218.4 4.6 218.5 0.1 218.5 -16.9 218.4 -34 216.7 -34.65 216.6 -35.2 216.55 -29.3919921875 217.7255859375 -23.35 218.55 -12.069921875 220.075390625 0.1 220.4 0.25 220.4 0.45 220.4 0.55 220.4 0.65 220.4
+L 0.65 220.5 2.05 232.7 2.05 232.3 2.1 232.7 3.5 220.5 3.5 220.4 3.55 220.4
+Q 3.7 220.4 3.9 220.45 6.5 220.35 9.1 220.25 18.86171875 219.7953125 27.8 218.55
+M 57.9 165.35
+L 57.85 165.3
+Q 57.7 165.25 57.5 165.3 57.3 165.3 57.2 165.5 57.1 165.65 57.15 165.9
+L 60.4 182.75
+Q 60.5 182.95 61.45 187.05
+L 61.45 187.1
+Q 61.9 189.1 62.55 192.05 63.1 194.45 63.75 197.45 63.8 197.65 63.85 197.85 64.1 199.05 64.35 200.1 65.35 203.45 65.7 205.85 66.75 210.15 66 205.95 65.1 200.65 63.35 192.05 62.95 189.9 62.45 187.55
+L 58.1 165.7
+Q 58.1 165.65 58.1 165.6 58 165.4 57.9 165.35
+M 60.15 131.25
+Q 58.8 132.3 57.35 133.35
+L 55.8 134.5
+Q 35.45 148.6 10 150.5
+L 8.9 150.55
+Q 5.55 150.75 2.1 150.75
+L 1.9 150.75
+Q -1.55 150.75 -4.9 150.55
+L -6 150.5
+Q -31.45 148.6 -51.8 134.5
+L -53.35 133.35
+Q -54.8 132.3 -56.15 131.25
+L -57.3 130.35
+Q -47.2814453125 139.16015625 -35.85 144.45 -17.9216796875 152.2900390625 1.9 152.3
+L 2.1 152.3
+Q 21.92265625 152.2900390625 39.85 144.45 51.3 139.15 61.3 130.4
+L 60.15 131.25 Z"/&gt;
+&lt;/g&gt;
+&lt;/defs&gt;
+
+&lt;g id="col1n" transform="matrix( 1, 0, 0, 1, 96.65,58) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use xlink:href="#col1n_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+
+&lt;g id="col1d" transform="matrix( 1.000518798828125, 0, 0, 1, 190.5,98.75) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use xlink:href="#hll_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+
+&lt;g id="col1s" transform="matrix( 1.000518798828125, 0, 0, 1, 190.5,98.75) "&gt;
+&lt;g transform="matrix( 1, 0, 0, 1, 0,0) "&gt;
+&lt;use filter="url(#Filter_1)" xlink:href="#hdd_0_Layer0_0_FILL"/&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;</code></pre>
+
+
+
+<p>Unfortunately I can&#8217;t directly use it like this for the application. It has to be formatted in a JSX format, also it needs to be a real React Component with props, so the values like colors can be changed from outside. That&#8217;s why wrote a script, which converts it to this:</p>
+
+
+
+<pre class="wp-block-code"><code>import React from "react"
+import { AssetSvgProps } from "../../../shared/assets"
+
+export const defaultColors = {
+    "col1d": "#6486A6",
+    "col1n": "#8FAFCD",
+    "col1s": "#49657E"
+}
+
+function SkiSki001({ colors = defaultColors, onClick, outerTransform, transform }: AssetSvgProps) {
+    return (
+        &lt;g transform={outerTransform}&gt;&lt;g onClick={onClick} transform={transform}&gt;&lt;defs&gt;
+                &lt;path
+                    fill={colors.col1n}
+                    d="M191.6 95.8q0-39.7-28.05-67.75-16.2-16.2-36.3-23.05-14.7-5-31.45-5T64.35 5q-20.1 6.85-36.3 23.05Q0 56.1 0 95.8q0 32.35 18.6 57l1.15 1.45.9 1.1.9 1.1q3 3.6 6.45 7.05l.05.05.7.7q3.5 3.4 7.15 6.4-.1.1-.1.2h-.05q-6.35 8.5-11.15 18.95-7.45 16.1-11.15 36.75-.05.2-.05.4-.15 2.45.15 4.85Q15.7 245.9 31 249.35q.2.05.45.1l.05-.05q.15.05.25.05.2.6.4 1.15.4.95 1.1 1.75 0 .05.05.1v19.45q-3.9.7-7.8 2.5-1.35.6-2.7 1.35h146q-1.35-.75-2.7-1.35-3.9-1.8-7.8-2.5v-19.45q.05-.05.05-.1.7-.8 1.1-1.75.2-.55.4-1.15.1 0 .25-.05l.05.05q.25-.05.45-.1 15.3-3.45 17.45-17.55.3-2.4.15-4.85 0-.2-.05-.4-3.7-20.65-11.15-36.75-4.8-10.45-11.15-18.95h-.05q0-.1-.1-.2 3.65-3 7.15-6.4l.7-.7q.05 0 .05-.05l7.25-8.05 1-1.2q.6-.8 1.2-1.55l.05-.05q18.5-24.6 18.5-56.85z"
+                    id="SkiSki001__col1n_0_Layer0_0_FILL"
+                /&gt;
+                &lt;path
+                    fill={colors.col1d}
+                    d="M-36.05 227.75h-.2l-3.9.15-1.3.1q-8.5.6-13.15 1.65-4.7 1-5.35 1.3-.15.05-.25.1 8-1.3 16.1-1.8.3-.05.65-.05l2-.1q.2-.05.35-.05h.3q15.4-.65 30.05 2l4.15.7q1.15.2 2.3.45 1.75.35 3.45.75l.3.1q.1 0 .2.05.15 0 .3.05-.4-.15-.8-.25-1.7-.6-3.45-1.05-.55-.15-1.05-.3-.15-.05-.25-.05-10.8-3-22-3.6-.4-.05-.8-.05-.55-.05-1.15-.05l-6.5-.05m3.4-52.2q3.05 1.2 6.25 0 1.6-1.65.35-3.6-.1-.15-.15-.25-3.05-1-6.9 0-.5.7-.6 1.4-.2 1.1.8 2.25.1.1.25.2M3.2 203.7q-1.25-1.15-2.25 0-.05.25 0 .55.25 1.6.15 3.25l.1.05q.7.3 1.05-.35l.1-.2q.15-.45.3-.85.25-.8.4-1.55.05-.15.05-.3l.1-.6m55.4 25.95q-4.65-1.05-13.15-1.65l-1.3-.1-3.9-.15h-.2l-6.5.05q-.6 0-1.15.05-.4 0-.8.05-11.2.6-22 3.6-.1 0-.25.05-.5.15-1.05.3-1.75.45-3.45 1.05-.4.1-.8.25.15-.05.3-.05.1-.05.2-.05l.3-.1q1.7-.4 3.45-.75 1.15-.25 2.3-.45l4.15-.7q14.65-2.65 30.05-2h.3q.15 0 .35.05l2 .1q.35 0 .65.05 8.1.5 16.1 1.8-.1-.05-.25-.1-.65-.3-5.35-1.3M29.55 173.1q-.2 1.1.8 2.25.1.1.25.2 3.05 1.2 6.25 0 1.6-1.65.35-3.6-.1-.15-.15-.25-3.05-1-6.9 0-.5.7-.6 1.4z"
+                    id="SkiSki001__hll_0_Layer0_0_FILL"
+                /&gt;
+                &lt;path
+                    fill={colors.col1s}
+                    d="M-54 165.45q-.05.05-.05.1l-4.3 21.85q-.45 2.1-.85 4.05l-.1.6q-.2.8-.35 1.6-1.5 7.35-2.3 12.15-.75 4.4.45-.6.4-2.5 1.45-6.25.1-.6.25-1.25.7-3.15 1.3-5.65.65-3.05 1.15-5.1h.05l-.05-.05v-.05q.2-.9.35-1.55.2-.95.4-1.55v-.05q0-.15.05-.25.15-.75.2-.85l3.25-16.8.05-.05q0-.25-.1-.4-.1-.2-.3-.2-.2-.05-.3 0-.05 0-.05.05-.05 0-.1.05t-.1.2m81.8 53.1q5.828-.808 11.3-1.95-.15 0-.3.05-.95.05-1.9.15-.75.05-1.5.15-13.1 1.2-26.3 1.45-4.5.1-9 .1-17-.1-34.1-1.8-.65-.1-1.2-.15 5.808 1.176 11.85 2 11.28 1.525 23.45 1.85h.55v.1l1.4 12.2v-.4l.05.4 1.4-12.2v-.1h.05q.15 0 .35.05l5.2-.2q9.762-.455 18.7-1.7m30.1-53.2l-.05-.05q-.15-.05-.35 0-.2 0-.3.2-.1.15-.05.4l3.25 16.85q.1.2 1.05 4.3v.05q.45 2 1.1 4.95.55 2.4 1.2 5.4l.1.4q.25 1.2.5 2.25 1 3.35 1.35 5.75 1.05 4.3.3.1-.9-5.3-2.65-13.9-.4-2.15-.9-4.5L58.1 165.7v-.1q-.1-.2-.2-.25m2.25-34.1q-1.35 1.05-2.8 2.1l-1.55 1.15q-20.35 14.1-45.8 16l-1.1.05q-3.35.2-6.8.2h-.2q-3.45 0-6.8-.2l-1.1-.05q-25.45-1.9-45.8-16l-1.55-1.15q-1.45-1.05-2.8-2.1l-1.15-.9q10.019 8.81 21.45 14.1 17.928 7.84 37.75 7.85h.2q19.823-.01 37.75-7.85 11.45-5.3 21.45-14.05l-1.15.85z"
+                    id="SkiSki001__hdd_0_Layer0_0_FILL"
+                /&gt;
+                &lt;filter
+                    id="SkiSki001__Filter_1"
+                    x="-20%"
+                    y="-20%"
+                    width="140%"
+                    height="140%"
+                    colorInterpolationFilters="sRGB"
+                &gt;
+                    &lt;feColorMatrix
+                        in="SourceGraphic"
+                        values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0"
+                        result="result1"
+                    /&gt;
+                &lt;/filter&gt;
+            &lt;/defs&gt;
+            &lt;use
+                href="#SkiSki001__col1n_0_Layer0_0_FILL"
+                transform="translate(96.65 58)"
+                id="SkiSki001__col1n"
+            /&gt;
+            &lt;use
+                href="#SkiSki001__hll_0_Layer0_0_FILL"
+                transform="matrix(1.00052 0 0 1 190.5 98.75)"
+                id="SkiSki001__col1d"
+            /&gt;
+            &lt;use
+                filter="url(#SkiSki001__Filter_1)"
+                href="#SkiSki001__hdd_0_Layer0_0_FILL"
+                transform="matrix(1.00052 0 0 1 190.5 98.75)"
+                id="SkiSki001__col1s"
+            /&gt;
+        &lt;/g&gt;&lt;/g&gt;
+    )
+}
+
+export default SkiSki001</code></pre>
+
+
+
+<p>But the script does do more than just to convert the asset to a React-friendly format. Actually this part is realized with the library <a rel="noreferrer noopener" href="https://www.npmjs.com/package/@svgr/core" data-type="URL" data-id="https://www.npmjs.com/package/@svgr/core" target="_blank">@svgr/core</a>.<br>My script extracts the primary color tones from the vector graphic and sets them as the default color options. These colors can be overwritten later by the user. The script does also do some more things to make it easier to work with the components from outside.</p>
+
+
+
+<h2>Workflow with GitHub and Vercel</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+
+
+
+<p>I host and manage all my code repositories on GitHub, so I also do this one. GitHub is awesome for collaborating, and it&#8217;s easy for Janina to upload new assets. Even though the productive version wouldn&#8217;t be hosted there, we also use <a rel="noreferrer noopener" href="https://vercel.com/" data-type="URL" data-id="https://vercel.com/" target="_blank">Vercel</a> to deploy and host states of the site for testing and debugging. Vercel works seamlessly together with GitHub and automatically deploys when I push new changes, so I can easily show them to Janina or to test them on different devices.</p>
+
+
+
+<h2>That&#8217;s it</h2>
+
+
+
+<p>for this article. If you would like to know more details about certain things or have any questions, let me know in the comments. </p>
+
+
+
+<p>The final version of the app will be launched tomorrow as I write this, so check it out when it&#8217;s published: <a rel="noreferrer noopener" href="https://sp-studio.de/" target="_blank">https://sp-studio.de/</a></p>
+
+
+
+<p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tumblr Bilder schneller im Vollbild betrachten</title>
+		<link>/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
+					<comments>/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2016 15:20:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[HQ]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[Tumblr]]></category>
+		<guid isPermaLink="false">/?p=1883</guid>
+
+					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="/wp-content/uploads/2016/04/showTumblrImage.png 600w, /wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, /wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
+Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^</p>
+<p>Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die URL des Tumblr-Posts ein und du wirst direkt auf die Vollansicht weitergeleitet.</p>
+<p><a href="http://lgk.io/show-tumblr-image" class="btn btn-primary btn-lg" target="">lgk.io/show-tumblr-image</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
+		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Hang The Song]]></category>
+		<category><![CDATA[LGK App]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 10 Mobile]]></category>
+		<guid isPermaLink="false">/?p=1828</guid>
+
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+<div class="row">
+<div class="col-sm-4">
+		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+<p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
+</p></div>
+<div class="col-sm-8">
+		Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten.<br />
+		Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu.<br />
+		Ein Hinweis kostet dir 10 Punkte. Pro Song hast du insgesamt 100 Punkte zur Verfügung. Sind alle Punkte aufgebraucht, ist das Spiel leider vorbei.</p>
+<p>		Am besten ist es also, so wenig Punkte wie möglich zu verschwenden und die Song-Titel zu erraten.</p>
+<p>		<a href="http://lgk.io/hang-the-song" target="_blank" class="btn btn-primary btn-lg">Kostenlos spielen</a></p>
+<h2 class="page-header">Im Web, auf dem PC oder auf dem Handy</h2>
+<p>		Die App ist unter <a href="http://lgk.io/hang-the-song" target="_blank">lgk.io/hang-the-song</a> erreichbar und kann direkt im Browser gespielt werden.<br />
+		Sie ist auf mobile Endgeräte optimiert, kann aber genau so gut am PC verwendet werden.</p>
+<p>		Ich habe außerdem mit dem <a href="http://appstudio.windows.com/" target="_blank">Windows App Studio</a> herum experimentiert und so gibt das Spiel auch als Windows 10 App. Für PCs UND Smartphones!</p>
+<p>		Allerdings noch nicht im Windows Store. Wenn du die Apps aber trotzdem testen willst, kannst du das tun.</p>
+<hr>
+<p>		Voraussetzung ist, dass du entweder Windows 10 oder Windows 10 Mobile benutzt.</p>
+<p>		Windows 10 am PC:</p>
+<ol>
+<li>Stelle sicher, dass sich dein PC im <strong>Entwickler-Modus</strong> befindet.</li>
+<li><a href="https://appstudio.windows.com/Job/getrootcertificate" target="_blank">Installier das Windows Zertifikat</a></li>
+<li><a href="http://appstudio.windows.com/Job/GetInstallablePackage?ticket=1751391.vnunga-1&#038;type=X86" target="_blank">Installier die App Hang The Song</a></li>
+</ol>
+<p>		Windows 10 am Smartphone:</p>
+<ol>
+<li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
+<li>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+			</li>
+<li>
+				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+			</li>
+</ol></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Troye Sivan &#8211; Fools (Remix by Elgeekay) &#8212; Free download</title>
+		<link>/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
+					<comments>/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2016 18:17:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Fools]]></category>
+		<category><![CDATA[Remix]]></category>
+		<category><![CDATA[Troye Sivan]]></category>
+		<guid isPermaLink="false">/?p=1814</guid>
+
+					<description><![CDATA[I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: http://www.troyesivan.com/ You can download my remix for free. If you want to use it for any of your works, please contact me first. Download (MP3, 2.8 MB)]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="/wp-content/uploads/2016/01/cover-300x300.jpg 300w, /wp-content/uploads/2016/01/cover-150x150.jpg 150w, /wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, /wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: <a href="http://www.troyesivan.com/" title="undefined" target="_blank">http://www.troyesivan.com/</a></p>
+<p>You can download my remix for free. If you want to use it for any of your works, please contact me first.</p>
+<p><a href="http://lib.lgk.io/Fools.mp3" target="_blank" class="btn btn-lg btn-success"><i class="fa fa-arrow-down"></i> Download <small>(MP3, 2.8 MB)</small></a></p>
+<div class="clearfix"></div>
+<hr>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4wiHZrhQvsA" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://lib.lgk.io/Fools.mp3" length="2943400" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</title>
+		<link>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
+					<comments>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2015 15:59:54 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Startmon Build-News]]></category>
+		<guid isPermaLink="false">/?p=1726</guid>
+
+					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2015/09/Screenshot-1.png 900w, /wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<h4>Startmon v11.11</h4>
+<p>Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen.</p>
+<p>Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &raquo; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;.</p>
+<p>Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen.<br />
+Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir per <a href="//about.lgkonline.com/kontakt">Kontakt</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
+		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<guid isPermaLink="false">/?p=1695</guid>
+
+					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+<p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
+<p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
+<p>In Kürze dazu mehr.</p>
+<p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon Rookie &#8211; Wie es weiter geht</title>
+		<link>/startmon-rookie-wie-es-weiter-geht/</link>
+					<comments>/startmon-rookie-wie-es-weiter-geht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2015 13:43:02 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Rookie]]></category>
+		<category><![CDATA[testen]]></category>
+		<guid isPermaLink="false">/?p=1682</guid>
+
+					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="/wp-content/uploads/2015/07/rookie-300x225.png 300w, /wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert.</p>
+<p>Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden.</p>
+<p>Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden kann.</p>
+<p>Um das zu realisieren, muss der grundsätzliche Code neu geschrieben werden. Diese neue Version, welche die Release-Nummer 12.x erhalten wird, nenne ich während sie noch in der Entstehung ist &#8220;Startmon Rookie&#8221; (hergeleitet aus Digimon).</p>
+<div class="clearfix"></div>
+<p><a href="/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, /wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, /wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Neues Feature: Pocket</h2>
+<p>Pocket ist ein Dienst, um schnell Web-Inhalte als Favorit zu speichern und das plattform-unabhängig. In der neuesten Firefox-Version ist Pocket bereits fest integriert.</p>
+<p>Dank der API von Pocket, können gespeicherte Links aus Pocket auch direkt auf Startmon angezeigt werden.</p>
+<h2>Startmon Rookie testen</h2>
+<p>Sobald Startmon Rookie die grundsätzlichen Funktionen übernommen hat, werde ich es online zur Verfügung stellen und es so oft es geht updaten.</p>
+<p>Sobald es so weit ist, werde ich es natürlich bekannt geben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

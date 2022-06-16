@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>form &#8211; LGK Blog</title>
+	<atom:link href="/tag/form/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 30 Sep 2012 19:38:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>form &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
+		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[deisgn]]></category>
+		<category><![CDATA[form]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[konvertieren]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umwandeln]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
+
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="box">
+<h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
+<p><center><br />
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/bxzVjUi9F2U" frameborder="0" allowfullscreen></iframe></center></p>
+<p style="text-align: right;"><a href="http://www.youtube.com/watch?v=bxzVjUi9F2U" target="_blank">Auf YouTube ansehen</a></p>
+<p>Musik: <a href="http://www.audioagency.de/" target="_blank">http://www.audioagency.de/</a></p>
+<p>In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt.<br />
+So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden.</p>
+<p>Ich hoffe, den einen oder anderen damit einen Tipp geben zu können.</p>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

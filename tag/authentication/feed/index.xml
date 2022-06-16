@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Authentication &#8211; LGK Blog</title>
+	<atom:link href="/tag/authentication/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Wed, 09 Sep 2015 15:58:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Authentication &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Melde dich nie mehr bei einer Web App an.</title>
+		<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+					<comments>/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2015 15:58:40 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Authentication]]></category>
+		<category><![CDATA[Authorization]]></category>
+		<category><![CDATA[Einstellungen]]></category>
+		<category><![CDATA[Login]]></category>
+		<category><![CDATA[Modell]]></category>
+		<category><![CDATA[Rumspinnerei]]></category>
+		<guid isPermaLink="false">/?p=1705</guid>
+
+					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="/wp-content/uploads/2015/09/no-pwd.png 400w, /wp-content/uploads/2015/09/no-pwd-150x150.png 150w, /wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss.</p>
+<p>Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft vom Anbieter vollgespamt zu werden.</p>
+<p>Glücklicherweise bieten es mittlerweile auch viele Dienste an, sich mit Google+, Facebook oder Twitter anzumelden. Doch wie wäre es, wenn du dich gar nicht anmelden bräuchtest?</p>
+<p>Häufig ist eine Anmeldung an einem Service nur notwendig, damit deine vorgenommenen Einstellungen erhalten bleiben. Nehmen wir als Beispiel <a href="https://color.adobe.com/de/create/color-wheel/" target="_blank">Adobe Color CC</a>.<br />
+Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speichern. Um den Dienst zu nutzen, ist keine Anmeldung notwendig. Du kannst ihn auch ohne verwenden. Nur kannst du die Farben dann eben nicht speichern.</p>
+<p>Um die Farben zu speichern, musst du ein Adobe-Konto besitzen und dich anmelden. Doch wie wäre es, wenn du die Farben in anderer Form speichern könntest? Als Cookie in deinem Browser! Und wenn du die Einstellungen in einem anderen Browser nutzen willst, exportier einfach den Cookie und füg ihn im anderen Browser wieder ein.</p>
+<h2>Speicher deine Einstellungen einfach ab.</h2>
+<p>Die <a href="https://icomoon.io/app" target="_blank">IcoMoon App</a> verfolgt bereits diesen Ansatz. Mit diesem Dienst kannst du aus SVG-Dateien WebFont-Icons machen und diese in Sammlungen speichern. Es ist keine Anmeldung erforderlich. Die Einstellungen bleiben im Browser gespeichert. Du kannst die Einstellungen in Form einer <code>config.json</code>-Datei exportieren und in einem anderen Browser wieder importieren.</p>
+<p>Also, ich finde dieses Konzept genial. Natürlich eignet es sich nicht für alle Anwendungen. Denn wenn die Einstellungen als Cookies gespeichert werden, sind sie leicht für andere einsehbar. Aber solange es sich nicht um sensible Daten handelt, halte ich es für völlig in Ordnung.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

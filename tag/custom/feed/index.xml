@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>custom &#8211; LGK Blog</title>
+	<atom:link href="/tag/custom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 09 Apr 2015 06:50:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>custom &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Alle abgerundeten Umrandungen in Bootstrap ausschalten.</title>
+		<link>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
+					<comments>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2014 11:00:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[Stylesheet]]></category>
+		<category><![CDATA[theme]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1179</guid>
+
+					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/bootstrap-2.png" alt="Bootstrap" width="282" height="264" class="alignright size-full wp-image-1183" /></p>
+<p>Ich nutze für meine Projekte gerne das Framework <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.<br />
+Allerdings gefallen mir die abgerundeten Elemente nicht besonders.</p>
+<p>Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten:</p>
+<pre class="prettyprint lang-css">
+.alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}}
+</pre>
+<p><span id="more-1179"></span></p>
+<p>Oder ausführlich:</p>
+<pre class="prettyprint lang-css">
+.img-thumbnail,
+code,
+kbd,
+pre,
+pre code,
+.form-control,
+.input-sm,
+.form-horizontal .form-group-sm .form-control,
+.input-lg,
+.form-horizontal .form-group-lg .form-control,
+.btn,
+.btn-link,
+.btn-lg,
+.btn-group-lg > .btn,
+.btn-sm,
+.btn-group-sm > .btn,
+.btn-xs,
+.btn-group-xs > .btn,
+.dropdown-menu,
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn,
+.btn-group-vertical > .btn:not(:first-child):not(:last-child),
+.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn,
+.input-group-lg > .form-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn,
+.input-group-sm > .form-control,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .btn,
+.input-group-addon:not(:first-child):not(:last-child),
+.input-group-btn:not(:first-child):not(:last-child),
+.input-group .form-control:not(:first-child):not(:last-child),
+.input-group-addon,
+.input-group-addon.input-sm,
+.input-group-addon.input-lg,
+.nav-tabs > li > a,
+.nav-tabs.nav-justified > li > a,
+.nav-pills > li > a,
+.nav-tabs-justified > li > a,
+.navbar-toggle,
+.breadcrumb,
+.pagination,
+.pager li > a,
+.pager li > span,
+.container .jumbotron,
+.thumbnail,
+.alert,
+.progress,
+.panel,
+.panel > .list-group .list-group-item,
+.panel-group .panel,
+.well,
+.well-lg,
+.well-sm,
+.modal-content,
+.tooltip-inner,
+.popover,
+.nav-pills > li > a,
+.label,
+.img-rounded,
+.list-group-item:first-child,
+.list-group-item:last-child {
+  border-radius: 0;
+}
+
+@media (min-width: 768px) {
+    .nav-tabs.nav-justified > li > a {
+        border-radius: 0 0 0 0;
+    }
+    
+    .navbar-static-top,
+    .navbar-fixed-top,
+    .navbar-fixed-bottom,
+    .navbar {
+        border-radius: 0 0 0 0;
+    }
+}
+</pre>
+<p><strong>Update am 09.04.2015:</strong> Die Elemente <code>.list-group-item:first-child</code> und <code>.list-group-item:last-child</code> wurden hinzugefügt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Personalisierung von Startmon nimmt Form an</title>
+		<link>/personalisierung-von-startmon-nimmt-form-an/</link>
+					<comments>/personalisierung-von-startmon-nimmt-form-an/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2014 17:59:55 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Änderungs-Modus]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Personalisierung]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1132</guid>
+
+					<description><![CDATA[Mit dem Änderungs-Modus können Nutzer ihre Startseite den eigenen Wünschen anpassen. Und zwar so, dass die Änderungen sofort sichtbar werden. Alle Elemente, die sich anpassen lassen, sind blau umrandet. Momentan sind das nur die personalisierten Links-Listen. Später sollen u.a. auch noch die Suchmaschinen-Masken hinzu kommen. Unter start.lgkonline.com kann bereits eine Preview von Startmon getestet werden.&#8230; <a class="more-link" href="/personalisierung-von-startmon-nimmt-form-an/">Continue reading <span class="screen-reader-text">Personalisierung von Startmon nimmt Form an</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Mit dem Änderungs-Modus können Nutzer ihre Startseite den eigenen Wünschen anpassen. Und zwar so, dass die Änderungen sofort sichtbar werden.</p>
+<p>Alle Elemente, die sich anpassen lassen, sind blau umrandet.<br />
+Momentan sind das nur die personalisierten Links-Listen.</p>
+<p>Später sollen u.a. auch noch die Suchmaschinen-Masken hinzu kommen.</p>
+
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_1.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Änderungs-Modus" loading="lazy" style="width:100%;height:81.19%;max-width:808px;" /></a>
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_2.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Erstellen einer eigenen Liste" loading="lazy" style="width:100%;height:69.79%;max-width:940px;" /></a>
+<a href='/wp-content/uploads/2014/07/startmon_2014-07-28_3.png'><img width="150" height="150" src="/wp-content/uploads/2014/07/startmon_2014-07-28_3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Links erstellen" loading="lazy" style="width:100%;height:42.12%;max-width:952px;" /></a>
+
+<p>Unter <a href="http://start.lgkonline.com/" target="_blank">start.lgkonline.com</a> kann bereits eine Preview von Startmon getestet werden. Wenn dir einfällt, was man besser machen könnte, nutze gerne den Feedback-Button oder kommentiere hier im Blog.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/personalisierung-von-startmon-nimmt-form-an/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

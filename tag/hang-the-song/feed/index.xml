@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hang The Song &#8211; LGK Blog</title>
+	<atom:link href="/tag/hang-the-song/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 25 Jan 2016 08:52:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Hang The Song &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
+		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Hang The Song]]></category>
+		<category><![CDATA[LGK App]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 10 Mobile]]></category>
+		<guid isPermaLink="false">/?p=1828</guid>
+
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+<div class="row">
+<div class="col-sm-4">
+		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+<p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
+</p></div>
+<div class="col-sm-8">
+		Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten.<br />
+		Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu.<br />
+		Ein Hinweis kostet dir 10 Punkte. Pro Song hast du insgesamt 100 Punkte zur Verfügung. Sind alle Punkte aufgebraucht, ist das Spiel leider vorbei.</p>
+<p>		Am besten ist es also, so wenig Punkte wie möglich zu verschwenden und die Song-Titel zu erraten.</p>
+<p>		<a href="http://lgk.io/hang-the-song" target="_blank" class="btn btn-primary btn-lg">Kostenlos spielen</a></p>
+<h2 class="page-header">Im Web, auf dem PC oder auf dem Handy</h2>
+<p>		Die App ist unter <a href="http://lgk.io/hang-the-song" target="_blank">lgk.io/hang-the-song</a> erreichbar und kann direkt im Browser gespielt werden.<br />
+		Sie ist auf mobile Endgeräte optimiert, kann aber genau so gut am PC verwendet werden.</p>
+<p>		Ich habe außerdem mit dem <a href="http://appstudio.windows.com/" target="_blank">Windows App Studio</a> herum experimentiert und so gibt das Spiel auch als Windows 10 App. Für PCs UND Smartphones!</p>
+<p>		Allerdings noch nicht im Windows Store. Wenn du die Apps aber trotzdem testen willst, kannst du das tun.</p>
+<hr>
+<p>		Voraussetzung ist, dass du entweder Windows 10 oder Windows 10 Mobile benutzt.</p>
+<p>		Windows 10 am PC:</p>
+<ol>
+<li>Stelle sicher, dass sich dein PC im <strong>Entwickler-Modus</strong> befindet.</li>
+<li><a href="https://appstudio.windows.com/Job/getrootcertificate" target="_blank">Installier das Windows Zertifikat</a></li>
+<li><a href="http://appstudio.windows.com/Job/GetInstallablePackage?ticket=1751391.vnunga-1&#038;type=X86" target="_blank">Installier die App Hang The Song</a></li>
+</ol>
+<p>		Windows 10 am Smartphone:</p>
+<ol>
+<li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
+<li>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+			</li>
+<li>
+				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+			</li>
+</ol></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

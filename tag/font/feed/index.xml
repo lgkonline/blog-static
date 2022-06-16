@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>font &#8211; LGK Blog</title>
+	<atom:link href="/tag/font/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 28 Jul 2016 14:26:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>font &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
+		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[Icon]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[unicode]]></category>
+		<guid isPermaLink="false">/?p=1925</guid>
+
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="wp-caption alignleft">
+<div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
+</div>
+<p>Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen.</p>
+<p>Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind Symbole ein wichtiger Bestandteil. Ein &#9776; öffnet ein Menü, ein 	&#128270; führt eine Suche aus und mit einem &#9829; favorisiere ich etwas.</p>
+<p>Oh, hast du gesehen, wie ich Icons sogar hier im Artikel verwendet habe? Und das ging ganz einfach. Und damit kommen wir zum eigentlichen Thema dieses Artikels. &#12320;</p>
+<p>Ich benutzte dafür keine Icon-Library wie <a href="http://fontawesome.io/" target="_blank">FontAwesome</a>. Für das &#12320; zum Beispiel habe ich nur folgendes als HTML geschrieben: <code>&amp;#12320;</code><br />
+Damit habe ich einfach nur den Unicode für dieses Symbol benutzt. Denn eine Menge Icons haben &#8212; genauso wie Buchstaben und Ziffern &#8212; einen eigenen Unicode.<br />
+Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwendete Schriftart dieses auch enthält. </p>
+<h2>Finde Icons mit Graphemica</h2>
+<p>Graphemica sucht Icons im Unicode basierend auf Stichwörter.</p>
+<p><a class="btn btn-primary" href="http://graphemica.com/" target="_blank">http://graphemica.com/</a></p>
+<p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

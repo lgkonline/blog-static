@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thin Design &#8211; LGK Blog</title>
+	<atom:link href="/tag/thin-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 08 May 2016 02:02:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Thin Design &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Das &#8220;Thin Design&#8221;-Phänomen</title>
+		<link>/das-thin-design-phaenomen/</link>
+					<comments>/das-thin-design-phaenomen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 08 May 2016 12:00:09 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Thin Design]]></category>
+		<guid isPermaLink="false">/?p=1889</guid>
+
+					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie.<br />
+Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard.</p>
+<p>Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren. </p>
+<p>&#8220;Thin Design&#8221; scheint ein Teil davon zu sein. Und es beschränkt sich nicht nur auf die Typografie. Wer in letzter Zeit die Design-Entwicklungen von Microsoft (Windows 10) und Apple (OS X, iOS) verfolgt hat, wird feststellen, dass auch Symbole vom Schlankheitswahn betroffen sind.</p>
+<p>Hier mal ein Beispiel, das ich auf der Apple-Website gefunden habe:<br />
+<a href="/wp-content/uploads/2016/05/scr-0223.jpg"><img width="998" height="278" src="/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0223.jpg 998w, /wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, /wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<h2>Wo kann ich &#8220;Thin Design&#8221; einsetzen &#8211; wo nicht?</h2>
+<p>Als UX-Elemente halte ich &#8220;Thin Design&#8221; für eine angebrachte Sache. Sowohl für Typografie, Symbole, aber auch für andere Controls, wie Buttons, Eingabefelder, Trennlinien.<br />
+Linien sollten aber möglichst vektorbasiert erzeugt werden und nicht beispielsweise als Bitmap, um eine Skalierbarkeit zu ermöglichen. Es besteht nämlich die Gefahr, dass die Linien dadurch verschwinden könnten. Bei Webdesign könnten Thin-Elemente beispielsweise per CSS (Border) oder SVG erzeugt werden.</p>
+<p>Unangebracht halte ich Thin Design allerdings beim Logo-Design. Ein Logo muss universell einsetzbar sein und eine starke und selbstbewusste Darstellung haben. Besteht eine Bildmarke nur aus dünnen Linien, kann es schnell untergehen, wenn nicht sogar verschwinden. In Fließtexten bieten sich &#8220;leichte&#8221; Schriftarten auch nicht an, weil dadurch die Lesbarkeit beeinträchtigt werden kann.</p>
+<p>Beim Redesign der Nachrichten-Feeds auf Startmon.com habe ich mich auch mal am &#8220;Thin Design&#8221; orientiert.<br />
+Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="undefined" target="_blank">https://startmon.com/</a> gehst und dann bei &#8220;Nachrichten-Feeds&#8221; unten links auf den Maximieren-Button klickst.</p>
+<a href="/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, /wp-content/uploads/2016/05/scr-0224-300x197.png 300w, /wp-content/uploads/2016/05/scr-0224-768x505.png 768w, /wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+]]></content:encoded>
+					
+					<wfw:commentRss>/das-thin-design-phaenomen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

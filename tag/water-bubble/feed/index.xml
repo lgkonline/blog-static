@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>water bubble &#8211; LGK Blog</title>
+	<atom:link href="/tag/water-bubble/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 16 Sep 2012 18:21:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>water bubble &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Testet den nächsten LGK Start</title>
+		<link>/testet-den-nachsten-lgk-start/</link>
+					<comments>/testet-den-nachsten-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Sep 2012 18:21:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hintergrund]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<category><![CDATA[water bubble]]></category>
+		<category><![CDATA[waterline]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=641</guid>
+
+					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, /wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
+<p>In <a href="http://lgkonline.de/blog/?p=623">diesem Artikel</a> habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet.</p>
+<p>Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt.</p>
+<p>Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt und ihr direkt nach YouTube weitergeleitet werdet.</p>
+<p>Um die Seite auch optisch ein wenig zu verbessern, kam ein neuer Hintergrund hinzu. Diesen seht ihr auch links im Bild.</p>
+<p>Auf meiner deviantART-Seite findet ihr diesen Hintergrund als Wallpaper: <a href="http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105" target="_blank">http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105</a></p>
+<p><strong><a href="http://lgkonline.de/mys/new/" target="_blank">Klicke hier, um das neue LGK Start zu testen.</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

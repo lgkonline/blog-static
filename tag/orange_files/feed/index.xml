@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>orange_files &#8211; LGK Blog</title>
+	<atom:link href="/tag/orange_files/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 07 Sep 2014 17:15:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>orange_files &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neue Version von orange_files steht zum Download bereit</title>
+		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Dateien]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[FTP]]></category>
+		<category><![CDATA[Neue Version]]></category>
+		<category><![CDATA[orange_files]]></category>
+		<category><![CDATA[Organizer]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
+
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
+<p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
+<p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
+Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
+<p>Ebenfalls lassen sich in <code>OPTIONS.php</code> die Thumbnails jetzt komplett abschalten. Auch die Icons für die verschiedenen Dateiformate bekamen ein Facelift.</p>
+<p>Das fancyBox-Plugin ist nun bereits bei dem Installations-Paket integriert. Bilder werden so in einer schicken Lightbox angezeigt.<br />
+In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz einfach deaktivieren.</p>
+<p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

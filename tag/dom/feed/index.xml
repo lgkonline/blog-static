@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DOM &#8211; LGK Blog</title>
+	<atom:link href="/tag/dom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 08 May 2017 10:54:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>DOM &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JS: Hide an element when clicking on somewhere else</title>
+		<link>/js-hide-an-element-when-clicking-on-somewhere-else/</link>
+					<comments>/js-hide-an-element-when-clicking-on-somewhere-else/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:54:39 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[DOM]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">/?p=1980</guid>
+
+					<description><![CDATA[Hint: I used the functions removeClass() and addClass() to make things easier. You can find them on See the Pen Hide an element when clicking on somewhere else by Lars Gerrit Kliesing LGK (@lgkonline) on CodePen.]]></description>
+										<content:encoded><![CDATA[<p>Hint: I used the functions <code>removeClass()</code> and <code>addClass()</code> to make things easier. You can find them on <a href="/javascript-hasclass-addclass-removeclass-helper-functions/" title="undefined" target="null"></a></p>
+<p data-height="491" data-theme-id="0" data-slug-hash="rjorrw" data-default-tab="js,result" data-user="lgkonline" data-embed-version="2" data-pen-title="Hide an element when clicking on somewhere else" class="codepen">See the Pen <a href="http://codepen.io/lgkonline/pen/rjorrw/">Hide an element when clicking on somewhere else</a> by Lars Gerrit Kliesing LGK (<a href="http://codepen.io/lgkonline">@lgkonline</a>) on <a href="http://codepen.io/">CodePen</a>.</p>
+<p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/js-hide-an-element-when-clicking-on-somewhere-else/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</title>
+		<link>/javascript-hasclass-addclass-removeclass-helper-functions/</link>
+					<comments>/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:52:16 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[DOM]]></category>
+		<category><![CDATA[Helper]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">/?p=1977</guid>
+
+					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
+										<content:encoded><![CDATA[<p>If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you:</p>
+<pre class="prettyprint lang-js">
+function hasClass(el, className) {
+    if (el.classList)
+        return el.classList.contains(className);
+    else
+        return !!el.className.match(new RegExp('(\\s|^)' + className + '(\\s|$)'));
+}
+
+function addClass(el, className) {
+    if (el.classList)
+        el.classList.add(className);
+    else if (!hasClass(el, className)) 
+        el.className += " " + className;
+}
+
+function removeClass(el, className) {
+    if (el.classList)
+        el.classList.remove(className);
+    else if (hasClass(el, className))
+        el.className=el.className.replace(new RegExp('(\\s|^)' + className + '(\\s|$)'), ' ');
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

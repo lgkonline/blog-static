@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>arm &#8211; LGK Blog</title>
+	<atom:link href="/tag/arm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:36:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>arm &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apple M1: Potential für die gesamte PC-Sparte?</title>
+		<link>/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
+					<comments>/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 11:34:08 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[apple silicon]]></category>
+		<category><![CDATA[arm]]></category>
+		<category><![CDATA[big sur]]></category>
+		<category><![CDATA[macos]]></category>
+		<guid isPermaLink="false">/?p=2128</guid>
+
+					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.apple.com/apple-events/november-2020/" target="_blank" rel="noopener noreferrer">Im November</a> hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt.</p>
+<p><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
+<p>Aber auch für Microsoft bietet das meiner Ansicht nach die Chance, Windows ARM endlich attraktiver zu machen. Tatsächlich war Microsoft in dem Bereich schon viel weiter, <a href="https://de.wikipedia.org/wiki/Microsoft_Windows_RT" target="_blank" rel="noopener noreferrer">Windows RT</a> wurde bereits 2012 veröffentlicht. Möglicherweise seiner Zeit voraus, konnte es sich aber nicht gut behaupten. Es gab nur wenig gute Apps, die dafür entwickelt wurden und es war auch nicht möglich, x86-Apps zu emulieren, so wie es mit Apple M1 und macOS Big Sur möglich ist (Stichwort Rosetta 2).</p>
+<p>Microsoft war leider noch nie erfolgreich darin, Entwickler zu überzeugen, Software für ihre Plattform anzupassen. Windows Phone und Windows Mobile hatten ein ähnliches Problem. Das ist leider auch ein Teufelskreis. Entwickler werden Apps eher für Betriebssysteme schreiben, die auch von der Mehrheit genutzt wird (iOS/Android). Apple ist darin deutlich besser. Bereits in der kurzen Zeit, seitdem macOS mit Apple Silicon angekündigt hat, haben bereits viele Entwickler begonnen, ihre Software anzupassen und auf ARM-Architektur zu optimieren. Und deswegen glaube ich, dass bald auch Windows-ARM-Geräte wieder interessanter werden können. Denn wenn Software wie Photoshop einmal für Apple M1 umgeschrieben wurde, könnte es auch einfacher sein, diesen Code auch für andere ARM-CPUs zu kompilieren.</p>
+<p>Glaubt ihr, dass wir schon bald mehr ARM-PCs mit Windows sehen werden?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; LGK Blog</title>
+	<atom:link href="/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:14:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>WordPress &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The new design for my (this) blog</title>
+		<link>/the-new-design-for-my-this-blog/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2416</guid>
+
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
+
+
+
+<p>But I think it’s not too late to still write a little post about it.</p>
+
+
+
+<h2>The goal: make the blog look like the rest of lgk.io</h2>
+
+
+
+<p>The blog runs with WordPress and now with a new child theme of the preinstalled Twenty Twenty-One, I just called „Twenty Twenty-One LGK“. In the past I used a theme I totally created myself, it was called „Winegum“. It’s still available on GitHub (<a href="https://github.com/lgkonline/Winegum1" target="_blank" rel="noreferrer noopener">https://github.com/lgkonline/Winegum1</a>), but I really don’t recommend to use it anymore. It’s very outdated not compatible with modern WordPress features and third-party plugins. It might also be better for security reasons to use a theme, which is activity maintained. That’s why I switched to Twenty Twenty-One.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+
+
+
+<p>I used the color customisation options of the theme to make it match better with my&nbsp;<a rel="noreferrer noopener" href="https://lgk.io/" target="_blank">portfolio site</a>. That was the first step to the current look of the blog. From there I created my child theme and replaced parts of the theme, most important part is the header.</p>
+
+
+
+<p>By the way: my portfolio site and this blog are running on completely different technologies. The blog is a PHP-server-rendered WordPress site and my portfolio is a React Single-Page-Application. So my task was to bring the header of my React app to the WordPress theme and make it look as seamless as possible.</p>
+
+
+
+<p>I’m pretty happy with the result. When you switch between „Blog“ and „Start“ for example, you are switching between two totally separated sites, hopefully without mentioning it. The blog uses the same colors and the same font now.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+
+
+
+<h2>The new search bar</h2>
+
+
+
+<p>One thing was still missing on the new theme: a search bar. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But hey, better late than never, right? It’s now there too!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+
+
+
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neues WordPress-Theme ist verfügbar</title>
+		<link>/neues-wordpress-theme-ist-verfuegbar/</link>
+					<comments>/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2014 12:09:29 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[Winegum]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[ZIP]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1359</guid>
+
+					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="/wp-content/uploads/2014/11/screenshot-300x219.png 300w, /wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure></p>
+<p>Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;.<br />
+Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen.</p>
+<p>Den Download-Link findet ihr auf <a href="http://lgkonline.com/winegum/" target="_blank">http://lgkonline.com/winegum/</a>.</p>
+<p>Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo setzen und noch einiges mehr.<br />
+Auch könnt ihr entscheiden, ob ihr eine Sidebar wollt und wenn, wo sie überall angezeigt werden soll.</p>
+<p>Außerdem könnt ihr Links zu sozialen Netzwerken setzen, z.B. zu eurem Facebook- oder Twitter-Profil.<br />
+Derzeit werden diese Dienste angeboten:</p>
+<ul>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>YouTube</li>
+<li>Instagram</li>
+<li>GitHub</li>
+<li>Vine</li>
+<li>Google+</li>
+</ul>
+<div class="btn-group">
+<a href="http://lgkonline.com/winegum/" class="btn btn-success" target="_blank"><i class="fa fa-download"></i> Zum Download</a><a href="https://github.com/lgkonline/Winegum" target="_blank" class="btn btn-primary"><i class="fa fa-github"></i> Winegum auf GitHub</a>
+</div>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Der Blog im neuen Gewand</title>
+		<link>/der-blog-im-neuen-gewand/</link>
+					<comments>/der-blog-im-neuen-gewand/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 18 Jun 2013 19:13:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[pure blog red]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=756</guid>
+
+					<description><![CDATA[Wie ihr seht, habe ich das Aussehen dieses Blogs geändert. Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das kommende LGK Start gerichtet. Mir gefällt dieser frische und etwas andere Stil sehr. Was haltet ihr davon? Würde mich über Kommentare freuen.]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, /wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, /wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure></p>
+<p>Wie ihr seht, habe ich das Aussehen dieses Blogs geändert.</p>
+<p>Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das <a href="/start_new/">kommende LGK Start</a> gerichtet.</p>
+<p>Mir gefällt dieser frische und etwas andere Stil sehr.<br />
+Was haltet ihr davon? Würde mich über Kommentare freuen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

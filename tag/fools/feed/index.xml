@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fools &#8211; LGK Blog</title>
+	<atom:link href="/tag/fools/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 07 Jan 2016 18:33:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Fools &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Troye Sivan &#8211; Fools (Remix by Elgeekay) &#8212; Free download</title>
+		<link>/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
+					<comments>/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2016 18:17:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Fools]]></category>
+		<category><![CDATA[Remix]]></category>
+		<category><![CDATA[Troye Sivan]]></category>
+		<guid isPermaLink="false">/?p=1814</guid>
+
+					<description><![CDATA[I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: http://www.troyesivan.com/ You can download my remix for free. If you want to use it for any of your works, please contact me first. Download (MP3, 2.8 MB)]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="/wp-content/uploads/2016/01/cover-300x300.jpg 300w, /wp-content/uploads/2016/01/cover-150x150.jpg 150w, /wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, /wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: <a href="http://www.troyesivan.com/" title="undefined" target="_blank">http://www.troyesivan.com/</a></p>
+<p>You can download my remix for free. If you want to use it for any of your works, please contact me first.</p>
+<p><a href="http://lib.lgk.io/Fools.mp3" target="_blank" class="btn btn-lg btn-success"><i class="fa fa-arrow-down"></i> Download <small>(MP3, 2.8 MB)</small></a></p>
+<div class="clearfix"></div>
+<hr>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4wiHZrhQvsA" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://lib.lgk.io/Fools.mp3" length="2943400" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>creative suite &#8211; LGK Blog</title>
+	<atom:link href="/tag/creative-suite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 22 Mar 2012 17:48:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>creative suite &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neue Photoshop-Funktion: Video</title>
+		<link>/neue-photoshop-funktion-video/</link>
+					<comments>/neue-photoshop-funktion-video/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bearbeitung]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[creative suite]]></category>
+		<category><![CDATA[cs6]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
+
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+<p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
+<p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
+<p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
+Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
+<p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
+<div class="float-reg"></div>
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
+Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
+<div class="float-reg"></div>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<ul>
+<li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
+<li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suche &#8211; LGK Blog</title>
+	<atom:link href="/tag/suche/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 16 Jun 2013 17:20:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Suche &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aktueller Stand der LGK Start Open Build</title>
+		<link>/aktueller-stand-der-lgk-start-open-build/</link>
+					<comments>/aktueller-stand-der-lgk-start-open-build/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2013 17:20:01 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Sprache]]></category>
+		<category><![CDATA[Suche]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=747</guid>
+
+					<description><![CDATA[Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert. Es werden regelmäßig Meilensteine der Entwicklung online gestellt. Neu bei der Version 10.0.2 Open Build sind folgende Dinge: Neue Such-Methode Deutsche und englische Sprache Neue Such-Methode Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert. Aber&#8230; <a class="more-link" href="/aktueller-stand-der-lgk-start-open-build/">Continue reading <span class="screen-reader-text">Aktueller Stand der LGK Start Open Build</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert.</p>
+<p>Es werden regelmäßig Meilensteine der Entwicklung online gestellt.</p>
+<p>Neu bei der Version 10.0.2 Open Build sind folgende Dinge:</p>
+<ul>
+<li><a href="#p01">Neue Such-Methode</a></li>
+<li><a href="#p02">Deutsche und englische Sprache</a></li>
+</ul>
+<p></p>
+<h2><a name="p01"></a>Neue Such-Methode</h2>
+<p>
+Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert.
+</p>
+<p>
+Aber innerlich hat sich das Prinzip komplett geändert. Vor allem setzt die neue Suche mehr auf die Magie von jQuery. Dadurch wurde u.a. ein Bug beseitigt, welcher das Zurückbringen nach einer Suche auf LGK Start verhindert hat.
+</p>
+<h2><a name="p02"></a>Deutsche und englische Sprache</h2>
+<p>
+Ein Wunsch von mir war es, LGK Start auch in englischer Sprache anbieten zu können. Das ist nun der Fall. Die Seite erkennt automatisch, welche Sprache der Benutzer eingestellt hat, und stellt daraufhin entweder die deutsche oder die englische Version dar.
+</p>
+<p>
+Diese unterscheiden sich nicht nur durch die Sprache. Auch einige Dienste in den Link-Menüs wurden ausgetauscht.
+</p>
+<p>
+Die englische Version kann auch durch diese Adresse aufgerufen werden:<br />
+<a href="http://lgkonline.de/start_new?lang=eng" target="_blank">lgkonline.de/start_new?lang=eng</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/aktueller-stand-der-lgk-start-open-build/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vorschau auf LGK Start Version 10</title>
+		<link>/vorschau-auf-lgk-start-version-10/</link>
+					<comments>/vorschau-auf-lgk-start-version-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 08 Jun 2013 19:11:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Foto]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=732</guid>
+
+					<description><![CDATA[Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen. Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt. Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen. Es&#8230; <a class="more-link" href="/vorschau-auf-lgk-start-version-10/">Continue reading <span class="screen-reader-text">Vorschau auf LGK Start Version 10</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_733" aria-describedby="caption-attachment-733" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg" alt="So in etwa wird LGK Start bald ausschauen" width="300" height="146" class="size-medium wp-image-733" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01-1024x501.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg 1630w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-733" class="wp-caption-text">So in etwa wird LGK Start bald ausschauen</figcaption></figure>
+<p>Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen.</p>
+<p>Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt.</p>
+<p>Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen.</p>
+<p>Es gibt noch weitere optische Änderungen. Die Tabs für die Suchmaschinen wurden etwas breiter, so wirken die Icons nicht mehr so gequetscht.<br />
+Was auf dem Bild links nicht zu sehen ist: Die aktuelle Suchmaschine wird nun statt statischer Farbe, durch Animation zwischen zwei Farben hervorgehoben.</p>
+<p>Außerdem gibt es einen neuen Menüpunkt in der Links-Liste: Entwickler-Tools. Darin findet man Links zu Seiten, wie loremipsum.de oder Codecadamy.</p>
+<p>Wenn die Seite fertig ist, findet ihr sie unter: <a href="http://lgkonline.de/start">lgkonline.de/start</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vorschau-auf-lgk-start-version-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testet den nächsten LGK Start</title>
+		<link>/testet-den-nachsten-lgk-start/</link>
+					<comments>/testet-den-nachsten-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Sep 2012 18:21:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hintergrund]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<category><![CDATA[water bubble]]></category>
+		<category><![CDATA[waterline]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=641</guid>
+
+					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, /wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
+<p>In <a href="http://lgkonline.de/blog/?p=623">diesem Artikel</a> habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet.</p>
+<p>Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt.</p>
+<p>Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt und ihr direkt nach YouTube weitergeleitet werdet.</p>
+<p>Um die Seite auch optisch ein wenig zu verbessern, kam ein neuer Hintergrund hinzu. Diesen seht ihr auch links im Bild.</p>
+<p>Auf meiner deviantART-Seite findet ihr diesen Hintergrund als Wallpaper: <a href="http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105" target="_blank">http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105</a></p>
+<p><strong><a href="http://lgkonline.de/mys/new/" target="_blank">Klicke hier, um das neue LGK Start zu testen.</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue LGK-Navi</title>
+		<link>/neue-lgk-navi/</link>
+					<comments>/neue-lgk-navi/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 26 Aug 2012 15:23:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[Navi]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=600</guid>
+
+					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, /wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation.</p>
+<p>Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört.</p>
+<p>Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken, würdest du zur Startseite von LGK Blog gelangen.</p>
+<p>Wenn du auf das Symbol daneben klickst, erscheint das Dashboard, indem du z.B. nach LGK mys switchen kannst, oder auch die gesamte Website durchsuchen kannst.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-lgk-navi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
+		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Funktion]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
+
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
+<p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
+Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
+<p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
+Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut machen.</p>
+<p>Das ist zwar kein Weltuntergang, aber ich als Betreiber von LGK Start, wollte den Nutzern diese &#8220;Qual&#8221; ersparen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="float-reg"></div>
+<p><span id="more-481"></span></p>
+<h2>Wie funktioniert das Ganze nun?</h2>
+<p>Ganz einfach:</p>
+<ol>
+<li>Du machst eine ganz normale Sucheingabe.</li>
+<li>Aktiviere den Haken ganz links in der Eingabeleiste.</li>
+<li>Fertig.<br />Deine Eingabe bleibt erhalten. Jetzt kannst du einfach in einen anderen Suchdienst, wie z.B. Wikipedia wechseln.</li>
+</ol>
+<h2>Angepasstes Design</h2>
+<p>Memory ist auch einer der Gründe, warum ich das Design noch weiter verändert habe.<br />Denn die Suchleiste wurde allmählich zu eng und auch die Suchdienst-Buttons wirkten etwas gequetscht.</p>
+<p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
+<p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
+<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

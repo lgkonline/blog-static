@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Partner &#8211; LGK Blog</title>
+	<atom:link href="/tag/partner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 03 Jun 2014 13:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Partner &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Es gibt einen neuen Werbebanner für LGK Start</title>
+		<link>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/</link>
+					<comments>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2013 18:35:59 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Bannertausch]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[Partner]]></category>
+		<category><![CDATA[Werbebanner]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=713</guid>
+
+					<description><![CDATA[Ich habe mithilfe von Adobe Edge Animate einen Werbebanner für LGK Start erstellt. Das heißt, die Animation basiert auf HTML5. Das hat einige Vorteile gegenüber Flash-Bannern. Wenn du LGK Start unterstützen willst, kannst du den Banner gerne auf deine Seite einbinden. Hier ist der Code dafür: Lass auch gerne einen Kommentar mit einen Banner von&#8230; <a class="more-link" href="/es-gibt-einen-neuen-werbebanner-fur-lgk-start/">Continue reading <span class="screen-reader-text">Es gibt einen neuen Werbebanner für LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="http://lgkonline.de/files/start-werbebanner/lgkstart.html" width="728px" height="90px" frameborder="0" scrolling="no"></iframe></p>
+<p>Ich habe mithilfe von Adobe Edge Animate einen Werbebanner für LGK Start erstellt. Das heißt, die Animation basiert auf HTML5.<br />
+Das hat einige Vorteile gegenüber Flash-Bannern.</p>
+<p>Wenn du LGK Start unterstützen willst, kannst du den Banner gerne auf deine Seite einbinden.</p>
+<p>Hier ist der Code dafür:</p>
+<pre class="prettyprint lang-html">
+<iframe src="http://lgkonline.de/files/start-werbebanner/lgkstart.html" 
+width="728px" height="90px" frameborder="0" scrolling="no"></iframe>
+</pre>
+<p>Lass auch gerne einen Kommentar mit einen Banner von dir da, dann kann ich diesen ebenfalls auf diese Seite einbinden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/es-gibt-einen-neuen-werbebanner-fur-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

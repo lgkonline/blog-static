@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Materialize &#8211; LGK Blog</title>
+	<atom:link href="/tag/materialize/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:27:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Materialize &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>html_bones 2.1 ist online!</title>
+		<link>/html_bones-2-1-ist-online/</link>
+					<comments>/html_bones-2-1-ist-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 17:53:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html_bones]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Layout]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Neue Version]]></category>
+		<category><![CDATA[Release]]></category>
+		<guid isPermaLink="false">/?p=1541</guid>
+
+					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, /wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, /wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen.<br />
+Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden.</p>
+<p>So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst.</p>
+<p>Es ist keine Anmeldung oder Registrierung notwendig.<br />
+<a href="http://bones.lgk.io/" title="" target="_blank" class="btn btn-primary">Jetzt starten &raquo;</a></p>
+<p><span id="more-1541"></span></p>
+<h3>Änderungen zur vorherigen Version</h3>
+<p>Während v1.x vor allem mit PHP lief, läuft v2.1 ausschließlich client-seitig. Das heißt: Weniger Laden.<br />
+Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbeitet werden. Das kostete viel Zeit, vor allem, weil man höchst wahrscheinlich mehrere Elemente hintereinander an- und abwählen möchte.</p>
+<p>v2.1 dagegen läuft ausschließlich mit HTML, CSS und JavaScript. Das hat allerdings auch Nachteile, da ich so mehr auf die Browserkompatibilität achten musste. So gibt es mit IE leider immer noch einen Bug, den ich nicht lösen konnte (das UTF-8-Meta-Element kann nicht ausgewählt werden).</p>
+<h3>Das Design: Materialize</h3>
+<p>Ich bin zwar ein riesen Bootstrap-Fan, hier wollte ich aber mal ein anderes CSS-Framework testen: <a href="http://materializecss.com/" title="" target="_blank">Materialize CSS</a>.</p>
+<p>Wie sich bereits heraushören lässt, basiert Materialize auf das Material Design von Google. Zu diesem Zeitpunkt befindet sich das Framework allerdings noch im Alpha-Status.</p>
+<ul>
+<li><a href="http://materializecss.com/" title="" target="_blank">Materialize Website</a></li>
+<li><a href="https://github.com/Dogfalo/materialize" title="" target="_blank">Materialize auf GitHub</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/html_bones-2-1-ist-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

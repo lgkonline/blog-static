@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UX &#8211; LGK Blog</title>
+	<atom:link href="/tag/ux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 03 Apr 2017 12:23:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>UX &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Try to avoid loops in JavaScript for better performance</title>
+		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/?p=1961</guid>
+
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
+<p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
+<p>Here is a simple example:</p>
+<pre class="prettyprint lang-js">
+const exampleDataArray = [
+	{
+		id: 8462943,
+		name: "Google",
+		url: "http://google.com/"
+	},
+	{
+		id: 9847323,
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	{
+		id: 938442934,
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+];
+
+function getDataById(id) {
+	for (let i = 0; i < exampleDataArray.length; i++) {
+		if (exampleDataArray[i].id === id) {
+			return exampleDataArray[i];
+		}
+	}
+}
+</pre>
+<p>So in this example when I want to get an item by its ID or any other property I have to go through each other item first. Depending on how many items you have and how often you need to get one item, it can take lot of time.</p>
+<p>If you use an object instead of an array it could look like this:</p>
+<pre class="prettyprint lang-js">
+const exampleDataObject = {
+	8462943: {
+		name: "Google",
+		url: "http://google.com/"
+	},
+	9847323: {
+		name: "Amazon",
+		url: "http://amazon.com/"
+	},
+	938442934: {
+		name: "Twitter",
+		url: "http://twitter.com/"
+	}
+};
+
+function getDataById(id) {
+	return exampleDataObject[id];
+}
+</pre>
+<p>This way we can directly point to the item we want and don't have to use a loop.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

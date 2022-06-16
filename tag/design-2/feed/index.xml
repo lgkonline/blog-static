@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>design &#8211; LGK Blog</title>
+	<atom:link href="/tag/design-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>design &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The new design for my (this) blog</title>
+		<link>/the-new-design-for-my-this-blog/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2416</guid>
+
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
+
+
+
+<p>But I think it’s not too late to still write a little post about it.</p>
+
+
+
+<h2>The goal: make the blog look like the rest of lgk.io</h2>
+
+
+
+<p>The blog runs with WordPress and now with a new child theme of the preinstalled Twenty Twenty-One, I just called „Twenty Twenty-One LGK“. In the past I used a theme I totally created myself, it was called „Winegum“. It’s still available on GitHub (<a href="https://github.com/lgkonline/Winegum1" target="_blank" rel="noreferrer noopener">https://github.com/lgkonline/Winegum1</a>), but I really don’t recommend to use it anymore. It’s very outdated not compatible with modern WordPress features and third-party plugins. It might also be better for security reasons to use a theme, which is activity maintained. That’s why I switched to Twenty Twenty-One.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+
+
+
+<p>I used the color customisation options of the theme to make it match better with my&nbsp;<a rel="noreferrer noopener" href="https://lgk.io/" target="_blank">portfolio site</a>. That was the first step to the current look of the blog. From there I created my child theme and replaced parts of the theme, most important part is the header.</p>
+
+
+
+<p>By the way: my portfolio site and this blog are running on completely different technologies. The blog is a PHP-server-rendered WordPress site and my portfolio is a React Single-Page-Application. So my task was to bring the header of my React app to the WordPress theme and make it look as seamless as possible.</p>
+
+
+
+<p>I’m pretty happy with the result. When you switch between „Blog“ and „Start“ for example, you are switching between two totally separated sites, hopefully without mentioning it. The blog uses the same colors and the same font now.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+
+
+
+<h2>The new search bar</h2>
+
+
+
+<p>One thing was still missing on the new theme: a search bar. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But hey, better late than never, right? It’s now there too!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+
+
+
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Link: Photopea – Like Photoshop, but free and in your browser</title>
+		<link>/link-photopea-like-photoshop-but-free-and-in-your-browser/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 16:00:00 +0000</pubDate>
+				<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Link]]></category>
+		<category><![CDATA[Reblog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[edit]]></category>
+		<category><![CDATA[photo]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[Tools]]></category>
+		<guid isPermaLink="false">/?p=2410</guid>
+
+					<description><![CDATA[Direct link ➔&#160; With Photopea you can open, edit and save many different formats like .PSD, .AI, .XD and .sketch. Right in your browser, for free. So it might be perfect if Adobe’s subscription model is too expensive for you. With browsers like Chrome or Edge you can even install Photopea as a PWA on&#8230; <a class="more-link" href="/link-photopea-like-photoshop-but-free-and-in-your-browser/">Continue reading <span class="screen-reader-text">Link: Photopea – Like Photoshop, but free and in your browser</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-purple-background-color has-background"><a href="https://www.photopea.com/" target="_blank" rel="noreferrer noopener">Direct link ➔&nbsp;</a></p>
+
+
+
+<p>With Photopea you can open, edit and save many different formats like .PSD, .AI, .XD and .sketch. Right in your browser, for free. So it might be perfect if Adobe’s subscription model is too expensive for you. With browsers like Chrome or Edge you can even install Photopea as a PWA on your desktop, so it will act like a native app. Then you even have direct access to files on your machine.</p>
+
+
+
+<p>Because it’s free, you’ll see some ads on the side. If you want to remove it, you can spend a little money.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reblog: Dark mode in 5 minutes, with inverted lightness variables</title>
+		<link>/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 15:51:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Link]]></category>
+		<category><![CDATA[Reblog]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[dark mode]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2408</guid>
+
+					<description><![CDATA[Direct link ➔ To have a dark mode is a more and more common thing. But it can be pretty tricky. Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way: Dark mode in 5 minutes, with inverted lightness variables – Lea Verou&#8230; <a class="more-link" href="/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/">Continue reading <span class="screen-reader-text">Reblog: Dark mode in 5 minutes, with inverted lightness variables</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-red-background-color has-background"><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Direct link ➔</a></p>
+
+
+
+<p>To have a dark mode is a more and more common thing. But it can be pretty tricky.</p>
+
+
+
+<p>Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way:</p>
+
+
+
+<p><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Dark mode in 5 minutes, with inverted lightness variables – Lea Verou</a></p>
+
+
+
+<p>I already followed that guide for my latest web project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neue Such-Maske: The Noun Project</title>
+		<link>/neue-such-maske-the-noun-project/</link>
+					<comments>/neue-such-maske-the-noun-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2013 21:37:24 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[Icon]]></category>
+		<category><![CDATA[icons]]></category>
+		<category><![CDATA[noun]]></category>
+		<category><![CDATA[Projekt]]></category>
+		<category><![CDATA[symbole]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=803</guid>
+
+					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, /wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure></p>
+<p>Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln.</p>
+<p>Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen.</p>
+<p>Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen.  Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein Icon für kommerzielle Zwecke nutzen, kann man diesen auch kaufen.</p>
+<p><a href="http://thenounproject.com/de/" target="_blank">Zur Website von The Noun Project &raquo;</a></p>
+<div class="clear-both"></div>
+<div class="box">
+<h3>Über das Noun Project</h3>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/48846655" width="650" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Das Dashboard wird von einem Menü abgelöst</title>
+		<link>/das-dashboard-wird-von-einem-menu-abgelost/</link>
+					<comments>/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 20:33:41 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[Menü]]></category>
+		<category><![CDATA[Navigation]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=678</guid>
+
+					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, /wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
+Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte.</p>
+<p>Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet.</p>
+<p>Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das LGK-Logo gelangst du zu Kontakt und Impressum.</p>
+<p>Außerdem habe ich Links zu meiner deviantART-Seite und zu meinem Twitter-Account gesetzt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amazon.de bekommt neues Design</title>
+		<link>/amazon-de-bekommt-neues-design/</link>
+					<comments>/amazon-de-bekommt-neues-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2012 19:05:46 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[neues]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=617</guid>
+
+					<description><![CDATA[Nur ne kurze Durchsage: Die Amazon-Website erstrahlt nun in einem modernerem Look. Seht euch das neue Design an: amazon.de]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/amazon-new-design.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/amazon-new-design-300x150.jpg" alt="" title="Die Amazon-Website mit neuem Look" width="300" height="150" class="alignleft size-medium wp-image-618" srcset="/wp-content/uploads/2012/08/amazon-new-design-300x150.jpg 300w, /wp-content/uploads/2012/08/amazon-new-design.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Nur ne kurze Durchsage: Die Amazon-Website erstrahlt nun in einem modernerem Look.</p>
+<p>Seht euch das neue Design an: <a href="http://amazon.de/" target="_blank">amazon.de</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/amazon-de-bekommt-neues-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

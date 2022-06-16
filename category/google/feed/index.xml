@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; LGK Blog</title>
+	<atom:link href="/category/google/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:27:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Google &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tipp: Wie du über JEDES neue Video deines Lieblings-YouTubers informiert wirst</title>
+		<link>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/</link>
+					<comments>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2016 18:32:32 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Abo]]></category>
+		<category><![CDATA[Algorithmus]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">/?p=1867</guid>
+
+					<description><![CDATA[Der &#8220;Abo-Box&#8221;-Algorithmus von YouTube ist vor allem darauf ausgerichtet, dass Videos von Kanälen, die regelmäßig neuen Content bietet, größer beworben werden. So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber ein neues Video veröffentlicht hat. Glücklicherweise gibt es die Option (zwar gut versteckt), dieses Verfahren für einzelne Kanäle zu deaktivieren. So geht&#8230; <a class="more-link" href="/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/">Continue reading <span class="screen-reader-text">Tipp: Wie du über JEDES neue Video deines Lieblings-YouTubers informiert wirst</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Der &#8220;Abo-Box&#8221;-Algorithmus von YouTube ist vor allem darauf ausgerichtet, dass Videos von Kanälen, die regelmäßig neuen Content bietet, größer beworben werden.<br />
+So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber ein neues Video veröffentlicht hat.</p>
+<p>Glücklicherweise gibt es die Option (zwar gut versteckt), dieses Verfahren für einzelne Kanäle zu deaktivieren. So geht es:</p>
+<ul>
+<li>Besucht <a href="http://youtube.com/" title="undefined" target="_blank">youtube.com</a> und meldet euch an.</li>
+<li>Öffnet diesen Link, um zur Abo-Verwaltung zu gelangen: <a href="https://www.youtube.com/subscription_manager" title="Abos verwalten" target="_blank">https://www.youtube.com/subscription_manager</a></li>
+<li>Es werden alle abonnierten Kanäle aufgelistet. Sucht euren gewünschten Kanal und klickt rechts auf das Zahnrad-Symbol.</li>
+<li>Ein Dialog erscheint. Setzt dort den Haken bei &#8220;Ich möchte alle Mitteilungen zu diesem Kanal erhalten.&#8221; und klickt auf &#8220;Speichern&#8221;.</li>
+</ul>
+<p><img loading="lazy" src="/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg" alt="So bekommst du alle Videos eines YouTubers" width="1024" height="587" class="alignnone size-large wp-image-1871´img-responsive" srcset="/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg 1024w, /wp-content/uploads/2016/02/youtube-abo-scr-300x172.jpg 300w, /wp-content/uploads/2016/02/youtube-abo-scr-768x441.jpg 768w, /wp-content/uploads/2016/02/youtube-abo-scr.jpg 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Der Google-Glocke wurde Leben eingehaucht</title>
+		<link>/der-google-glocke-wurde-leben-eingehaucht/</link>
+					<comments>/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 15:48:29 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Now Service Windows Android Taskbar Innovation]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1104</guid>
+
+					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure></p>
+<p>Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt.</p>
+<p>Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat.</p>
+<h2>Verschmelzung von Android und Chrome</h2>
+<p>Auf der letzten Google I/O (<a href="https://www.youtube.com/watch?v=9pmPa_KxsAM" target="_blank" title="Zum Video">Keynote ansehen &raquo;</a>) wurde verkündet, man wolle Android und Google Chrome näher verbinden.<br />
+So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter Android sollen Web-Apps mehr Beachtung finden, indem diese unter &#8220;geöffnete Apps&#8221; auftauchen sollen.</p>
+<p><figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure></p>
+<p>Die Benachrichtungs-Glocke ist wohl ebenfalls Teil dieses &#8220;Verschmelzungs-Prozesses&#8221;. Denn sie übernimmt eine Aufgabe, die Chrome vorher nicht hatte: Benachrichtigungen.</p>
+<p>Einige Apps können die Benachrichtigungen anscheint benutzen. YouTube ist leider bisher noch nicht dabei.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tablet-PC &#8211; LGK Blog</title>
+	<atom:link href="/tag/tablet-pc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Wed, 14 Sep 2011 18:01:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Tablet-PC &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows 8: Erste Test-Version veröffentlicht</title>
+		<link>/windows-8-erste-test-version-veroffentlicht/</link>
+					<comments>/windows-8-erste-test-version-veroffentlicht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2011 18:01:38 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Tablet-PC]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">http://lgkclub.de.vu/?p=254</guid>
+
+					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="/wp-content/uploads/2011/09/windows8-preview.jpg 468w, /wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
+Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
+<p>Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.<span id="more-254"></span></p>
+<p>CHIP Online war schnell und es ist bereits jetzt ein Test-Video verfügbar:</p>
+<div class="box">
+<h3 class="widget-title">Video</h3>
+<p><iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/stgxjDQg0L4?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>Ich hatte vor, Windows 8 selbst zu testen. Die Bilder aus dem Video haben mir aber ein wenig die Lust vergehen lassen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Windows 8 scheint hauptsächlich für Tablet-PCs gemacht zu sein. Ich werde also wohl erst mal bis zur Beta warten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

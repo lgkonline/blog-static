@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>start &#8211; LGK Blog</title>
+	<atom:link href="/tag/start/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 18 Jun 2013 19:13:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>start &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Der Blog im neuen Gewand</title>
+		<link>/der-blog-im-neuen-gewand/</link>
+					<comments>/der-blog-im-neuen-gewand/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 18 Jun 2013 19:13:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[pure blog red]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=756</guid>
+
+					<description><![CDATA[Wie ihr seht, habe ich das Aussehen dieses Blogs geändert. Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das kommende LGK Start gerichtet. Mir gefällt dieser frische und etwas andere Stil sehr. Was haltet ihr davon? Würde mich über Kommentare freuen.]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, /wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, /wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure>
+<p>Wie ihr seht, habe ich das Aussehen dieses Blogs geändert.</p>
+<p>Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das <a href="/start_new/">kommende LGK Start</a> gerichtet.</p>
+<p>Mir gefällt dieser frische und etwas andere Stil sehr.<br />
+Was haltet ihr davon? Würde mich über Kommentare freuen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testet den nächsten LGK Start</title>
+		<link>/testet-den-nachsten-lgk-start/</link>
+					<comments>/testet-den-nachsten-lgk-start/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 16 Sep 2012 18:21:45 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hintergrund]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[wallpaper]]></category>
+		<category><![CDATA[water bubble]]></category>
+		<category><![CDATA[waterline]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=641</guid>
+
+					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, /wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
+<p>In <a href="http://lgkonline.de/blog/?p=623">diesem Artikel</a> habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet.</p>
+<p>Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt.</p>
+<p>Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt und ihr direkt nach YouTube weitergeleitet werdet.</p>
+<p>Um die Seite auch optisch ein wenig zu verbessern, kam ein neuer Hintergrund hinzu. Diesen seht ihr auch links im Bild.</p>
+<p>Auf meiner deviantART-Seite findet ihr diesen Hintergrund als Wallpaper: <a href="http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105" target="_blank">http://lgkonline.deviantart.com/art/Water-bubble-Wallpaper-and-logon-background-327361105</a></p>
+<p><strong><a href="http://lgkonline.de/mys/new/" target="_blank">Klicke hier, um das neue LGK Start zu testen.</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startfrei für mys &#8212; Registrierung jetzt möglich</title>
+		<link>/startfrei-fur-mys-registrierung-jetzt-moglich/</link>
+					<comments>/startfrei-fur-mys-registrierung-jetzt-moglich/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 22 Jul 2012 18:54:32 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[mys]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[startseite]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=525</guid>
+
+					<description><![CDATA[Ab jetzt ist es möglich, sich bei meinem neuen Dienst mys zu registrieren. Mit mys sollt ihr euch irgendwann mal eine eigene Startseite zusammenbauen können. Eins sei gesagt: Ich fange jetzt erst damit an, also kann man eigentlich noch gar nichts machen, außer sich zu registrieren. Ich würde mich aber über Feedback und Ideen freuen.&#8230; <a class="more-link" href="/startfrei-fur-mys-registrierung-jetzt-moglich/">Continue reading <span class="screen-reader-text">Startfrei für mys &#8212; Registrierung jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_526" aria-describedby="caption-attachment-526" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register-300x130.jpg" alt="" title="Registrierung bei LGK mys ist jetzt möglich" width="300" height="130" class="size-medium wp-image-526" srcset="/wp-content/uploads/2012/07/mys-register-300x130.jpg 300w, /wp-content/uploads/2012/07/mys-register.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-526" class="wp-caption-text">Registrierung bei LGK mys ist jetzt möglich</figcaption></figure>
+<p>
+Ab jetzt ist es möglich, sich bei meinem neuen Dienst mys zu registrieren.
+</p>
+<p>
+Mit mys sollt ihr euch irgendwann mal eine eigene Startseite zusammenbauen können.
+</p>
+<p>
+Eins sei gesagt: Ich fange jetzt erst damit an, also kann man eigentlich noch gar nichts machen, außer sich zu registrieren.
+</p>
+<p>
+Ich würde mich aber über Feedback und Ideen freuen.
+</p>
+<p>
+<a href="http://lgkonline.de/mys/?page=register">Zur mys-Registrierung &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startfrei-fur-mys-registrierung-jetzt-moglich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
+		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[Funktion]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[LGK Start]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[start]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
+
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
+<p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
+Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
+<p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
+Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut machen.</p>
+<p>Das ist zwar kein Weltuntergang, aber ich als Betreiber von LGK Start, wollte den Nutzern diese &#8220;Qual&#8221; ersparen. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="float-reg"></div>
+<p><span id="more-481"></span></p>
+<h2>Wie funktioniert das Ganze nun?</h2>
+<p>Ganz einfach:</p>
+<ol>
+<li>Du machst eine ganz normale Sucheingabe.</li>
+<li>Aktiviere den Haken ganz links in der Eingabeleiste.</li>
+<li>Fertig.<br />Deine Eingabe bleibt erhalten. Jetzt kannst du einfach in einen anderen Suchdienst, wie z.B. Wikipedia wechseln.</li>
+</ol>
+<h2>Angepasstes Design</h2>
+<p>Memory ist auch einer der Gründe, warum ich das Design noch weiter verändert habe.<br />Denn die Suchleiste wurde allmählich zu eng und auch die Suchdienst-Buttons wirkten etwas gequetscht.</p>
+<p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
+<p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
+<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions	</title>
+	<atom:link href="/javascript-hasclass-addclass-removeclass-helper-functions/feed/" rel="self" type="application/rss+xml" />
+	<link>/javascript-hasclass-addclass-removeclass-helper-functions/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Mon, 08 May 2017 10:52:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; LGK Blog</title>
+	<atom:link href="/tag/projects/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Fri, 23 Jan 2015 14:04:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Projects &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Synchronisiere Colorganize-Paletten mit LESS und Sass</title>
+		<link>/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
+					<comments>/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 14:04:36 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Pre-processor]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Sass]]></category>
+		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1441</guid>
+
+					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, /wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure>
+<p>LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;.<br />
+Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen.<br />
+<a href="http://www.der-zyklop.de/blog/scss-sass-less">Mehr über die Vorteile von CSS Pre-Prozessoren &raquo;</a></p>
+<hr>
+<p>Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden.<br />
+Ein <code>@import</code> genügt und du kannst deine Farben aus deiner Palette innerhalb deines Projektes benutzen.<br />
+Sobald du etwas an deiner Palette in der Web App änderst, wirkt sich das automatisch auf deinen Code aus.<br />
+Wenn du eine z.B. aus LESS-generierte CSS-Datei verwendest, muss diese vorher neu komprimiert werden.</p>
+<p>Damit du eine Palette mit LESS oder Sass nutzen willst, muss diese als &#8220;public&#8221; markiert sein.<br />
+Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markiert. So kannst du das ändern:</p>
+<ol>
+<li>Klicke oben rechts auf &#8220;Edit mode&#8221;, um in den Bearbeitungs-Modus zu gelangen.</li>
+<li>Klicke links im Paletten-Menü auf das jeweilige Stift-Symbol, um die Palette zu bearbeiten.</li>
+<li>Aktiviere &#8220;public&#8221;, indem du auf den entsprechenden Button klickst.</li>
+</ol>
+<div class="clearfix"></div>
+<figure id="attachment_1457" aria-describedby="caption-attachment-1457" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize-2.png" alt="Variablen-Namen können schnell und einfach kopiert werden." width="500" height="182" class="size-medium wp-image-1457 img-responsive" /></a><figcaption id="caption-attachment-1457" class="wp-caption-text">Variablen-Namen können schnell und einfach kopiert werden.</figcaption></figure>
+<p>Die Variablen-Namen der Farben stehen immer griffbereit. Ein Klick genügt und die gewünschte Farb-Variable kann in deinen LESS-, bzw. Sass-Code eingefügt werden.</p>
+<hr>
+<p><a href="http://colorganize.com/" class="btn btn-primary">Probiere es gleich aus &raquo;</a></p>
+<p>Falls du noch nicht registriert bist, ist es übrigens auch möglich sich mit seinen Twitter-Account anzumelden. <a href="http://blog.lgkonline.com/update-bei-colorganize-einloggen-mit-twitter/" title="Update bei Colorganize – Einloggen mit Twitter" target="">Mehr dazu hier &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

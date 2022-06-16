@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>E-Mail &#8211; LGK Blog</title>
+	<atom:link href="/tag/e-mail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 15 Mar 2012 16:54:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>E-Mail &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>So einfach können lästige Dauer-Spam-Mails vermieden werden</title>
+		<link>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/</link>
+					<comments>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2012 16:54:40 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Abo]]></category>
+		<category><![CDATA[E-Mail]]></category>
+		<category><![CDATA[Newsletter]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=410</guid>
+
+					<description><![CDATA[Die meisten E-Mails, die man täglich bekommt, bestehen aus Werbung, die einen wenig interessiert. Wer diese einfach nur lästig findet und in Zukunft damit in Ruhe gelassen werden will, kann diese meistens ganz einfach kündigen. Beispielsweise durch einer Registrierung bei Magix, wird automatisch ein Newsletter abonniert. Um eine solche Nervensäge loszuwerden, genügt in den meisten&#8230; <a class="more-link" href="/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/">Continue reading <span class="screen-reader-text">So einfach können lästige Dauer-Spam-Mails vermieden werden</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam-300x245.jpg" alt="" title="Newsletter lassen sich meistens ganz einfach abbestellen" width="300" height="245" class="alignleft size-medium wp-image-411" srcset="/wp-content/uploads/2012/03/spam-300x245.jpg 300w, /wp-content/uploads/2012/03/spam.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+Die meisten E-Mails, die man täglich bekommt, bestehen aus Werbung, die einen wenig interessiert. Wer diese einfach nur lästig findet und in Zukunft damit in Ruhe gelassen werden will, kann diese meistens ganz einfach kündigen.<br />
+Beispielsweise durch einer Registrierung bei Magix, wird automatisch ein Newsletter abonniert.</p>
+<p>Um eine solche Nervensäge loszuwerden, genügt in den meisten Fällen ein einfacher Klick auf den Link ganz am Ende der E-Mail. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

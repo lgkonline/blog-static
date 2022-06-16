@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>file viewer &#8211; LGK Blog</title>
+	<atom:link href="/tag/file-viewer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 20 Aug 2013 18:09:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>file viewer &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mit Orange Files Dateien teilen</title>
+		<link>/mit-orange-files-dateien-teilen/</link>
+					<comments>/mit-orange-files-dateien-teilen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2013 18:09:19 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[client]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Dienst]]></category>
+		<category><![CDATA[file viewer]]></category>
+		<category><![CDATA[LGK Orange]]></category>
+		<category><![CDATA[Orange Files]]></category>
+		<category><![CDATA[Service]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=902</guid>
+
+					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, /wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen.</p>
+<p>Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort.</p>
+<p>Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen.</p>
+<p>Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch. Orange Files dient dann als Viewer. Damit aber nicht jeder Zugriff zu deinen Dateien bekommt, kannst du den Client durch Keys schützen.</p>
+<p>Weitere Infos und den Link zum Download findest du hier:<br />
+<a href="http://lgk.bplaced.net/orange-files/" target="_blank">orange-files.tk</a></p>
+<p>Es ist mir wichtig hervorzuheben, dass Orange Files nicht dazu dient, seine Dateien zu sichern.<br />
+Die Methode der Keys dient nur wenig Schutz.</p>
+<p>Orange Files ist lediglich dazu da, seine Dateien aufzulisten um es für Andere übersichtlicher zu halten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

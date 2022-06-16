@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>social network &#8211; LGK Blog</title>
+	<atom:link href="/tag/social-network/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Wed, 06 Jun 2012 17:00:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>social network &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neuer Twitter-Vogel</title>
+		<link>/neuer-twitter-vogel/</link>
+					<comments>/neuer-twitter-vogel/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 17:00:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[bird]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[larry]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[social network]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=467</guid>
+
+					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, /wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Das stolze Markenzeichen von Twitter ist das Vogel-Symbol.</p>
+<p>Dieses Symbol wurde nun leicht ver&auml;ndert. Der Vogel, der im &Uuml;brigen auf den Namen &#8220;Larry&#8221; h&ouml;rt, fliegt jetzt<br />
+nicht mehr geradeaus, sondern schr&auml;g nach oben.</p>
+<p>Unter <a href="https://twitter.com/about/logos" target="_blank">https://twitter.com/about/logos</a> k&ouml;nnt ihr das neue<br />
+Logo runterladen und es nutzen.</p>
+<p>Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&auml;ndern sollt. Der Vogel darf weder eine Sprechblase erhalten,<br />
+gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, wie der Schriftzug oder das &#8220;t&#8221;, mehr verwendet werden.</p>
+<div class="box">
+<h3 class="widget-title">Twitter präsentiert ihren neuen Vogel</h3>
+<p><center></p>
+<div style="background-color: #000000; width: 640px;">
+<iframe loading="lazy" width="640" height="360" src="http://www.youtube.com/embed/Fh20pdCrCAU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<p>&nbsp;</p>
+<p></center></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neuer-twitter-vogel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

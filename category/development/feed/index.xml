@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development &#8211; LGK Blog</title>
+	<atom:link href="/category/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Development &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I hacked Piskel and added a new feature for me</title>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2442</guid>
+
+					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
+										<content:encoded><![CDATA[
+<p>I recently started using <a rel="noreferrer noopener" href="https://www.piskelapp.com/" target="_blank">Piskel</a> more often, which is a cool web app to create cute pixel graphics and animations. It&#8217;s pretty nice to use, but there was a thing I was bothering me. The color picker tool only works in scope of the app. But I wanted to transfer colors from my Affinity project to the Piskel browser app.</p>
+
+
+
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How I made Piskel to use the native input color control" width="750" height="563" src="https://www.youtube.com/embed/_plfYNt8gJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>My goal was to be able to do this</figcaption></figure>
+
+
+
+<p>For each color had to pick the color inside of Affinity Designer, copy the hex code, open the color dialog on Piskel, paste the code and press enter. If you want to transfer a lot of colors, this can get a little bit annoying. </p>
+
+
+
+<p>The good thing: Piskel is an Open Source web project. That means with a little effort I could solve this problem for me. Because I know, there is a native color control which has a picker which works across the whole screen (atleast in Chromium browsers): <code>&lt;input type="color"&gt;</code> </p>
+
+
+
+<iframe loading="lazy" width="100%" height="300" src="//jsfiddle.net/s76gmfua/6/embedded/result,html/" allowfullscreen="allowfullscreen" allowpaymentrequest="" frameborder="0"></iframe>
+
+
+
+<p>Great. Now I needed to bring this to the Piskel application and make it overwrite the current color. I tried to find some kind of a state in the JavaScript code I could use. Because Piskel&#8217;s <a rel="noreferrer noopener" href="https://github.com/piskelapp/piskel" target="_blank">source code is on GitHub</a>, I could just clone the project to my machine and search through the code. Because I know from the User Interface that the main color is called &#8220;primary color&#8221; I was searching for &#8220;primary&#8221;. And voila, I found an event called <code>"SELECT_PRIMARY_COLOR"</code>. Sounds like exactly what I need. Now I needed to know how to trigger this event. So I was searching for where <code>"SELECT_PRIMARY_COLOR"</code> is used in the code and this is what I found:</p>
+
+
+
+<p><code>$.publish(Events.SELECT_PRIMARY_COLOR, [color])</code></p>
+
+
+
+<p>Nice, looks like I could just use something like <code>$.publish("SELECT_PRIMARY_COLOR", "#ff00ff")</code>. I tested it in the browser console and it worked! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I now also used the console to put the color input element to the HTML document and passed an event listener when the input is changed:</p>
+
+
+
+<pre class="wp-block-code"><code>const colorInput = 
+  document.createElement("input")
+
+colorInput.id = "lgkColorInput"
+colorInput.className = "tool-icon"
+colorInput.title = "Native color picker"
+colorInput.type = "color"
+
+// The tools container of Piskel's UI
+document.getElementById("tools-container")
+  .append(colorInput)
+
+document.getElementById("lgkColorInput")
+  .addEventListener(
+    "input", 
+    ({currentTarget}) =&gt; {
+      $.publish("SELECT_PRIMARY_COLOR", 
+      currentTarget.value)
+    }
+  )</code></pre>
+
+
+
+<p>It looks great, like it was always part of the UI. I found the <code>"tool-icon"</code> class name, because all other tool buttons use it too.</p>
+
+
+
+<p>Awesome, but everything I run on the browser console is just temporary, so I needed a way to always execute it when I&#8217;m on Piskel. The good thing; there is a browser extension for this: <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">Custom</a> <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related" target="_blank">JavaScript for Websites 2</a><br>I installed it, pasted my code in and it works!</p>
+
+
+
+<p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How I created a card game with Svelte</title>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[svelte]]></category>
+		<category><![CDATA[trend]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
+
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
+
+
+
+<p>You can see it on the sub-domain, I later called my project “Skip it!” and it is a card game you can play anywhere. On your phone, on your computer and on your tablet. If you know the card game “Skip-Bo”, you could probably guess, how you can play my game. I chose to create a clone of Skip-Bo because I sometimes play it with my family and also enjoyed playing the iPad app a while ago. Through the iPad app I found out how addicting and fun the game can be and the game-play might be simple enough to create it with my skills in web technologies.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+
+
+
+<p>The developer experience using SvelteKit and Svelte was awesome! For years I primarily use React for my projects. I actually felt a little nostalgic, because I wrote actual HTML again, instead of JSX (no more&nbsp;<code>className</code>) and handling states is way more straightforward. I also use Svelte’s feature for scoped stylesheets. In previous projects I normally use SCSS and create global stylesheets. In Skip it! I switched to component-scoped architecture. Benefit is, you automatically just keep CSS, you will actually use, because the code-editor will underline unused CSS rules.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+
+
+
+<p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The new design for my (this) blog</title>
+		<link>/the-new-design-for-my-this-blog/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2416</guid>
+
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
+
+
+
+<p>But I think it’s not too late to still write a little post about it.</p>
+
+
+
+<h2>The goal: make the blog look like the rest of lgk.io</h2>
+
+
+
+<p>The blog runs with WordPress and now with a new child theme of the preinstalled Twenty Twenty-One, I just called „Twenty Twenty-One LGK“. In the past I used a theme I totally created myself, it was called „Winegum“. It’s still available on GitHub (<a href="https://github.com/lgkonline/Winegum1" target="_blank" rel="noreferrer noopener">https://github.com/lgkonline/Winegum1</a>), but I really don’t recommend to use it anymore. It’s very outdated not compatible with modern WordPress features and third-party plugins. It might also be better for security reasons to use a theme, which is activity maintained. That’s why I switched to Twenty Twenty-One.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img loading="lazy" width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+
+
+
+<p>I used the color customisation options of the theme to make it match better with my&nbsp;<a rel="noreferrer noopener" href="https://lgk.io/" target="_blank">portfolio site</a>. That was the first step to the current look of the blog. From there I created my child theme and replaced parts of the theme, most important part is the header.</p>
+
+
+
+<p>By the way: my portfolio site and this blog are running on completely different technologies. The blog is a PHP-server-rendered WordPress site and my portfolio is a React Single-Page-Application. So my task was to bring the header of my React app to the WordPress theme and make it look as seamless as possible.</p>
+
+
+
+<p>I’m pretty happy with the result. When you switch between „Blog“ and „Start“ for example, you are switching between two totally separated sites, hopefully without mentioning it. The blog uses the same colors and the same font now.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+
+
+
+<h2>The new search bar</h2>
+
+
+
+<p>One thing was still missing on the new theme: a search bar. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But hey, better late than never, right? It’s now there too!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+
+
+
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reblog: Dark mode in 5 minutes, with inverted lightness variables</title>
+		<link>/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 15:51:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Link]]></category>
+		<category><![CDATA[Reblog]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[dark mode]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">/?p=2408</guid>
+
+					<description><![CDATA[Direct link ➔ To have a dark mode is a more and more common thing. But it can be pretty tricky. Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way: Dark mode in 5 minutes, with inverted lightness variables – Lea Verou&#8230; <a class="more-link" href="/reblog-dark-mode-in-5-minutes-with-inverted-lightness-variables/">Continue reading <span class="screen-reader-text">Reblog: Dark mode in 5 minutes, with inverted lightness variables</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-red-background-color has-background"><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Direct link ➔</a></p>
+
+
+
+<p>To have a dark mode is a more and more common thing. But it can be pretty tricky.</p>
+
+
+
+<p>Lea Verou wrote an awesome article how you can handle this task with CSS and custom properties in a pretty nice way:</p>
+
+
+
+<p><a href="https://lea.verou.me/2021/03/inverted-lightness-variables/" target="_blank" rel="noreferrer noopener">Dark mode in 5 minutes, with inverted lightness variables – Lea Verou</a></p>
+
+
+
+<p>I already followed that guide for my latest web project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gedanken zu Material You für Web</title>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Flat Design]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">/?p=2241</guid>
+
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
+
+
+
+<p>Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen.</p>
+
+
+
+<p>Was ich am spannendsten finde: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">dynamische Farben</a>. </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+
+
+
+<p>Google hat in Android 12 ein Algorithmus integriert, der Farbtöne aus dem Wallpaper der Nutzer:innen extrahiert, die vom UI verwendet werden können. So bekommen die Apps eine persönlichere Note.</p>
+
+
+
+<p>Ich habe kein Android-Gerät, deswegen konnte ich das Feature noch nicht selbst ausprobieren. </p>
+
+
+
+<h2>Umsetzung für Webseiten?</h2>
+
+
+
+<p>Bisher ist Material You hauptsächlich für Android vorgesehen, es wird aber eine Frage der Zeit sein, dass auch an Web gedacht wird. Webseiten haben keine direkte Möglichkeit, den Wallpaper vom Betriebssystem abzugreifen.</p>
+
+
+
+<p>Möglicherweise wird Google für Chrome die Theme-Farben als CSS-Variablen liefern, sodass Webentwickler:innen diese einfach nutzen können. Andere Chromium-Browser (wie Edge) könnten diese API dann ebenfalls erhalten.</p>
+
+
+
+<h2>Übergangslösung</h2>
+
+
+
+<p>Ich habe ein wenig experimentiert und Farben aus dem Standard-Wallpaper aus macOS Monterey mit Hilfe von <a href="https://color.adobe.com/de/create/color-contrast-analyzer" data-type="URL" data-id="https://color.adobe.com/de/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color</a> extrahiert.</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Den Dark Mode habe ich ebenfalls berücksichtigt:</p>
+
+
+
+<iframe src="https://codesandbox.io/embed/romantic-pasteur-2spki?fontsize=14&amp;hidenavigation=1&amp;module=%2Fstyle.css&amp;theme=dark" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="romantic-pasteur-2spki" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+
+
+<p>In nächsten Schritten könnte man mit JavaScript herausfinden, welches Betriebssystem verwendet wird und jeweils Farben der Standard-Wallpaper anwenden. </p>
+
+
+
+<p>Oder man erlaubt, Benutzer:innen ein Bild zum Analysieren hochzuladen/auszuwählen. Das halte ich allerdings für einen nicht sehr eleganten Ansatz. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mach deinen Code prettier</title>
+		<link>/mach-deinen-code-prettier/</link>
+					<comments>/mach-deinen-code-prettier/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Automatisierung]]></category>
+		<category><![CDATA[CI]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[format]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Uglify]]></category>
+		<guid isPermaLink="false">/?p=2222</guid>
+
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
+
+
+
+<p>Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und befriedigt nebenbei den inneren Monk. <br>Arbeitet man mit mehreren Personen an einem Projekt, kannst du entweder regelmäßig von Hand den Code der anderen formatieren oder du lässt es machen, automatisch!</p>
+
+
+
+<h2>Installiere Prettier</h2>
+
+
+
+<p>Das geht mit dem Tool <a rel="noreferrer noopener" href="https://prettier.io/" target="_blank">Prettier</a>! Du legst zuvor in einer Config-Datei (.prettierrc.json) die Regeln fest (Semikolons ja/nein, maximale Zeilenlänge etc.) und führst dann Prettier aus. In einer separaten Datei (.prettierignore) kannst du noch definieren, welche Ordner und Dateien dabei unangetastet bleiben sollen.</p>
+
+
+
+<p>Folge einfach dem offiziellen Guide, um Prettier bei dir einzurichten: <a href="https://prettier.io/docs/en/install.html" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<h2>Prettier bei jedem Git Commit ausführen</h2>
+
+
+
+<p>Du kannst Prettier jedes Mal manuell ausführen oder dafür eine Extension in deinem Code-Editor installieren. Ich finde es allerdings angenehmer, dass Prettier automatisch vor jedem Git Commit ausgeführt wird. So wird sichergestellt, dass kein unschöner Code nach GitHub gelangt (oder wo auch immer du Git hostest). Auch funktioniert das ganze dann unabhängig davon, welchen Code-Editor du oder Team-Kolleg:innen verwenden. </p>
+
+
+
+<p>Ich bin einfach den Abschnitt &#8220;Git hooks&#8221; gefolgt: <a href="https://prettier.io/docs/en/install.html#git-hooks" target="_blank" rel="noreferrer noopener">Install · Prettier</a></p>
+
+
+
+<p>Das Tool &#8220;Husky&#8221; sorgt also dafür, dass Prettier vor jedem Git Commit-Befehl ausgeführt wird und der Code formatiert wird.</p>
+
+
+
+<h2>Meine bevorzugten Einstellungen</h2>
+
+
+
+<p>Meine .prettierrc.json-Datei sieht so aus:</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "fluid": false
+}
+</code></pre>
+
+
+
+<ul><li>Zur Einrückung werden 4 Leerzeichen verwendet.</li><li>Ich nutze keine Semikolons (bei JavaScript und TypeScript).</li><li>Ich nutze doppelte Anführungszeichen bei Strings (<code>"</code>).</li><li>Keine Kommata, wo es nicht notwendig ist (z.B. in TypeScript Interfaces).</li><li>Leerzeichen um geschweifte Klammern (<code>{ foo: bar }</code>).</li><li>Für bracketSameLine siehe: <a rel="noreferrer noopener" href="https://prettier.io/docs/en/options.html#bracket-line" target="_blank">https://prettier.io/docs/en/options.html#bracket-line</a></li></ul>
+
+
+
+<p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>If / else statement inside of React Component&#8217;s Render method</title>
+		<link>/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React.js]]></category>
+		<guid isPermaLink="false">/?p=1993</guid>
+
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
+<p>You could do it like this:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" ?
+                    <h1>LGK is awesome!</h1>
+                : 
+                    <h1>LGK is not awesome :C</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+<p>This works without any problem. But you always have to set the else part. But in many situations you only need the &#8220;if part&#8221;.<br />
+In this case, this way is much nicer:</p>
+<pre class="prettyprint lang-js">
+import React from "react";
+
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <div>
+                {"LGK" == "awesome" &&
+                    <h1>LGK is awesome!</h1>
+                }
+            </div>
+        );
+    }
+}
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Node.js: Check if you are in debug or production mode</title>
+		<link>/node-js-check-if-you-are-in-debug-or-production-mode/</link>
+					<comments>/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 10 May 2017 08:12:16 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Debug]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Production]]></category>
+		<category><![CDATA[Publish]]></category>
+		<guid isPermaLink="false">/?p=1983</guid>
+
+					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it.<br />
+For example you have to use another web service URL.</p>
+<p>Here is how can do it:</p>
+<pre class="prettyprint lang-js">
+var webApiUrl;
+
+if (process.env.NODE_ENV === "production") {
+	// use in production
+	webApiUrl = "http://myapp.online/awesome-app/api";
+}
+else {
+	// use on debugging
+	webApiUrl = "/api";
+}
+</pre>
+<p>If you do it like me and use Webpack, you can start the debug mode with <code>webpack -d</code> and the production mode with <code>webpack -p</code>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JS: Hide an element when clicking on somewhere else</title>
+		<link>/js-hide-an-element-when-clicking-on-somewhere-else/</link>
+					<comments>/js-hide-an-element-when-clicking-on-somewhere-else/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 10:54:39 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Code Snippets]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[DOM]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">/?p=1980</guid>
+
+					<description><![CDATA[Hint: I used the functions removeClass() and addClass() to make things easier. You can find them on See the Pen Hide an element when clicking on somewhere else by Lars Gerrit Kliesing LGK (@lgkonline) on CodePen.]]></description>
+										<content:encoded><![CDATA[<p>Hint: I used the functions <code>removeClass()</code> and <code>addClass()</code> to make things easier. You can find them on <a href="/javascript-hasclass-addclass-removeclass-helper-functions/" title="undefined" target="null"></a></p>
+<p data-height="491" data-theme-id="0" data-slug-hash="rjorrw" data-default-tab="js,result" data-user="lgkonline" data-embed-version="2" data-pen-title="Hide an element when clicking on somewhere else" class="codepen">See the Pen <a href="http://codepen.io/lgkonline/pen/rjorrw/">Hide an element when clicking on somewhere else</a> by Lars Gerrit Kliesing LGK (<a href="http://codepen.io/lgkonline">@lgkonline</a>) on <a href="http://codepen.io/">CodePen</a>.</p>
+<p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/js-hide-an-element-when-clicking-on-somewhere-else/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

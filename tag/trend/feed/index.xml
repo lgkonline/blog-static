@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trend &#8211; LGK Blog</title>
+	<atom:link href="/tag/trend/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:22:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>trend &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I created a card game with Svelte</title>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[svelte]]></category>
+		<category><![CDATA[trend]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
+
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
+
+
+
+<p>You can see it on the sub-domain, I later called my project “Skip it!” and it is a card game you can play anywhere. On your phone, on your computer and on your tablet. If you know the card game “Skip-Bo”, you could probably guess, how you can play my game. I chose to create a clone of Skip-Bo because I sometimes play it with my family and also enjoyed playing the iPad app a while ago. Through the iPad app I found out how addicting and fun the game can be and the game-play might be simple enough to create it with my skills in web technologies.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+
+
+
+<p>The developer experience using SvelteKit and Svelte was awesome! For years I primarily use React for my projects. I actually felt a little nostalgic, because I wrote actual HTML again, instead of JSX (no more&nbsp;<code>className</code>) and handling states is way more straightforward. I also use Svelte’s feature for scoped stylesheets. In previous projects I normally use SCSS and create global stylesheets. In Skip it! I switched to component-scoped architecture. Benefit is, you automatically just keep CSS, you will actually use, because the code-editor will underline unused CSS rules.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+
+
+
+<p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

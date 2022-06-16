@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LGK Services &#8211; LGK Blog</title>
+	<atom:link href="/category/lgk-services/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>LGK Services &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I created a card game with Svelte</title>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[svelte]]></category>
+		<category><![CDATA[trend]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
+
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
+
+
+
+<p>You can see it on the sub-domain, I later called my project “Skip it!” and it is a card game you can play anywhere. On your phone, on your computer and on your tablet. If you know the card game “Skip-Bo”, you could probably guess, how you can play my game. I chose to create a clone of Skip-Bo because I sometimes play it with my family and also enjoyed playing the iPad app a while ago. Through the iPad app I found out how addicting and fun the game can be and the game-play might be simple enough to create it with my skills in web technologies.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+
+
+
+<p>The developer experience using SvelteKit and Svelte was awesome! For years I primarily use React for my projects. I actually felt a little nostalgic, because I wrote actual HTML again, instead of JSX (no more&nbsp;<code>className</code>) and handling states is way more straightforward. I also use Svelte’s feature for scoped stylesheets. In previous projects I normally use SCSS and create global stylesheets. In Skip it! I switched to component-scoped architecture. Benefit is, you automatically just keep CSS, you will actually use, because the code-editor will underline unused CSS rules.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+
+
+
+<p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updated layout for my website</title>
+		<link>/updated-layout-for-my-website/</link>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cards]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[mobile-first]]></category>
+		<guid isPermaLink="false">/?p=2213</guid>
+
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
+
+
+
+<p>Before the update:</p>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+</figure>
+
+
+
+<p>After the update:</p>
+
+
+
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+</figure>
+
+
+
+<p>I now use <code>display: grid;</code> to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the first view. ^^</p>
+
+
+
+<p>I also like the new blog post view, I now show the thumbnail image of the post in the background. </p>
+
+
+
+<p>Of course the grid view is designed mobile-first. On mobile, the introduction card and the blog post will be just underneath each other.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tumblr Bilder schneller im Vollbild betrachten</title>
+		<link>/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
+					<comments>/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2016 15:20:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Empfehlungen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[HQ]]></category>
+		<category><![CDATA[Service]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[Tumblr]]></category>
+		<guid isPermaLink="false">/?p=1883</guid>
+
+					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="/wp-content/uploads/2016/04/showTumblrImage.png 600w, /wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, /wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
+Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^</p>
+<p>Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die URL des Tumblr-Posts ein und du wirst direkt auf die Vollansicht weitergeleitet.</p>
+<p><a href="http://lgk.io/show-tumblr-image" class="btn btn-primary btn-lg" target="">lgk.io/show-tumblr-image</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon 11.13</title>
+		<link>/startmon-11-13/</link>
+					<comments>/startmon-11-13/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2015 20:37:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Startmon Build-News]]></category>
+		<guid isPermaLink="false">/?p=1738</guid>
+
+					<description><![CDATA[Link-Listen können nun schneller über neuer Oberfläche bearbeitet werden. &#8220;Bearbeitungs-Modus&#8221; gibt es nicht mehr. Bearbeitung erfolgt nun direkt von der Startseite aus. Startmon-Logo wird in Form einer SVG dargestellt. Neues Lade-Symbol für Ajax-Anfragen. Glyphicon Webfonts aus Bootstrap werden durch eigene Webfonts ersetzt. Weitere optische Kleinigkeiten&#8230;]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Link-Listen können nun schneller über neuer Oberfläche bearbeitet werden.</li>
+<li>&#8220;Bearbeitungs-Modus&#8221; gibt es nicht mehr. Bearbeitung erfolgt nun direkt von der Startseite aus.</li>
+<li>Startmon-Logo wird in Form einer SVG dargestellt.</li>
+<li>Neues Lade-Symbol für Ajax-Anfragen.</li>
+<li>Glyphicon Webfonts aus Bootstrap werden durch eigene Webfonts ersetzt.</li>
+<li>Weitere optische Kleinigkeiten&#8230;</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-11-13/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</title>
+		<link>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
+					<comments>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2015 15:59:54 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Startmon Build-News]]></category>
+		<guid isPermaLink="false">/?p=1726</guid>
+
+					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2015/09/Screenshot-1.png 900w, /wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<h4>Startmon v11.11</h4>
+<p>Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen.</p>
+<p>Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &raquo; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;.</p>
+<p>Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen.<br />
+Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir per <a href="//about.lgkonline.com/kontakt">Kontakt</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon v11.10 Changelog</title>
+		<link>/startmon-v11-10-changelog/</link>
+					<comments>/startmon-v11-10-changelog/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 18:31:07 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Startmon Build-News]]></category>
+		<guid isPermaLink="false">/?p=1722</guid>
+
+					<description><![CDATA[News Feeds wurden ins System integriert, sodass im nächsten Schritt eine Konfiguration seitens des Nutzers möglich sein soll. Bixxel und Bixxel Design wurden als News-Quellen hinzugefügt. Doppelte Datenbank-Aufrufe wurden unterbunden um so Traffic zu sparen.]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>News Feeds wurden ins System integriert, sodass im nächsten Schritt eine Konfiguration seitens des Nutzers möglich sein soll.</li>
+<li>Bixxel und Bixxel Design wurden als News-Quellen hinzugefügt.</li>
+<li>Doppelte Datenbank-Aufrufe wurden unterbunden um so Traffic zu sparen.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-v11-10-changelog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
+		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[colorganize.com]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ideen]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<guid isPermaLink="false">/?p=1695</guid>
+
+					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+<p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
+<p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
+<p>In Kürze dazu mehr.</p>
+<p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon Rookie &#8211; Wie es weiter geht</title>
+		<link>/startmon-rookie-wie-es-weiter-geht/</link>
+					<comments>/startmon-rookie-wie-es-weiter-geht/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2015 13:43:02 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Rookie]]></category>
+		<category><![CDATA[testen]]></category>
+		<guid isPermaLink="false">/?p=1682</guid>
+
+					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="/wp-content/uploads/2015/07/rookie-300x225.png 300w, /wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert.</p>
+<p>Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden.</p>
+<p>Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden kann.</p>
+<p>Um das zu realisieren, muss der grundsätzliche Code neu geschrieben werden. Diese neue Version, welche die Release-Nummer 12.x erhalten wird, nenne ich während sie noch in der Entstehung ist &#8220;Startmon Rookie&#8221; (hergeleitet aus Digimon).</p>
+<div class="clearfix"></div>
+<p><a href="/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, /wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, /wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2>Neues Feature: Pocket</h2>
+<p>Pocket ist ein Dienst, um schnell Web-Inhalte als Favorit zu speichern und das plattform-unabhängig. In der neuesten Firefox-Version ist Pocket bereits fest integriert.</p>
+<p>Dank der API von Pocket, können gespeicherte Links aus Pocket auch direkt auf Startmon angezeigt werden.</p>
+<h2>Startmon Rookie testen</h2>
+<p>Sobald Startmon Rookie die grundsätzlichen Funktionen übernommen hat, werde ich es online zur Verfügung stellen und es so oft es geht updaten.</p>
+<p>Sobald es so weit ist, werde ich es natürlich bekannt geben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Startmon bekommt Nachrichten</title>
+		<link>/startmon-bekommt-nachrichten/</link>
+					<comments>/startmon-bekommt-nachrichten/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Thu, 28 May 2015 18:58:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Startmon]]></category>
+		<category><![CDATA[Feed]]></category>
+		<category><![CDATA[Nachrichten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[RSS]]></category>
+		<category><![CDATA[startseite]]></category>
+		<guid isPermaLink="false">/?p=1659</guid>
+
+					<description><![CDATA[Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen. Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt. Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können. Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt. Der&#8230; <a class="more-link" href="/startmon-bekommt-nachrichten/">Continue reading <span class="screen-reader-text">Startmon bekommt Nachrichten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1663" aria-describedby="caption-attachment-1663" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-2.png"><img loading="lazy" src="/wp-content/uploads/2015/05/news-2-300x160.png" alt="News schnell auf Abruf" width="300" height="160" class="size-medium wp-image-1663" srcset="/wp-content/uploads/2015/05/news-2-300x160.png 300w, /wp-content/uploads/2015/05/news-2-1024x546.png 1024w, /wp-content/uploads/2015/05/news-2.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1663" class="wp-caption-text">News schnell auf Abruf</figcaption></figure></p>
+<p>Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen.</p>
+<p>Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt.<br />
+Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können.</p>
+<p>Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt.</p>
+<div class="clearfix"></div>
+<p><figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-1.png"><img loading="lazy" src="/wp-content/uploads/2015/05/news-1-300x160.png" alt="News sind unten versteckt" width="300" height="160" class="size-medium wp-image-1660" srcset="/wp-content/uploads/2015/05/news-1-300x160.png 300w, /wp-content/uploads/2015/05/news-1-1024x546.png 1024w, /wp-content/uploads/2015/05/news-1.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1660" class="wp-caption-text">News sind unten versteckt</figcaption></figure></p>
+<p>Der Clou: Der Aufruf von Startmon wird nicht verlangsamt, da die Streams erst geladen werden, wenn der Nutzer die News sehen will.<br />
+Die News können auf zwei Weisen aufgerufen werden:</p>
+<ul style="overflow: auto;">
+<li>Du klickst unten auf das &#8220;Show feeds&#8221;-Button.</li>
+<li>Du scrollst runter.</li>
+</ul>
+<p>Ich bevorzuge die zweite Variante, da es deutlich fixer geht. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://startmon.lgk.io/" target="_blank" class="btn btn-primary">Startmon gleich ausprobieren &raquo;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/startmon-bekommt-nachrichten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>html_bones 2.1 ist online!</title>
+		<link>/html_bones-2-1-ist-online/</link>
+					<comments>/html_bones-2-1-ist-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 17:53:23 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[LGK]]></category>
+		<category><![CDATA[LGK Services]]></category>
+		<category><![CDATA[Zukunft]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html_bones]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Layout]]></category>
+		<category><![CDATA[Material Design]]></category>
+		<category><![CDATA[Materialize]]></category>
+		<category><![CDATA[Neue Version]]></category>
+		<category><![CDATA[Release]]></category>
+		<guid isPermaLink="false">/?p=1541</guid>
+
+					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, /wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, /wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen.<br />
+Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden.</p>
+<p>So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst.</p>
+<p>Es ist keine Anmeldung oder Registrierung notwendig.<br />
+<a href="http://bones.lgk.io/" title="" target="_blank" class="btn btn-primary">Jetzt starten &raquo;</a></p>
+<p><span id="more-1541"></span></p>
+<h3>Änderungen zur vorherigen Version</h3>
+<p>Während v1.x vor allem mit PHP lief, läuft v2.1 ausschließlich client-seitig. Das heißt: Weniger Laden.<br />
+Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbeitet werden. Das kostete viel Zeit, vor allem, weil man höchst wahrscheinlich mehrere Elemente hintereinander an- und abwählen möchte.</p>
+<p>v2.1 dagegen läuft ausschließlich mit HTML, CSS und JavaScript. Das hat allerdings auch Nachteile, da ich so mehr auf die Browserkompatibilität achten musste. So gibt es mit IE leider immer noch einen Bug, den ich nicht lösen konnte (das UTF-8-Meta-Element kann nicht ausgewählt werden).</p>
+<h3>Das Design: Materialize</h3>
+<p>Ich bin zwar ein riesen Bootstrap-Fan, hier wollte ich aber mal ein anderes CSS-Framework testen: <a href="http://materializecss.com/" title="" target="_blank">Materialize CSS</a>.</p>
+<p>Wie sich bereits heraushören lässt, basiert Materialize auf das Material Design von Google. Zu diesem Zeitpunkt befindet sich das Framework allerdings noch im Alpha-Status.</p>
+<ul>
+<li><a href="http://materializecss.com/" title="" target="_blank">Materialize Website</a></li>
+<li><a href="https://github.com/Dogfalo/materialize" title="" target="_blank">Materialize auf GitHub</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/html_bones-2-1-ist-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

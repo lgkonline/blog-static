@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Navi &#8211; LGK Blog</title>
+	<atom:link href="/tag/navi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Design, Ideas and Thoughts</description>
+	<lastBuildDate>Sun, 26 Aug 2012 15:23:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<title>Navi &#8211; LGK Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neue LGK-Navi</title>
+		<link>/neue-lgk-navi/</link>
+					<comments>/neue-lgk-navi/#respond</comments>
+		
+		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
+		<pubDate>Sun, 26 Aug 2012 15:23:50 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Eigene Einschätzungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[lgk]]></category>
+		<category><![CDATA[Navi]]></category>
+		<category><![CDATA[Neu]]></category>
+		<category><![CDATA[Suche]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://lgkonline.de/blog/?p=600</guid>
+
+					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, /wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation.</p>
+<p>Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört.</p>
+<p>Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken, würdest du zur Startseite von LGK Blog gelangen.</p>
+<p>Wenn du auf das Symbol daneben klickst, erscheint das Dashboard, indem du z.B. nach LGK mys switchen kannst, oder auch die gesamte Website durchsuchen kannst.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neue-lgk-navi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
