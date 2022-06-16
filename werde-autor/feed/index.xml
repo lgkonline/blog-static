@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Werde Autor	</title>
-	<atom:link href="/werde-autor/feed/" rel="self" type="application/rss+xml" />
-	<link>/werde-autor/</link>
+	<atom:link href="https://blog-static.lgk.io/werde-autor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/werde-autor/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 06 Aug 2011 12:10:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

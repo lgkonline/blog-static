@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uglify &#8211; LGK Blog</title>
-	<atom:link href="/tag/uglify/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/uglify/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 03 Apr 2022 18:59:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Uglify &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mach deinen Code prettier</title>
-		<link>/mach-deinen-code-prettier/</link>
-					<comments>/mach-deinen-code-prettier/#comments</comments>
+		<link>https://blog-static.lgk.io/mach-deinen-code-prettier/</link>
+					<comments>https://blog-static.lgk.io/mach-deinen-code-prettier/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[GitHub]]></category>
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[Uglify]]></category>
-		<guid isPermaLink="false">/?p=2222</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2222</guid>
 
-					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="https://blog-static.lgk.io/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
 
@@ -113,15 +113,15 @@
 <p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/mach-deinen-code-prettier/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
-		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
-					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		<link>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
@@ -141,9 +141,9 @@
 		<category><![CDATA[Traffic]]></category>
 		<category><![CDATA[Uglify]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=1630</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1630</guid>
 
-					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
 <p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
 <p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
@@ -207,15 +207,15 @@ uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
 </pre>
 <div class="clearfix"></div>
 <h3>Erweiterungen für Entwicklungsumgebungen?</h3>
-<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
 Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
 <p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
 <p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
 <hr>
-<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

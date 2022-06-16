@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Musik &#8211; LGK Blog</title>
-	<atom:link href="/category/musik/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/musik/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 07 Jan 2016 18:33:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Musik &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Troye Sivan &#8211; Fools (Remix by Elgeekay) &#8212; Free download</title>
-		<link>/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
-					<comments>/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
+		<link>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
+					<comments>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2016 18:17:35 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[Fools]]></category>
 		<category><![CDATA[Remix]]></category>
 		<category><![CDATA[Troye Sivan]]></category>
-		<guid isPermaLink="false">/?p=1814</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1814</guid>
 
 					<description><![CDATA[I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: http://www.troyesivan.com/ You can download my remix for free. If you want to use it for any of your works, please contact me first. Download (MP3, 2.8 MB)]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="/wp-content/uploads/2016/01/cover-300x300.jpg 300w, /wp-content/uploads/2016/01/cover-150x150.jpg 150w, /wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, /wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-150x150.jpg 150w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: <a href="http://www.troyesivan.com/" title="undefined" target="_blank">http://www.troyesivan.com/</a></p>
 <p>You can download my remix for free. If you want to use it for any of your works, please contact me first.</p>
 <p><a href="http://lib.lgk.io/Fools.mp3" target="_blank" class="btn btn-lg btn-success"><i class="fa fa-arrow-down"></i> Download <small>(MP3, 2.8 MB)</small></a></p>
@@ -53,7 +53,7 @@
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4wiHZrhQvsA" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="http://lib.lgk.io/Fools.mp3" length="2943400" type="audio/mpeg" />
@@ -61,8 +61,8 @@
 			</item>
 		<item>
 		<title>Meine Meinung zu Simfy</title>
-		<link>/meine-meinung-zu-simfy/</link>
-					<comments>/meine-meinung-zu-simfy/#respond</comments>
+		<link>https://blog-static.lgk.io/meine-meinung-zu-simfy/</link>
+					<comments>https://blog-static.lgk.io/meine-meinung-zu-simfy/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2012 17:49:18 +0000</pubDate>
@@ -74,8 +74,8 @@
 		<category><![CDATA[simfy]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=303</guid>
 
-					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, /wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="https://blog-static.lgk.io/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>
 In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat.
 </p>
@@ -114,15 +114,15 @@ In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simf
 <p>Ich finde es einfach super, die Möglichkeit zu haben kostenlos und legal Musik zu hören. Auch wird es dadurch mit Sicherheit weniger illegale Downloads von Musik geben.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/meine-meinung-zu-simfy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/meine-meinung-zu-simfy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Black Eyed Peas Experience (Videospiel)</title>
-		<link>/black-eyed-peas-experience-videospiel/</link>
-					<comments>/black-eyed-peas-experience-videospiel/#respond</comments>
+		<link>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/</link>
+					<comments>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:07:35 +0000</pubDate>
@@ -150,15 +150,15 @@ Und dieser Trailer wurde dort vorgestellt:</p>
 <p><a href="http://www.gamezone.de/news_detail.asp?nid=101447" target="_blank">Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</title>
-		<link>/iamfirst-wissenschaft-ist-rock-n-roll/</link>
-					<comments>/iamfirst-wissenschaft-ist-rock-n-roll/#respond</comments>
+		<link>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/</link>
+					<comments>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2011 10:14:31 +0000</pubDate>
@@ -168,7 +168,7 @@ Und dieser Trailer wurde dort vorgestellt:</p>
 		<category><![CDATA[News]]></category>
 		<guid isPermaLink="false">http://lgkclub.bplaced.net/?p=141</guid>
 
-					<description><![CDATA[Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will. Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show. Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die&#8230; <a class="more-link" href="/iamfirst-wissenschaft-ist-rock-n-roll/">Continue reading <span class="screen-reader-text">iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</span></a>]]></description>
+					<description><![CDATA[Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will. Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show. Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die&#8230; <a class="more-link" href="https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/">Continue reading <span class="screen-reader-text">iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</span></a>]]></description>
 										<content:encoded><![CDATA[<p><figure id="attachment_145" aria-describedby="caption-attachment-145" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2011/08/iam-first-science-is-rock-and-roll-300x168.jpg" alt="Black Eyed Peas-Star Will.I.Am startet mit seiner eigenen Show &quot;i.am FIRST: Science Is Rock and Roll&quot; (Quelle: ABC.com)" title="iam-first-science-is-rock-and-roll" width="300" height="168" class="size-medium wp-image-145" /><figcaption id="caption-attachment-145" class="wp-caption-text">Black Eyed Peas-Star Will.I.Am startet mit seiner eigenen Show &quot;i.am FIRST: Science Is Rock and Roll&quot; (Quelle: ABC.com)</figcaption></figure>Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will.</p>
 <p>Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show.<br />
 Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die uns das Leben jeden Tag leichter machen und, dass es zur Zukunft gehört.</p>
@@ -180,7 +180,7 @@ Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Tec
 <p><a href="http://abc.go.com/shows/iam-first-science-is-rock-and-roll" target="_blank">Weitere Infos zur Show auch auf der Seite von ABC &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/iamfirst-wissenschaft-ist-rock-n-roll/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

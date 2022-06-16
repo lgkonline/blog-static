@@ -9,8 +9,8 @@
 
 <channel>
 	<title>look &#8211; LGK Blog</title>
-	<atom:link href="/tag/look/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/look/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:14:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>look &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The new design for my (this) blog</title>
-		<link>/the-new-design-for-my-this-blog/</link>
+		<link>https://blog-static.lgk.io/the-new-design-for-my-this-blog/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[look]]></category>
 		<category><![CDATA[theme]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=2416</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2416</guid>
 
-					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="https://blog-static.lgk.io/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
 
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -92,15 +92,15 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
 
 
 
-<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (https://blog-static.lgk.io/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
 ]]></content:encoded>
 					
 		

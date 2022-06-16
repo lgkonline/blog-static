@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Dieser Blog nutzt jetzt Disqus	</title>
-	<atom:link href="/dieser-blog-nutzt-jetzt-disqus/feed/" rel="self" type="application/rss+xml" />
-	<link>/dieser-blog-nutzt-jetzt-disqus/</link>
+	<atom:link href="https://blog-static.lgk.io/dieser-blog-nutzt-jetzt-disqus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/dieser-blog-nutzt-jetzt-disqus/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 04 Aug 2014 12:08:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

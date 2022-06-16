@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Design &#8211; LGK Blog</title>
-	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Design &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The new design for my (this) blog</title>
-		<link>/the-new-design-for-my-this-blog/</link>
+		<link>https://blog-static.lgk.io/the-new-design-for-my-this-blog/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[look]]></category>
 		<category><![CDATA[theme]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=2416</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2416</guid>
 
-					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="https://blog-static.lgk.io/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
 
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -92,15 +92,15 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
 
 
 
-<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (https://blog-static.lgk.io/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
 ]]></content:encoded>
 					
 		
@@ -108,7 +108,7 @@
 			</item>
 		<item>
 		<title>Link: Photopea – Like Photoshop, but free and in your browser</title>
-		<link>/link-photopea-like-photoshop-but-free-and-in-your-browser/</link>
+		<link>https://blog-static.lgk.io/link-photopea-like-photoshop-but-free-and-in-your-browser/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Nov 2021 16:00:00 +0000</pubDate>
@@ -125,9 +125,9 @@
 		<category><![CDATA[photo]]></category>
 		<category><![CDATA[photoshop]]></category>
 		<category><![CDATA[Tools]]></category>
-		<guid isPermaLink="false">/?p=2410</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2410</guid>
 
-					<description><![CDATA[Direct link ➔&#160; With Photopea you can open, edit and save many different formats like .PSD, .AI, .XD and .sketch. Right in your browser, for free. So it might be perfect if Adobe’s subscription model is too expensive for you. With browsers like Chrome or Edge you can even install Photopea as a PWA on&#8230; <a class="more-link" href="/link-photopea-like-photoshop-but-free-and-in-your-browser/">Continue reading <span class="screen-reader-text">Link: Photopea – Like Photoshop, but free and in your browser</span></a>]]></description>
+					<description><![CDATA[Direct link ➔&#160; With Photopea you can open, edit and save many different formats like .PSD, .AI, .XD and .sketch. Right in your browser, for free. So it might be perfect if Adobe’s subscription model is too expensive for you. With browsers like Chrome or Edge you can even install Photopea as a PWA on&#8230; <a class="more-link" href="https://blog-static.lgk.io/link-photopea-like-photoshop-but-free-and-in-your-browser/">Continue reading <span class="screen-reader-text">Link: Photopea – Like Photoshop, but free and in your browser</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p class="has-purple-background-color has-background"><a href="https://www.photopea.com/" target="_blank" rel="noreferrer noopener">Direct link ➔&nbsp;</a></p>
 
@@ -145,7 +145,7 @@
 			</item>
 		<item>
 		<title>Gedanken zu Material You für Web</title>
-		<link>/gedanken-zu-material-you-fuer-web/</link>
+		<link>https://blog-static.lgk.io/gedanken-zu-material-you-fuer-web/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
@@ -164,9 +164,9 @@
 		<category><![CDATA[Materialize]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">/?p=2241</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2241</guid>
 
-					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="https://blog-static.lgk.io/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
 
@@ -180,7 +180,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png 676w, https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
 
 
 
@@ -213,7 +213,7 @@
 
 
 <figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </figure>
 
 
@@ -238,7 +238,7 @@
 			</item>
 		<item>
 		<title>Updated layout for my website</title>
-		<link>/updated-layout-for-my-website/</link>
+		<link>https://blog-static.lgk.io/updated-layout-for-my-website/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
@@ -253,9 +253,9 @@
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[grid]]></category>
 		<category><![CDATA[mobile-first]]></category>
-		<guid isPermaLink="false">/?p=2213</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2213</guid>
 
-					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="https://blog-static.lgk.io/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
 
@@ -266,11 +266,11 @@
 
 
 <figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
 </figure>
 
 
@@ -280,11 +280,11 @@
 
 
 <figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
 </figure>
 
 
@@ -305,8 +305,8 @@
 			</item>
 		<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -323,9 +323,9 @@
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">/?p=1925</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -341,15 +341,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das &#8220;Thin Design&#8221;-Phänomen</title>
-		<link>/das-thin-design-phaenomen/</link>
-					<comments>/das-thin-design-phaenomen/#respond</comments>
+		<link>https://blog-static.lgk.io/das-thin-design-phaenomen/</link>
+					<comments>https://blog-static.lgk.io/das-thin-design-phaenomen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 08 May 2016 12:00:09 +0000</pubDate>
@@ -361,33 +361,33 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[Zukunft]]></category>
 		<category><![CDATA[Flat Design]]></category>
 		<category><![CDATA[Thin Design]]></category>
-		<guid isPermaLink="false">/?p=1889</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1889</guid>
 
-					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
+					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="https://blog-static.lgk.io/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie.<br />
 Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard.</p>
 <p>Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren. </p>
 <p>&#8220;Thin Design&#8221; scheint ein Teil davon zu sein. Und es beschränkt sich nicht nur auf die Typografie. Wer in letzter Zeit die Design-Entwicklungen von Microsoft (Windows 10) und Apple (OS X, iOS) verfolgt hat, wird feststellen, dass auch Symbole vom Schlankheitswahn betroffen sind.</p>
 <p>Hier mal ein Beispiel, das ich auf der Apple-Website gefunden habe:<br />
-<a href="/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0223.jpg 998w, /wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, /wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg 998w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
 <h2>Wo kann ich &#8220;Thin Design&#8221; einsetzen &#8211; wo nicht?</h2>
 <p>Als UX-Elemente halte ich &#8220;Thin Design&#8221; für eine angebrachte Sache. Sowohl für Typografie, Symbole, aber auch für andere Controls, wie Buttons, Eingabefelder, Trennlinien.<br />
 Linien sollten aber möglichst vektorbasiert erzeugt werden und nicht beispielsweise als Bitmap, um eine Skalierbarkeit zu ermöglichen. Es besteht nämlich die Gefahr, dass die Linien dadurch verschwinden könnten. Bei Webdesign könnten Thin-Elemente beispielsweise per CSS (Border) oder SVG erzeugt werden.</p>
 <p>Unangebracht halte ich Thin Design allerdings beim Logo-Design. Ein Logo muss universell einsetzbar sein und eine starke und selbstbewusste Darstellung haben. Besteht eine Bildmarke nur aus dünnen Linien, kann es schnell untergehen, wenn nicht sogar verschwinden. In Fließtexten bieten sich &#8220;leichte&#8221; Schriftarten auch nicht an, weil dadurch die Lesbarkeit beeinträchtigt werden kann.</p>
 <p>Beim Redesign der Nachrichten-Feeds auf Startmon.com habe ich mich auch mal am &#8220;Thin Design&#8221; orientiert.<br />
 Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="undefined" target="_blank">https://startmon.com/</a> gehst und dann bei &#8220;Nachrichten-Feeds&#8221; unten links auf den Maximieren-Button klickst.</p>
-<p><a href="/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, /wp-content/uploads/2016/05/scr-0224-300x197.png 300w, /wp-content/uploads/2016/05/scr-0224-768x505.png 768w, /wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-300x197.png 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-768x505.png 768w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/das-thin-design-phaenomen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/das-thin-design-phaenomen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
-		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
-					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		<link>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
@@ -398,25 +398,25 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 		<category><![CDATA[Ideen]]></category>
 		<category><![CDATA[LGK]]></category>
 		<category><![CDATA[LGK Services]]></category>
-		<guid isPermaLink="false">/?p=1695</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1695</guid>
 
 					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png 420w, https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
 <p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
 <p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
 <p>In Kürze dazu mehr.</p>
 <p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
-		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
-					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		<link>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
@@ -436,9 +436,9 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 		<category><![CDATA[Traffic]]></category>
 		<category><![CDATA[Uglify]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=1630</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1630</guid>
 
-					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
 <p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
 <p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
@@ -502,23 +502,23 @@ uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
 </pre>
 <div class="clearfix"></div>
 <h3>Erweiterungen für Entwicklungsumgebungen?</h3>
-<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
 Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
 <p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
 <p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
 <hr>
-<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</title>
-		<link>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
-					<comments>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
+		<link>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
+					<comments>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 08 May 2015 14:50:03 +0000</pubDate>
@@ -534,9 +534,9 @@ Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.co
 		<category><![CDATA[Optimierung]]></category>
 		<category><![CDATA[Traffic]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">/?p=1601</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1601</guid>
 
-					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
+					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können:</p>
 <pre class="prettyprint lang-html">
 <!DOCTYPE html>
@@ -652,15 +652,15 @@ body{font-family:Arial,sans-serif;font-size:14px;color:#000}#nav li#home{font-we
 Der Link wird dann hier angefügt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop-Tutorial: Pipetten-Werkzeug außerhalb verwenden</title>
-		<link>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
-					<comments>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
+		<link>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
+					<comments>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 25 Feb 2015 10:00:55 +0000</pubDate>
@@ -676,7 +676,7 @@ Der Link wird dann hier angefügt.</p>
 		<category><![CDATA[Farbe]]></category>
 		<category><![CDATA[photoshop]]></category>
 		<category><![CDATA[Pipette]]></category>
-		<guid isPermaLink="false">/?p=1490</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1490</guid>
 
 					<description><![CDATA[Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes. Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen. Video direkt auf YouTube ansehen.]]></description>
 										<content:encoded><![CDATA[<div class="embed-responsive embed-responsive-16by9">
@@ -687,7 +687,7 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 <p><a href="https://www.youtube.com/watch?v=Hmq3HMy56Yo">Video direkt auf YouTube ansehen.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

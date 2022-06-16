@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TypeScript &#8211; LGK Blog</title>
-	<atom:link href="/tag/typescript/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/typescript/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:38:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>TypeScript &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The code behind the new SP-Studio</title>
-		<link>/the-code-behind-the-new-sp-studio/</link>
-					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
+		<link>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/</link>
+					<comments>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
@@ -47,11 +47,11 @@
 		<category><![CDATA[south park]]></category>
 		<category><![CDATA[TypeScript]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">/?p=2146</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2146</guid>
 
 					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
 
 
 
@@ -320,7 +320,7 @@ export default SkiSki001</code></pre>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
 
 
 
@@ -343,7 +343,7 @@ export default SkiSki001</code></pre>
 <p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

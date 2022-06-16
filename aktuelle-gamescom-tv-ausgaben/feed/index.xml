@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Aktuelle gamescom TV-Ausgaben	</title>
-	<atom:link href="/aktuelle-gamescom-tv-ausgaben/feed/" rel="self" type="application/rss+xml" />
-	<link>/aktuelle-gamescom-tv-ausgaben/</link>
+	<atom:link href="https://blog-static.lgk.io/aktuelle-gamescom-tv-ausgaben/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/aktuelle-gamescom-tv-ausgaben/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 17 Aug 2011 16:06:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

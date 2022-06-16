@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Neue LGK-Navi	</title>
-	<atom:link href="/neue-lgk-navi/feed/" rel="self" type="application/rss+xml" />
-	<link>/neue-lgk-navi/</link>
+	<atom:link href="https://blog-static.lgk.io/neue-lgk-navi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/neue-lgk-navi/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 26 Aug 2012 15:23:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

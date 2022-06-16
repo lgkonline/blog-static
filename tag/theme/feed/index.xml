@@ -9,8 +9,8 @@
 
 <channel>
 	<title>theme &#8211; LGK Blog</title>
-	<atom:link href="/tag/theme/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/theme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:14:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>theme &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The new design for my (this) blog</title>
-		<link>/the-new-design-for-my-this-blog/</link>
+		<link>https://blog-static.lgk.io/the-new-design-for-my-this-blog/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[look]]></category>
 		<category><![CDATA[theme]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=2416</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2416</guid>
 
-					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="https://blog-static.lgk.io/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
 
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img width="1024" height="680" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -92,15 +92,15 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
 
 
 
-<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (https://blog-static.lgk.io/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
 ]]></content:encoded>
 					
 		
@@ -108,8 +108,8 @@
 			</item>
 		<item>
 		<title>Neues WordPress-Theme ist verfügbar</title>
-		<link>/neues-wordpress-theme-ist-verfuegbar/</link>
-					<comments>/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
+		<link>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/</link>
+					<comments>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 15 Nov 2014 12:09:29 +0000</pubDate>
@@ -127,8 +127,8 @@
 		<category><![CDATA[ZIP]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1359</guid>
 
-					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="/wp-content/uploads/2014/11/screenshot-300x219.png 300w, /wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure></p>
+					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot-300x219.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure></p>
 <p>Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;.<br />
 Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen.</p>
 <p>Den Download-Link findet ihr auf <a href="http://lgkonline.com/winegum/" target="_blank">http://lgkonline.com/winegum/</a>.</p>
@@ -151,15 +151,15 @@ Derzeit werden diese Dienste angeboten:</p>
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Alle abgerundeten Umrandungen in Bootstrap ausschalten.</title>
-		<link>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
-					<comments>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
+		<link>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
+					<comments>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 10 Aug 2014 11:00:14 +0000</pubDate>
@@ -174,7 +174,7 @@ Derzeit werden diese Dienste angeboten:</p>
 		<category><![CDATA[theme]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1179</guid>
 
-					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
+					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/bootstrap-2.png" alt="Bootstrap" width="282" height="264" class="alignright size-full wp-image-1183" /></p>
 <p>Ich nutze für meine Projekte gerne das Framework <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.<br />
 Allerdings gefallen mir die abgerundeten Elemente nicht besonders.</p>
@@ -266,15 +266,15 @@ pre code,
 <p><strong>Update am 09.04.2015:</strong> Die Elemente <code>.list-group-item:first-child</code> und <code>.list-group-item:last-child</code> wurden hinzugefügt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Der Blog im neuen Gewand</title>
-		<link>/der-blog-im-neuen-gewand/</link>
-					<comments>/der-blog-im-neuen-gewand/#respond</comments>
+		<link>https://blog-static.lgk.io/der-blog-im-neuen-gewand/</link>
+					<comments>https://blog-static.lgk.io/der-blog-im-neuen-gewand/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 18 Jun 2013 19:13:00 +0000</pubDate>
@@ -294,14 +294,14 @@ pre code,
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=756</guid>
 
 					<description><![CDATA[Wie ihr seht, habe ich das Aussehen dieses Blogs geändert. Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das kommende LGK Start gerichtet. Mir gefällt dieser frische und etwas andere Stil sehr. Was haltet ihr davon? Würde mich über Kommentare freuen.]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, /wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, /wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure></p>
+										<content:encoded><![CDATA[<p><figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure></p>
 <p>Wie ihr seht, habe ich das Aussehen dieses Blogs geändert.</p>
 <p>Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das <a href="/start_new/">kommende LGK Start</a> gerichtet.</p>
 <p>Mir gefällt dieser frische und etwas andere Stil sehr.<br />
 Was haltet ihr davon? Würde mich über Kommentare freuen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

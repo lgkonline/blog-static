@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dashboard &#8211; LGK Blog</title>
-	<atom:link href="/tag/dashboard/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/dashboard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 25 Mar 2013 20:33:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Dashboard &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Das Dashboard wird von einem Menü abgelöst</title>
-		<link>/das-dashboard-wird-von-einem-menu-abgelost/</link>
-					<comments>/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
+		<link>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/</link>
+					<comments>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 25 Mar 2013 20:33:41 +0000</pubDate>
@@ -48,23 +48,23 @@
 		<category><![CDATA[Navigation]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=678</guid>
 
-					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, /wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
+					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
 Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte.</p>
 <p>Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet.</p>
 <p>Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das LGK-Logo gelangst du zu Kontakt und Impressum.</p>
 <p>Außerdem habe ich Links zu meiner deviantART-Seite und zu meinem Twitter-Account gesetzt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue LGK-Navi</title>
-		<link>/neue-lgk-navi/</link>
-					<comments>/neue-lgk-navi/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-lgk-navi/</link>
+					<comments>https://blog-static.lgk.io/neue-lgk-navi/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 26 Aug 2012 15:23:50 +0000</pubDate>
@@ -80,15 +80,15 @@ Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das D
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=600</guid>
 
-					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, /wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation.</p>
 <p>Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört.</p>
 <p>Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken, würdest du zur Startseite von LGK Blog gelangen.</p>
 <p>Wenn du auf das Symbol daneben klickst, erscheint das Dashboard, indem du z.B. nach LGK mys switchen kannst, oder auch die gesamte Website durchsuchen kannst.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-lgk-navi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-lgk-navi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

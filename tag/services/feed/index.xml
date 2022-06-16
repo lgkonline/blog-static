@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Services &#8211; LGK Blog</title>
-	<atom:link href="/tag/services/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/services/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 14 Jun 2014 13:48:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Services &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Der Blog im neuen Gewand</title>
-		<link>/der-blog-im-neuen-gewand-2/</link>
-					<comments>/der-blog-im-neuen-gewand-2/#respond</comments>
+		<link>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/</link>
+					<comments>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 14 Jun 2014 13:47:49 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[Services]]></category>
 		<guid isPermaLink="false">http://lgkonline.com/?p=1091</guid>
 
-					<description><![CDATA[Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme. Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. 🙂 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus. Weiteres zu lgkonline.com Mit der Zeit sollen auch&#8230; <a class="more-link" href="/der-blog-im-neuen-gewand-2/">Continue reading <span class="screen-reader-text">Der Blog im neuen Gewand</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1092" aria-describedby="caption-attachment-1092" style="width: 180px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png" alt="LGK Blog auf einem Smartphone" width="180" height="300" class="size-medium wp-image-1092" srcset="/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png 180w, /wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png 480w" sizes="(max-width: 180px) 100vw, 180px" /></a><figcaption id="caption-attachment-1092" class="wp-caption-text">LGK Blog auf einem Smartphone</figcaption></figure><br />
+					<description><![CDATA[Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme. Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. 🙂 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus. Weiteres zu lgkonline.com Mit der Zeit sollen auch&#8230; <a class="more-link" href="https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/">Continue reading <span class="screen-reader-text">Der Blog im neuen Gewand</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1092" aria-describedby="caption-attachment-1092" style="width: 180px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png" alt="LGK Blog auf einem Smartphone" width="180" height="300" class="size-medium wp-image-1092" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png 180w, https://blog-static.lgk.io/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png 480w" sizes="(max-width: 180px) 100vw, 180px" /></a><figcaption id="caption-attachment-1092" class="wp-caption-text">LGK Blog auf einem Smartphone</figcaption></figure><br />
 Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme.</p>
 <p>Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus.<br />
@@ -56,7 +56,7 @@ Darunter auch das neue LGK Start, welches dann wahrscheinlich unter dem Namen &#
 <p>Unter Services wird man dann eine Auflistung mehrerer meiner Web-Apps, wie <a href="http://colorganize.com/" target="_blank">colorganize</a>, Orange Files und auch Startmon finden.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/der-blog-im-neuen-gewand-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

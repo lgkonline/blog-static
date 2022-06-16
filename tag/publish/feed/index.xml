@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Publish &#8211; LGK Blog</title>
-	<atom:link href="/tag/publish/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/publish/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 10 May 2017 08:12:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Publish &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Node.js: Check if you are in debug or production mode</title>
-		<link>/node-js-check-if-you-are-in-debug-or-production-mode/</link>
-					<comments>/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
+		<link>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/</link>
+					<comments>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 10 May 2017 08:12:16 +0000</pubDate>
@@ -42,9 +42,9 @@
 		<category><![CDATA[Node.js]]></category>
 		<category><![CDATA[Production]]></category>
 		<category><![CDATA[Publish]]></category>
-		<guid isPermaLink="false">/?p=1983</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1983</guid>
 
-					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
+					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it.<br />
 For example you have to use another web service URL.</p>
 <p>Here is how can do it:</p>
@@ -63,7 +63,7 @@ else {
 <p>If you do it like me and use Webpack, you can start the debug mode with <code>webpack -d</code> and the production mode with <code>webpack -p</code>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		

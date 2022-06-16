@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kürzere URLs &#8211; LGK Blog</title>
-	<atom:link href="/tag/kuerzere-urls/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/kuerzere-urls/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 16 Feb 2015 18:41:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Kürzere URLs &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Domain: lgk.io</title>
-		<link>/neue-domain-lgk-io/</link>
-					<comments>/neue-domain-lgk-io/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-domain-lgk-io/</link>
+					<comments>https://blog-static.lgk.io/neue-domain-lgk-io/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 16 Feb 2015 18:41:52 +0000</pubDate>
@@ -43,10 +43,10 @@
 		<category><![CDATA[lgk.io]]></category>
 		<category><![CDATA[Neue Domain]]></category>
 		<category><![CDATA[Umbau]]></category>
-		<guid isPermaLink="false">/?p=1473</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1473</guid>
 
-					<description><![CDATA[Ich konnte mir nun die Domain lgk.io sichern. Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während lgkonline.com weiterhin als Alias erhalten bleiben soll. Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen. Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit&#8230; <a class="more-link" href="/neue-domain-lgk-io/">Continue reading <span class="screen-reader-text">Neue Domain: lgk.io</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1483" aria-describedby="caption-attachment-1483" style="width: 300px" class="wp-caption alignleft"><img src="/wp-content/uploads/2015/02/lgk-io.png" alt="Neue Domain: lgk.io" width="300" height="300" class="size-full wp-image-1483" srcset="/wp-content/uploads/2015/02/lgk-io.png 300w, /wp-content/uploads/2015/02/lgk-io-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1483" class="wp-caption-text">Neue Domain: lgk.io</figcaption></figure>Ich konnte mir nun die Domain <strong>lgk.io</strong> sichern.<br />
+					<description><![CDATA[Ich konnte mir nun die Domain lgk.io sichern. Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während lgkonline.com weiterhin als Alias erhalten bleiben soll. Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen. Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-domain-lgk-io/">Continue reading <span class="screen-reader-text">Neue Domain: lgk.io</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1483" aria-describedby="caption-attachment-1483" style="width: 300px" class="wp-caption alignleft"><img src="https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io.png" alt="Neue Domain: lgk.io" width="300" height="300" class="size-full wp-image-1483" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1483" class="wp-caption-text">Neue Domain: lgk.io</figcaption></figure>Ich konnte mir nun die Domain <strong>lgk.io</strong> sichern.<br />
 Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während <strong>lgkonline.com</strong> weiterhin als Alias erhalten bleiben soll.</p>
 <p>Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen.<br />
 Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit aber vor allem auch in der IT-Branche verwendet.</p>
@@ -60,7 +60,7 @@ Das hat man vielleicht in den 90ern so gemacht.</p>
 Und auch die anderen Services sollten dann eine deutlich kürzere Adresse bekommen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-domain-lgk-io/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-domain-lgk-io/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

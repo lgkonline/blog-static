@@ -9,8 +9,8 @@
 
 <channel>
 	<title>startseite &#8211; LGK Blog</title>
-	<atom:link href="/tag/startseite/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/startseite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 28 May 2015 18:58:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>startseite &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Startmon bekommt Nachrichten</title>
-		<link>/startmon-bekommt-nachrichten/</link>
-					<comments>/startmon-bekommt-nachrichten/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-bekommt-nachrichten/</link>
+					<comments>https://blog-static.lgk.io/startmon-bekommt-nachrichten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 May 2015 18:58:35 +0000</pubDate>
@@ -44,16 +44,16 @@
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[RSS]]></category>
 		<category><![CDATA[startseite]]></category>
-		<guid isPermaLink="false">/?p=1659</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1659</guid>
 
-					<description><![CDATA[Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen. Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt. Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können. Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt. Der&#8230; <a class="more-link" href="/startmon-bekommt-nachrichten/">Continue reading <span class="screen-reader-text">Startmon bekommt Nachrichten</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1663" aria-describedby="caption-attachment-1663" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-2.png"><img src="/wp-content/uploads/2015/05/news-2-300x160.png" alt="News schnell auf Abruf" width="300" height="160" class="size-medium wp-image-1663" srcset="/wp-content/uploads/2015/05/news-2-300x160.png 300w, /wp-content/uploads/2015/05/news-2-1024x546.png 1024w, /wp-content/uploads/2015/05/news-2.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1663" class="wp-caption-text">News schnell auf Abruf</figcaption></figure>
+					<description><![CDATA[Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen. Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt. Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können. Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt. Der&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-bekommt-nachrichten/">Continue reading <span class="screen-reader-text">Startmon bekommt Nachrichten</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1663" aria-describedby="caption-attachment-1663" style="width: 300px" class="wp-caption alignleft"><a href="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-300x160.png" alt="News schnell auf Abruf" width="300" height="160" class="size-medium wp-image-1663" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1663" class="wp-caption-text">News schnell auf Abruf</figcaption></figure>
 <p>Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen.</p>
 <p>Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt.<br />
 Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können.</p>
 <p>Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt.</p>
 <div class="clearfix"></div>
-<figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-1.png"><img loading="lazy" src="/wp-content/uploads/2015/05/news-1-300x160.png" alt="News sind unten versteckt" width="300" height="160" class="size-medium wp-image-1660" srcset="/wp-content/uploads/2015/05/news-1-300x160.png 300w, /wp-content/uploads/2015/05/news-1-1024x546.png 1024w, /wp-content/uploads/2015/05/news-1.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1660" class="wp-caption-text">News sind unten versteckt</figcaption></figure>
+<figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 300px" class="wp-caption alignleft"><a href="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-300x160.png" alt="News sind unten versteckt" width="300" height="160" class="size-medium wp-image-1660" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1660" class="wp-caption-text">News sind unten versteckt</figcaption></figure>
 <p>Der Clou: Der Aufruf von Startmon wird nicht verlangsamt, da die Streams erst geladen werden, wenn der Nutzer die News sehen will.<br />
 Die News können auf zwei Weisen aufgerufen werden:</p>
 <ul style="overflow: auto;">
@@ -64,15 +64,15 @@ Die News können auf zwei Weisen aufgerufen werden:</p>
 <p><a href="http://startmon.lgk.io/" target="_blank" class="btn btn-primary">Startmon gleich ausprobieren &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-bekommt-nachrichten/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-bekommt-nachrichten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Registrierung bei Startmon ist jetzt möglich</title>
-		<link>/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
-					<comments>/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
+		<link>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
+					<comments>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2014 17:47:49 +0000</pubDate>
@@ -92,12 +92,12 @@ Die News können auf zwei Weisen aufgerufen werden:</p>
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1276</guid>
 
-					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, /wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, /wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
+					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
 <p>Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich.<br />
 Somit können Nutzer Startmon jetzt selbst anpassen.</p>
 <p>Nun können eigene Link-Menüs und Links angelegt werden.</p>
-<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, /wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
+<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
 <p>Für die Link-Menüs können Icons und Farben angepasst werden.</p>
 <p>Klicke hier, <a href="http://start.lgkonline.com/register" target="_blank">um dich zu registrieren.</a><br />
 Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <span class="glyphicon glyphicon-pencil"></span>-Symbol und der Edit-Modus wird aktiv.</p>
@@ -105,15 +105,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p><a href="http://start.lgkonline.com/" target="_blank" class="btn btn-primary" title="Im neuen Tab öffnen">start.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon: Öffentliche Preview jetzt online</title>
-		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
-					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
@@ -133,15 +133,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[Suchmaschine]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
 
-					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
 <p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
 <p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
 <p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
 <div class="clearfix"></div>
 <p><span id="more-1119"></span></p>
 <h2>Auch für mobile Endgeräte</h2>
-<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
 <p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
 <p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
 <p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
@@ -149,15 +149,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Start Touch als Startseite für das Smartphone</title>
-		<link>/start-touch-als-startseite-fuer-das-smartphone/</link>
-					<comments>/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
+		<link>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/</link>
+					<comments>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2014 10:43:25 +0000</pubDate>
@@ -177,35 +177,35 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=923</guid>
 
-					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, /wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
+					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
 Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon.<br />
 Nichts weiter. Ohne Schnickschnack.</p>
 <p>Damit eignet es sich vor allem für ältere oder langsamere Smartphones.</p>
 <h2>Wie richte ich Start Touch als Startseite ein?</h2>
 <p>Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten.</p>
 <p>Am schnellsten geht es, wenn du die Seite über diesen QR-Code öffnest:<br />
-<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, /wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
+<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
 <div class="clear-both"></div>
 
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LGK mys startet in die zweite Runde</title>
-		<link>/lgk-mys-startet-in-die-zweite-runde/</link>
-					<comments>/lgk-mys-startet-in-die-zweite-runde/#respond</comments>
+		<link>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/</link>
+					<comments>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Apr 2013 18:07:33 +0000</pubDate>
@@ -223,27 +223,27 @@ Nichts weiter. Ohne Schnickschnack.</p>
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=702</guid>
 
-					<description><![CDATA[Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;. Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen. Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen. Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar&#8230; <a class="more-link" href="/lgk-mys-startet-in-die-zweite-runde/">Continue reading <span class="screen-reader-text">LGK mys startet in die zweite Runde</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_703" aria-describedby="caption-attachment-703" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg" alt="mys ermöglicht dem Nutzer, LGK Start selbst anzupassen." width="300" height="153" class="size-medium wp-image-703" srcset="/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot01-1024x523.jpg 1024w, /wp-content/uploads/2013/04/mys2-screenshot01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-703" class="wp-caption-text">mys ermöglicht dem Nutzer, LGK Start selbst anzupassen.</figcaption></figure>
+					<description><![CDATA[Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;. Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen. Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen. Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar&#8230; <a class="more-link" href="https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/">Continue reading <span class="screen-reader-text">LGK mys startet in die zweite Runde</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_703" aria-describedby="caption-attachment-703" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg" alt="mys ermöglicht dem Nutzer, LGK Start selbst anzupassen." width="300" height="153" class="size-medium wp-image-703" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01-1024x523.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-703" class="wp-caption-text">mys ermöglicht dem Nutzer, LGK Start selbst anzupassen.</figcaption></figure>
 <p>Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;.</p>
 <p>Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen.</p>
 <p>Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen.</p>
 <div style="clear: both;"></div>
-<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg" alt="" width="300" height="147" class="alignleft size-medium wp-image-709" srcset="/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot02.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg" alt="" width="300" height="147" class="alignleft size-medium wp-image-709" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot02.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar ändern.</p>
 <p>Ist der Nutzer eingeloggt, wird dessen Avatar im LGK-Menü angezeigt. Ist man nicht eingeloggt, ist anstatt des Avatars das mys-Logo mit Link zur Infoseite zu sehen.</p>
 <p>Fährt man mit den Cursor über das mys-Logo, erscheint außerdem ein Dropdown-Menü mit Links zur Einlogg- und Registrieren-Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lgk-mys-startet-in-die-zweite-runde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startfrei für mys &#8212; Registrierung jetzt möglich</title>
-		<link>/startfrei-fur-mys-registrierung-jetzt-moglich/</link>
-					<comments>/startfrei-fur-mys-registrierung-jetzt-moglich/#respond</comments>
+		<link>https://blog-static.lgk.io/startfrei-fur-mys-registrierung-jetzt-moglich/</link>
+					<comments>https://blog-static.lgk.io/startfrei-fur-mys-registrierung-jetzt-moglich/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 22 Jul 2012 18:54:32 +0000</pubDate>
@@ -257,8 +257,8 @@ Nichts weiter. Ohne Schnickschnack.</p>
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=525</guid>
 
-					<description><![CDATA[Ab jetzt ist es möglich, sich bei meinem neuen Dienst mys zu registrieren. Mit mys sollt ihr euch irgendwann mal eine eigene Startseite zusammenbauen können. Eins sei gesagt: Ich fange jetzt erst damit an, also kann man eigentlich noch gar nichts machen, außer sich zu registrieren. Ich würde mich aber über Feedback und Ideen freuen.&#8230; <a class="more-link" href="/startfrei-fur-mys-registrierung-jetzt-moglich/">Continue reading <span class="screen-reader-text">Startfrei für mys &#8212; Registrierung jetzt möglich</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_526" aria-describedby="caption-attachment-526" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register-300x130.jpg" alt="" title="Registrierung bei LGK mys ist jetzt möglich" width="300" height="130" class="size-medium wp-image-526" srcset="/wp-content/uploads/2012/07/mys-register-300x130.jpg 300w, /wp-content/uploads/2012/07/mys-register.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-526" class="wp-caption-text">Registrierung bei LGK mys ist jetzt möglich</figcaption></figure>
+					<description><![CDATA[Ab jetzt ist es möglich, sich bei meinem neuen Dienst mys zu registrieren. Mit mys sollt ihr euch irgendwann mal eine eigene Startseite zusammenbauen können. Eins sei gesagt: Ich fange jetzt erst damit an, also kann man eigentlich noch gar nichts machen, außer sich zu registrieren. Ich würde mich aber über Feedback und Ideen freuen.&#8230; <a class="more-link" href="https://blog-static.lgk.io/startfrei-fur-mys-registrierung-jetzt-moglich/">Continue reading <span class="screen-reader-text">Startfrei für mys &#8212; Registrierung jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_526" aria-describedby="caption-attachment-526" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/mys-register-300x130.jpg" alt="" title="Registrierung bei LGK mys ist jetzt möglich" width="300" height="130" class="size-medium wp-image-526" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/07/mys-register-300x130.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/07/mys-register.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-526" class="wp-caption-text">Registrierung bei LGK mys ist jetzt möglich</figcaption></figure>
 <p>
 Ab jetzt ist es möglich, sich bei meinem neuen Dienst mys zu registrieren.
 </p>
@@ -275,7 +275,7 @@ Ich würde mich aber über Feedback und Ideen freuen.
 <a href="http://lgkonline.de/mys/?page=register">Zur mys-Registrierung &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startfrei-fur-mys-registrierung-jetzt-moglich/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startfrei-fur-mys-registrierung-jetzt-moglich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>coldmirror &#8211; LGK Blog</title>
-	<atom:link href="/tag/coldmirror/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/coldmirror/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 19 Aug 2011 17:21:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>coldmirror &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Coldmirror auf der gamescom 2011</title>
-		<link>/coldmirror-auf-der-gamescom-2011/</link>
-					<comments>/coldmirror-auf-der-gamescom-2011/#respond</comments>
+		<link>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/</link>
+					<comments>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:21:30 +0000</pubDate>
@@ -50,7 +50,7 @@ Sie befragt ein paar Menschen, was sie gerne spielen usw.:</p>
 <p><a href="http://www.youtube.com/user/coldmirrorgames" target="_blank">Zu Coldmirror&#8217;s YouTube-Channel über Games &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

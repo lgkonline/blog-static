@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Download &#8211; LGK Blog</title>
-	<atom:link href="/tag/download/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/download/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 15 Nov 2014 12:09:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Download &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neues WordPress-Theme ist verfügbar</title>
-		<link>/neues-wordpress-theme-ist-verfuegbar/</link>
-					<comments>/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
+		<link>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/</link>
+					<comments>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 15 Nov 2014 12:09:29 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[ZIP]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1359</guid>
 
-					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="/wp-content/uploads/2014/11/screenshot-300x219.png 300w, /wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure>
+					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot-300x219.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure>
 <p>Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;.<br />
 Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen.</p>
 <p>Den Download-Link findet ihr auf <a href="http://lgkonline.com/winegum/" target="_blank">http://lgkonline.com/winegum/</a>.</p>
@@ -72,15 +72,15 @@ Derzeit werden diese Dienste angeboten:</p>
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Version von orange_files steht zum Download bereit</title>
-		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
-					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
@@ -101,8 +101,8 @@ Derzeit werden diese Dienste angeboten:</p>
 		<category><![CDATA[Organizer]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
 
-					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
 <p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
 <p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
 Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
@@ -112,15 +112,15 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 <p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Such-Maske: The Noun Project</title>
-		<link>/neue-such-maske-the-noun-project/</link>
-					<comments>/neue-such-maske-the-noun-project/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-such-maske-the-noun-project/</link>
+					<comments>https://blog-static.lgk.io/neue-such-maske-the-noun-project/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 03 Jul 2013 21:37:24 +0000</pubDate>
@@ -139,8 +139,8 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 		<category><![CDATA[symbole]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=803</guid>
 
-					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, /wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
+					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
 <p>Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln.</p>
 <p>Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen.</p>
 <p>Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen.  Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein Icon für kommerzielle Zwecke nutzen, kann man diesen auch kaufen.</p>
@@ -152,15 +152,15 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Photoshop-Funktion: Video</title>
-		<link>/neue-photoshop-funktion-video/</link>
-					<comments>/neue-photoshop-funktion-video/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-photoshop-funktion-video/</link>
+					<comments>https://blog-static.lgk.io/neue-photoshop-funktion-video/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
@@ -183,34 +183,34 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 		<category><![CDATA[video]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
 
-					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
 <p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
 <p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
 <p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
 Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
 <p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
 <div class="float-reg"></div>
-<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
 Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
 Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
 <div class="float-reg"></div>
-<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
 <ul>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-photoshop-funktion-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>So bekommst du das alte TweetDeck zurück</title>
-		<link>/so-bekommst-du-das-alte-tweetdeck-zurck/</link>
-					<comments>/so-bekommst-du-das-alte-tweetdeck-zurck/#respond</comments>
+		<link>https://blog-static.lgk.io/so-bekommst-du-das-alte-tweetdeck-zurck/</link>
+					<comments>https://blog-static.lgk.io/so-bekommst-du-das-alte-tweetdeck-zurck/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 25 Feb 2012 13:05:00 +0000</pubDate>
@@ -223,23 +223,23 @@ Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt
 		<category><![CDATA[twitter]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=399</guid>
 
-					<description><![CDATA[Seitdem TweetDeck von Twitter gekauft wurde, sieht die ehemals sehr beliebte Applikation ganz anders aus. Auch wurden einige nützliche Funktionen einfach gestrichen. Da wünscht man sich doch das gute alte TweetDeck zurück. Doch wie jeder weiß, findet sich im Internet alles wieder! Ich habe ein kleines ZIP-Paket zusammengestellt, womit ihr TweetDeck 0.38.2 nutzen könnt. Da&#8230; <a class="more-link" href="/so-bekommst-du-das-alte-tweetdeck-zurck/">Continue reading <span class="screen-reader-text">So bekommst du das alte TweetDeck zurück</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_397" aria-describedby="caption-attachment-397" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/02/tweetdeck.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/02/tweetdeck-300x183.jpg" alt="Das gute alte TweetDeck" title="Das gute alte TweetDeck" width="300" height="183" class="size-medium wp-image-397" srcset="/wp-content/uploads/2012/02/tweetdeck-300x183.jpg 300w, /wp-content/uploads/2012/02/tweetdeck.jpg 860w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-397" class="wp-caption-text">Das gute alte TweetDeck<br />(Quelle: www.crunchbase.com)</figcaption></figure>
+					<description><![CDATA[Seitdem TweetDeck von Twitter gekauft wurde, sieht die ehemals sehr beliebte Applikation ganz anders aus. Auch wurden einige nützliche Funktionen einfach gestrichen. Da wünscht man sich doch das gute alte TweetDeck zurück. Doch wie jeder weiß, findet sich im Internet alles wieder! Ich habe ein kleines ZIP-Paket zusammengestellt, womit ihr TweetDeck 0.38.2 nutzen könnt. Da&#8230; <a class="more-link" href="https://blog-static.lgk.io/so-bekommst-du-das-alte-tweetdeck-zurck/">Continue reading <span class="screen-reader-text">So bekommst du das alte TweetDeck zurück</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_397" aria-describedby="caption-attachment-397" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/02/tweetdeck.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/02/tweetdeck-300x183.jpg" alt="Das gute alte TweetDeck" title="Das gute alte TweetDeck" width="300" height="183" class="size-medium wp-image-397" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/02/tweetdeck-300x183.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/02/tweetdeck.jpg 860w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-397" class="wp-caption-text">Das gute alte TweetDeck<br />(Quelle: www.crunchbase.com)</figcaption></figure>
 <p>Seitdem TweetDeck von Twitter gekauft wurde, sieht die ehemals sehr beliebte Applikation ganz anders aus.</p>
 <p>Auch wurden einige nützliche Funktionen einfach gestrichen. Da wünscht man sich doch das gute alte TweetDeck zurück. Doch wie jeder weiß, findet sich im Internet alles wieder!</p>
 <p>Ich habe ein kleines ZIP-Paket zusammengestellt, womit ihr TweetDeck 0.38.2 nutzen könnt. Da es aber über Adobe AIR läuft, habe ich auch eine Adobe AIR-Setup-Datei beigefügt.</p>
 <p>Download: <a title="http://lgk.de.nu/files/TweetDeck_0.38.zip" href="http://lgk.de.nu/files/TweetDeck_0.38.zip">http://lgk.de.nu/files/TweetDeck_0.38.zip</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/so-bekommst-du-das-alte-tweetdeck-zurck/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/so-bekommst-du-das-alte-tweetdeck-zurck/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Meine Meinung zu Simfy</title>
-		<link>/meine-meinung-zu-simfy/</link>
-					<comments>/meine-meinung-zu-simfy/#respond</comments>
+		<link>https://blog-static.lgk.io/meine-meinung-zu-simfy/</link>
+					<comments>https://blog-static.lgk.io/meine-meinung-zu-simfy/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2012 17:49:18 +0000</pubDate>
@@ -251,8 +251,8 @@ Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt
 		<category><![CDATA[simfy]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=303</guid>
 
-					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, /wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="https://blog-static.lgk.io/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>
 In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat.
 </p>
@@ -291,7 +291,7 @@ In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simf
 <p>Ich finde es einfach super, die Möglichkeit zu haben kostenlos und legal Musik zu hören. Auch wird es dadurch mit Sicherheit weniger illegale Downloads von Musik geben.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/meine-meinung-zu-simfy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/meine-meinung-zu-simfy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

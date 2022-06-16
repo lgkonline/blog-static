@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=httpsblog.lgk.io/tag/feed/">
+		<meta http-equiv="refresh" content="0;url=https://blog-static.lgk.io/tag/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "httpsblog.lgk.io/tag/feed/";
+			window.location = "https://blog-static.lgk.io/tag/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="httpsblog.lgk.io/tag/feed/">httpsblog.lgk.io/tag/feed/</a></p>
+		<p>You are being redirected to <a href="https://blog-static.lgk.io/tag/feed/">https://blog-static.lgk.io/tag/feed/</a></p>
 	</body>
 </html>

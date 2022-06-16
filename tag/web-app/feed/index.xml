@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web-App &#8211; LGK Blog</title>
-	<atom:link href="/tag/web-app/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/web-app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 13 Oct 2014 09:50:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Web-App &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neues Web-Tool: &#060;html_bones&#062; &#8211; Um schneller mit HTML-Projekten zu beginnen</title>
-		<link>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
-					<comments>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
+		<link>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
+					<comments>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 13 Oct 2014 09:48:40 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1307</guid>
 
-					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, /wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, /wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Unter <a href="http://bones.lgkonline.com/" target="_blank" title="Öffne Link im neuen Tab">bones.lgkonline.com</a> befindet sich die neue Web App &#8220;&lt;html_bones&gt;&#8221;.</p>
 <p>Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind.</p>
 <p>Beispielsweise ist das Element <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code> unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte.</p>
@@ -58,15 +58,15 @@
 <p><a href="http://bones.lgkonline.com/" target="_blank" class="btn btn-primary" title="Öffne Link im neuen Tab">Auf geht&#8217;s: bones.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Redesign von colorganize.com</title>
-		<link>/redesign-von-colorganize-com/</link>
-					<comments>/redesign-von-colorganize-com/#respond</comments>
+		<link>https://blog-static.lgk.io/redesign-von-colorganize-com/</link>
+					<comments>https://blog-static.lgk.io/redesign-von-colorganize-com/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Sep 2014 10:42:28 +0000</pubDate>
@@ -85,9 +85,9 @@
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1265</guid>
 
-					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, /wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, /wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
-<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure>
+					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="https://blog-static.lgk.io/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure>
 <p>colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor.<br />
 Aber es gibt auch ein paar nette neue Features.</p>
 <p>Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick.</p>
@@ -97,15 +97,15 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 <p>Ich habe außerdem eine Hosted App für Chrome erstellt. Diese wird womöglich bald im Chrome Web Store veröffentlicht.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/redesign-von-colorganize-com/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/redesign-von-colorganize-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tipp: Flat UI Colors in die Taskleiste (Windows)</title>
-		<link>/tipp-flat-ui-colors-in-die-taskleiste-windows/</link>
-					<comments>/tipp-flat-ui-colors-in-die-taskleiste-windows/#respond</comments>
+		<link>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/</link>
+					<comments>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 24 Apr 2014 15:29:37 +0000</pubDate>
@@ -118,8 +118,8 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=962</guid>
 
-					<description><![CDATA[Flat UI Colors ist eine nette kleine Web-App von Ahmet Sülek. Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben. Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen. Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet habt. Um Flat UI Colors anzupinnen, rufe&#8230; <a class="more-link" href="/tipp-flat-ui-colors-in-die-taskleiste-windows/">Continue reading <span class="screen-reader-text">Tipp: Flat UI Colors in die Taskleiste (Windows)</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_965" aria-describedby="caption-attachment-965" style="width: 294px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg"><img loading="lazy" class="wp-image-965 size-medium" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg" alt="Die Web-App angepinnt an der Taskleiste." width="294" height="300" srcset="/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg 294w, /wp-content/uploads/2014/04/flat-ui-colors-ie.jpg 878w" sizes="(max-width: 294px) 100vw, 294px" /></a><figcaption id="caption-attachment-965" class="wp-caption-text">Die Web-App angepinnt an der Taskleiste.</figcaption></figure>
+					<description><![CDATA[Flat UI Colors ist eine nette kleine Web-App von Ahmet Sülek. Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben. Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen. Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet habt. Um Flat UI Colors anzupinnen, rufe&#8230; <a class="more-link" href="https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/">Continue reading <span class="screen-reader-text">Tipp: Flat UI Colors in die Taskleiste (Windows)</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_965" aria-describedby="caption-attachment-965" style="width: 294px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg"><img loading="lazy" class="wp-image-965 size-medium" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg" alt="Die Web-App angepinnt an der Taskleiste." width="294" height="300" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg 294w, https://blog-static.lgk.io/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg 878w" sizes="(max-width: 294px) 100vw, 294px" /></a><figcaption id="caption-attachment-965" class="wp-caption-text">Die Web-App angepinnt an der Taskleiste.</figcaption></figure>
 <p>Flat UI Colors ist eine nette kleine Web-App von <a title="@ahmetsulek auf Twitter" href="https://twitter.com/ahmetsulek" target="_blank">Ahmet Sülek</a>.<br />
 Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben.</p>
 <p>Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen.<br />
@@ -127,7 +127,7 @@ Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet hab
 <p>Um Flat UI Colors anzupinnen, rufe einfach die Seite <a title="Seite öffnen" href="http://flatuicolors.com/" target="_blank">http://flatuicolors.com/</a> im Internet Explorer auf und ziehe das Favicon in der Adress-Leiste in die Taskleiste. Fertig.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tipp-flat-ui-colors-in-die-taskleiste-windows/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Beta 11.4	</title>
-	<atom:link href="/beta-11-4/feed/" rel="self" type="application/rss+xml" />
-	<link>/beta-11-4/</link>
+	<atom:link href="https://blog-static.lgk.io/beta-11-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/beta-11-4/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 06 May 2015 06:37:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

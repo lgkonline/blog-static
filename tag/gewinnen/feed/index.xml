@@ -9,8 +9,8 @@
 
 <channel>
 	<title>gewinnen &#8211; LGK Blog</title>
-	<atom:link href="/tag/gewinnen/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/gewinnen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 27 Aug 2012 23:39:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>gewinnen &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>LG verlost 3 LED-Beamer</title>
-		<link>/lg-verlost-3-led-beamer/</link>
-					<comments>/lg-verlost-3-led-beamer/#respond</comments>
+		<link>https://blog-static.lgk.io/lg-verlost-3-led-beamer/</link>
+					<comments>https://blog-static.lgk.io/lg-verlost-3-led-beamer/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Aug 2012 23:39:02 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=605</guid>
 
 					<description><![CDATA[Auf dem offiziellem LG-Blog findet gerade ein Gewinnspiel statt: Ihr könnt eins von drei LED-Beamer gewinnen, womit ihr euch ein richtiges Kino-Fealing nach Hause holen könnt. Näheres zu den Gewinnen: LG HW300Y LG PA70G LG PB60G Wie ihr am Gewinnspiel teilnehmen könnt, erfahrt ihr in diesem Artikel.]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_607" aria-describedby="caption-attachment-607" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg" alt="" title="Eins dieser Schmuckstücke könnt ihr gewinnen" width="300" height="168" class="size-medium wp-image-607" srcset="/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg 300w, /wp-content/uploads/2012/08/lg-gewinnspiel.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-607" class="wp-caption-text">Eins dieser Schmuckstücke könnt ihr gewinnen (Abbildungen stammen von lgblog.de)</figcaption></figure>
+										<content:encoded><![CDATA[<figure id="attachment_607" aria-describedby="caption-attachment-607" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg" alt="" title="Eins dieser Schmuckstücke könnt ihr gewinnen" width="300" height="168" class="size-medium wp-image-607" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/lg-gewinnspiel.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-607" class="wp-caption-text">Eins dieser Schmuckstücke könnt ihr gewinnen (Abbildungen stammen von lgblog.de)</figcaption></figure>
 <p>Auf dem <a href="http://www.lgblog.de/2012/08/22/zwischen-gamescom-und-ifa-wir-verlosen-die-drei-led-projektoren-hw300y-pa70g-und-pb60g/" target="_blank">offiziellem LG-Blog</a> findet gerade ein Gewinnspiel statt:</p>
 <p>Ihr könnt eins von drei LED-Beamer gewinnen, womit ihr euch ein richtiges Kino-Fealing nach Hause holen könnt.</p>
 <p>Näheres zu den Gewinnen:</p>
@@ -59,7 +59,7 @@
 <p>Wie ihr am Gewinnspiel teilnehmen könnt, <br /><a href="http://www.lgblog.de/2012/08/22/zwischen-gamescom-und-ifa-wir-verlosen-die-drei-led-projektoren-hw300y-pa70g-und-pb60g/" target="_blank">erfahrt ihr in diesem Artikel.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lg-verlost-3-led-beamer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/lg-verlost-3-led-beamer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

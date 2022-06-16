@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fernsehen &#8211; LGK Blog</title>
-	<atom:link href="/category/fernsehen/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/fernsehen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 22 Jan 2012 16:53:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Fernsehen &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Serien-Rezension: Fullmetal Alchemist</title>
-		<link>/serien-rezension-fullmetal-alchemist/</link>
-					<comments>/serien-rezension-fullmetal-alchemist/#respond</comments>
+		<link>https://blog-static.lgk.io/serien-rezension-fullmetal-alchemist/</link>
+					<comments>https://blog-static.lgk.io/serien-rezension-fullmetal-alchemist/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 22 Jan 2012 16:53:19 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[manga]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=336</guid>
 
-					<description><![CDATA[Ich habe jetzt den 51-teiligen Anime &#8220;Fullmetal Alchemist&#8221; durch und möchte hier mal eine Rezension zur Serie abgeben. Handlung Die Story spielt Anfang des 20. Jahrhunderts in einer parallelen Welt, in der sich die Alchemie zu eine Art Magie entwickelt hat. Die Haupt-Charaktere sind Edward (auch Ed) Elric und sein jüngerer Bruder Alphonse (auch Al)&#8230; <a class="more-link" href="/serien-rezension-fullmetal-alchemist/">Continue reading <span class="screen-reader-text">Serien-Rezension: Fullmetal Alchemist</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_337" aria-describedby="caption-attachment-337" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkclub.de.vu/wp-content/uploads/2012/01/fma-cover.jpg"><img src="http://lgkclub.de.vu/wp-content/uploads/2012/01/fma-cover-300x138.jpg" alt="" title="Fullmetal Alchemist Cover" width="300" height="138" class="size-medium wp-image-337" srcset="/wp-content/uploads/2012/01/fma-cover-300x138.jpg 300w, /wp-content/uploads/2012/01/fma-cover.jpg 738w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-337" class="wp-caption-text">Quelle: MyVideo.de</figcaption></figure><br />
+					<description><![CDATA[Ich habe jetzt den 51-teiligen Anime &#8220;Fullmetal Alchemist&#8221; durch und möchte hier mal eine Rezension zur Serie abgeben. Handlung Die Story spielt Anfang des 20. Jahrhunderts in einer parallelen Welt, in der sich die Alchemie zu eine Art Magie entwickelt hat. Die Haupt-Charaktere sind Edward (auch Ed) Elric und sein jüngerer Bruder Alphonse (auch Al)&#8230; <a class="more-link" href="https://blog-static.lgk.io/serien-rezension-fullmetal-alchemist/">Continue reading <span class="screen-reader-text">Serien-Rezension: Fullmetal Alchemist</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_337" aria-describedby="caption-attachment-337" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkclub.de.vu/wp-content/uploads/2012/01/fma-cover.jpg"><img src="http://lgkclub.de.vu/wp-content/uploads/2012/01/fma-cover-300x138.jpg" alt="" title="Fullmetal Alchemist Cover" width="300" height="138" class="size-medium wp-image-337" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/01/fma-cover-300x138.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/01/fma-cover.jpg 738w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-337" class="wp-caption-text">Quelle: MyVideo.de</figcaption></figure><br />
 Ich habe jetzt den 51-teiligen Anime &#8220;Fullmetal Alchemist&#8221; durch und möchte hier mal eine Rezension zur Serie abgeben.<br />
 <span id="more-336"></span></p>
 <h2>Handlung</h2>
@@ -105,15 +105,15 @@ Den Film &#8220;Fullmetal Alchemist &#8211; Der Eroberer von Shamballa&#8221;, w
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/serien-rezension-fullmetal-alchemist/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/serien-rezension-fullmetal-alchemist/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comedy Central Deutschland bekommt neues Logo + Design</title>
-		<link>/comedy-central-deutschland-bekommt-neues-logo-design/</link>
-					<comments>/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
+		<link>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/</link>
+					<comments>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 27 Sep 2011 18:42:34 +0000</pubDate>
@@ -129,7 +129,7 @@ Den Film &#8220;Fullmetal Alchemist &#8211; Der Eroberer von Shamballa&#8221;, w
 		<category><![CDATA[viva]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=261</guid>
 
-					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
+					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
 										<content:encoded><![CDATA[<figure id="attachment_263" aria-describedby="caption-attachment-263" style="width: 200px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-263" title="" src="/blog/wp-content/uploads/2011/09/183713323_200.jpg" alt="" width="200" height="150" /><figcaption id="caption-attachment-263" class="wp-caption-text">Quelle: vimeo.com</figcaption></figure>
 <p>Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich.<br />
 Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen.<br />
@@ -150,15 +150,15 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</title>
-		<link>/iamfirst-wissenschaft-ist-rock-n-roll/</link>
-					<comments>/iamfirst-wissenschaft-ist-rock-n-roll/#respond</comments>
+		<link>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/</link>
+					<comments>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2011 10:14:31 +0000</pubDate>
@@ -168,7 +168,7 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 		<category><![CDATA[News]]></category>
 		<guid isPermaLink="false">http://lgkclub.bplaced.net/?p=141</guid>
 
-					<description><![CDATA[Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will. Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show. Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die&#8230; <a class="more-link" href="/iamfirst-wissenschaft-ist-rock-n-roll/">Continue reading <span class="screen-reader-text">iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</span></a>]]></description>
+					<description><![CDATA[Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will. Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show. Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die&#8230; <a class="more-link" href="https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/">Continue reading <span class="screen-reader-text">iamFIRST: Wissenschaft ist Rock &#8216;n&#8217; Roll!</span></a>]]></description>
 										<content:encoded><![CDATA[<p><figure id="attachment_145" aria-describedby="caption-attachment-145" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2011/08/iam-first-science-is-rock-and-roll-300x168.jpg" alt="Black Eyed Peas-Star Will.I.Am startet mit seiner eigenen Show &quot;i.am FIRST: Science Is Rock and Roll&quot; (Quelle: ABC.com)" title="iam-first-science-is-rock-and-roll" width="300" height="168" class="size-medium wp-image-145" /><figcaption id="caption-attachment-145" class="wp-caption-text">Black Eyed Peas-Star Will.I.Am startet mit seiner eigenen Show &quot;i.am FIRST: Science Is Rock and Roll&quot; (Quelle: ABC.com)</figcaption></figure>Vor kurzem hat Will.I.Am auf Twitter angekündigt, dass er mit den Black Eyed Peas erst mal eine Pause machen will und sich anderen Dingen widmen will.</p>
 <p>Und nun wissen wir&#8217;s: Will.I.Am startete bei dem amerikanischem Sender ABC eine eigene Show.<br />
 Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Technologie etwas Wichtiges sind, die uns das Leben jeden Tag leichter machen und, dass es zur Zukunft gehört.</p>
@@ -180,7 +180,7 @@ Mit dem Titel &#8220;iamFIRST&#8221; will er aussagen, dass Wissenschaft und Tec
 <p><a href="http://abc.go.com/shows/iam-first-science-is-rock-and-roll" target="_blank">Weitere Infos zur Show auch auf der Seite von ABC &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/iamfirst-wissenschaft-ist-rock-n-roll/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/iamfirst-wissenschaft-ist-rock-n-roll/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

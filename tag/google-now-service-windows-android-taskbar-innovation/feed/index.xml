@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Google Now Service Windows Android Taskbar Innovation &#8211; LGK Blog</title>
-	<atom:link href="/tag/google-now-service-windows-android-taskbar-innovation/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/google-now-service-windows-android-taskbar-innovation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 03 Jul 2014 15:48:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Google Now Service Windows Android Taskbar Innovation &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Der Google-Glocke wurde Leben eingehaucht</title>
-		<link>/der-google-glocke-wurde-leben-eingehaucht/</link>
-					<comments>/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
+		<link>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/</link>
+					<comments>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 03 Jul 2014 15:48:29 +0000</pubDate>
@@ -41,19 +41,19 @@
 		<category><![CDATA[Google Now Service Windows Android Taskbar Innovation]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1104</guid>
 
-					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure>
+					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure>
 <p>Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt.</p>
 <p>Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat.</p>
 <h2>Verschmelzung von Android und Chrome</h2>
 <p>Auf der letzten Google I/O (<a href="https://www.youtube.com/watch?v=9pmPa_KxsAM" target="_blank" title="Zum Video">Keynote ansehen &raquo;</a>) wurde verkündet, man wolle Android und Google Chrome näher verbinden.<br />
 So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter Android sollen Web-Apps mehr Beachtung finden, indem diese unter &#8220;geöffnete Apps&#8221; auftauchen sollen.</p>
-<figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure>
+<figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure>
 <p>Die Benachrichtungs-Glocke ist wohl ebenfalls Teil dieses &#8220;Verschmelzungs-Prozesses&#8221;. Denn sie übernimmt eine Aufgabe, die Chrome vorher nicht hatte: Benachrichtigungen.</p>
 <p>Einige Apps können die Benachrichtigungen anscheint benutzen. YouTube ist leider bisher noch nicht dabei.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

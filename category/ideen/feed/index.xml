@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ideen &#8211; LGK Blog</title>
-	<atom:link href="/category/ideen/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/ideen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Ideen &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How I hacked Piskel and added a new feature for me</title>
-		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
-					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		<link>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[pixel]]></category>
 		<category><![CDATA[tool]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=2442</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2442</guid>
 
 					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
 										<content:encoded><![CDATA[
@@ -118,15 +118,15 @@ document.getElementById("lgkColorInput")
 <p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>If / else statement inside of React Component&#8217;s Render method</title>
-		<link>/if-else-statement-inside-of-react-components-render-method/</link>
-					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		<link>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
@@ -141,9 +141,9 @@ document.getElementById("lgkColorInput")
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[React]]></category>
 		<category><![CDATA[React.js]]></category>
-		<guid isPermaLink="false">/?p=1993</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1993</guid>
 
-					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
 <p>You could do it like this:</p>
 <pre class="prettyprint lang-js">
@@ -182,15 +182,15 @@ class MyComponent extends React.Component {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Try to avoid loops in JavaScript for better performance</title>
-		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
-					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		<link>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
@@ -204,9 +204,9 @@ class MyComponent extends React.Component {
 		<category><![CDATA[UX]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[webdev]]></category>
-		<guid isPermaLink="false">/?p=1961</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1961</guid>
 
-					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
 										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
 <p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
 <p>Here is a simple example:</p>
@@ -262,15 +262,15 @@ function getDataById(id) {
 <p>This way we can directly point to the item we want and don't have to use a loop.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -287,9 +287,9 @@ function getDataById(id) {
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">/?p=1925</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -305,15 +305,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das &#8220;Thin Design&#8221;-Phänomen</title>
-		<link>/das-thin-design-phaenomen/</link>
-					<comments>/das-thin-design-phaenomen/#respond</comments>
+		<link>https://blog-static.lgk.io/das-thin-design-phaenomen/</link>
+					<comments>https://blog-static.lgk.io/das-thin-design-phaenomen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 08 May 2016 12:00:09 +0000</pubDate>
@@ -325,33 +325,33 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[Zukunft]]></category>
 		<category><![CDATA[Flat Design]]></category>
 		<category><![CDATA[Thin Design]]></category>
-		<guid isPermaLink="false">/?p=1889</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1889</guid>
 
-					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
+					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="https://blog-static.lgk.io/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie.<br />
 Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard.</p>
 <p>Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren. </p>
 <p>&#8220;Thin Design&#8221; scheint ein Teil davon zu sein. Und es beschränkt sich nicht nur auf die Typografie. Wer in letzter Zeit die Design-Entwicklungen von Microsoft (Windows 10) und Apple (OS X, iOS) verfolgt hat, wird feststellen, dass auch Symbole vom Schlankheitswahn betroffen sind.</p>
 <p>Hier mal ein Beispiel, das ich auf der Apple-Website gefunden habe:<br />
-<a href="/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0223.jpg 998w, /wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, /wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg 998w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
 <h2>Wo kann ich &#8220;Thin Design&#8221; einsetzen &#8211; wo nicht?</h2>
 <p>Als UX-Elemente halte ich &#8220;Thin Design&#8221; für eine angebrachte Sache. Sowohl für Typografie, Symbole, aber auch für andere Controls, wie Buttons, Eingabefelder, Trennlinien.<br />
 Linien sollten aber möglichst vektorbasiert erzeugt werden und nicht beispielsweise als Bitmap, um eine Skalierbarkeit zu ermöglichen. Es besteht nämlich die Gefahr, dass die Linien dadurch verschwinden könnten. Bei Webdesign könnten Thin-Elemente beispielsweise per CSS (Border) oder SVG erzeugt werden.</p>
 <p>Unangebracht halte ich Thin Design allerdings beim Logo-Design. Ein Logo muss universell einsetzbar sein und eine starke und selbstbewusste Darstellung haben. Besteht eine Bildmarke nur aus dünnen Linien, kann es schnell untergehen, wenn nicht sogar verschwinden. In Fließtexten bieten sich &#8220;leichte&#8221; Schriftarten auch nicht an, weil dadurch die Lesbarkeit beeinträchtigt werden kann.</p>
 <p>Beim Redesign der Nachrichten-Feeds auf Startmon.com habe ich mich auch mal am &#8220;Thin Design&#8221; orientiert.<br />
 Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="undefined" target="_blank">https://startmon.com/</a> gehst und dann bei &#8220;Nachrichten-Feeds&#8221; unten links auf den Maximieren-Button klickst.</p>
-<p><a href="/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, /wp-content/uploads/2016/05/scr-0224-300x197.png 300w, /wp-content/uploads/2016/05/scr-0224-768x505.png 768w, /wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-300x197.png 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-768x505.png 768w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/das-thin-design-phaenomen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/das-thin-design-phaenomen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
-		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
-					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		<link>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
@@ -368,13 +368,13 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 		<category><![CDATA[LGK App]]></category>
 		<category><![CDATA[Windows 10]]></category>
 		<category><![CDATA[Windows 10 Mobile]]></category>
-		<guid isPermaLink="false">/?p=1828</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1828</guid>
 
-					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png 589w, https://blog-static.lgk.io/wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
 <div class="row">
 <div class="col-sm-4">
-		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+		<a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
 <p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
 </p></div>
 <div class="col-sm-8">
@@ -400,24 +400,24 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 <ol>
 <li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
 <li>
-				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 			</li>
 <li>
-				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+				Installier die App auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
 			</li>
 </ol></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Melde dich nie mehr bei einer Web App an.</title>
-		<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
-					<comments>/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
+		<link>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+					<comments>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2015 15:58:40 +0000</pubDate>
@@ -431,10 +431,10 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 		<category><![CDATA[Login]]></category>
 		<category><![CDATA[Modell]]></category>
 		<category><![CDATA[Rumspinnerei]]></category>
-		<guid isPermaLink="false">/?p=1705</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1705</guid>
 
-					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="/wp-content/uploads/2015/09/no-pwd.png 400w, /wp-content/uploads/2015/09/no-pwd-150x150.png 150w, /wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png 400w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
 <p>Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss.</p>
 <p>Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft vom Anbieter vollgespamt zu werden.</p>
 <p>Glücklicherweise bieten es mittlerweile auch viele Dienste an, sich mit Google+, Facebook oder Twitter anzumelden. Doch wie wäre es, wenn du dich gar nicht anmelden bräuchtest?</p>
@@ -446,15 +446,15 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 <p>Also, ich finde dieses Konzept genial. Natürlich eignet es sich nicht für alle Anwendungen. Denn wenn die Einstellungen als Cookies gespeichert werden, sind sie leicht für andere einsehbar. Aber solange es sich nicht um sensible Daten handelt, halte ich es für völlig in Ordnung.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
-		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
-					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		<link>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
@@ -465,25 +465,25 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 		<category><![CDATA[Ideen]]></category>
 		<category><![CDATA[LGK]]></category>
 		<category><![CDATA[LGK Services]]></category>
-		<guid isPermaLink="false">/?p=1695</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1695</guid>
 
 					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png 420w, https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
 <p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
 <p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
 <p>In Kürze dazu mehr.</p>
 <p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon Preview N°16+</title>
-		<link>/startmon-preview-n16/</link>
-					<comments>/startmon-preview-n16/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-preview-n16/</link>
+					<comments>https://blog-static.lgk.io/startmon-preview-n16/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 13 Mar 2015 15:05:59 +0000</pubDate>
@@ -493,9 +493,9 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 		<category><![CDATA[LGK]]></category>
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
-		<guid isPermaLink="false">/?p=1494</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1494</guid>
 
-					<description><![CDATA[Eigene Listen und Links Das Projekt &#8220;startmon&#8221; wird wieder in Angriff genommen und mehr Features sind geplant! Personalisierte Link-Listen sind mit Preview N°16 soweit einsatzbereit. Listen und Links lassen sich erstellen, bearbeiten und löschen. Dynamisches Abrufen von Favicons Mit einem neuen Algorithmus, werden Favicons von Seiten automatisch von Google abgerufen und zwischengespeichert. Alle 30 Tage&#8230; <a class="more-link" href="/startmon-preview-n16/">Continue reading <span class="screen-reader-text">Startmon Preview N°16+</span></a>]]></description>
+					<description><![CDATA[Eigene Listen und Links Das Projekt &#8220;startmon&#8221; wird wieder in Angriff genommen und mehr Features sind geplant! Personalisierte Link-Listen sind mit Preview N°16 soweit einsatzbereit. Listen und Links lassen sich erstellen, bearbeiten und löschen. Dynamisches Abrufen von Favicons Mit einem neuen Algorithmus, werden Favicons von Seiten automatisch von Google abgerufen und zwischengespeichert. Alle 30 Tage&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-preview-n16/">Continue reading <span class="screen-reader-text">Startmon Preview N°16+</span></a>]]></description>
 										<content:encoded><![CDATA[<br />
 <h3>Eigene Listen und Links</h3>
 <p>
@@ -517,15 +517,15 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
     </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-preview-n16/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-preview-n16/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
-		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
-					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		<link>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
@@ -544,8 +544,8 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 		<category><![CDATA[widget]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
 
-					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
 <p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
 Es ist keine extra Registrierung nötig.</p>
 <p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
@@ -555,7 +555,7 @@ Es ist keine extra Registrierung nötig.</p>
 <div class="clearfix"></div>
 <hr>
 <h3>Der Farb-Picker ist zurück!</h3>
-<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
+<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
 <p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
 Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
 <h3>Ideen für die Zukunft</h3>
@@ -565,7 +565,7 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

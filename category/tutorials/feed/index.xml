@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tutorials &#8211; LGK Blog</title>
-	<atom:link href="/category/tutorials/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Tutorials &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How I hacked Piskel and added a new feature for me</title>
-		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
-					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		<link>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[pixel]]></category>
 		<category><![CDATA[tool]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=2442</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2442</guid>
 
 					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
 										<content:encoded><![CDATA[
@@ -118,15 +118,15 @@ document.getElementById("lgkColorInput")
 <p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>If / else statement inside of React Component&#8217;s Render method</title>
-		<link>/if-else-statement-inside-of-react-components-render-method/</link>
-					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		<link>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
@@ -141,9 +141,9 @@ document.getElementById("lgkColorInput")
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[React]]></category>
 		<category><![CDATA[React.js]]></category>
-		<guid isPermaLink="false">/?p=1993</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1993</guid>
 
-					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
 <p>You could do it like this:</p>
 <pre class="prettyprint lang-js">
@@ -182,15 +182,15 @@ class MyComponent extends React.Component {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Try to avoid loops in JavaScript for better performance</title>
-		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
-					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		<link>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
@@ -204,9 +204,9 @@ class MyComponent extends React.Component {
 		<category><![CDATA[UX]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[webdev]]></category>
-		<guid isPermaLink="false">/?p=1961</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1961</guid>
 
-					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
 										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
 <p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
 <p>Here is a simple example:</p>
@@ -262,15 +262,15 @@ function getDataById(id) {
 <p>This way we can directly point to the item we want and don't have to use a loop.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -287,9 +287,9 @@ function getDataById(id) {
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">/?p=1925</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -305,15 +305,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Traffic verringern: JavaScript-Dateien kombinieren</title>
-		<link>/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
-					<comments>/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
+		<link>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/</link>
+					<comments>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 11 May 2015 14:56:13 +0000</pubDate>
@@ -333,9 +333,9 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[Traffic]]></category>
 		<category><![CDATA[Uglify]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=1630</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1630</guid>
 
-					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
+					<description><![CDATA[Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich UglifyJS2 auf GitHub gefunden. Das ist ein Node.js-Modul. Um es zu verwenden, muss also Node.js installiert sein. Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell): npm install uglify-js -g Navigiere anschließend mit cd zu deinem Projekt-Ordner. In meinem Beispiel sieht&#8230; <a class="more-link" href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/">Continue reading <span class="screen-reader-text">Traffic verringern: JavaScript-Dateien kombinieren</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Für das Kombinieren und Minimieren von JavaScript-Dateien, habe ich <a href="https://github.com/mishoo/UglifyJS2" title="" target="_blank">UglifyJS2 auf GitHub</a> gefunden.</p>
 <p>Das ist ein Node.js-Modul. Um es zu verwenden, muss also <a href="https://nodejs.org/" title="" target="_blank">Node.js</a> installiert sein.</p>
 <p>Um UglifyJS2 zu installieren, tippe Folgendes in ein Konsolen-Programm ein (ich benutze gerne PowerShell):</p>
@@ -399,23 +399,23 @@ uglifyjs js/jquery.js js/main.js js/search.js -o js/script.min.js
 </pre>
 <div class="clearfix"></div>
 <h3>Erweiterungen für Entwicklungsumgebungen?</h3>
-<p><img loading="lazy" src="/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="/wp-content/uploads/2015/05/branding_256-150x150.png 150w, /wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png" alt="Brackets Branding" width="150" height="150" class="alignleft size-thumbnail wp-image-1649" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/05/branding_256.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
 Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.com/daPhyre/brackets-jscompiler" title="" target="_blank">JSCompiler2</a></p>
 <p>Durch eine Konfigurations-Datei können somit auch die Ein- und Ausgabe-Dateien gespeichert werden, sodass für eine Neu-Kompilierung nur noch ein Knopfdruck nötig ist. Ziemlich praktisch also.</p>
 <p>Für NetBeans scheint es nichts dergleichen zu geben. Für PHPStorm lässt sich UglifyJS anscheind einrichten: <a href="https://www.jetbrains.com/phpstorm/help/minifying-javascript.html" title="" target="_blank">https://www.jetbrains.com/phpstorm/help/minifying-javascript.html</a></p>
 <hr>
-<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
+<p>Ich habe auch einen Artikel über das Kombinieren von CSS-Dateien geschrieben: <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" target="_blank">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</title>
-		<link>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
-					<comments>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
+		<link>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/</link>
+					<comments>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 08 May 2015 14:50:03 +0000</pubDate>
@@ -431,9 +431,9 @@ Für Brackets habe ich ein passendes Plugin gefunden: <a href="https://github.co
 		<category><![CDATA[Optimierung]]></category>
 		<category><![CDATA[Traffic]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">/?p=1601</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1601</guid>
 
-					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
+					<description><![CDATA[Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können: ... Die feine Art ist das nicht. Der Browser muss so bei jedem Seitenaufruf jede einzelne Datei abklappern. Je nach Internet-Leistung des Besuchers kann das eine Weile dauern. Und jede Millisekunde, die der Nutzer&#8230; <a class="more-link" href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/">Continue reading <span class="screen-reader-text">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Wer in einem Web-Projekt viele verschiedene CSS- und JavaScript-Bibliotheken verwendet, wird feststellen, dass sich im Quellcode eine Menge HTTP-Anfragen anhäufen können:</p>
 <pre class="prettyprint lang-html">
 <!DOCTYPE html>
@@ -549,15 +549,15 @@ body{font-family:Arial,sans-serif;font-size:14px;color:#000}#nav li#home{font-we
 Der Link wird dann hier angefügt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop-Tutorial: Pipetten-Werkzeug außerhalb verwenden</title>
-		<link>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
-					<comments>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
+		<link>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
+					<comments>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 25 Feb 2015 10:00:55 +0000</pubDate>
@@ -573,7 +573,7 @@ Der Link wird dann hier angefügt.</p>
 		<category><![CDATA[Farbe]]></category>
 		<category><![CDATA[photoshop]]></category>
 		<category><![CDATA[Pipette]]></category>
-		<guid isPermaLink="false">/?p=1490</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1490</guid>
 
 					<description><![CDATA[Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes. Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen. Video direkt auf YouTube ansehen.]]></description>
 										<content:encoded><![CDATA[<div class="embed-responsive embed-responsive-16by9">
@@ -584,15 +584,15 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 <p><a href="https://www.youtube.com/watch?v=Hmq3HMy56Yo">Video direkt auf YouTube ansehen.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Start Touch als Startseite für das Smartphone</title>
-		<link>/start-touch-als-startseite-fuer-das-smartphone/</link>
-					<comments>/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
+		<link>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/</link>
+					<comments>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2014 10:43:25 +0000</pubDate>
@@ -612,35 +612,35 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=923</guid>
 
-					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, /wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
+					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
 Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon.<br />
 Nichts weiter. Ohne Schnickschnack.</p>
 <p>Damit eignet es sich vor allem für ältere oder langsamere Smartphones.</p>
 <h2>Wie richte ich Start Touch als Startseite ein?</h2>
 <p>Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten.</p>
 <p>Am schnellsten geht es, wenn du die Seite über diesen QR-Code öffnest:<br />
-<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, /wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
+<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
 <div class="clear-both"></div>
 <p>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
 </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</title>
-		<link>/tutorial-long-shadow-icon-flat-mit-photoshop/</link>
-					<comments>/tutorial-long-shadow-icon-flat-mit-photoshop/#respond</comments>
+		<link>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/</link>
+					<comments>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 22 Jul 2013 13:04:25 +0000</pubDate>
@@ -657,16 +657,16 @@ Nichts weiter. Ohne Schnickschnack.</p>
 		<category><![CDATA[tutorial]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=836</guid>
 
-					<description><![CDATA[Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen. Aber auch Google und nun auch Apple ziehen nun mit. Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese. Seht einfach selbst: Weitere Beispiele findet ihr in diesem Artikel auf&#8230; <a class="more-link" href="/tutorial-long-shadow-icon-flat-mit-photoshop/">Continue reading <span class="screen-reader-text">Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</span></a>]]></description>
+					<description><![CDATA[Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen. Aber auch Google und nun auch Apple ziehen nun mit. Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese. Seht einfach selbst: Weitere Beispiele findet ihr in diesem Artikel auf&#8230; <a class="more-link" href="https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/">Continue reading <span class="screen-reader-text">Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen.</p>
 <p>Aber auch Google und nun auch Apple ziehen nun mit.</p>
 <p>Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese.</p>
 <p>Seht einfach selbst:</p>
-<p><figure id="attachment_839" aria-describedby="caption-attachment-839" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-839" alt="Das Icon zu Google Fonts. (Quelle: designmodo.com)" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/flat-shadow.jpg" width="600" height="320" srcset="/wp-content/uploads/2013/07/flat-shadow.jpg 600w, /wp-content/uploads/2013/07/flat-shadow-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-839" class="wp-caption-text">Das Icon zu Google Fonts. (Quelle: <a href="http://designmodo.com/long-shadows-design/" target="_blank">designmodo.com</a>)</figcaption></figure></p>
+<p><figure id="attachment_839" aria-describedby="caption-attachment-839" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-839" alt="Das Icon zu Google Fonts. (Quelle: designmodo.com)" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/flat-shadow.jpg" width="600" height="320" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/flat-shadow.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/flat-shadow-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-839" class="wp-caption-text">Das Icon zu Google Fonts. (Quelle: <a href="http://designmodo.com/long-shadows-design/" target="_blank">designmodo.com</a>)</figcaption></figure></p>
 <p>Weitere Beispiele findet ihr <a href="http://designmodo.com/long-shadows-design/" target="_blank">in diesem Artikel auf designmodo.com</a>.</p>
 <h2>Tutorial</h2>
 <p>Aber dies soll ein Tutorial sein, darüber wie man &#8220;Long Shadow&#8221;-Icons mit Photoshop verwirklichen kann.<span id="more-836"></span></p>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4.png"><img loading="lazy" class="size-medium wp-image-847 alignleft" title="Die Vorlage für den 45°-Schatten." alt="Die Vorlage für den 45°-Schatten." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4-300x168.png" width="300" height="168" srcset="/wp-content/uploads/2013/07/Screenshot-4-300x168.png 300w, /wp-content/uploads/2013/07/Screenshot-4-1024x575.png 1024w, /wp-content/uploads/2013/07/Screenshot-4.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4.png"><img loading="lazy" class="size-medium wp-image-847 alignleft" title="Die Vorlage für den 45°-Schatten." alt="Die Vorlage für den 45°-Schatten." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4-300x168.png" width="300" height="168" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4-300x168.png 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4-1024x575.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Für den Schatten verwende ich eine selbstgemachte Vorlage, womit es einfacher ist den Schatten zu erstellen.</p>
 <p>Die Vorlage hier als PSD: <a href="/files/45-Grad-Form.psd" target="_blank">45-Grad-Form.psd</a></p>
 <p>Wie bei dem Beispiel mit dem Google Fonts-Icon, erstellen wir einen 45°-Schatten, welcher nach unten rechts scheint.</p>
@@ -675,7 +675,7 @@ Nichts weiter. Ohne Schnickschnack.</p>
 <p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.png"><img loading="lazy" class="aligncenter size-large wp-image-851" title="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." alt="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.jpg" width="600" height="337" /></a></p>
 <p>Für das Tutorial wollen wir ein &#8220;Home&#8221;-Icon machen.<br />
 Also fügen wir ein Haus-Symbol ein. Das Icon stammt von <a href="http://iconmonstr.com/" target="_blank">iconmonstr.com</a>. Dort findet ihr noch viele weitere Icons, die ihr verwenden könnt.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png"><img loading="lazy" class="aligncenter size-full wp-image-855" title="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." alt="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png" width="600" height="368" srcset="/wp-content/uploads/2013/07/Screenshot-7.png 866w, /wp-content/uploads/2013/07/Screenshot-7-300x183.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png"><img loading="lazy" class="aligncenter size-full wp-image-855" title="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." alt="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png" width="600" height="368" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-7.png 866w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-7-300x183.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Da das Symbol aus zwei Körpern (Haus und Schornstein) besteht, erstellen wir zwei voneinander getrennte Schatten.</p>
 <p>Zuerst ist das Haus dran. Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses.</p>
 <p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.png"><img loading="lazy" class="aligncenter size-large wp-image-860" title="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." alt="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.jpg" width="600" height="337" /></a></p>
@@ -692,25 +692,25 @@ Also fügen wir ein Haus-Symbol ein. Das Icon stammt von <a href="http://iconmon
 <p>Auch hier, geht es am einfachsten, wenn du den Icon-Hintergrund mit STRG und Klick auf die Miniatur auswählst.</p>
 <p>Allerdings musst du danach die Auswahl noch umkehren, da wir ja den Teil des Schattens außerhalb des Icon-Hintergrundes entfernen wollen.</p>
 <p>Nun, auch dafür gibt es einen Tastenkürzel, und zwar STRG + SHIFT (Umschalt) + I.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.png"><img loading="lazy" class="aligncenter size-full wp-image-871" title="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." alt="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-11.jpg 600w, /wp-content/uploads/2013/07/Screenshot-11-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.png"><img loading="lazy" class="aligncenter size-full wp-image-871" title="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." alt="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-11.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-11-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Wechseln wir nun wieder zur &#8220;Schatten&#8221;-Ebene und drücken ENTF, wird der unschöne Überschuss entfernt.</p>
 <p>Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.png"><img loading="lazy" class="aligncenter size-full wp-image-875" title="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." alt="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-12.jpg 600w, /wp-content/uploads/2013/07/Screenshot-12-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.png"><img loading="lazy" class="aligncenter size-full wp-image-875" title="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." alt="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-12.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-12-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Das Resultat ist doch schon mal ganz ansprechend. Die vorherigen Schritte wiederholen wir jetzt, allerdings beim Schornstein.<br />
 Das sieht dann so aus:</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.png"><img loading="lazy" class="aligncenter size-full wp-image-879" title="Das Resultat ist doch schon mal ganz ansprechend." alt="Das Resultat ist doch schon mal ganz ansprechend." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-13.jpg 600w, /wp-content/uploads/2013/07/Screenshot-13-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.png"><img loading="lazy" class="aligncenter size-full wp-image-879" title="Das Resultat ist doch schon mal ganz ansprechend." alt="Das Resultat ist doch schon mal ganz ansprechend." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-13.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-13-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Das fertige Projekt könnt ihr hier als PSD runterladen: <a href="/files/home-long-shadow.psd" target="_blank">home-long-shadow.psd</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tutorial-long-shadow-icon-flat-mit-photoshop/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
-		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
-					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		<link>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
@@ -731,7 +731,7 @@ Das sieht dann so aus:</p>
 		<category><![CDATA[umwandeln]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
 
-					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="box">
 <h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
 <p><center><br />
@@ -745,7 +745,7 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

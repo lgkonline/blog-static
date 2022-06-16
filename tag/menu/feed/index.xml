@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Menü &#8211; LGK Blog</title>
-	<atom:link href="/tag/menu/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/menu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 08 Jul 2013 10:35:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Menü &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Ansicht des &#8220;Über LGK Start&#8221;-Menüs</title>
-		<link>/neue-ansicht-des-uber-lgk-start-menus/</link>
-					<comments>/neue-ansicht-des-uber-lgk-start-menus/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-ansicht-des-uber-lgk-start-menus/</link>
+					<comments>https://blog-static.lgk.io/neue-ansicht-des-uber-lgk-start-menus/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 Jul 2013 10:35:50 +0000</pubDate>
@@ -43,21 +43,21 @@
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=815</guid>
 
 					<description><![CDATA[Ein Nachteil des &#8220;Über LGK Start&#8221;-Menüs war, dass es den Inhalt überdeckt, wenn das Browser-Fenster zu klein war. Dieses Problem wurde nun gelöst: Ist das Fenster kleiner als 1300 Pixel, verwandelt sich das Menü in eine kompakte Ansicht bestehend aus Symbolen. Auf nach LGK Start &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg" alt="" width="300" height="162" class="alignleft size-medium wp-image-816" srcset="/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg 300w, /wp-content/uploads/2013/07/lgkstart_10-2.jpg 722w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg" alt="" width="300" height="162" class="alignleft size-medium wp-image-816" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/lgkstart_10-2-300x162.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/lgkstart_10-2.jpg 722w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Ein Nachteil des &#8220;Über LGK Start&#8221;-Menüs war, dass es den Inhalt überdeckt, wenn das Browser-Fenster zu klein war.</p>
 <p>Dieses Problem wurde nun gelöst: Ist das Fenster kleiner als 1300 Pixel, verwandelt sich das Menü in eine kompakte Ansicht bestehend aus Symbolen.</p>
 <p><a href="http://lgkonline.de/start" target="_blank">Auf nach LGK Start &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-ansicht-des-uber-lgk-start-menus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-ansicht-des-uber-lgk-start-menus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das Dashboard wird von einem Menü abgelöst</title>
-		<link>/das-dashboard-wird-von-einem-menu-abgelost/</link>
-					<comments>/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
+		<link>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/</link>
+					<comments>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 25 Mar 2013 20:33:41 +0000</pubDate>
@@ -75,15 +75,15 @@
 		<category><![CDATA[Navigation]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=678</guid>
 
-					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, /wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
+					<description><![CDATA[Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte. Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet. Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das&#8230; <a class="more-link" href="https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/">Continue reading <span class="screen-reader-text">Das Dashboard wird von einem Menü abgelöst</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_679" aria-describedby="caption-attachment-679" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/03/static-navi-300x132.jpg" alt="Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau." width="300" height="132" class="size-medium wp-image-679" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/03/static-navi-300x132.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/03/static-navi.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-679" class="wp-caption-text">Fährt man mit der Maus über einen Menüpunkt drüber, erscheint eine Vorschau.</figcaption></figure><br />
 Um sich durch die einzelnen Bereiche der LGK-Site zu hangeln, gab es zuvor das Dashboard, welches von jeder Seite aufgerufen werden konnte.</p>
 <p>Dieses Board habe ich nun durch ein Menü ersetzt, welches man stets ganz oben auf jeder Seite findet.</p>
 <p>Durch das Menü gelangst du zu LGK Start, LGK Design und LGK Blog. Über das LGK-Logo gelangst du zu Kontakt und Impressum.</p>
 <p>Außerdem habe ich Links zu meiner deviantART-Seite und zu meinem Twitter-Account gesetzt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/das-dashboard-wird-von-einem-menu-abgelost/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

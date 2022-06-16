@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; LGK Blog</title>
-	<atom:link href="/tag/home/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 29 Jun 2012 18:39:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Home &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
-		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
-					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
@@ -52,9 +52,9 @@
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
 
-					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
+<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
 <p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
 Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
 <p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
@@ -74,10 +74,10 @@ Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut 
 <p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
 <p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
 <p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

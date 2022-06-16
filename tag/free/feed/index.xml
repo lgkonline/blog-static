@@ -9,8 +9,8 @@
 
 <channel>
 	<title>free &#8211; LGK Blog</title>
-	<atom:link href="/tag/free/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/free/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 28 Jul 2016 14:26:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>free &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -47,9 +47,9 @@
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">/?p=1925</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -65,15 +65,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Such-Maske: The Noun Project</title>
-		<link>/neue-such-maske-the-noun-project/</link>
-					<comments>/neue-such-maske-the-noun-project/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-such-maske-the-noun-project/</link>
+					<comments>https://blog-static.lgk.io/neue-such-maske-the-noun-project/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 03 Jul 2013 21:37:24 +0000</pubDate>
@@ -92,8 +92,8 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[symbole]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=803</guid>
 
-					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, /wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
+					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
 <p>Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln.</p>
 <p>Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen.</p>
 <p>Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen.  Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein Icon für kommerzielle Zwecke nutzen, kann man diesen auch kaufen.</p>
@@ -105,7 +105,7 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

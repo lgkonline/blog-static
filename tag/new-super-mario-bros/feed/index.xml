@@ -9,8 +9,8 @@
 
 <channel>
 	<title>new super mario bros &#8211; LGK Blog</title>
-	<atom:link href="/tag/new-super-mario-bros/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/new-super-mario-bros/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 02 Jun 2014 19:21:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>new super mario bros &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Game Check: New Super Mario Bros.</title>
-		<link>/game-check-new-super-mario-bros/</link>
-					<comments>/game-check-new-super-mario-bros/#respond</comments>
+		<link>https://blog-static.lgk.io/game-check-new-super-mario-bros/</link>
+					<comments>https://blog-static.lgk.io/game-check-new-super-mario-bros/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2011 13:50:24 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[nintendo ds]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=216</guid>
 
-					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, /wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
+					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="https://blog-static.lgk.io/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
 <p>Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS.</p>
 <p>Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.</p>
 <p>Obwohl es bereits 5 Jahre alt ist, ist New Super Mario Bros. vom Preis her nicht günstiger geworden. Nintendo sah darin wohl keinen Bedarf, denn die Verkaufszahlen sind weiterhin sehr hoch. Ich habe mein Spiel für € 39,95 bekommen.<br />
@@ -75,7 +75,7 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 <img src="http://blog.lgkonline.com/wp-content/uploads/2011/08/1314451226_Bullet-Bill.png" alt="" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/game-check-new-super-mario-bros/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/game-check-new-super-mario-bros/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

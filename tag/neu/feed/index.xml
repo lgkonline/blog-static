@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Neu &#8211; LGK Blog</title>
-	<atom:link href="/tag/neu/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/neu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 30 Aug 2014 13:06:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Neu &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue 3DS-Geräte im Anmarsch</title>
-		<link>/neue-3ds-geraete-im-anmarsch/</link>
-					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[nintendo]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
 
-					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement.jpg 678w, https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
 <p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
 <p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
 <p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
@@ -58,46 +58,46 @@ Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.<
 <p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
 <p><span id="more-1189"></span></p>
 <hr>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Verbessertes 3D</h2>
 <p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
 Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Das C-Pad</h2>
 <p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neue Schulter-Tasten</h2>
 <p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Gefärbte ABXY-Knöpfe</h2>
 <p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
 <p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Amiibo</h2>
 <p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
 <p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
 <p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/speed-300x248.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Mehr Speed</h2>
 <p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
 <p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Personalisierbarer Home-Screen</h2>
 <p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
 <p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Hard-Cover für den New Nintendo 3DS</h2>
 <p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
 <p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/positions-249x300.jpg 249w, https://blog-static.lgk.io/wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
 <h2>Neue Positionen</h2>
 <p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
 <p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
@@ -105,7 +105,7 @@ Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p
 Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
 <p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Zubehör und Nicht-Zubehör</h2>
 <p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
 Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
@@ -121,15 +121,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neues Logo für startmon</title>
-		<link>/neues-logo-fuer-startmon/</link>
-					<comments>/neues-logo-fuer-startmon/#comments</comments>
+		<link>https://blog-static.lgk.io/neues-logo-fuer-startmon/</link>
+					<comments>https://blog-static.lgk.io/neues-logo-fuer-startmon/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 31 Jul 2014 17:21:28 +0000</pubDate>
@@ -146,11 +146,11 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[Wortmarke]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1144</guid>
 
-					<description><![CDATA[Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte. Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat. Es besteht nun aus einer Bild- und einer Wortmarke. Die Idee hinter der&#8230; <a class="more-link" href="/neues-logo-fuer-startmon/">Continue reading <span class="screen-reader-text">Neues Logo für startmon</span></a>]]></description>
+					<description><![CDATA[Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte. Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat. Es besteht nun aus einer Bild- und einer Wortmarke. Die Idee hinter der&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-logo-fuer-startmon/">Continue reading <span class="screen-reader-text">Neues Logo für startmon</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption thumbnail">
-<a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png" alt="Neues startmon-Logo" width="1000" height="212" class="aligncenter size-full wp-image-1146 img-responsive" srcset="/wp-content/uploads/2014/07/startmon-neues-logo.png 1000w, /wp-content/uploads/2014/07/startmon-neues-logo-300x63.png 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
+<a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png" alt="Neues startmon-Logo" width="1000" height="212" class="aligncenter size-full wp-image-1146 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-neues-logo.png 1000w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-neues-logo-300x63.png 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
 </div>
-<figure id="attachment_1150" aria-describedby="caption-attachment-1150" style="width: 150px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon-150x150.png" alt="Altes Logo" width="150" height="150" class="size-thumbnail wp-image-1150" srcset="/wp-content/uploads/2014/07/favicon-150x150.png 150w, /wp-content/uploads/2014/07/favicon.png 265w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption id="caption-attachment-1150" class="wp-caption-text">Das ehemalige Logo</figcaption></figure>
+<figure id="attachment_1150" aria-describedby="caption-attachment-1150" style="width: 150px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon-150x150.png" alt="Altes Logo" width="150" height="150" class="size-thumbnail wp-image-1150" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/favicon-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/07/favicon.png 265w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption id="caption-attachment-1150" class="wp-caption-text">Das ehemalige Logo</figcaption></figure>
 <p>Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte.</p>
 <p>Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat.</p>
 <p>Es besteht nun aus einer Bild- und einer Wortmarke.</p>
@@ -162,15 +162,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Die Wortmarke wird in der Standard-Schriftart Roboto dargestellt. Diese wird auch innerhalb vom Dienst verwendet. Die Farbe kann je nach Einsatzort variieren.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-logo-fuer-startmon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-logo-fuer-startmon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue LGK-Navi</title>
-		<link>/neue-lgk-navi/</link>
-					<comments>/neue-lgk-navi/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-lgk-navi/</link>
+					<comments>https://blog-static.lgk.io/neue-lgk-navi/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 26 Aug 2012 15:23:50 +0000</pubDate>
@@ -186,23 +186,23 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=600</guid>
 
-					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, /wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation. Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört. Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken,&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-lgk-navi/">Continue reading <span class="screen-reader-text">Neue LGK-Navi</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg" alt="" title="Neue LGK-Navi" width="300" height="162" class="alignleft size-medium wp-image-601" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/new-dashboard-menu-300x162.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/new-dashboard-menu.jpg 352w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Um zwischen die einzelnen Bereiche von lgkonline.de zu switchen, gibt es auf jeder Seite eine Navigation.</p>
 <p>Diese wurde nun optisch etwas aufgebessert. Sie befindet sich nun nicht mehr unten mittig, sondern unten rechts, so dass sie weniger stört.</p>
 <p>Klickst du auf das LGK-Logo gelangst du zur Startseite des aktuellen Bereichs. Würdest du dort jetzt draufklicken, würdest du zur Startseite von LGK Blog gelangen.</p>
 <p>Wenn du auf das Symbol daneben klickst, erscheint das Dashboard, indem du z.B. nach LGK mys switchen kannst, oder auch die gesamte Website durchsuchen kannst.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-lgk-navi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-lgk-navi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Microsoft präsentiert neues Logo</title>
-		<link>/microsoft-prasentiert-neues-logo/</link>
-					<comments>/microsoft-prasentiert-neues-logo/#respond</comments>
+		<link>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/</link>
+					<comments>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 24 Aug 2012 18:27:43 +0000</pubDate>
@@ -220,8 +220,8 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=532</guid>
 
-					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, /wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
+					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
 <p>Microsoft präsentiert mit einem Image-Video ihr neues Logo.</p>
 <p>Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold.</p>
 <p>Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist ein neues Logo auch nötig, da das alte einfach nicht mehr zum Kachel-Design passte.</p>
@@ -237,15 +237,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
-		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
-					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
@@ -267,9 +267,9 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
 
-					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
+<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
 <p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
 Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
 <p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
@@ -289,10 +289,10 @@ Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut 
 <p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
 <p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
 <p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

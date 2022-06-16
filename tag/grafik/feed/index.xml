@@ -9,8 +9,8 @@
 
 <channel>
 	<title>grafik &#8211; LGK Blog</title>
-	<atom:link href="/tag/grafik/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/grafik/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 08 Jun 2013 19:11:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>grafik &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vorschau auf LGK Start Version 10</title>
-		<link>/vorschau-auf-lgk-start-version-10/</link>
-					<comments>/vorschau-auf-lgk-start-version-10/#respond</comments>
+		<link>https://blog-static.lgk.io/vorschau-auf-lgk-start-version-10/</link>
+					<comments>https://blog-static.lgk.io/vorschau-auf-lgk-start-version-10/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 08 Jun 2013 19:11:50 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[Suche]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=732</guid>
 
-					<description><![CDATA[Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen. Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt. Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen. Es&#8230; <a class="more-link" href="/vorschau-auf-lgk-start-version-10/">Continue reading <span class="screen-reader-text">Vorschau auf LGK Start Version 10</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_733" aria-describedby="caption-attachment-733" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg" alt="So in etwa wird LGK Start bald ausschauen" width="300" height="146" class="size-medium wp-image-733" srcset="/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg 300w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01-1024x501.jpg 1024w, /wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg 1630w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-733" class="wp-caption-text">So in etwa wird LGK Start bald ausschauen</figcaption></figure>
+					<description><![CDATA[Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen. Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt. Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen. Es&#8230; <a class="more-link" href="https://blog-static.lgk.io/vorschau-auf-lgk-start-version-10/">Continue reading <span class="screen-reader-text">Vorschau auf LGK Start Version 10</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_733" aria-describedby="caption-attachment-733" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg" alt="So in etwa wird LGK Start bald ausschauen" width="300" height="146" class="size-medium wp-image-733" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-300x146.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart_10-vorschau-01-1024x501.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart_10-vorschau-01.jpg 1630w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-733" class="wp-caption-text">So in etwa wird LGK Start bald ausschauen</figcaption></figure>
 <p>Ich arbeite zur Zeit an LGK Start weiter. Die Seite soll sich noch besser dem Bildschirm anpassen.</p>
 <p>Das Hintergrundbild wird nun immer proportional gestreckt, sodass es die ganze Seite füllt.</p>
 <p>Trotzdem hat sich die Mindest-Breite geändert. Diese beträgt nun 1000 Pixel, statt 1366 Pixel. Hat man einen kleineren Monitor, muss man später horizontal scrollen.</p>
@@ -59,15 +59,15 @@ Was auf dem Bild links nicht zu sehen ist: Die aktuelle Suchmaschine wird nun st
 <p>Wenn die Seite fertig ist, findet ihr sie unter: <a href="http://lgkonline.de/start">lgkonline.de/start</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vorschau-auf-lgk-start-version-10/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/vorschau-auf-lgk-start-version-10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
-		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
-					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		<link>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
@@ -88,7 +88,7 @@ Was auf dem Bild links nicht zu sehen ist: Die aktuelle Suchmaschine wird nun st
 		<category><![CDATA[umwandeln]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
 
-					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="box">
 <h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
 <p><center><br />
@@ -102,15 +102,15 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Photoshop-Funktion: Video</title>
-		<link>/neue-photoshop-funktion-video/</link>
-					<comments>/neue-photoshop-funktion-video/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-photoshop-funktion-video/</link>
+					<comments>https://blog-static.lgk.io/neue-photoshop-funktion-video/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
@@ -133,26 +133,26 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 		<category><![CDATA[video]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
 
-					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
 <p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
 <p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
 <p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
 Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
 <p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
 <div class="float-reg"></div>
-<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
 Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
 Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
 <div class="float-reg"></div>
-<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
 <ul>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-photoshop-funktion-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

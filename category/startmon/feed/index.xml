@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Startmon &#8211; LGK Blog</title>
-	<atom:link href="/category/startmon/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/startmon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 26 Sep 2015 20:37:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Startmon &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Startmon 11.13</title>
-		<link>/startmon-11-13/</link>
-					<comments>/startmon-11-13/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-11-13/</link>
+					<comments>https://blog-static.lgk.io/startmon-11-13/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 26 Sep 2015 20:37:34 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1738</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1738</guid>
 
 					<description><![CDATA[Link-Listen können nun schneller über neuer Oberfläche bearbeitet werden. &#8220;Bearbeitungs-Modus&#8221; gibt es nicht mehr. Bearbeitung erfolgt nun direkt von der Startseite aus. Startmon-Logo wird in Form einer SVG dargestellt. Neues Lade-Symbol für Ajax-Anfragen. Glyphicon Webfonts aus Bootstrap werden durch eigene Webfonts ersetzt. Weitere optische Kleinigkeiten&#8230;]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -52,22 +52,22 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-11-13/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-11-13/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon Feedback</title>
-		<link>/startmon-feedback/</link>
-					<comments>/startmon-feedback/#comments</comments>
+		<link>https://blog-static.lgk.io/startmon-feedback/</link>
+					<comments>https://blog-static.lgk.io/startmon-feedback/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2015 08:55:44 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
-		<guid isPermaLink="false">/?p=1736</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1736</guid>
 
 					<description><![CDATA[Da sich Startmon fortlaufend weiterentwickelt, kommen mit der Zeit mehr Features hinzu oder sie werden optimiert. Unter diesem Thema soll euer Feedback in Form von Kommentaren gesammelt werden. Ob Verbesserungsvorschläge oder Kritik. Deine Meinung kann dabei helfen, Startmon zu verbessern.]]></description>
 										<content:encoded><![CDATA[<p>Da sich Startmon fortlaufend weiterentwickelt, kommen mit der Zeit mehr Features hinzu oder sie werden optimiert.</p>
@@ -75,15 +75,15 @@
 Ob Verbesserungsvorschläge oder Kritik. Deine Meinung kann dabei helfen, Startmon zu verbessern.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-feedback/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-feedback/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</title>
-		<link>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
-					<comments>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
+		<link>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
+					<comments>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 19 Sep 2015 15:59:54 +0000</pubDate>
@@ -93,10 +93,10 @@ Ob Verbesserungsvorschläge oder Kritik. Deine Meinung kann dabei helfen, Startm
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1726</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1726</guid>
 
-					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2015/09/Screenshot-1.png 900w, /wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png 900w, https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
 <h4>Startmon v11.11</h4>
 <p>Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen.</p>
 <p>Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &raquo; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;.</p>
@@ -104,15 +104,15 @@ Ob Verbesserungsvorschläge oder Kritik. Deine Meinung kann dabei helfen, Startm
 Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir per <a href="//about.lgkonline.com/kontakt">Kontakt</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.10 Changelog</title>
-		<link>/startmon-v11-10-changelog/</link>
-					<comments>/startmon-v11-10-changelog/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-v11-10-changelog/</link>
+					<comments>https://blog-static.lgk.io/startmon-v11-10-changelog/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2015 18:31:07 +0000</pubDate>
@@ -120,7 +120,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1722</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1722</guid>
 
 					<description><![CDATA[News Feeds wurden ins System integriert, sodass im nächsten Schritt eine Konfiguration seitens des Nutzers möglich sein soll. Bixxel und Bixxel Design wurden als News-Quellen hinzugefügt. Doppelte Datenbank-Aufrufe wurden unterbunden um so Traffic zu sparen.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -130,15 +130,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-v11-10-changelog/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-10-changelog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon Rookie &#8211; Wie es weiter geht</title>
-		<link>/startmon-rookie-wie-es-weiter-geht/</link>
-					<comments>/startmon-rookie-wie-es-weiter-geht/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/</link>
+					<comments>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 05 Jul 2015 13:43:02 +0000</pubDate>
@@ -152,16 +152,16 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Evolution]]></category>
 		<category><![CDATA[Rookie]]></category>
 		<category><![CDATA[testen]]></category>
-		<guid isPermaLink="false">/?p=1682</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1682</guid>
 
-					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="/wp-content/uploads/2015/07/rookie-300x225.png 300w, /wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert.</p>
 <p>Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden.</p>
 <p>Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden kann.</p>
 <p>Um das zu realisieren, muss der grundsätzliche Code neu geschrieben werden. Diese neue Version, welche die Release-Nummer 12.x erhalten wird, nenne ich während sie noch in der Entstehung ist &#8220;Startmon Rookie&#8221; (hergeleitet aus Digimon).</p>
 <div class="clearfix"></div>
-<p><a href="/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, /wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, /wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neues Feature: Pocket</h2>
 <p>Pocket ist ein Dienst, um schnell Web-Inhalte als Favorit zu speichern und das plattform-unabhängig. In der neuesten Firefox-Version ist Pocket bereits fest integriert.</p>
 <p>Dank der API von Pocket, können gespeicherte Links aus Pocket auch direkt auf Startmon angezeigt werden.</p>
@@ -170,15 +170,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 <p>Sobald es so weit ist, werde ich es natürlich bekannt geben.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.8</title>
-		<link>/startmon-v11-8/</link>
-					<comments>/startmon-v11-8/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-v11-8/</link>
+					<comments>https://blog-static.lgk.io/startmon-v11-8/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 31 May 2015 14:18:21 +0000</pubDate>
@@ -186,7 +186,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1675</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1675</guid>
 
 					<description><![CDATA[startmon.lgk.io/wish: Ein Board, wo Vorschläge zu neuen Inhalten gemacht werden können. Umstellung der Schriftart auf Source Sans Pro. Login mit Twitter ist nun möglich.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -196,22 +196,22 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-v11-8/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.7</title>
-		<link>/startmon-v11-7/</link>
-					<comments>/startmon-v11-7/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-v11-7/</link>
+					<comments>https://blog-static.lgk.io/startmon-v11-7/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 29 May 2015 18:10:25 +0000</pubDate>
 				<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1672</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1672</guid>
 
 					<description><![CDATA[Wechsel der Entwicklungsumgebung auf Visual Studio 2013. Deutlich effizientere Weise, neue Versionen zu veröffentlichen. Detail-Änderungen am Startmon News Feed.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -221,15 +221,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-v11-7/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.6</title>
-		<link>/startmon-v11-6/</link>
-					<comments>/startmon-v11-6/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-v11-6/</link>
+					<comments>https://blog-static.lgk.io/startmon-v11-6/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 May 2015 18:59:03 +0000</pubDate>
@@ -237,7 +237,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1657</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1657</guid>
 
 					<description><![CDATA[&#8220;Beta&#8221; wird ab sofort weggelassen. Startmon ist nun unter http://startmon.lgk.io/ erreichbar. Komprimierung von JS via uglifyjs. Startmon News Feed eingeführt.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -247,15 +247,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-v11-6/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon bekommt Nachrichten</title>
-		<link>/startmon-bekommt-nachrichten/</link>
-					<comments>/startmon-bekommt-nachrichten/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-bekommt-nachrichten/</link>
+					<comments>https://blog-static.lgk.io/startmon-bekommt-nachrichten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 May 2015 18:58:35 +0000</pubDate>
@@ -269,16 +269,16 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[RSS]]></category>
 		<category><![CDATA[startseite]]></category>
-		<guid isPermaLink="false">/?p=1659</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1659</guid>
 
-					<description><![CDATA[Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen. Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt. Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können. Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt. Der&#8230; <a class="more-link" href="/startmon-bekommt-nachrichten/">Continue reading <span class="screen-reader-text">Startmon bekommt Nachrichten</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1663" aria-describedby="caption-attachment-1663" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-2.png"><img loading="lazy" src="/wp-content/uploads/2015/05/news-2-300x160.png" alt="News schnell auf Abruf" width="300" height="160" class="size-medium wp-image-1663" srcset="/wp-content/uploads/2015/05/news-2-300x160.png 300w, /wp-content/uploads/2015/05/news-2-1024x546.png 1024w, /wp-content/uploads/2015/05/news-2.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1663" class="wp-caption-text">News schnell auf Abruf</figcaption></figure>
+					<description><![CDATA[Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen. Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt. Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können. Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt. Der&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-bekommt-nachrichten/">Continue reading <span class="screen-reader-text">Startmon bekommt Nachrichten</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1663" aria-describedby="caption-attachment-1663" style="width: 300px" class="wp-caption alignleft"><a href="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-300x160.png" alt="News schnell auf Abruf" width="300" height="160" class="size-medium wp-image-1663" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-2.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1663" class="wp-caption-text">News schnell auf Abruf</figcaption></figure>
 <p>Ab sofort beherbergt Startmon einen News-Stream. Er verlinkt die neuesten Artikel verschiedener Quellen.</p>
 <p>Momentan werden Posts von tagesschau.de, GIGA, DIE WELT, WinFuture, Servaholics, CNET und LGK Blog angezeigt.<br />
 Geplant ist, dass registrierte Nutzer die Quellen selbst zusammenstellen können.</p>
 <p>Abgerufen werden die Posts per RSS. Aufgrund des Layouts werden aber nur Posts mit Thumbnails angezeigt.</p>
 <div class="clearfix"></div>
-<figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 300px" class="wp-caption alignleft"><a href="/wp-content/uploads/2015/05/news-1.png"><img loading="lazy" src="/wp-content/uploads/2015/05/news-1-300x160.png" alt="News sind unten versteckt" width="300" height="160" class="size-medium wp-image-1660" srcset="/wp-content/uploads/2015/05/news-1-300x160.png 300w, /wp-content/uploads/2015/05/news-1-1024x546.png 1024w, /wp-content/uploads/2015/05/news-1.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1660" class="wp-caption-text">News sind unten versteckt</figcaption></figure>
+<figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 300px" class="wp-caption alignleft"><a href="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-300x160.png" alt="News sind unten versteckt" width="300" height="160" class="size-medium wp-image-1660" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/05/news-1.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1660" class="wp-caption-text">News sind unten versteckt</figcaption></figure>
 <p>Der Clou: Der Aufruf von Startmon wird nicht verlangsamt, da die Streams erst geladen werden, wenn der Nutzer die News sehen will.<br />
 Die News können auf zwei Weisen aufgerufen werden:</p>
 <ul style="overflow: auto;">
@@ -289,15 +289,15 @@ Die News können auf zwei Weisen aufgerufen werden:</p>
 <p><a href="http://startmon.lgk.io/" target="_blank" class="btn btn-primary">Startmon gleich ausprobieren &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-bekommt-nachrichten/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-bekommt-nachrichten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Beta 11.5</title>
-		<link>/beta-11-5/</link>
-					<comments>/beta-11-5/#respond</comments>
+		<link>https://blog-static.lgk.io/beta-11-5/</link>
+					<comments>https://blog-static.lgk.io/beta-11-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 25 May 2015 15:03:20 +0000</pubDate>
@@ -305,7 +305,7 @@ Die News können auf zwei Weisen aufgerufen werden:</p>
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">/?p=1653</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1653</guid>
 
 					<description><![CDATA[Link-Listen-Symbole wurden auf Font-Icons umgestellt. Breite der Suchleiste passt sich dynamisch an der Breite der Such-Tabs an. Beim Freilassen des Titeln beim Hinzufügen neuer Links, wird versucht den Titel anhand der URL abzurufen.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -315,7 +315,7 @@ Die News können auf zwei Weisen aufgerufen werden:</p>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/beta-11-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/beta-11-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

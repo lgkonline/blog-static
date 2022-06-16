@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Games &#8211; LGK Blog</title>
-	<atom:link href="/category/games/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/games/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 25 Jan 2016 08:52:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Games &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
-		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
-					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		<link>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
@@ -47,13 +47,13 @@
 		<category><![CDATA[LGK App]]></category>
 		<category><![CDATA[Windows 10]]></category>
 		<category><![CDATA[Windows 10 Mobile]]></category>
-		<guid isPermaLink="false">/?p=1828</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1828</guid>
 
-					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png 589w, https://blog-static.lgk.io/wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
 <div class="row">
 <div class="col-sm-4">
-		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+		<a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
 <p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
 </p></div>
 <div class="col-sm-8">
@@ -79,24 +79,24 @@
 <ol>
 <li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
 <li>
-				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 			</li>
 <li>
-				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+				Installier die App auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
 			</li>
 </ol></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue 3DS-Geräte im Anmarsch</title>
-		<link>/neue-3ds-geraete-im-anmarsch/</link>
-					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
@@ -113,8 +113,8 @@
 		<category><![CDATA[nintendo]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
 
-					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement.jpg 678w, https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
 <p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
 <p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
 <p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
@@ -124,46 +124,46 @@ Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.<
 <p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
 <p><span id="more-1189"></span></p>
 <hr>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Verbessertes 3D</h2>
 <p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
 Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Das C-Pad</h2>
 <p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neue Schulter-Tasten</h2>
 <p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Gefärbte ABXY-Knöpfe</h2>
 <p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
 <p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Amiibo</h2>
 <p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
 <p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
 <p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/speed-300x248.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Mehr Speed</h2>
 <p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
 <p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Personalisierbarer Home-Screen</h2>
 <p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
 <p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Hard-Cover für den New Nintendo 3DS</h2>
 <p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
 <p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/positions-249x300.jpg 249w, https://blog-static.lgk.io/wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
 <h2>Neue Positionen</h2>
 <p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
 <p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
@@ -171,7 +171,7 @@ Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p
 Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
 <p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Zubehör und Nicht-Zubehör</h2>
 <p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
 Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
@@ -187,15 +187,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Game Check: New Super Mario Bros.</title>
-		<link>/game-check-new-super-mario-bros/</link>
-					<comments>/game-check-new-super-mario-bros/#respond</comments>
+		<link>https://blog-static.lgk.io/game-check-new-super-mario-bros/</link>
+					<comments>https://blog-static.lgk.io/game-check-new-super-mario-bros/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2011 13:50:24 +0000</pubDate>
@@ -207,8 +207,8 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[nintendo ds]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=216</guid>
 
-					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, /wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
+					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="https://blog-static.lgk.io/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
 <p>Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS.</p>
 <p>Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.</p>
 <p>Obwohl es bereits 5 Jahre alt ist, ist New Super Mario Bros. vom Preis her nicht günstiger geworden. Nintendo sah darin wohl keinen Bedarf, denn die Verkaufszahlen sind weiterhin sehr hoch. Ich habe mein Spiel für € 39,95 bekommen.<br />
@@ -240,15 +240,15 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 <img src="http://blog.lgkonline.com/wp-content/uploads/2011/08/1314451226_Bullet-Bill.png" alt="" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/game-check-new-super-mario-bros/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/game-check-new-super-mario-bros/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das wars mit der gamescom &#8230;</title>
-		<link>/das-wars-mit-der-gamescom/</link>
-					<comments>/das-wars-mit-der-gamescom/#respond</comments>
+		<link>https://blog-static.lgk.io/das-wars-mit-der-gamescom/</link>
+					<comments>https://blog-static.lgk.io/das-wars-mit-der-gamescom/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 22 Aug 2011 04:19:23 +0000</pubDate>
@@ -260,7 +260,7 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=209</guid>
 
 					<description><![CDATA[Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker. Los geht&#8217;s: Weitere Videos&#8230;]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="/wp-content/uploads/2011/08/1.jpg 334w, /wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/1.jpg 334w, https://blog-static.lgk.io/wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker.</p>
 <p>Los geht&#8217;s:<br />
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/Rb-PIxiWBQ0?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 <p>Weitere Videos&#8230; <span id="more-209"></span></p>
@@ -268,15 +268,15 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 <p><iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/YOTIPHnPK1A?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/das-wars-mit-der-gamescom/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/das-wars-mit-der-gamescom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vorletzter Tag der gamescom 2011</title>
-		<link>/vorletzter-tag-der-gamescom-2011/</link>
-					<comments>/vorletzter-tag-der-gamescom-2011/#respond</comments>
+		<link>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/</link>
+					<comments>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 23:22:35 +0000</pubDate>
@@ -297,15 +297,15 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/zU2Gftxak08?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vorletzter-tag-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>gamescom wegen Überfüllung vorläufig geschlossen</title>
-		<link>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/</link>
-					<comments>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/#respond</comments>
+		<link>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/</link>
+					<comments>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 13:05:20 +0000</pubDate>
@@ -317,21 +317,21 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=204</guid>
 
 					<description><![CDATA[Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet. Es war also zu erwarten, dass es eine Überfüllung geben wird. Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz. Ganzer Artikel bei Spiegel Online &#9658;]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="/wp-content/uploads/2011/08/1.jpg 334w, /wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet.<br />
+										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/1.jpg 334w, https://blog-static.lgk.io/wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet.<br />
 Es war also zu erwarten, dass es eine Überfüllung geben wird.<br />
 Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz.<br />
 <a href="http://www.spiegel.de/netzwelt/games/0,1518,781388,00.html" target="_blank">Ganzer Artikel bei Spiegel Online &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zweiter offizieller Tag der gamescom 2011</title>
-		<link>/zweiter-offizieller-tag-der-gamescom-2011/</link>
-					<comments>/zweiter-offizieller-tag-der-gamescom-2011/#respond</comments>
+		<link>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/</link>
+					<comments>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 08:11:05 +0000</pubDate>
@@ -347,15 +347,15 @@ Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz.<br />
 <a href="http://www.youtube.com/user/mygamescom" target="_blank">Zum gamescom-Channel auf YouTube &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/zweiter-offizieller-tag-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Coldmirror auf der gamescom 2011</title>
-		<link>/coldmirror-auf-der-gamescom-2011/</link>
-					<comments>/coldmirror-auf-der-gamescom-2011/#respond</comments>
+		<link>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/</link>
+					<comments>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:21:30 +0000</pubDate>
@@ -375,15 +375,15 @@ Sie befragt ein paar Menschen, was sie gerne spielen usw.:</p>
 <p><a href="http://www.youtube.com/user/coldmirrorgames" target="_blank">Zu Coldmirror&#8217;s YouTube-Channel über Games &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Black Eyed Peas Experience (Videospiel)</title>
-		<link>/black-eyed-peas-experience-videospiel/</link>
-					<comments>/black-eyed-peas-experience-videospiel/#respond</comments>
+		<link>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/</link>
+					<comments>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:07:35 +0000</pubDate>
@@ -411,15 +411,15 @@ Und dieser Trailer wurde dort vorgestellt:</p>
 <p><a href="http://www.gamezone.de/news_detail.asp?nid=101447" target="_blank">Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Erster Tag der gamescom (für alle)</title>
-		<link>/erster-tag-der-gamescom-fur-alle/</link>
-					<comments>/erster-tag-der-gamescom-fur-alle/#respond</comments>
+		<link>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/</link>
+					<comments>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 11:47:51 +0000</pubDate>
@@ -434,7 +434,7 @@ Schaut sie euch an:<br />
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/syvUmSQcHaw?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/erster-tag-der-gamescom-fur-alle/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>HTML &#8211; LGK Blog</title>
-	<atom:link href="/tag/html/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/html/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 04 Aug 2017 09:50:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>HTML &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>If / else statement inside of React Component&#8217;s Render method</title>
-		<link>/if-else-statement-inside-of-react-components-render-method/</link>
-					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		<link>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
@@ -45,9 +45,9 @@
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[React]]></category>
 		<category><![CDATA[React.js]]></category>
-		<guid isPermaLink="false">/?p=1993</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1993</guid>
 
-					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
 <p>You could do it like this:</p>
 <pre class="prettyprint lang-js">
@@ -86,15 +86,15 @@ class MyComponent extends React.Component {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>html_bones 2.1 ist online!</title>
-		<link>/html_bones-2-1-ist-online/</link>
-					<comments>/html_bones-2-1-ist-online/#respond</comments>
+		<link>https://blog-static.lgk.io/html_bones-2-1-ist-online/</link>
+					<comments>https://blog-static.lgk.io/html_bones-2-1-ist-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2015 17:53:23 +0000</pubDate>
@@ -114,10 +114,10 @@ class MyComponent extends React.Component {
 		<category><![CDATA[Materialize]]></category>
 		<category><![CDATA[Neue Version]]></category>
 		<category><![CDATA[Release]]></category>
-		<guid isPermaLink="false">/?p=1541</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1541</guid>
 
-					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, /wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, /wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="https://blog-static.lgk.io/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen.<br />
 Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden.</p>
 <p>So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst.</p>
@@ -137,15 +137,15 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/html_bones-2-1-ist-online/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/html_bones-2-1-ist-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neues Web-Tool: &#060;html_bones&#062; &#8211; Um schneller mit HTML-Projekten zu beginnen</title>
-		<link>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
-					<comments>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
+		<link>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
+					<comments>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 13 Oct 2014 09:48:40 +0000</pubDate>
@@ -163,8 +163,8 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1307</guid>
 
-					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, /wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, /wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Unter <a href="http://bones.lgkonline.com/" target="_blank" title="Öffne Link im neuen Tab">bones.lgkonline.com</a> befindet sich die neue Web App &#8220;&lt;html_bones&gt;&#8221;.</p>
 <p>Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind.</p>
 <p>Beispielsweise ist das Element <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code> unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte.</p>
@@ -173,15 +173,15 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 <p><a href="http://bones.lgkonline.com/" target="_blank" class="btn btn-primary" title="Öffne Link im neuen Tab">Auf geht&#8217;s: bones.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Die Zukunft der Web-Programmierung: Adobe Edge Code</title>
-		<link>/die-zukunft-der-web-programmierung-adobe-edge-code/</link>
-					<comments>/die-zukunft-der-web-programmierung-adobe-edge-code/#respond</comments>
+		<link>https://blog-static.lgk.io/die-zukunft-der-web-programmierung-adobe-edge-code/</link>
+					<comments>https://blog-static.lgk.io/die-zukunft-der-web-programmierung-adobe-edge-code/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 28 May 2013 20:21:38 +0000</pubDate>
@@ -204,8 +204,8 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 		<category><![CDATA[Web]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=721</guid>
 
-					<description><![CDATA[Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung. Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten. Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste. Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche&#8230; <a class="more-link" href="/die-zukunft-der-web-programmierung-adobe-edge-code/">Continue reading <span class="screen-reader-text">Die Zukunft der Web-Programmierung: Adobe Edge Code</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_725" aria-describedby="caption-attachment-725" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01-300x177.jpg" alt="&quot;Quick Edit&quot; kann sehr nützlich sein." width="300" height="177" class="size-medium wp-image-725" srcset="/wp-content/uploads/2013/05/edge-code-01-300x177.jpg 300w, /wp-content/uploads/2013/05/edge-code-01.jpg 1021w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-725" class="wp-caption-text">&#8220;Quick Edit&#8221; kann sehr nützlich sein.</figcaption></figure>Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung.</p>
+					<description><![CDATA[Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung. Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten. Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste. Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-zukunft-der-web-programmierung-adobe-edge-code/">Continue reading <span class="screen-reader-text">Die Zukunft der Web-Programmierung: Adobe Edge Code</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_725" aria-describedby="caption-attachment-725" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-01-300x177.jpg" alt="&quot;Quick Edit&quot; kann sehr nützlich sein." width="300" height="177" class="size-medium wp-image-725" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/05/edge-code-01-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/05/edge-code-01.jpg 1021w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-725" class="wp-caption-text">&#8220;Quick Edit&#8221; kann sehr nützlich sein.</figcaption></figure>Adobe Edge ist die neue Produkt-Linie zur modernen Web-Entwicklung.</p>
 <p>Eine Entwicklungsumgebung beschäftigt sich mit der Erstellung von HTML, CSS usw. Also zur Entwicklung einfacher Webseiten.</p>
 <p>Anders als Dreamweaver, ist Edge Code nicht so mit Funktionen überladen, sondern liefert nur das nötigste.</p>
 <p>Edge Code befindet sich zwar noch in der Entwicklungs-Phase, bietet aber bereits einige nützliche Features.</p>
@@ -214,10 +214,10 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 <div class="float-none"></div>
 <p>Momentan gibt es Edge Code nur als Preview und gratis zum Downloaden. Hoffentlich bleibt auch die finale Version kostenlos. Das Programm hat eine aufgeräumte Oberfläche und macht die Web-Entwicklung einfach smarter.</p>
 <p>Edge Code und weitere interessante Teile der Adobe Edge-Familie findest du hier: <a href="http://html.adobe.com/edge/" target="_blank">http://html.adobe.com/edge/</a></p>
-<figure id="attachment_728" aria-describedby="caption-attachment-728" style="width: 300px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02-300x162.jpg" alt="Edge Animate. Meinen Artikel dazu auf MMdia.de." width="300" height="162" class="size-medium wp-image-728" srcset="/wp-content/uploads/2013/05/edge-code-02-300x162.jpg 300w, /wp-content/uploads/2013/05/edge-code-02-1024x553.jpg 1024w, /wp-content/uploads/2013/05/edge-code-02.jpg 1347w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-728" class="wp-caption-text">Edge Animate. Meinen Artikel dazu auf <a href="http://www.mmdia.de/2013/01/25/so-werden-html5-animationen-und-spiele-erstellt/" target="_blank">MMdia.de</a>.</figcaption></figure>
+<figure id="attachment_728" aria-describedby="caption-attachment-728" style="width: 300px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/05/edge-code-02-300x162.jpg" alt="Edge Animate. Meinen Artikel dazu auf MMdia.de." width="300" height="162" class="size-medium wp-image-728" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/05/edge-code-02-300x162.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/05/edge-code-02-1024x553.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/05/edge-code-02.jpg 1347w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-728" class="wp-caption-text">Edge Animate. Meinen Artikel dazu auf <a href="http://www.mmdia.de/2013/01/25/so-werden-html5-animationen-und-spiele-erstellt/" target="_blank">MMdia.de</a>.</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/die-zukunft-der-web-programmierung-adobe-edge-code/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/die-zukunft-der-web-programmierung-adobe-edge-code/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

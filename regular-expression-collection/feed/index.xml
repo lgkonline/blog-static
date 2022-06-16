@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Regular expression collection	</title>
-	<atom:link href="/regular-expression-collection/feed/" rel="self" type="application/rss+xml" />
-	<link>/regular-expression-collection/</link>
+	<atom:link href="https://blog-static.lgk.io/regular-expression-collection/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/regular-expression-collection/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 08 May 2017 10:36:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

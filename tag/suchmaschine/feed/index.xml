@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Suchmaschine &#8211; LGK Blog</title>
-	<atom:link href="/tag/suchmaschine/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/suchmaschine/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 04 Jul 2014 15:54:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Suchmaschine &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Startmon: Öffentliche Preview jetzt online</title>
-		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
-					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
@@ -50,15 +50,15 @@
 		<category><![CDATA[Suchmaschine]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
 
-					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
 <p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
 <p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
 <p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
 <div class="clearfix"></div>
 <p><span id="more-1119"></span></p>
 <h2>Auch für mobile Endgeräte</h2>
-<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
 <p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
 <p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
 <p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
@@ -66,7 +66,7 @@
 <p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

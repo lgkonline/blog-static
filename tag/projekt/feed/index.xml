@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Projekt &#8211; LGK Blog</title>
-	<atom:link href="/tag/projekt/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/projekt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 03 Jul 2013 21:37:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Projekt &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Such-Maske: The Noun Project</title>
-		<link>/neue-such-maske-the-noun-project/</link>
-					<comments>/neue-such-maske-the-noun-project/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-such-maske-the-noun-project/</link>
+					<comments>https://blog-static.lgk.io/neue-such-maske-the-noun-project/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 03 Jul 2013 21:37:24 +0000</pubDate>
@@ -49,8 +49,8 @@
 		<category><![CDATA[symbole]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=803</guid>
 
-					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, /wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
+					<description><![CDATA[Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln. Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen. Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen. Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-such-maske-the-noun-project/">Continue reading <span class="screen-reader-text">Neue Such-Maske: The Noun Project</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_804" aria-describedby="caption-attachment-804" style="width: 225px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/noun-01-225x300.jpg" alt="Entdecke den neuen Punkt auf LGK Start." width="225" height="300" class="size-medium wp-image-804" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01-225x300.jpg 225w, https://blog-static.lgk.io/wp-content/uploads/2013/07/noun-01.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-804" class="wp-caption-text"><a href="/start" target="-blank">Entdecke den neuen Punkt auf LGK Start.</a></figcaption></figure>
 <p>Beim Noun Project geht es den Gründern darum, Informationen durch Symbole anstatt von Wörtern zu vermitteln.</p>
 <p>Auf der Website hat jeder registrierte Nutzer die Möglichkeit eigene Icons hochzuladen und anderen zur Verfügung zu stellen.</p>
 <p>Außerdem kann man selbst Icons runterladen und für eigene Projekte nutzen.  Die meistens Icons stehen unter Creative Commons-Lizenz. Will man ein Icon für kommerzielle Zwecke nutzen, kann man diesen auch kaufen.</p>
@@ -62,15 +62,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-such-maske-the-noun-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LGK mys startet in die zweite Runde</title>
-		<link>/lgk-mys-startet-in-die-zweite-runde/</link>
-					<comments>/lgk-mys-startet-in-die-zweite-runde/#respond</comments>
+		<link>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/</link>
+					<comments>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Apr 2013 18:07:33 +0000</pubDate>
@@ -88,19 +88,19 @@
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=702</guid>
 
-					<description><![CDATA[Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;. Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen. Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen. Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar&#8230; <a class="more-link" href="/lgk-mys-startet-in-die-zweite-runde/">Continue reading <span class="screen-reader-text">LGK mys startet in die zweite Runde</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_703" aria-describedby="caption-attachment-703" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg" alt="mys ermöglicht dem Nutzer, LGK Start selbst anzupassen." width="300" height="153" class="size-medium wp-image-703" srcset="/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot01-1024x523.jpg 1024w, /wp-content/uploads/2013/04/mys2-screenshot01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-703" class="wp-caption-text">mys ermöglicht dem Nutzer, LGK Start selbst anzupassen.</figcaption></figure>
+					<description><![CDATA[Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;. Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen. Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen. Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar&#8230; <a class="more-link" href="https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/">Continue reading <span class="screen-reader-text">LGK mys startet in die zweite Runde</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_703" aria-describedby="caption-attachment-703" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg" alt="mys ermöglicht dem Nutzer, LGK Start selbst anzupassen." width="300" height="153" class="size-medium wp-image-703" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01-300x153.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01-1024x523.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-703" class="wp-caption-text">mys ermöglicht dem Nutzer, LGK Start selbst anzupassen.</figcaption></figure>
 <p>Im Juli letzen Jahres startete ich das Projekt &#8220;mys&#8221;.</p>
 <p>Ziel ist es, Nutzern das Personalisieren einer eigenen Startseite zu ermöglichen.</p>
 <p>Leider bin ich nicht mehr dazu gekommen, mys weiter zu entwickeln. Nun habe ich allerdings wieder damit angefangen.</p>
 <div style="clear: both;"></div>
-<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg" alt="" width="300" height="147" class="alignleft size-medium wp-image-709" srcset="/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg 300w, /wp-content/uploads/2013/04/mys2-screenshot02.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg" alt="" width="300" height="147" class="alignleft size-medium wp-image-709" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot02-300x147.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/04/mys2-screenshot02.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Die alten Nutzer sind weiterhin registriert. Bis jetzt lässt sich die Hintergrundfarbe der Startseite und der Avatar ändern.</p>
 <p>Ist der Nutzer eingeloggt, wird dessen Avatar im LGK-Menü angezeigt. Ist man nicht eingeloggt, ist anstatt des Avatars das mys-Logo mit Link zur Infoseite zu sehen.</p>
 <p>Fährt man mit den Cursor über das mys-Logo, erscheint außerdem ein Dropdown-Menü mit Links zur Einlogg- und Registrieren-Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lgk-mys-startet-in-die-zweite-runde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/lgk-mys-startet-in-die-zweite-runde/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

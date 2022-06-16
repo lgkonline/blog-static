@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gallery &#8211; LGK Blog</title>
-	<atom:link href="/tag/gallery/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/gallery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 14 Mar 2015 12:01:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Gallery &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Startmon: Eigene Suchmaschinen hinzufügen und ändern</title>
-		<link>/eigene-suchmaschinen-hinzufuegen-und-aendern/</link>
-					<comments>/eigene-suchmaschinen-hinzufuegen-und-aendern/#respond</comments>
+		<link>https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/</link>
+					<comments>https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 14 Mar 2015 12:00:29 +0000</pubDate>
@@ -41,16 +41,16 @@
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Gallery]]></category>
 		<category><![CDATA[Personalisieren]]></category>
-		<guid isPermaLink="false">/?p=1498</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1498</guid>
 
-					<description><![CDATA[Mit Preview N°17 von Startmon ist es nun möglich, Suchmaschinen hinzuzufügen, zu entfernen und die Position zu ändern. Die Preview ist jetzt online. Um die neuen Funktionen zu testen, melde dich an: http://startmon.lgk.io/beta Neue Suchmaschinen einreichen Momentan ist die Auswahl an benutzbaren Suchmaschinen noch recht überschaubar. Geplant ist, dass es noch viele weitere geben soll.&#8230; <a class="more-link" href="/eigene-suchmaschinen-hinzufuegen-und-aendern/">Continue reading <span class="screen-reader-text">Startmon: Eigene Suchmaschinen hinzufügen und ändern</span></a>]]></description>
+					<description><![CDATA[Mit Preview N°17 von Startmon ist es nun möglich, Suchmaschinen hinzuzufügen, zu entfernen und die Position zu ändern. Die Preview ist jetzt online. Um die neuen Funktionen zu testen, melde dich an: http://startmon.lgk.io/beta Neue Suchmaschinen einreichen Momentan ist die Auswahl an benutzbaren Suchmaschinen noch recht überschaubar. Geplant ist, dass es noch viele weitere geben soll.&#8230; <a class="more-link" href="https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/">Continue reading <span class="screen-reader-text">Startmon: Eigene Suchmaschinen hinzufügen und ändern</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Mit Preview N°17 von Startmon ist es nun möglich, Suchmaschinen hinzuzufügen, zu entfernen und die Position zu ändern.<br />
 Die Preview ist jetzt online. Um die neuen Funktionen zu testen, melde dich an: <a href="http://startmon.lgk.io/beta" title="" target="_blank">http://startmon.lgk.io/beta</a></p>
 
-<a href='/wp-content/uploads/2015/03/startmon-preview-17-01.png'><img width="150" height="150" src="/wp-content/uploads/2015/03/startmon-preview-17-01-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
-<a href='/wp-content/uploads/2015/03/startmon-preview-17-02.png'><img width="150" height="150" src="/wp-content/uploads/2015/03/startmon-preview-17-02-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
-<a href='/wp-content/uploads/2015/03/startmon-preview-17-03.png'><img width="150" height="150" src="/wp-content/uploads/2015/03/startmon-preview-17-03-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
-<a href='/wp-content/uploads/2015/03/startmon-preview-17-04.png'><img width="150" height="150" src="/wp-content/uploads/2015/03/startmon-preview-17-04-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-01.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-01-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-02.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-02-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-03.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-03-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
+<a href='https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-04.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2015/03/startmon-preview-17-04-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:53.29%;max-width:1366px;" /></a>
 
 <h2>Neue Suchmaschinen einreichen</h2>
 <p>Momentan ist die Auswahl an benutzbaren Suchmaschinen noch recht überschaubar. Geplant ist, dass es noch viele weitere geben soll.<br />
@@ -61,7 +61,7 @@ Um das umzusetzen, sollen Nutzer eigene Suchmaschinen, bzw. durchsuchbare Websit
 <p>Die Standard-Suche ist die, die beim Start von Startmon definiert ist.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/eigene-suchmaschinen-hinzufuegen-und-aendern/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

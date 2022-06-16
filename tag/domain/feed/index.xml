@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Domain &#8211; LGK Blog</title>
-	<atom:link href="/tag/domain/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/domain/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 03 Jul 2014 18:05:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Domain &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Wechsel auf blog.lgkonline.com</title>
-		<link>/wechsel-auf-blog-lgkonline-com/</link>
-					<comments>/wechsel-auf-blog-lgkonline-com/#respond</comments>
+		<link>https://blog-static.lgk.io/wechsel-auf-blog-lgkonline-com/</link>
+					<comments>https://blog-static.lgk.io/wechsel-auf-blog-lgkonline-com/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 03 Jul 2014 18:05:08 +0000</pubDate>
@@ -50,7 +50,7 @@
 Damit Links zu Artikeln auf der alten Domain noch brauchbar sind, wird dort eine automatische Suche des Artikels auf die neue Domain angeboten.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wechsel-auf-blog-lgkonline-com/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/wechsel-auf-blog-lgkonline-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

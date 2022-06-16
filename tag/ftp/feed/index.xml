@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FTP &#8211; LGK Blog</title>
-	<atom:link href="/tag/ftp/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/ftp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 07 Sep 2014 17:15:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>FTP &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Version von orange_files steht zum Download bereit</title>
-		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
-					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
@@ -51,8 +51,8 @@
 		<category><![CDATA[Organizer]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
 
-					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
 <p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
 <p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
 Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
@@ -62,15 +62,15 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 <p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kleines Update für Orange Files</title>
-		<link>/kleines-update-fuer-orange-files/</link>
-					<comments>/kleines-update-fuer-orange-files/#respond</comments>
+		<link>https://blog-static.lgk.io/kleines-update-fuer-orange-files/</link>
+					<comments>https://blog-static.lgk.io/kleines-update-fuer-orange-files/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 28 Mar 2014 17:09:56 +0000</pubDate>
@@ -89,10 +89,10 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 										<content:encoded><![CDATA[<p>Dem schlanken File-Viewer <a href="http://lgk.bplaced.net/orange-files/" target="_blank">Orange Files</a> habe ich ein kleines Update verpasst.</p>
 <p>Was neu ist, dass die Dateien nun alphabetisch angeordnet werden. Außerdem gibt es nun Video-Dateien ein Symbol.</p>
 <p>Okay, das war&#8217;s auch schon. Die Version ist jetzt 0.1.0 und kann <a href="http://lgk.bplaced.net/orange-files/" target="_blank">hier heruntergeladen werden.</a></p>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg" alt="Kleines Update" width="709" height="665" class="aligncenter size-full wp-image-955" srcset="/wp-content/uploads/2014/03/orange-files-02.jpg 709w, /wp-content/uploads/2014/03/orange-files-02-300x281.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg" alt="Kleines Update" width="709" height="665" class="aligncenter size-full wp-image-955" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/03/orange-files-02.jpg 709w, https://blog-static.lgk.io/wp-content/uploads/2014/03/orange-files-02-300x281.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/kleines-update-fuer-orange-files/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/kleines-update-fuer-orange-files/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

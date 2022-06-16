@@ -9,8 +9,8 @@
 
 <channel>
 	<title>YouTube &#8211; LGK Blog</title>
-	<atom:link href="/tag/youtube/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/youtube/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 22 Feb 2016 18:39:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>YouTube &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tipp: Wie du über JEDES neue Video deines Lieblings-YouTubers informiert wirst</title>
-		<link>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/</link>
-					<comments>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/#respond</comments>
+		<link>https://blog-static.lgk.io/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/</link>
+					<comments>https://blog-static.lgk.io/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 22 Feb 2016 18:32:32 +0000</pubDate>
@@ -41,9 +41,9 @@
 		<category><![CDATA[Abo]]></category>
 		<category><![CDATA[Algorithmus]]></category>
 		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">/?p=1867</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1867</guid>
 
-					<description><![CDATA[Der &#8220;Abo-Box&#8221;-Algorithmus von YouTube ist vor allem darauf ausgerichtet, dass Videos von Kanälen, die regelmäßig neuen Content bietet, größer beworben werden. So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber ein neues Video veröffentlicht hat. Glücklicherweise gibt es die Option (zwar gut versteckt), dieses Verfahren für einzelne Kanäle zu deaktivieren. So geht&#8230; <a class="more-link" href="/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/">Continue reading <span class="screen-reader-text">Tipp: Wie du über JEDES neue Video deines Lieblings-YouTubers informiert wirst</span></a>]]></description>
+					<description><![CDATA[Der &#8220;Abo-Box&#8221;-Algorithmus von YouTube ist vor allem darauf ausgerichtet, dass Videos von Kanälen, die regelmäßig neuen Content bietet, größer beworben werden. So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber ein neues Video veröffentlicht hat. Glücklicherweise gibt es die Option (zwar gut versteckt), dieses Verfahren für einzelne Kanäle zu deaktivieren. So geht&#8230; <a class="more-link" href="https://blog-static.lgk.io/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/">Continue reading <span class="screen-reader-text">Tipp: Wie du über JEDES neue Video deines Lieblings-YouTubers informiert wirst</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Der &#8220;Abo-Box&#8221;-Algorithmus von YouTube ist vor allem darauf ausgerichtet, dass Videos von Kanälen, die regelmäßig neuen Content bietet, größer beworben werden.<br />
 So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber ein neues Video veröffentlicht hat.</p>
 <p>Glücklicherweise gibt es die Option (zwar gut versteckt), dieses Verfahren für einzelne Kanäle zu deaktivieren. So geht es:</p>
@@ -53,10 +53,10 @@ So kommt es häufiger vor, dass ihr nicht erfahrt, dass euer Lieblings-YouTuber 
 <li>Es werden alle abonnierten Kanäle aufgelistet. Sucht euren gewünschten Kanal und klickt rechts auf das Zahnrad-Symbol.</li>
 <li>Ein Dialog erscheint. Setzt dort den Haken bei &#8220;Ich möchte alle Mitteilungen zu diesem Kanal erhalten.&#8221; und klickt auf &#8220;Speichern&#8221;.</li>
 </ul>
-<p><img loading="lazy" src="/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg" alt="So bekommst du alle Videos eines YouTubers" width="1024" height="587" class="alignnone size-large wp-image-1871´img-responsive" srcset="/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg 1024w, /wp-content/uploads/2016/02/youtube-abo-scr-300x172.jpg 300w, /wp-content/uploads/2016/02/youtube-abo-scr-768x441.jpg 768w, /wp-content/uploads/2016/02/youtube-abo-scr.jpg 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg" alt="So bekommst du alle Videos eines YouTubers" width="1024" height="587" class="alignnone size-large wp-image-1871´img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/02/youtube-abo-scr-1024x587.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/02/youtube-abo-scr-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/02/youtube-abo-scr-768x441.jpg 768w, https://blog-static.lgk.io/wp-content/uploads/2016/02/youtube-abo-scr.jpg 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/tipp-wie-du-ueber-jedes-neue-video-deines-lieblings-youtubers-informiert-wirst/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

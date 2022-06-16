@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News &#8211; LGK Blog</title>
-	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>News &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Updated layout for my website</title>
-		<link>/updated-layout-for-my-website/</link>
+		<link>https://blog-static.lgk.io/updated-layout-for-my-website/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[grid]]></category>
 		<category><![CDATA[mobile-first]]></category>
-		<guid isPermaLink="false">/?p=2213</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2213</guid>
 
-					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="https://blog-static.lgk.io/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
 
@@ -57,11 +57,11 @@
 
 
 <figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
 </figure>
 
 
@@ -71,11 +71,11 @@
 
 
 <figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
 </figure>
 
 
@@ -96,8 +96,8 @@
 			</item>
 		<item>
 		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
-		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
-					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		<link>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
@@ -114,13 +114,13 @@
 		<category><![CDATA[LGK App]]></category>
 		<category><![CDATA[Windows 10]]></category>
 		<category><![CDATA[Windows 10 Mobile]]></category>
-		<guid isPermaLink="false">/?p=1828</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1828</guid>
 
-					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png 589w, https://blog-static.lgk.io/wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
 <div class="row">
 <div class="col-sm-4">
-		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+		<a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
 <p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
 </p></div>
 <div class="col-sm-8">
@@ -146,24 +146,24 @@
 <ol>
 <li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
 <li>
-				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 			</li>
 <li>
-				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+				Installier die App auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
 			</li>
 </ol></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</title>
-		<link>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
-					<comments>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
+		<link>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
+					<comments>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 31 Oct 2015 16:51:23 +0000</pubDate>
@@ -178,14 +178,14 @@
 		<category><![CDATA[LESS]]></category>
 		<category><![CDATA[Open Source]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=1782</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1782</guid>
 
-					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="/wp-content/uploads/2015/10/logo.png 1174w, /wp-content/uploads/2015/10/logo-300x90.png 300w, /wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
-<p>In den Artikeln <a href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
+					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png 1174w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-300x90.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+<p>In den Artikeln <a href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
 <p>Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit nutze ich für das Kompilieren von LESS-Dateien die Anwendung <a href="http://koala-app.com/" title="undefined" target="">Koala</a>.</p>
 <p>Nur für das Kombinieren von JavaScript-Dateien habe ich bisher noch keine Lösung gefunden. Und deswegen habe ich mir einfach selbst eine gemacht: <strong>Miniphpy</strong></p>
-<p><a href="/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, /wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, /wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>Durch das Web-Interface kannst du deine Dateien zu Bündel kombinieren. Um auf Dateien zu verweisen, kannst du entweder einen lokalen Pfad oder eine URI zu einer Datei angeben.</p>
 <p>Die Dateien werden dann, abhängig von der Reihenfolge, zusammgefügt und anschließend komprimiert.</p>
 <p>Hierbei kannst du wählen, ob die Komprimierung lokal (erfolgt mithilfe von Bibliotheken, die in Miniphpy enthalten sind) oder remote (dabei werden APIs der Komprimierungs-Dienste <a href="http://javascript-minifier.com/" title="undefined" target="_blank">http://javascript-minifier.com/</a> und <a href="http://cssminifier.com/" title="undefined" target="_blank">http://cssminifier.com/</a> verwendet) passieren soll.</p>
@@ -195,15 +195,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon Build-News jetzt immer hier im Blog</title>
-		<link>/startmon-build-news-jetzt-immer-hier-im-blog/</link>
-					<comments>/startmon-build-news-jetzt-immer-hier-im-blog/#respond</comments>
+		<link>https://blog-static.lgk.io/startmon-build-news-jetzt-immer-hier-im-blog/</link>
+					<comments>https://blog-static.lgk.io/startmon-build-news-jetzt-immer-hier-im-blog/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2015 17:17:13 +0000</pubDate>
@@ -214,23 +214,23 @@
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Zukunft]]></category>
-		<guid isPermaLink="false">/?p=1537</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1537</guid>
 
-					<description><![CDATA[Ab sofort werde ich bei jeder neuen Beta-Veröffentlichung von Startmon einen kleinen Post hier im Blog erstellen, um die Änderungen und Verbesserungen zu dokumentieren. Diese Posts werden unter der Kategorie Startmon Build-News veröffentlicht und werden außerdem immer auf der Startseite in der Sidebar erscheinen. Die Verkündungen neuerer Versionen werden aber auch weiterhin über Twitter (@lgkonline)&#8230; <a class="more-link" href="/startmon-build-news-jetzt-immer-hier-im-blog/">Continue reading <span class="screen-reader-text">Startmon Build-News jetzt immer hier im Blog</span></a>]]></description>
+					<description><![CDATA[Ab sofort werde ich bei jeder neuen Beta-Veröffentlichung von Startmon einen kleinen Post hier im Blog erstellen, um die Änderungen und Verbesserungen zu dokumentieren. Diese Posts werden unter der Kategorie Startmon Build-News veröffentlicht und werden außerdem immer auf der Startseite in der Sidebar erscheinen. Die Verkündungen neuerer Versionen werden aber auch weiterhin über Twitter (@lgkonline)&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-build-news-jetzt-immer-hier-im-blog/">Continue reading <span class="screen-reader-text">Startmon Build-News jetzt immer hier im Blog</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Ab sofort werde ich bei jeder neuen Beta-Veröffentlichung von Startmon einen kleinen Post hier im Blog erstellen, um die Änderungen und Verbesserungen zu dokumentieren.</p>
-<p>Diese Posts werden unter der Kategorie <a href="/category/startmon-build-news/" title="" target="">Startmon Build-News</a> veröffentlicht und werden außerdem immer auf der Startseite in der Sidebar erscheinen.</p>
+<p>Diese Posts werden unter der Kategorie <a href="https://blog-static.lgk.io/category/startmon-build-news/" title="" target="">Startmon Build-News</a> veröffentlicht und werden außerdem immer auf der Startseite in der Sidebar erscheinen.</p>
 <p>Die Verkündungen neuerer Versionen werden aber auch weiterhin über Twitter (<a href="http://twitter.com/lgkonline" title="" target="">@lgkonline</a>) geschehen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startmon-build-news-jetzt-immer-hier-im-blog/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/startmon-build-news-jetzt-immer-hier-im-blog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Domain: lgk.io</title>
-		<link>/neue-domain-lgk-io/</link>
-					<comments>/neue-domain-lgk-io/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-domain-lgk-io/</link>
+					<comments>https://blog-static.lgk.io/neue-domain-lgk-io/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 16 Feb 2015 18:41:52 +0000</pubDate>
@@ -243,10 +243,10 @@
 		<category><![CDATA[lgk.io]]></category>
 		<category><![CDATA[Neue Domain]]></category>
 		<category><![CDATA[Umbau]]></category>
-		<guid isPermaLink="false">/?p=1473</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1473</guid>
 
-					<description><![CDATA[Ich konnte mir nun die Domain lgk.io sichern. Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während lgkonline.com weiterhin als Alias erhalten bleiben soll. Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen. Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit&#8230; <a class="more-link" href="/neue-domain-lgk-io/">Continue reading <span class="screen-reader-text">Neue Domain: lgk.io</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1483" aria-describedby="caption-attachment-1483" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2015/02/lgk-io.png" alt="Neue Domain: lgk.io" width="300" height="300" class="size-full wp-image-1483" srcset="/wp-content/uploads/2015/02/lgk-io.png 300w, /wp-content/uploads/2015/02/lgk-io-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1483" class="wp-caption-text">Neue Domain: lgk.io</figcaption></figure>Ich konnte mir nun die Domain <strong>lgk.io</strong> sichern.<br />
+					<description><![CDATA[Ich konnte mir nun die Domain lgk.io sichern. Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während lgkonline.com weiterhin als Alias erhalten bleiben soll. Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen. Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-domain-lgk-io/">Continue reading <span class="screen-reader-text">Neue Domain: lgk.io</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1483" aria-describedby="caption-attachment-1483" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io.png" alt="Neue Domain: lgk.io" width="300" height="300" class="size-full wp-image-1483" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/02/lgk-io-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1483" class="wp-caption-text">Neue Domain: lgk.io</figcaption></figure>Ich konnte mir nun die Domain <strong>lgk.io</strong> sichern.<br />
 Innerhalb der nächsten Zeit, sollen alle meine Dienste auf diese neue Domain umsteigen, während <strong>lgkonline.com</strong> weiterhin als Alias erhalten bleiben soll.</p>
 <p>Die Domain-Endung &#8220;.io&#8221; ist eigentlich länderspezifisch für das Britische Territorium im Indischen Ozean vorgesehen.<br />
 Da IO aber auch für &#8220;Input/Output&#8221; steht, werden .io-Domains in letzter Zeit aber vor allem auch in der IT-Branche verwendet.</p>
@@ -260,15 +260,15 @@ Das hat man vielleicht in den 90ern so gemacht.</p>
 Und auch die anderen Services sollten dann eine deutlich kürzere Adresse bekommen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-domain-lgk-io/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-domain-lgk-io/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Synchronisiere Colorganize-Paletten mit LESS und Sass</title>
-		<link>/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
-					<comments>/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
+		<link>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
+					<comments>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 23 Jan 2015 14:04:36 +0000</pubDate>
@@ -285,8 +285,8 @@ Und auch die anderen Services sollten dann eine deutlich kürzere Adresse bekomm
 		<category><![CDATA[Sass]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1441</guid>
 
-					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, /wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure></p>
+					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, https://blog-static.lgk.io/wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure></p>
 <p>LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;.<br />
 Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen.<br />
 <a href="http://www.der-zyklop.de/blog/scss-sass-less">Mehr über die Vorteile von CSS Pre-Prozessoren &raquo;</a></p>
@@ -310,15 +310,15 @@ Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markier
 <p>Falls du noch nicht registriert bist, ist es übrigens auch möglich sich mit seinen Twitter-Account anzumelden. <a href="http://blog.lgkonline.com/update-bei-colorganize-einloggen-mit-twitter/" title="Update bei Colorganize – Einloggen mit Twitter" target="">Mehr dazu hier &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Registrierung bei Startmon ist jetzt möglich</title>
-		<link>/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
-					<comments>/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
+		<link>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
+					<comments>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2014 17:47:49 +0000</pubDate>
@@ -338,12 +338,12 @@ Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markier
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1276</guid>
 
-					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, /wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, /wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
+					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
 <p>Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich.<br />
 Somit können Nutzer Startmon jetzt selbst anpassen.</p>
 <p>Nun können eigene Link-Menüs und Links angelegt werden.</p>
-<p><figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, /wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure></p>
+<p><figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure></p>
 <p>Für die Link-Menüs können Icons und Farben angepasst werden.</p>
 <p>Klicke hier, <a href="http://start.lgkonline.com/register" target="_blank">um dich zu registrieren.</a><br />
 Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <span class="glyphicon glyphicon-pencil"></span>-Symbol und der Edit-Modus wird aktiv.</p>
@@ -351,15 +351,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p><a href="http://start.lgkonline.com/" target="_blank" class="btn btn-primary" title="Im neuen Tab öffnen">start.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Redesign von colorganize.com</title>
-		<link>/redesign-von-colorganize-com/</link>
-					<comments>/redesign-von-colorganize-com/#respond</comments>
+		<link>https://blog-static.lgk.io/redesign-von-colorganize-com/</link>
+					<comments>https://blog-static.lgk.io/redesign-von-colorganize-com/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Sep 2014 10:42:28 +0000</pubDate>
@@ -378,9 +378,9 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1265</guid>
 
-					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, /wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, /wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
-<p><figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure></p>
+					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="https://blog-static.lgk.io/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure></p>
 <p>colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor.<br />
 Aber es gibt auch ein paar nette neue Features.</p>
 <p>Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick.</p>
@@ -390,15 +390,15 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 <p>Ich habe außerdem eine Hosted App für Chrome erstellt. Diese wird womöglich bald im Chrome Web Store veröffentlicht.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/redesign-von-colorganize-com/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/redesign-von-colorganize-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Version von orange_files steht zum Download bereit</title>
-		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
-					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
@@ -419,8 +419,8 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 		<category><![CDATA[Organizer]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
 
-					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure></p>
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure></p>
 <p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
 <p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
 Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
@@ -430,15 +430,15 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 <p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue 3DS-Geräte im Anmarsch</title>
-		<link>/neue-3ds-geraete-im-anmarsch/</link>
-					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
@@ -455,8 +455,8 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 		<category><![CDATA[nintendo]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
 
-					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure></p>
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement.jpg 678w, https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure></p>
 <p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
 <p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
 <p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
@@ -466,46 +466,46 @@ Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.<
 <p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
 <p><span id="more-1189"></span></p>
 <hr>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Verbessertes 3D</h2>
 <p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
 Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Das C-Pad</h2>
 <p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neue Schulter-Tasten</h2>
 <p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Gefärbte ABXY-Knöpfe</h2>
 <p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
 <p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Amiibo</h2>
 <p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
 <p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
 <p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/speed-300x248.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Mehr Speed</h2>
 <p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
 <p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Personalisierbarer Home-Screen</h2>
 <p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
 <p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Hard-Cover für den New Nintendo 3DS</h2>
 <p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
 <p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/positions-249x300.jpg 249w, https://blog-static.lgk.io/wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
 <h2>Neue Positionen</h2>
 <p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
 <p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
@@ -513,7 +513,7 @@ Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p
 Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
 <p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Zubehör und Nicht-Zubehör</h2>
 <p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
 Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
@@ -529,7 +529,7 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

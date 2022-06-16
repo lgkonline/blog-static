@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hacks &#8211; LGK Blog</title>
-	<atom:link href="/tag/hacks/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/hacks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>hacks &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How I hacked Piskel and added a new feature for me</title>
-		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
-					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		<link>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[pixel]]></category>
 		<category><![CDATA[tool]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">/?p=2442</guid>
+		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2442</guid>
 
 					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
 										<content:encoded><![CDATA[
@@ -118,7 +118,7 @@ document.getElementById("lgkColorInput")
 <p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

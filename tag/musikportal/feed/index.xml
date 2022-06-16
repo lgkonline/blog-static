@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Musikportal &#8211; LGK Blog</title>
-	<atom:link href="/tag/musikportal/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/musikportal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 02 Jan 2012 17:49:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Musikportal &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Meine Meinung zu Simfy</title>
-		<link>/meine-meinung-zu-simfy/</link>
-					<comments>/meine-meinung-zu-simfy/#respond</comments>
+		<link>https://blog-static.lgk.io/meine-meinung-zu-simfy/</link>
+					<comments>https://blog-static.lgk.io/meine-meinung-zu-simfy/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2012 17:49:18 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[simfy]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=303</guid>
 
-					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, /wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat. Was ist Simfy? Für die, die Simfy vielleicht nicht kennen, es ist ein kostenloser Dienst, wo man sich Musik online per Stream anhören kann. Je nach Tarif finanziert sich Simfy durch&#8230; <a class="more-link" href="https://blog-static.lgk.io/meine-meinung-zu-simfy/">Continue reading <span class="screen-reader-text">Meine Meinung zu Simfy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/blog/wp-content/uploads/2012/01/simfy-screenshot01.jpg"><img loading="lazy" src="/blog/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg" alt="" title="Die Simfy Website" width="300" height="192" class="alignleft size-medium wp-image-304" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01-300x192.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/01/simfy-screenshot01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>
 In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simfy äußern und darauf eingehen, wie es sich in der Zeit entwickelt hat.
 </p>
@@ -82,7 +82,7 @@ In diesem Artikel möchte ich meine persönliche Meinung zu dem Musikportal Simf
 <p>Ich finde es einfach super, die Möglichkeit zu haben kostenlos und legal Musik zu hören. Auch wird es dadurch mit Sicherheit weniger illegale Downloads von Musik geben.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/meine-meinung-zu-simfy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/meine-meinung-zu-simfy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

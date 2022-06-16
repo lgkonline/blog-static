@@ -9,8 +9,8 @@
 
 <channel>
 	<title>screenshot &#8211; LGK Blog</title>
-	<atom:link href="/tag/screenshot/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/screenshot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 31 Aug 2012 13:39:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>screenshot &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vorschau auf das neue LGK Start</title>
-		<link>/vorschau-auf-das-neue-lgk-start/</link>
-					<comments>/vorschau-auf-das-neue-lgk-start/#respond</comments>
+		<link>https://blog-static.lgk.io/vorschau-auf-das-neue-lgk-start/</link>
+					<comments>https://blog-static.lgk.io/vorschau-auf-das-neue-lgk-start/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 13:39:44 +0000</pubDate>
@@ -45,15 +45,15 @@
 		<category><![CDATA[screenshot]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=623</guid>
 
-					<description><![CDATA[Wie ich bereits berichtet habe, arbeite ich an einem Dienst, womit man seine Startseite selbst anpassen kann. Diesen Dienst könnt ihr auch bereits unter mys testen. Momentan wird dort aber noch das Design von LGK Start verwendet. Rechts seht ihr, wie mys vielleicht mal aussehen wird. Ich möchte in Zukunft noch mehr darauf achten, dass&#8230; <a class="more-link" href="/vorschau-auf-das-neue-lgk-start/">Continue reading <span class="screen-reader-text">Vorschau auf das neue LGK Start</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg" alt="" title="So sieht mys vielleicht bald aus" width="300" height="152" class="alignright size-medium wp-image-624" srcset="/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg 300w, /wp-content/uploads/2012/08/lgkstart-preview.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Wie ich bereits berichtet habe, arbeite ich an einem Dienst, womit man seine Startseite selbst anpassen kann. Diesen Dienst könnt ihr auch bereits unter mys testen. Momentan wird dort aber noch das Design von LGK Start verwendet. Rechts seht ihr, wie mys vielleicht mal aussehen wird. Ich möchte in Zukunft noch mehr darauf achten, dass&#8230; <a class="more-link" href="https://blog-static.lgk.io/vorschau-auf-das-neue-lgk-start/">Continue reading <span class="screen-reader-text">Vorschau auf das neue LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg" alt="" title="So sieht mys vielleicht bald aus" width="300" height="152" class="alignright size-medium wp-image-624" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/lgkstart-preview-300x152.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/lgkstart-preview.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Wie ich bereits <a href="?p=525">berichtet habe, arbeite ich an einem Dienst, womit man seine Startseite selbst anpassen kann.</a></p>
 <p>Diesen Dienst könnt ihr auch bereits unter <a href="/mys">mys testen.</a></p>
 <p>Momentan wird dort aber noch das Design von <a href="/start">LGK Start</a> verwendet. Rechts seht ihr, wie mys vielleicht mal aussehen wird.</p>
 <p>Ich möchte in Zukunft noch mehr darauf achten, dass die Seite schneller geladen wird.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vorschau-auf-das-neue-lgk-start/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/vorschau-auf-das-neue-lgk-start/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>windows 7 &#8211; LGK Blog</title>
-	<atom:link href="/tag/windows-7/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/windows-7/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 03 Jul 2012 13:53:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>windows 7 &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Windows 8 Upgrade für rund 40 $</title>
-		<link>/windows-8-upgrade-fur-rund-40/</link>
-					<comments>/windows-8-upgrade-fur-rund-40/#respond</comments>
+		<link>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/</link>
+					<comments>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 13:53:04 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[windows xp]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=511</guid>
 
-					<description><![CDATA[Im offizielem Windows-Blog wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird. Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locken. Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon&#8230; <a class="more-link" href="/windows-8-upgrade-fur-rund-40/">Continue reading <span class="screen-reader-text">Windows 8 Upgrade für rund 40 $</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/win-sale-300x242.jpg" alt="" title="Windows 8 Upgrade für rund 40 $" width="300" height="242" class="alignleft size-medium wp-image-513" srcset="/wp-content/uploads/2012/07/win-sale-300x242.jpg 300w, /wp-content/uploads/2012/07/win-sale.jpg 531w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+					<description><![CDATA[Im offizielem Windows-Blog wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird. Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locken. Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon&#8230; <a class="more-link" href="https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/">Continue reading <span class="screen-reader-text">Windows 8 Upgrade für rund 40 $</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/win-sale-300x242.jpg" alt="" title="Windows 8 Upgrade für rund 40 $" width="300" height="242" class="alignleft size-medium wp-image-513" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/07/win-sale-300x242.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/07/win-sale.jpg 531w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>
 Im <a href="http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/07/02/upgrade-to-windows-8-pro-for-39-99.aspx?utm_source=twitterfeed&#038;utm_medium=twitter" target="_blank">offizielem Windows-Blog</a> wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird.
 </p>
@@ -57,7 +57,7 @@ Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locke
 Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon jetzt so viele Exemplare zu verschleudern.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/windows-8-upgrade-fur-rund-40/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

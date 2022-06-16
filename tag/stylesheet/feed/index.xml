@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Stylesheet &#8211; LGK Blog</title>
-	<atom:link href="/tag/stylesheet/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/stylesheet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 09 Apr 2015 06:50:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Stylesheet &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Alle abgerundeten Umrandungen in Bootstrap ausschalten.</title>
-		<link>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
-					<comments>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
+		<link>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/</link>
+					<comments>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 10 Aug 2014 11:00:14 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<category><![CDATA[theme]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1179</guid>
 
-					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
+					<description><![CDATA[Ich nutze für meine Projekte gerne das Framework Bootstrap. Allerdings gefallen mir die abgerundeten Elemente nicht besonders. Fügt man diesen CSS-Code nach dem Einbinden von Bootstrap, werden alle Abrundungen abgeschalten: .alert,.breadcrumb,.btn,.btn-group-lg>.btn,.btn-group-sm>.btn,.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group-vertical>.btn:not(:first-child):not(:last-child),.btn-group-xs>.btn,.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn,.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle),.btn-lg,.btn-link,.btn-sm,.btn-xs,.container .jumbotron,.dropdown-menu,.form-control,.form-horizontal .form-group-lg .form-control,.form-horizontal .form-group-sm .form-control,.img-rounded,.img-thumbnail,.input-group .form-control:not(:first-child):not(:last-child),.input-group-addon,.input-group-addon.input-lg,.input-group-addon.input-sm,.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-lg,.input-sm,.label,.modal-content,.nav-pills>li>a,.nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a,.nav-tabs>li>a,.navbar-toggle,.pager li>a,.pager li>span,.pagination,.panel,.panel-group .panel,.panel>.list-group .list-group-item,.popover,.progress,.thumbnail,.tooltip-inner,.well,.well-lg,.well-sm,code,kbd,pre,pre code{border-radius:0}@media (min-width:768px){.nav-tabs.nav-justified>li>a,.navbar,.navbar-fixed-bottom,.navbar-fixed-top,.navbar-static-top,.list-group-item:first-child,.list-group-item:last-child{border-radius:0}} Oder ausführlich: .img-thumbnail, code, kbd, pre, pre code, .form-control, .input-sm, .form-horizontal .form-group-sm&#8230; <a class="more-link" href="https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/">Continue reading <span class="screen-reader-text">Alle abgerundeten Umrandungen in Bootstrap ausschalten.</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/bootstrap-2.png" alt="Bootstrap" width="282" height="264" class="alignright size-full wp-image-1183" /></p>
 <p>Ich nutze für meine Projekte gerne das Framework <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.<br />
 Allerdings gefallen mir die abgerundeten Elemente nicht besonders.</p>
@@ -137,15 +137,15 @@ pre code,
 <p><strong>Update am 09.04.2015:</strong> Die Elemente <code>.list-group-item:first-child</code> und <code>.list-group-item:last-child</code> wurden hinzugefügt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/alle-abgerundeten-umrandungen-in-bootstrap-ausschalten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Version von orange css</title>
-		<link>/neue-version-von-orange-css/</link>
-					<comments>/neue-version-von-orange-css/#respond</comments>
+		<link>https://blog-static.lgk.io/neue-version-von-orange-css/</link>
+					<comments>https://blog-static.lgk.io/neue-version-von-orange-css/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2013 13:19:01 +0000</pubDate>
@@ -163,8 +163,8 @@ pre code,
 		<category><![CDATA[Version]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=828</guid>
 
-					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, /wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
+					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
 <p>Der CSS-Standard orange css wurde nun aktualisiert.</p>
 <p>Es gibt zwei neue Definitionen und zwei weitere Verbesserungen.</p>
 <p>Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden.<br />
@@ -174,15 +174,15 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 <p>Wer orange css per Einbindung nutzt, braucht nichts zu ändern. Wer den Stylesheet runtergeladen hat, sollte sich die neueste Version von der Website runterladen: <a href="http://orange-css.tk/" target="_blank">orange-css.tk</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neue-version-von-orange-css/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange-css/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>orange css im Einsatz!</title>
-		<link>/orange-css-im-einsatz/</link>
-					<comments>/orange-css-im-einsatz/#respond</comments>
+		<link>https://blog-static.lgk.io/orange-css-im-einsatz/</link>
+					<comments>https://blog-static.lgk.io/orange-css-im-einsatz/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 Jul 2013 11:40:43 +0000</pubDate>
@@ -200,8 +200,8 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 		<category><![CDATA[Stylesheet]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=820</guid>
 
-					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, /wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, /wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
+					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="https://blog-static.lgk.io/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
 <p>Das hauseigene CSS-Framework <a href="http://orange-css.tk/" target="_blank">orange css</a> wird jetzt für das Kontaktformular und dem Impressum verwendet: <a href="/about" target="_blank">lgkonline.de/about</a></p>
 <p>orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version.</p>
 <p>Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit.</p>
@@ -209,7 +209,7 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 Eine Dokumentation gibt es auch.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/orange-css-im-einsatz/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/orange-css-im-einsatz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

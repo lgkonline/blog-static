@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Preview 4 &#8211; LGK Blog</title>
-	<atom:link href="/tag/preview-4/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/preview-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 26 Sep 2014 17:05:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Preview 4 &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neuerungen Startmon 11.0.5</title>
-		<link>/neuerungen-startmon-11-0-5/</link>
-					<comments>/neuerungen-startmon-11-0-5/#respond</comments>
+		<link>https://blog-static.lgk.io/neuerungen-startmon-11-0-5/</link>
+					<comments>https://blog-static.lgk.io/neuerungen-startmon-11-0-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 26 Sep 2014 07:15:43 +0000</pubDate>
@@ -41,7 +41,7 @@
 		<category><![CDATA[Preview 4]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1290</guid>
 
-					<description><![CDATA[Hier die Verbesserungen in der 4. Preview von Startmon: Animationseffekt für Hintergrund-Bilder Bei einer Suchanfrage wird die letzte Eingabe kurzzeitig gespeichert. Kommt der Nutzer von der Suchmaschine nach Startmon zurück, ist die letzte Eingabe sichtbar. Die Daten bleiben nur während dieser Sitzung erhalten und werden gelöscht, sobald der Browser geschlossen wird. Sobald Startmon wieder aufgerufen&#8230; <a class="more-link" href="/neuerungen-startmon-11-0-5/">Continue reading <span class="screen-reader-text">Neuerungen Startmon 11.0.5</span></a>]]></description>
+					<description><![CDATA[Hier die Verbesserungen in der 4. Preview von Startmon: Animationseffekt für Hintergrund-Bilder Bei einer Suchanfrage wird die letzte Eingabe kurzzeitig gespeichert. Kommt der Nutzer von der Suchmaschine nach Startmon zurück, ist die letzte Eingabe sichtbar. Die Daten bleiben nur während dieser Sitzung erhalten und werden gelöscht, sobald der Browser geschlossen wird. Sobald Startmon wieder aufgerufen&#8230; <a class="more-link" href="https://blog-static.lgk.io/neuerungen-startmon-11-0-5/">Continue reading <span class="screen-reader-text">Neuerungen Startmon 11.0.5</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Hier die Verbesserungen in der 4. Preview von Startmon:</p>
 <ul>
 <li>Animationseffekt für Hintergrund-Bilder</li>
@@ -57,7 +57,7 @@
 <p><a href="http://start.lgkonline.com/" target="_blank" title="Im neuen Tab öffnen" class="btn btn-primary">Zur Startmon Preview &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/neuerungen-startmon-11-0-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/neuerungen-startmon-11-0-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Handys der Zukunft	</title>
-	<atom:link href="/handys-der-zukunft/feed/" rel="self" type="application/rss+xml" />
-	<link>/handys-der-zukunft/</link>
+	<atom:link href="https://blog-static.lgk.io/handys-der-zukunft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/handys-der-zukunft/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 02 Oct 2011 17:11:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

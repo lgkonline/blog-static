@@ -9,8 +9,8 @@
 
 <channel>
 	<title>zukunft &#8211; LGK Blog</title>
-	<atom:link href="/tag/zukunft-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog-static.lgk.io/tag/zukunft-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog-static.lgk.io/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 02 Oct 2011 17:11:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>zukunft &#8211; LGK Blog</title>
-	<link>/</link>
+	<link>https://blog-static.lgk.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Handys der Zukunft</title>
-		<link>/handys-der-zukunft/</link>
-					<comments>/handys-der-zukunft/#respond</comments>
+		<link>https://blog-static.lgk.io/handys-der-zukunft/</link>
+					<comments>https://blog-static.lgk.io/handys-der-zukunft/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2011 17:11:15 +0000</pubDate>
@@ -44,14 +44,14 @@
 		<category><![CDATA[zukunft]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=271</guid>
 
-					<description><![CDATA[Die Beliebtheit von Mobiltelefonen wird nicht so schnell aufhören und deshalb denken natürlich auch die Hersteller darüber nach, wie sie ihrere Produkte noch besser machen. Ich bin bei CHIP auf eine interessante Fotostrecke gestoßen, die einige Konzepte von den Handys der Zukunft zeigen. Wirklich abgefahren, ihr findet die Fotostrecke hier: http://www.chip.de/artikel/Die-50-coolsten-Future-Handys-von-Nokia-Samsung-LG-und-Co._48593453.html Dies ist auch eine&#8230; <a class="more-link" href="/handys-der-zukunft/">Continue reading <span class="screen-reader-text">Handys der Zukunft</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_272" aria-describedby="caption-attachment-272" style="width: 267px" class="wp-caption alignleft"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/10/handys-der-zukunft-267x300.jpg" width="267" height="300" class="size-medium wp-image-272" srcset="/wp-content/uploads/2011/10/handys-der-zukunft-267x300.jpg 267w, /wp-content/uploads/2011/10/handys-der-zukunft.jpg 490w" sizes="(max-width: 267px) 100vw, 267px" /><figcaption id="caption-attachment-272" class="wp-caption-text">Quelle: CHIP Online</figcaption></figure>Die Beliebtheit von Mobiltelefonen wird nicht so schnell aufhören und deshalb denken natürlich auch die Hersteller darüber nach, wie sie ihrere Produkte noch besser machen.</p>
+					<description><![CDATA[Die Beliebtheit von Mobiltelefonen wird nicht so schnell aufhören und deshalb denken natürlich auch die Hersteller darüber nach, wie sie ihrere Produkte noch besser machen. Ich bin bei CHIP auf eine interessante Fotostrecke gestoßen, die einige Konzepte von den Handys der Zukunft zeigen. Wirklich abgefahren, ihr findet die Fotostrecke hier: http://www.chip.de/artikel/Die-50-coolsten-Future-Handys-von-Nokia-Samsung-LG-und-Co._48593453.html Dies ist auch eine&#8230; <a class="more-link" href="https://blog-static.lgk.io/handys-der-zukunft/">Continue reading <span class="screen-reader-text">Handys der Zukunft</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_272" aria-describedby="caption-attachment-272" style="width: 267px" class="wp-caption alignleft"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/10/handys-der-zukunft-267x300.jpg" width="267" height="300" class="size-medium wp-image-272" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/10/handys-der-zukunft-267x300.jpg 267w, https://blog-static.lgk.io/wp-content/uploads/2011/10/handys-der-zukunft.jpg 490w" sizes="(max-width: 267px) 100vw, 267px" /><figcaption id="caption-attachment-272" class="wp-caption-text">Quelle: CHIP Online</figcaption></figure>Die Beliebtheit von Mobiltelefonen wird nicht so schnell aufhören und deshalb denken natürlich auch die Hersteller darüber nach, wie sie ihrere Produkte noch besser machen.</p>
 <p>Ich bin bei CHIP auf eine interessante Fotostrecke gestoßen, die einige Konzepte von den Handys der Zukunft zeigen.<br />
 Wirklich abgefahren, ihr findet die Fotostrecke hier: <a href="http://www.chip.de/artikel/Die-50-coolsten-Future-Handys-von-Nokia-Samsung-LG-und-Co._48593453.html" target="_blank">http://www.chip.de/artikel/Die-50-coolsten-Future-Handys-von-Nokia-Samsung-LG-und-Co._48593453.html</a></p>
 <p>Dies ist auch eine interessante Website, die sich mit Future-Phones beschäftigt: <a href="http://www.conceptmobiles.com/" target="_blank">Concept Mobiles</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/handys-der-zukunft/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blog-static.lgk.io/handys-der-zukunft/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
