@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Videos &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/videos/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 07 Jan 2016 18:33:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Videos &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Troye Sivan &#8211; Fools (Remix by Elgeekay) &#8212; Free download</title>
-		<link>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
-					<comments>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
+		<link>/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
+					<comments>/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2016 18:17:35 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[Fools]]></category>
 		<category><![CDATA[Remix]]></category>
 		<category><![CDATA[Troye Sivan]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1814</guid>
+		<guid isPermaLink="false">/?p=1814</guid>
 
 					<description><![CDATA[I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: http://www.troyesivan.com/ You can download my remix for free. If you want to use it for any of your works, please contact me first. Download (MP3, 2.8 MB)]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-150x150.jpg 150w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="/wp-content/uploads/2016/01/cover-300x300.jpg 300w, /wp-content/uploads/2016/01/cover-150x150.jpg 150w, /wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, /wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: <a href="http://www.troyesivan.com/" title="undefined" target="_blank">http://www.troyesivan.com/</a></p>
 <p>You can download my remix for free. If you want to use it for any of your works, please contact me first.</p>
 <p><a href="http://lib.lgk.io/Fools.mp3" target="_blank" class="btn btn-lg btn-success"><i class="fa fa-arrow-down"></i> Download <small>(MP3, 2.8 MB)</small></a></p>
@@ -53,7 +53,7 @@
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4wiHZrhQvsA" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
+					<wfw:commentRss>/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="http://lib.lgk.io/Fools.mp3" length="2943400" type="audio/mpeg" />
@@ -61,8 +61,8 @@
 			</item>
 		<item>
 		<title>Photoshop-Tutorial: Pipetten-Werkzeug außerhalb verwenden</title>
-		<link>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
-					<comments>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
+		<link>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
+					<comments>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 25 Feb 2015 10:00:55 +0000</pubDate>
@@ -78,7 +78,7 @@
 		<category><![CDATA[Farbe]]></category>
 		<category><![CDATA[photoshop]]></category>
 		<category><![CDATA[Pipette]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1490</guid>
+		<guid isPermaLink="false">/?p=1490</guid>
 
 					<description><![CDATA[Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes. Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen. Video direkt auf YouTube ansehen.]]></description>
 										<content:encoded><![CDATA[<div class="embed-responsive embed-responsive-16by9">
@@ -89,15 +89,15 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 <p><a href="https://www.youtube.com/watch?v=Hmq3HMy56Yo">Video direkt auf YouTube ansehen.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
+					<wfw:commentRss>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>colorganize is your new color picker web app</title>
-		<link>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/</link>
-					<comments>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/#respond</comments>
+		<link>/colorganize-new-color-picker-web-app/</link>
+					<comments>/colorganize-new-color-picker-web-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 23 May 2014 20:02:14 +0000</pubDate>
@@ -112,18 +112,18 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 		<category><![CDATA[Zukunft]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=992</guid>
 
-					<description><![CDATA[Colorganize is a small color picker web app for web designers and artists. You can save all color codes you will need for a project. For example you want to draw a fanart to Shin Chan. Or maybe more than one. In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. Select all&#8230; <a class="more-link" href="https://blog-static.lgk.io/colorganize-new-color-picker-web-app/">Continue reading <span class="screen-reader-text">colorganize is your new color picker web app</span></a>]]></description>
+					<description><![CDATA[Colorganize is a small color picker web app for web designers and artists. You can save all color codes you will need for a project. For example you want to draw a fanart to Shin Chan. Or maybe more than one. In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. Select all&#8230; <a class="more-link" href="/colorganize-new-color-picker-web-app/">Continue reading <span class="screen-reader-text">colorganize is your new color picker web app</span></a>]]></description>
 										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//player.vimeo.com/video/96239969?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=0&amp;loop=1" width="716" height="402" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 <p>Colorganize is a small color picker web app for web designers and artists.</p>
 <p>You can save all color codes you will need for a project.</p>
-<p><figure id="attachment_996" aria-describedby="caption-attachment-996" style="width: 250px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan-250x300.png" alt="You want to draw shin chan?" width="250" height="300" class="size-medium wp-image-996" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/shin-chan-250x300.png 250w, https://blog-static.lgk.io/wp-content/uploads/2014/05/shin-chan.png 361w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption id="caption-attachment-996" class="wp-caption-text">You want to draw shin chan?</figcaption></figure><br />
+<p><figure id="attachment_996" aria-describedby="caption-attachment-996" style="width: 250px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan-250x300.png" alt="You want to draw shin chan?" width="250" height="300" class="size-medium wp-image-996" srcset="/wp-content/uploads/2014/05/shin-chan-250x300.png 250w, /wp-content/uploads/2014/05/shin-chan.png 361w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption id="caption-attachment-996" class="wp-caption-text">You want to draw shin chan?</figcaption></figure><br />
 For example you want to draw a fanart to Shin Chan. Or maybe more than one.</p>
 <ol>
 <li>In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. </li>
 <li>Select all important colors and insert them to the palette.</li>
 <li>Tada:</li>
 </ol>
-<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="Our color palette" width="300" height="225" class="size-medium wp-image-998" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Our color palette</figcaption></figure>
+<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="Our color palette" width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Our color palette</figcaption></figure>
 <div class="clear-both"></div>
 <p>Now you can select each color and its code by just clicking on it. On the head you can switch which code format you prefer: Hexadecimal, hexadecimal with starting #, RGB or RGB with alpha.</p>
 <p>That&#8217;s it. I hope you enjoy it.<br />
@@ -132,15 +132,15 @@ For example you want to draw a fanart to Shin Chan. Or maybe more than one.</p>
 (Email: <a href="mailto:lgk@live.de">lgk@live.de</a>, Twitter: <a href="http://twitter.com/lgkonline" target="_blank">@lgkonline</a>).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/colorganize-new-color-picker-web-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>High-End-Smartphone für $1?</title>
-		<link>https://blog-static.lgk.io/high-end-smartphone-fuer-1/</link>
-					<comments>https://blog-static.lgk.io/high-end-smartphone-fuer-1/#respond</comments>
+		<link>/high-end-smartphone-fuer-1/</link>
+					<comments>/high-end-smartphone-fuer-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 25 Apr 2014 12:57:48 +0000</pubDate>
@@ -154,7 +154,7 @@ For example you want to draw a fanart to Shin Chan. Or maybe more than one.</p>
 		<category><![CDATA[Wettbewerb]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=970</guid>
 
-					<description><![CDATA[Das OnePlus One wird vom Hersteller als &#8220;Flagship-Killer&#8221; betitelt. Dieser Hersteller hat nun eine ungewöhnliche Aktion gestartet. Wer sein altes Smartphone zerstört, bekommt das OnePlus One für nur einen Dollar. 100 Personen werden für diese Aktion ausgesucht. Wer Interesse hat, kann sich hier registrieren: http://oneplus.net/smash Am 4. Mai werden dann die 100 Glücklichen per E-Mail benachrichtigt&#8230; <a class="more-link" href="https://blog-static.lgk.io/high-end-smartphone-fuer-1/">Continue reading <span class="screen-reader-text">High-End-Smartphone für $1?</span></a>]]></description>
+					<description><![CDATA[Das OnePlus One wird vom Hersteller als &#8220;Flagship-Killer&#8221; betitelt. Dieser Hersteller hat nun eine ungewöhnliche Aktion gestartet. Wer sein altes Smartphone zerstört, bekommt das OnePlus One für nur einen Dollar. 100 Personen werden für diese Aktion ausgesucht. Wer Interesse hat, kann sich hier registrieren: http://oneplus.net/smash Am 4. Mai werden dann die 100 Glücklichen per E-Mail benachrichtigt&#8230; <a class="more-link" href="/high-end-smartphone-fuer-1/">Continue reading <span class="screen-reader-text">High-End-Smartphone für $1?</span></a>]]></description>
 										<content:encoded><![CDATA[<figure id="attachment_972" aria-describedby="caption-attachment-972" style="width: 292px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/banner-smashing.jpg"><img loading="lazy" class="size-full wp-image-972" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/banner-smashing.jpg" alt="Die Aktion läuft bis zum 4. Mai 2014. (Quelle: oneplus.net)" width="292" height="260" /></a><figcaption id="caption-attachment-972" class="wp-caption-text">Die Aktion läuft bis zum 4. Mai 2014. (Quelle: oneplus.net)</figcaption></figure>
 <p>Das OnePlus One wird vom Hersteller als &#8220;Flagship-Killer&#8221; betitelt.<br />
 Dieser Hersteller hat nun eine ungewöhnliche Aktion gestartet.</p>
@@ -164,7 +164,7 @@ Wer Interesse hat, kann sich hier registrieren: <a href="http://oneplus.net/sma
 <p>Am 4. Mai werden dann die 100 Glücklichen per E-Mail benachrichtigt und können dann ihr Smartphone zerstören, es filmen und das Ganze einschicken.</p>
 <p>Ihr solltet also nicht sofort losziehen und eure Handys zerstören.<span id="more-970"></span></p>
 <div class="clearfix"></div>
-<figure id="attachment_977" aria-describedby="caption-attachment-977" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/composition-main.jpg"><img loading="lazy" class="size-medium wp-image-977" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/composition-main-300x293.jpg" alt="Als Alternative zu den Tasten lassen sich auch On Screen-Tasten verwenden. (Quelle: oneplus.net)" width="300" height="293" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/04/composition-main-300x293.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/04/composition-main.jpg 708w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-977" class="wp-caption-text">Als Alternative zu den Tasten lassen sich auch On Screen-Tasten verwenden. (Quelle: oneplus.net)</figcaption></figure>
+<figure id="attachment_977" aria-describedby="caption-attachment-977" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/composition-main.jpg"><img loading="lazy" class="size-medium wp-image-977" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/composition-main-300x293.jpg" alt="Als Alternative zu den Tasten lassen sich auch On Screen-Tasten verwenden. (Quelle: oneplus.net)" width="300" height="293" srcset="/wp-content/uploads/2014/04/composition-main-300x293.jpg 300w, /wp-content/uploads/2014/04/composition-main.jpg 708w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-977" class="wp-caption-text">Als Alternative zu den Tasten lassen sich auch On Screen-Tasten verwenden. (Quelle: oneplus.net)</figcaption></figure>
 <p>Das Besondere am OnePlus One sind die Software-Features. Es läuft mit Cyanogenmod Android. Somit können viele Ecken und Kanten am Betriebssystem vom Nutzer den eigenen Wünschen angepasst werden.</p>
 <p>Das weiße Modell mit 16 GB kostet normal $299 und das schwarze mit 64 GB $349.<br />
 Die Specs sind für die Preise ziemlich gut. <a href="http://oneplus.net/one" target="_blank">Informationen zu den Specs »</a></p>
@@ -177,15 +177,15 @@ Die Specs sind für die Preise ziemlich gut. <a href="http://oneplus.net/one" ta
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/high-end-smartphone-fuer-1/feed/</wfw:commentRss>
+					<wfw:commentRss>/high-end-smartphone-fuer-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LGK Start 10.1 Final ist fertig</title>
-		<link>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/</link>
-					<comments>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/#respond</comments>
+		<link>/lgk-start-10-1-final-ist-fertig/</link>
+					<comments>/lgk-start-10-1-final-ist-fertig/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 29 Jun 2013 15:40:29 +0000</pubDate>
@@ -208,15 +208,15 @@ Die Specs sind für die Preise ziemlich gut. <a href="http://oneplus.net/one" ta
 <p><iframe loading="lazy" class="box" src="http://lgkonline.de/files/start_new/Presentation.html" width="883px" height="450px" frameborder="0"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/feed/</wfw:commentRss>
+					<wfw:commentRss>/lgk-start-10-1-final-ist-fertig/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop Tutorial: Logo-Grafik als Form abspeichern</title>
-		<link>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
-					<comments>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
+		<link>/photoshop-tutorial-logo-grafik-als-form-abspeichern/</link>
+					<comments>/photoshop-tutorial-logo-grafik-als-form-abspeichern/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 30 Sep 2012 19:38:45 +0000</pubDate>
@@ -237,7 +237,7 @@ Die Specs sind für die Preise ziemlich gut. <a href="http://oneplus.net/one" ta
 		<category><![CDATA[umwandeln]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=652</guid>
 
-					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
+					<description><![CDATA[Photoshop Tutorial: Logo-Grafik als Form abspeichern Auf YouTube ansehen Musik: http://www.audioagency.de/ In diesem Video zeige ich euch, wie ihr mit Photoshop eine Pixel-Grafik als Form verwenden könnt. So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es direkt als Form einbinden. Ich hoffe, den einen oder anderen damit einen Tipp geben&#8230; <a class="more-link" href="/photoshop-tutorial-logo-grafik-als-form-abspeichern/">Continue reading <span class="screen-reader-text">Photoshop Tutorial: Logo-Grafik als Form abspeichern</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="box">
 <h3 class="widget-title">Photoshop Tutorial: Logo-Grafik als Form abspeichern</h3>
 <p><center><br />
@@ -251,15 +251,15 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
+					<wfw:commentRss>/photoshop-tutorial-logo-grafik-als-form-abspeichern/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Microsoft präsentiert neues Logo</title>
-		<link>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/</link>
-					<comments>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/#respond</comments>
+		<link>/microsoft-prasentiert-neues-logo/</link>
+					<comments>/microsoft-prasentiert-neues-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 24 Aug 2012 18:27:43 +0000</pubDate>
@@ -277,8 +277,8 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=532</guid>
 
-					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
+					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, /wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
 <p>Microsoft präsentiert mit einem Image-Video ihr neues Logo.</p>
 <p>Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold.</p>
 <p>Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist ein neues Logo auch nötig, da das alte einfach nicht mehr zum Kachel-Design passte.</p>
@@ -294,15 +294,15 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neuer Twitter-Vogel</title>
-		<link>https://blog-static.lgk.io/neuer-twitter-vogel/</link>
-					<comments>https://blog-static.lgk.io/neuer-twitter-vogel/#respond</comments>
+		<link>/neuer-twitter-vogel/</link>
+					<comments>/neuer-twitter-vogel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 06 Jun 2012 17:00:23 +0000</pubDate>
@@ -320,8 +320,8 @@ So braucht ihr z.B. ein Logo nicht extra als Datei öffnen sondern könnt es dir
 		<category><![CDATA[twitter]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=467</guid>
 
-					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="https://blog-static.lgk.io/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, /wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Das stolze Markenzeichen von Twitter ist das Vogel-Symbol.</p>
 <p>Dieses Symbol wurde nun leicht ver&auml;ndert. Der Vogel, der im &Uuml;brigen auf den Namen &#8220;Larry&#8221; h&ouml;rt, fliegt jetzt<br />
 nicht mehr geradeaus, sondern schr&auml;g nach oben.</p>
@@ -339,15 +339,15 @@ gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, w
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neuer-twitter-vogel/feed/</wfw:commentRss>
+					<wfw:commentRss>/neuer-twitter-vogel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>YouTube verliert gegen GEMA &#8211; So könnt ihr trotzdem Musikvideos genießen &#8230;</title>
-		<link>https://blog-static.lgk.io/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/</link>
-					<comments>https://blog-static.lgk.io/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/#respond</comments>
+		<link>/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/</link>
+					<comments>/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 20 Apr 2012 17:08:26 +0000</pubDate>
@@ -357,8 +357,8 @@ gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, w
 		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=427</guid>
 
-					<description><![CDATA[Google hat heute vor dem Hamburger Landgericht eine Niederlage gegen der GEMA einstecken müssen, wodurch in Zukunft die Musik-Zensur auf YouTube wohl noch schlimmer werden wird. Näheres zur Verhandlung bei CHIP Online Zum Glück gibt es aber Möglichkeiten die Video-Sperren zu umgehen: ProxTube für Firefox ProxTube für Chrome Das ist übrigens nicht illegal. Beim Aufrufen&#8230; <a class="more-link" href="https://blog-static.lgk.io/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/">Continue reading <span class="screen-reader-text">YouTube verliert gegen GEMA &#8211; So könnt ihr trotzdem Musikvideos genießen &#8230;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_429" aria-describedby="caption-attachment-429" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85-300x165.jpg" alt="IMG" title="Diese unbeliebte Meldung lässt sich ganz einfach umgehen!" width="300" height="165" class="size-medium wp-image-429" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85-300x165.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-429" class="wp-caption-text">Diese unbeliebte Meldung lässt sich ganz einfach umgehen!</figcaption></figure><br />
+					<description><![CDATA[Google hat heute vor dem Hamburger Landgericht eine Niederlage gegen der GEMA einstecken müssen, wodurch in Zukunft die Musik-Zensur auf YouTube wohl noch schlimmer werden wird. Näheres zur Verhandlung bei CHIP Online Zum Glück gibt es aber Möglichkeiten die Video-Sperren zu umgehen: ProxTube für Firefox ProxTube für Chrome Das ist übrigens nicht illegal. Beim Aufrufen&#8230; <a class="more-link" href="/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/">Continue reading <span class="screen-reader-text">YouTube verliert gegen GEMA &#8211; So könnt ihr trotzdem Musikvideos genießen &#8230;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_429" aria-describedby="caption-attachment-429" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85-300x165.jpg" alt="IMG" title="Diese unbeliebte Meldung lässt sich ganz einfach umgehen!" width="300" height="165" class="size-medium wp-image-429" srcset="/wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85-300x165.jpg 300w, /wp-content/uploads/2012/04/youtube_gema_hinweis-271ef72cfa638f85.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-429" class="wp-caption-text">Diese unbeliebte Meldung lässt sich ganz einfach umgehen!</figcaption></figure><br />
 Google hat heute vor dem Hamburger Landgericht eine Niederlage gegen der GEMA einstecken müssen, wodurch in Zukunft die Musik-Zensur auf YouTube wohl noch schlimmer werden wird.<br />
 <a href="http://www.chip.de/news/Musikvideos-GEMA-siegt-vor-Gericht-gegen-YouTube_55544104.html" target="_blank">Näheres zur Verhandlung bei CHIP Online</a></p>
 <p>Zum Glück gibt es aber Möglichkeiten die Video-Sperren zu umgehen:</p>
@@ -369,15 +369,15 @@ Google hat heute vor dem Hamburger Landgericht eine Niederlage gegen der GEMA ei
 <p>Das ist übrigens nicht illegal. Beim Aufrufen von gesperrten Videos wird einfach eine andere Proxy-Adresse benutzt. Das ist, als wenn ihr das Video aus einem anderen Land aufrufen würdet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/feed/</wfw:commentRss>
+					<wfw:commentRss>/youtube-verliert-gegen-gema-so-konnt-ihr-trotzdem-musikvideos-geniesen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Photoshop-Funktion: Video</title>
-		<link>https://blog-static.lgk.io/neue-photoshop-funktion-video/</link>
-					<comments>https://blog-static.lgk.io/neue-photoshop-funktion-video/#respond</comments>
+		<link>/neue-photoshop-funktion-video/</link>
+					<comments>/neue-photoshop-funktion-video/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
@@ -400,26 +400,26 @@ Google hat heute vor dem Hamburger Landgericht eine Niederlage gegen der GEMA ei
 		<category><![CDATA[video]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
 
-					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
 <p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
 <p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
 <p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
 Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
 <p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
 <div class="float-reg"></div>
-<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
 Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
 Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
 <div class="float-reg"></div>
-<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
 <ul>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

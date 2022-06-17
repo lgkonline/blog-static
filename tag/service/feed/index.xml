@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Service &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/service/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/service/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 28 Jul 2016 14:26:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Service &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -47,9 +47,9 @@
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
+		<guid isPermaLink="false">/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -65,15 +65,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tumblr Bilder schneller im Vollbild betrachten</title>
-		<link>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
-					<comments>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
+		<link>/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
+					<comments>/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Apr 2016 15:20:34 +0000</pubDate>
@@ -87,24 +87,24 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[Tools]]></category>
 		<category><![CDATA[Tumblr]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1883</guid>
+		<guid isPermaLink="false">/?p=1883</guid>
 
-					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img src="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png 600w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
+					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img src="/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="/wp-content/uploads/2016/04/showTumblrImage.png 600w, /wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, /wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
 Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^</p>
 <p>Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die URL des Tumblr-Posts ein und du wirst direkt auf die Vollansicht weitergeleitet.</p>
 <p><a href="http://lgk.io/show-tumblr-image" class="btn btn-primary btn-lg" target="">lgk.io/show-tumblr-image</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
+					<wfw:commentRss>/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
-		<link>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/</link>
-					<comments>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
@@ -123,8 +123,8 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 		<category><![CDATA[widget]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
 
-					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure>
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure>
 <p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
 Es ist keine extra Registrierung nötig.</p>
 <p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
@@ -134,7 +134,7 @@ Es ist keine extra Registrierung nötig.</p>
 <div class="clearfix"></div>
 <hr>
 <h3>Der Farb-Picker ist zurück!</h3>
-<figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure>
+<figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure>
 <p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
 Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
 <h3>Ideen für die Zukunft</h3>
@@ -144,15 +144,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neues Web-Tool: &#060;html_bones&#062; &#8211; Um schneller mit HTML-Projekten zu beginnen</title>
-		<link>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
-					<comments>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
+		<link>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/</link>
+					<comments>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 13 Oct 2014 09:48:40 +0000</pubDate>
@@ -170,8 +170,8 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1307</guid>
 
-					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Unter bones.lgkonline.com befindet sich die neue Web App &#8220;&#60;html_bones&#62;&#8221;. Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind. Beispielsweise ist das Element &#60;meta http-equiv="X-UA-Compatible" content="IE=edge"&#62; unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte. Auch häufig genutzte Frameworks wie&#8230; <a class="more-link" href="/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/">Continue reading <span class="screen-reader-text">Neues Web-Tool: &#60;html_bones&#62; &#8211; Um schneller mit HTML-Projekten zu beginnen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/10/html_bones_01-300x222.jpg" alt="" width="300" height="222" class="alignright size-medium wp-image-1308 img-responsive" srcset="/wp-content/uploads/2014/10/html_bones_01-300x222.jpg 300w, /wp-content/uploads/2014/10/html_bones_01-1024x757.jpg 1024w, /wp-content/uploads/2014/10/html_bones_01.jpg 1247w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Unter <a href="http://bones.lgkonline.com/" target="_blank" title="Öffne Link im neuen Tab">bones.lgkonline.com</a> befindet sich die neue Web App &#8220;&lt;html_bones&gt;&#8221;.</p>
 <p>Dieses Tool stellt Web-Entwicklern mit wenigen Klickst eine HTML-Vorlage um sicher zu gehen, dass die nötigsten Elemente bereits gesetzt sind.</p>
 <p>Beispielsweise ist das Element <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code> unabdingbar, da sonst der Internet Explorer die Seite nicht im richtigen Modus anzeigen könnte.</p>
@@ -180,15 +180,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p><a href="http://bones.lgkonline.com/" target="_blank" class="btn btn-primary" title="Öffne Link im neuen Tab">Auf geht&#8217;s: bones.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
+					<wfw:commentRss>/neues-web-tool-um-schneller-mit-html-projekten-zu-beginnen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon: Öffentliche Preview jetzt online</title>
-		<link>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/</link>
-					<comments>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
@@ -208,15 +208,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 		<category><![CDATA[Suchmaschine]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
 
-					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
 <p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
 <p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
 <p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
 <div class="clearfix"></div>
 <p><span id="more-1119"></span></p>
 <h2>Auch für mobile Endgeräte</h2>
-<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
 <p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
 <p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
 <p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
@@ -224,15 +224,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Der Blog im neuen Gewand</title>
-		<link>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/</link>
-					<comments>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/#respond</comments>
+		<link>/der-blog-im-neuen-gewand-2/</link>
+					<comments>/der-blog-im-neuen-gewand-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 14 Jun 2014 13:47:49 +0000</pubDate>
@@ -245,8 +245,8 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 		<category><![CDATA[Services]]></category>
 		<guid isPermaLink="false">http://lgkonline.com/?p=1091</guid>
 
-					<description><![CDATA[Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme. Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. 🙂 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus. Weiteres zu lgkonline.com Mit der Zeit sollen auch&#8230; <a class="more-link" href="https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/">Continue reading <span class="screen-reader-text">Der Blog im neuen Gewand</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1092" aria-describedby="caption-attachment-1092" style="width: 180px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png" alt="LGK Blog auf einem Smartphone" width="180" height="300" class="size-medium wp-image-1092" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png 180w, https://blog-static.lgk.io/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png 480w" sizes="(max-width: 180px) 100vw, 180px" /></a><figcaption id="caption-attachment-1092" class="wp-caption-text">LGK Blog auf einem Smartphone</figcaption></figure><br />
+					<description><![CDATA[Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme. Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. 🙂 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus. Weiteres zu lgkonline.com Mit der Zeit sollen auch&#8230; <a class="more-link" href="/der-blog-im-neuen-gewand-2/">Continue reading <span class="screen-reader-text">Der Blog im neuen Gewand</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1092" aria-describedby="caption-attachment-1092" style="width: 180px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png" alt="LGK Blog auf einem Smartphone" width="180" height="300" class="size-medium wp-image-1092" srcset="/wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17-180x300.png 180w, /wp-content/uploads/2014/06/Screenshot_2014-06-14-15-29-17.png 480w" sizes="(max-width: 180px) 100vw, 180px" /></a><figcaption id="caption-attachment-1092" class="wp-caption-text">LGK Blog auf einem Smartphone</figcaption></figure><br />
 Dieser Blog startet als erstes auf lgkonline.com. Und damit auch mit einem neuen Theme.</p>
 <p>Den Theme habe ich &#8220;Winegum&#8221; getauft, da mir der Hintergrund irgendwie darauf gebracht hat. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
 Der Theme basiert größtenteils auf Bootstrap. Damit ist er auch responsive, sieht also auf allen Endgeräten gut aus.<br />
@@ -258,15 +258,15 @@ Darunter auch das neue LGK Start, welches dann wahrscheinlich unter dem Namen &#
 <p>Unter Services wird man dann eine Auflistung mehrerer meiner Web-Apps, wie <a href="http://colorganize.com/" target="_blank">colorganize</a>, Orange Files und auch Startmon finden.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/der-blog-im-neuen-gewand-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mit Orange Files Dateien teilen</title>
-		<link>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/</link>
-					<comments>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/#respond</comments>
+		<link>/mit-orange-files-dateien-teilen/</link>
+					<comments>/mit-orange-files-dateien-teilen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2013 18:09:19 +0000</pubDate>
@@ -286,8 +286,8 @@ Darunter auch das neue LGK Start, welches dann wahrscheinlich unter dem Namen &#
 		<category><![CDATA[Service]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=902</guid>
 
-					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="https://blog-static.lgk.io/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, /wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen.</p>
 <p>Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort.</p>
 <p>Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen.</p>
@@ -299,7 +299,7 @@ Die Methode der Keys dient nur wenig Schutz.</p>
 <p>Orange Files ist lediglich dazu da, seine Dateien aufzulisten um es für Andere übersichtlicher zu halten.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
+					<wfw:commentRss>/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

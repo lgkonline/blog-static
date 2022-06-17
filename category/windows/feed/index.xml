@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Windows &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/windows/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:36:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Windows &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Apple M1: Potential für die gesamte PC-Sparte?</title>
-		<link>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
-					<comments>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
+		<link>/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
+					<comments>/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Dec 2020 11:34:08 +0000</pubDate>
@@ -43,25 +43,25 @@
 		<category><![CDATA[arm]]></category>
 		<category><![CDATA[big sur]]></category>
 		<category><![CDATA[macos]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2128</guid>
+		<guid isPermaLink="false">/?p=2128</guid>
 
-					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
+					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://www.apple.com/apple-events/november-2020/" target="_blank" rel="noopener noreferrer">Im November</a> hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt.</p>
-<p><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
+<p><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
 <p>Aber auch für Microsoft bietet das meiner Ansicht nach die Chance, Windows ARM endlich attraktiver zu machen. Tatsächlich war Microsoft in dem Bereich schon viel weiter, <a href="https://de.wikipedia.org/wiki/Microsoft_Windows_RT" target="_blank" rel="noopener noreferrer">Windows RT</a> wurde bereits 2012 veröffentlicht. Möglicherweise seiner Zeit voraus, konnte es sich aber nicht gut behaupten. Es gab nur wenig gute Apps, die dafür entwickelt wurden und es war auch nicht möglich, x86-Apps zu emulieren, so wie es mit Apple M1 und macOS Big Sur möglich ist (Stichwort Rosetta 2).</p>
 <p>Microsoft war leider noch nie erfolgreich darin, Entwickler zu überzeugen, Software für ihre Plattform anzupassen. Windows Phone und Windows Mobile hatten ein ähnliches Problem. Das ist leider auch ein Teufelskreis. Entwickler werden Apps eher für Betriebssysteme schreiben, die auch von der Mehrheit genutzt wird (iOS/Android). Apple ist darin deutlich besser. Bereits in der kurzen Zeit, seitdem macOS mit Apple Silicon angekündigt hat, haben bereits viele Entwickler begonnen, ihre Software anzupassen und auf ARM-Architektur zu optimieren. Und deswegen glaube ich, dass bald auch Windows-ARM-Geräte wieder interessanter werden können. Denn wenn Software wie Photoshop einmal für Apple M1 umgeschrieben wurde, könnte es auch einfacher sein, diesen Code auch für andere ARM-CPUs zu kompilieren.</p>
 <p>Glaubt ihr, dass wir schon bald mehr ARM-PCs mit Windows sehen werden?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
+					<wfw:commentRss>/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
-		<link>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
-					<comments>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
@@ -78,13 +78,13 @@
 		<category><![CDATA[LGK App]]></category>
 		<category><![CDATA[Windows 10]]></category>
 		<category><![CDATA[Windows 10 Mobile]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1828</guid>
+		<guid isPermaLink="false">/?p=1828</guid>
 
-					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png 589w, https://blog-static.lgk.io/wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
 <div class="row">
 <div class="col-sm-4">
-		<a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
 <p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
 </p></div>
 <div class="col-sm-8">
@@ -110,24 +110,24 @@
 <ol>
 <li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
 <li>
-				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 			</li>
 <li>
-				Installier die App auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
 			</li>
 </ol></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Microsoft präsentiert neues Logo</title>
-		<link>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/</link>
-					<comments>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/#respond</comments>
+		<link>/microsoft-prasentiert-neues-logo/</link>
+					<comments>/microsoft-prasentiert-neues-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 24 Aug 2012 18:27:43 +0000</pubDate>
@@ -145,8 +145,8 @@
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=532</guid>
 
-					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
+					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, /wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
 <p>Microsoft präsentiert mit einem Image-Video ihr neues Logo.</p>
 <p>Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold.</p>
 <p>Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist ein neues Logo auch nötig, da das alte einfach nicht mehr zum Kachel-Design passte.</p>
@@ -162,15 +162,15 @@
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ich bin jetzt Autor bei MMdia.de</title>
-		<link>https://blog-static.lgk.io/ich-bin-jetzt-autor-bei-mmdia-de/</link>
-					<comments>https://blog-static.lgk.io/ich-bin-jetzt-autor-bei-mmdia-de/#respond</comments>
+		<link>/ich-bin-jetzt-autor-bei-mmdia-de/</link>
+					<comments>/ich-bin-jetzt-autor-bei-mmdia-de/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 19 Jul 2012 17:51:47 +0000</pubDate>
@@ -186,23 +186,23 @@
 		<category><![CDATA[neuer blog]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=521</guid>
 
-					<description><![CDATA[Im neuem Blog MMdia.de werde ich in Zukunft öfter aktiv sein, weil ich dort als Autor eingetragen bin. Der Blog wurde auch im Dashboard dieser Website (klicke unten auf das LGK-Logo) eingetragen. Ich habe auch bereits ein Artikel veröffentlicht. Darin beschreibe ich, wie ihr euch Schritt-für-Schritt den Windows 8-Theme installiert Hol dir den Look von&#8230; <a class="more-link" href="https://blog-static.lgk.io/ich-bin-jetzt-autor-bei-mmdia-de/">Continue reading <span class="screen-reader-text">Ich bin jetzt Autor bei MMdia.de</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_522" aria-describedby="caption-attachment-522" style="width: 442px" class="wp-caption alignleft"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/mmdia.jpg" alt="" title="MMdia.de im Dashboard von LGK" width="442" height="225" class="size-full wp-image-522" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/07/mmdia.jpg 442w, https://blog-static.lgk.io/wp-content/uploads/2012/07/mmdia-300x152.jpg 300w" sizes="(max-width: 442px) 100vw, 442px" /><figcaption id="caption-attachment-522" class="wp-caption-text">MMdia.de im Dashboard von LGK</figcaption></figure>
+					<description><![CDATA[Im neuem Blog MMdia.de werde ich in Zukunft öfter aktiv sein, weil ich dort als Autor eingetragen bin. Der Blog wurde auch im Dashboard dieser Website (klicke unten auf das LGK-Logo) eingetragen. Ich habe auch bereits ein Artikel veröffentlicht. Darin beschreibe ich, wie ihr euch Schritt-für-Schritt den Windows 8-Theme installiert Hol dir den Look von&#8230; <a class="more-link" href="/ich-bin-jetzt-autor-bei-mmdia-de/">Continue reading <span class="screen-reader-text">Ich bin jetzt Autor bei MMdia.de</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_522" aria-describedby="caption-attachment-522" style="width: 442px" class="wp-caption alignleft"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/mmdia.jpg" alt="" title="MMdia.de im Dashboard von LGK" width="442" height="225" class="size-full wp-image-522" srcset="/wp-content/uploads/2012/07/mmdia.jpg 442w, /wp-content/uploads/2012/07/mmdia-300x152.jpg 300w" sizes="(max-width: 442px) 100vw, 442px" /><figcaption id="caption-attachment-522" class="wp-caption-text">MMdia.de im Dashboard von LGK</figcaption></figure>
 <p>Im neuem Blog <a href="http://www.mmdia.de/" target="_blank">MMdia.de</a> werde ich in Zukunft öfter aktiv sein, weil ich dort als Autor eingetragen bin.</p>
 <p>Der Blog wurde auch im Dashboard dieser Website (klicke unten auf das LGK-Logo) eingetragen.</p>
 <p>Ich habe auch bereits ein Artikel veröffentlicht. Darin beschreibe ich, wie ihr euch Schritt-für-Schritt den Windows 8-Theme installiert<br />
 <a href="http://www.mmdia.de/2012/07/13/hol-dir-den-look-von-windows-8-rp/" target="_blank">Hol dir den Look von Windows 8 (RP)</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/ich-bin-jetzt-autor-bei-mmdia-de/feed/</wfw:commentRss>
+					<wfw:commentRss>/ich-bin-jetzt-autor-bei-mmdia-de/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Windows 8 Upgrade für rund 40 $</title>
-		<link>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/</link>
-					<comments>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/#respond</comments>
+		<link>/windows-8-upgrade-fur-rund-40/</link>
+					<comments>/windows-8-upgrade-fur-rund-40/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 13:53:04 +0000</pubDate>
@@ -219,8 +219,8 @@
 		<category><![CDATA[windows xp]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=511</guid>
 
-					<description><![CDATA[Im offizielem Windows-Blog wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird. Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locken. Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon&#8230; <a class="more-link" href="https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/">Continue reading <span class="screen-reader-text">Windows 8 Upgrade für rund 40 $</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/win-sale-300x242.jpg" alt="" title="Windows 8 Upgrade für rund 40 $" width="300" height="242" class="alignleft size-medium wp-image-513" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/07/win-sale-300x242.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/07/win-sale.jpg 531w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+					<description><![CDATA[Im offizielem Windows-Blog wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird. Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locken. Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon&#8230; <a class="more-link" href="/windows-8-upgrade-fur-rund-40/">Continue reading <span class="screen-reader-text">Windows 8 Upgrade für rund 40 $</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/07/win-sale-300x242.jpg" alt="" title="Windows 8 Upgrade für rund 40 $" width="300" height="242" class="alignleft size-medium wp-image-513" srcset="/wp-content/uploads/2012/07/win-sale-300x242.jpg 300w, /wp-content/uploads/2012/07/win-sale.jpg 531w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>
 Im <a href="http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/07/02/upgrade-to-windows-8-pro-for-39-99.aspx?utm_source=twitterfeed&#038;utm_medium=twitter" target="_blank">offizielem Windows-Blog</a> wurde nun angekündigt, dass ein Upgrade zu Windows 8 Pro von Windows XP, Vista, bzw. 7 bloß 39,99 $ (umgerechnet 31,69 €) kosten wird.
 </p>
@@ -229,15 +229,15 @@ Bereits jetzt versucht Microsoft Kunden mit Rabattaktionen zu Windows 8 zu locke
 Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop werden wird und versucht schon jetzt so viele Exemplare zu verschleudern.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/windows-8-upgrade-fur-rund-40/feed/</wfw:commentRss>
+					<wfw:commentRss>/windows-8-upgrade-fur-rund-40/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Einheitliche Taskbar-Symbole</title>
-		<link>https://blog-static.lgk.io/einheitliche-taskbar-symbole/</link>
-					<comments>https://blog-static.lgk.io/einheitliche-taskbar-symbole/#respond</comments>
+		<link>/einheitliche-taskbar-symbole/</link>
+					<comments>/einheitliche-taskbar-symbole/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 03 Jun 2012 15:59:03 +0000</pubDate>
@@ -255,8 +255,8 @@ Meiner Meinung nach hat Microsoft erkannt, dass Windows 8 ein Marketing-Flop wer
 		<category><![CDATA[waterline]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=462</guid>
 
-					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="https://blog-static.lgk.io/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, /wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&auml;ndern, gibt es einen kleinen Tipp:</p>
 <p>Halte die linke Shift-Taste gedr&uuml;ckt und klicke mit der rechten Maustaste auf das gew&uuml;nschte Programm.<br />
 Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&#8221; l&auml;sst sich das Symbol beliebig ersetzen.</p>
@@ -264,15 +264,15 @@ Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&
 <p>Die von mir benutzten Symbole, findet ihr hier: <a href="http://yankoa.deviantart.com/art/MetroStation-183210118" target="_blank">http://yankoa.deviantart.com/art/MetroStation-183210118</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
+					<wfw:commentRss>/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Die Cursor von Windows 8 als Download</title>
-		<link>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/</link>
-					<comments>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/#respond</comments>
+		<link>/die-cursor-von-windows-8-als-download/</link>
+					<comments>/die-cursor-von-windows-8-als-download/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 02 Jun 2012 18:03:54 +0000</pubDate>
@@ -287,8 +287,8 @@ Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=453</guid>
 
-					<description><![CDATA[Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar. &#196;u&#223;erlich hat sich nicht allzu viel getan. Allerdings haben sich die Cursor, also die Mauszeiger-Symbole, ver&#228;ndert. Da dies blo&#223; Ani-Dateien sind, lassen sich diese auch ganz einfach auf anderen Betriebssystemen verwenden. Deshalb habe ich mir die Dateien mal rausgesucht und&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/">Continue reading <span class="screen-reader-text">Die Cursor von Windows 8 als Download</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors-300x79.jpg" alt="" title="Die neuen Aero-Cursor" width="300" height="79" class="alignleft size-medium wp-image-454" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/win8-cursors-300x79.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/win8-cursors.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar. &#196;u&#223;erlich hat sich nicht allzu viel getan. Allerdings haben sich die Cursor, also die Mauszeiger-Symbole, ver&#228;ndert. Da dies blo&#223; Ani-Dateien sind, lassen sich diese auch ganz einfach auf anderen Betriebssystemen verwenden. Deshalb habe ich mir die Dateien mal rausgesucht und&#8230; <a class="more-link" href="/die-cursor-von-windows-8-als-download/">Continue reading <span class="screen-reader-text">Die Cursor von Windows 8 als Download</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors-300x79.jpg" alt="" title="Die neuen Aero-Cursor" width="300" height="79" class="alignleft size-medium wp-image-454" srcset="/wp-content/uploads/2012/06/win8-cursors-300x79.jpg 300w, /wp-content/uploads/2012/06/win8-cursors.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>
 Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar.
 </p>
@@ -301,15 +301,15 @@ Da dies blo&szlig; Ani-Dateien sind, lassen sich diese auch ganz einfach auf and
 Deshalb habe ich mir die Dateien mal rausgesucht und biete sie bei <a href="/design/downloads.php">LGK Design als Download an.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/feed/</wfw:commentRss>
+					<wfw:commentRss>/die-cursor-von-windows-8-als-download/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mit Windows 8 kommt auch ein neues Windows-Logo</title>
-		<link>https://blog-static.lgk.io/mit-windows-8-kommt-auch-ein-neues-windows-logo/</link>
-					<comments>https://blog-static.lgk.io/mit-windows-8-kommt-auch-ein-neues-windows-logo/#respond</comments>
+		<link>/mit-windows-8-kommt-auch-ein-neues-windows-logo/</link>
+					<comments>/mit-windows-8-kommt-auch-ein-neues-windows-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 18 Feb 2012 21:22:41 +0000</pubDate>
@@ -321,7 +321,7 @@ Deshalb habe ich mir die Dateien mal rausgesucht und biete sie bei <a href="/des
 		<category><![CDATA[Zukunft]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=389</guid>
 
-					<description><![CDATA[Laut dem offiziellen Windows-Blog soll es mit Windows 8 auch ein neues Logo geben. Schließlich orientiert sich Windows 8 an das Metro-Design und da passt das wellige Logo einfach nicht mehr. Selbstverständlich stellt das neue Logo aber immer noch ein Fenster dar. Jetzt aber in einer schrägen Perspektive. Das soll dafür stehen, dass Windows und&#8230; <a class="more-link" href="https://blog-static.lgk.io/mit-windows-8-kommt-auch-ein-neues-windows-logo/">Continue reading <span class="screen-reader-text">Mit Windows 8 kommt auch ein neues Windows-Logo</span></a>]]></description>
+					<description><![CDATA[Laut dem offiziellen Windows-Blog soll es mit Windows 8 auch ein neues Logo geben. Schließlich orientiert sich Windows 8 an das Metro-Design und da passt das wellige Logo einfach nicht mehr. Selbstverständlich stellt das neue Logo aber immer noch ein Fenster dar. Jetzt aber in einer schrägen Perspektive. Das soll dafür stehen, dass Windows und&#8230; <a class="more-link" href="/mit-windows-8-kommt-auch-ein-neues-windows-logo/">Continue reading <span class="screen-reader-text">Mit Windows 8 kommt auch ein neues Windows-Logo</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/02/new-windows-logo.jpg" alt="" title="new-windows-logo" width="300" height="150" class="alignleft size-full wp-image-390" />Laut dem offiziellen Windows-Blog soll es mit Windows 8 auch ein neues Logo geben.<br />
 Schließlich orientiert sich Windows 8 an das Metro-Design und da passt das wellige Logo einfach nicht mehr.</p>
 <p>Selbstverständlich stellt das neue Logo aber immer noch ein Fenster dar.<br />
@@ -330,15 +330,15 @@ Jetzt aber in einer schrägen Perspektive. Das soll dafür stehen, dass Windows 
 <p><a href="http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/02/17/redesigning-the-windows-logo.aspx" target="_blank">Der Windows-Blog über das neue Logo</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/mit-windows-8-kommt-auch-ein-neues-windows-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>/mit-windows-8-kommt-auch-ein-neues-windows-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Windows 8: Erste Test-Version veröffentlicht</title>
-		<link>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/</link>
-					<comments>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/#respond</comments>
+		<link>/windows-8-erste-test-version-veroffentlicht/</link>
+					<comments>/windows-8-erste-test-version-veroffentlicht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2011 18:01:38 +0000</pubDate>
@@ -352,8 +352,8 @@ Jetzt aber in einer schrägen Perspektive. Das soll dafür stehen, dass Windows 
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=254</guid>
 
-					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/09/windows8-preview.jpg 468w, https://blog-static.lgk.io/wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
+					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="/wp-content/uploads/2011/09/windows8-preview.jpg 468w, /wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
 Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
 <p>Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.<span id="more-254"></span></p>
 <p>CHIP Online war schnell und es ist bereits jetzt ein Test-Video verfügbar:</p>
@@ -365,15 +365,15 @@ Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
 Windows 8 scheint hauptsächlich für Tablet-PCs gemacht zu sein. Ich werde also wohl erst mal bis zur Beta warten.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
+					<wfw:commentRss>/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Link-Tipp: Blog über Entwicklung von Windows 8</title>
-		<link>https://blog-static.lgk.io/link-tipp-blog-uber-entwicklung-von-windows-8/</link>
-					<comments>https://blog-static.lgk.io/link-tipp-blog-uber-entwicklung-von-windows-8/#respond</comments>
+		<link>/link-tipp-blog-uber-entwicklung-von-windows-8/</link>
+					<comments>/link-tipp-blog-uber-entwicklung-von-windows-8/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2011 19:40:15 +0000</pubDate>
@@ -383,13 +383,13 @@ Windows 8 scheint hauptsächlich für Tablet-PCs gemacht zu sein. Ich werde also
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=212</guid>
 
 					<description><![CDATA[Im aktuellen Newsletter von Windows wird zum ersten Mal der Nachfolger von Windows 7 verkündet. Damit steht dann wohl auch fest, dass die neue Version wirklich &#8220;Windows 8&#8221; heißen wird. In dem Newsletter wird auf einen Blog verwiesen, der von Entwicklern betrieben wird. Zum Entwickler-Blog &#9658;]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkclub.de.vu/wp-content/uploads/2011/08/3296633922112148865-150x150.png" alt="" title="3296633922112148865" width="150" height="150" class="alignright size-thumbnail wp-image-213" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/3296633922112148865-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2011/08/3296633922112148865.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkclub.de.vu/wp-content/uploads/2011/08/3296633922112148865-150x150.png" alt="" title="3296633922112148865" width="150" height="150" class="alignright size-thumbnail wp-image-213" srcset="/wp-content/uploads/2011/08/3296633922112148865-150x150.png 150w, /wp-content/uploads/2011/08/3296633922112148865.png 256w" sizes="(max-width: 150px) 100vw, 150px" /><br />
 Im aktuellen Newsletter von Windows wird zum ersten Mal der Nachfolger von Windows 7 verkündet. Damit steht dann wohl auch fest, dass die neue Version wirklich &#8220;Windows 8&#8221; heißen wird.<br />
 In dem Newsletter wird auf einen Blog verwiesen, der von Entwicklern betrieben wird.</p>
 <p><strong><a href="http://blogs.msdn.com/b/b8_de/" target="_blank">Zum Entwickler-Blog &#9658;</a></strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/link-tipp-blog-uber-entwicklung-von-windows-8/feed/</wfw:commentRss>
+					<wfw:commentRss>/link-tipp-blog-uber-entwicklung-von-windows-8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

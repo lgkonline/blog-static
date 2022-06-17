@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kontakt &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/kontakt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/kontakt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 02 Jun 2014 19:16:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Kontakt &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>orange css im Einsatz!</title>
-		<link>https://blog-static.lgk.io/orange-css-im-einsatz/</link>
-					<comments>https://blog-static.lgk.io/orange-css-im-einsatz/#respond</comments>
+		<link>/orange-css-im-einsatz/</link>
+					<comments>/orange-css-im-einsatz/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 Jul 2013 11:40:43 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[Stylesheet]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=820</guid>
 
-					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="https://blog-static.lgk.io/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
+					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, /wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, /wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
 <p>Das hauseigene CSS-Framework <a href="http://orange-css.tk/" target="_blank">orange css</a> wird jetzt für das Kontaktformular und dem Impressum verwendet: <a href="/about" target="_blank">lgkonline.de/about</a></p>
 <p>orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version.</p>
 <p>Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit.</p>
@@ -57,7 +57,7 @@
 Eine Dokumentation gibt es auch.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/orange-css-im-einsatz/feed/</wfw:commentRss>
+					<wfw:commentRss>/orange-css-im-einsatz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

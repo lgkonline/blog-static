@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Meldung nur zu einer bestimmten Zeit anzeigen	</title>
-	<atom:link href="https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/</link>
+	<atom:link href="/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/feed/" rel="self" type="application/rss+xml" />
+	<link>/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 03 Jun 2014 12:35:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

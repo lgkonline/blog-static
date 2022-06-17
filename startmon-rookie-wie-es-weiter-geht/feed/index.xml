@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Startmon Rookie &#8211; Wie es weiter geht	</title>
-	<atom:link href="https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/</link>
+	<atom:link href="/startmon-rookie-wie-es-weiter-geht/feed/" rel="self" type="application/rss+xml" />
+	<link>/startmon-rookie-wie-es-weiter-geht/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 05 Jul 2015 13:43:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Authorization &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/authorization/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/authorization/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 09 Sep 2015 15:58:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Authorization &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Melde dich nie mehr bei einer Web App an.</title>
-		<link>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
-					<comments>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
+		<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+					<comments>/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2015 15:58:40 +0000</pubDate>
@@ -44,10 +44,10 @@
 		<category><![CDATA[Login]]></category>
 		<category><![CDATA[Modell]]></category>
 		<category><![CDATA[Rumspinnerei]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1705</guid>
+		<guid isPermaLink="false">/?p=1705</guid>
 
-					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png 400w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="/wp-content/uploads/2015/09/no-pwd.png 400w, /wp-content/uploads/2015/09/no-pwd-150x150.png 150w, /wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
 <p>Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss.</p>
 <p>Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft vom Anbieter vollgespamt zu werden.</p>
 <p>Glücklicherweise bieten es mittlerweile auch viele Dienste an, sich mit Google+, Facebook oder Twitter anzumelden. Doch wie wäre es, wenn du dich gar nicht anmelden bräuchtest?</p>
@@ -59,7 +59,7 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 <p>Also, ich finde dieses Konzept genial. Natürlich eignet es sich nicht für alle Anwendungen. Denn wenn die Einstellungen als Cookies gespeichert werden, sind sie leicht für andere einsehbar. Aber solange es sich nicht um sensible Daten handelt, halte ich es für völlig in Ordnung.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
+					<wfw:commentRss>/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

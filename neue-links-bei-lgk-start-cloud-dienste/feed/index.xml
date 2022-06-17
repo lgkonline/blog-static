@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Neue Links bei LGK Start: Cloud-Dienste	</title>
-	<atom:link href="https://blog-static.lgk.io/neue-links-bei-lgk-start-cloud-dienste/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/neue-links-bei-lgk-start-cloud-dienste/</link>
+	<atom:link href="/neue-links-bei-lgk-start-cloud-dienste/feed/" rel="self" type="application/rss+xml" />
+	<link>/neue-links-bei-lgk-start-cloud-dienste/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 17 Feb 2013 12:49:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

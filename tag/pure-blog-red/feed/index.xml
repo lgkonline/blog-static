@@ -9,8 +9,8 @@
 
 <channel>
 	<title>pure blog red &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/pure-blog-red/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/pure-blog-red/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 18 Jun 2013 19:13:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>pure blog red &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Der Blog im neuen Gewand</title>
-		<link>https://blog-static.lgk.io/der-blog-im-neuen-gewand/</link>
-					<comments>https://blog-static.lgk.io/der-blog-im-neuen-gewand/#respond</comments>
+		<link>/der-blog-im-neuen-gewand/</link>
+					<comments>/der-blog-im-neuen-gewand/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 18 Jun 2013 19:13:00 +0000</pubDate>
@@ -50,14 +50,14 @@
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=756</guid>
 
 					<description><![CDATA[Wie ihr seht, habe ich das Aussehen dieses Blogs geändert. Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das kommende LGK Start gerichtet. Mir gefällt dieser frische und etwas andere Stil sehr. Was haltet ihr davon? Würde mich über Kommentare freuen.]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure>
+										<content:encoded><![CDATA[<figure id="attachment_758" aria-describedby="caption-attachment-758" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01.jpg"><img src="http://lgkonline.de/blog/wp-content/uploads/2013/06/pure-01-300x172.jpg" alt="Der neue Stil" width="300" height="172" class="size-medium wp-image-758" srcset="/wp-content/uploads/2013/06/pure-01-300x172.jpg 300w, /wp-content/uploads/2013/06/pure-01-1024x589.jpg 1024w, /wp-content/uploads/2013/06/pure-01.jpg 1453w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-758" class="wp-caption-text">Der neue Stil</figcaption></figure>
 <p>Wie ihr seht, habe ich das Aussehen dieses Blogs geändert.</p>
 <p>Damit möchte ich erreichen, dass die Bereiche von LGK ein einheitlicheres Design bekommen. Bei der Neugestaltung des Themes habe ich mich an das <a href="/start_new/">kommende LGK Start</a> gerichtet.</p>
 <p>Mir gefällt dieser frische und etwas andere Stil sehr.<br />
 Was haltet ihr davon? Würde mich über Kommentare freuen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
+					<wfw:commentRss>/der-blog-im-neuen-gewand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>format &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/format/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/format/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 03 Apr 2022 18:59:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>format &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mach deinen Code prettier</title>
-		<link>https://blog-static.lgk.io/mach-deinen-code-prettier/</link>
-					<comments>https://blog-static.lgk.io/mach-deinen-code-prettier/#comments</comments>
+		<link>/mach-deinen-code-prettier/</link>
+					<comments>/mach-deinen-code-prettier/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
@@ -44,9 +44,9 @@
 		<category><![CDATA[GitHub]]></category>
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[Uglify]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2222</guid>
+		<guid isPermaLink="false">/?p=2222</guid>
 
-					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="https://blog-static.lgk.io/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
 
@@ -113,7 +113,7 @@
 <p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/mach-deinen-code-prettier/feed/</wfw:commentRss>
+					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

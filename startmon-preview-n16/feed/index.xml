@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Startmon Preview N°16+	</title>
-	<atom:link href="https://blog-static.lgk.io/startmon-preview-n16/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/startmon-preview-n16/</link>
+	<atom:link href="/startmon-preview-n16/feed/" rel="self" type="application/rss+xml" />
+	<link>/startmon-preview-n16/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 13 Mar 2015 15:05:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

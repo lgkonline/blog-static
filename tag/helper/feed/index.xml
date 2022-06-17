@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Helper &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/helper/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/helper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 08 May 2017 10:52:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Helper &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</title>
-		<link>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/</link>
-					<comments>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
+		<link>/javascript-hasclass-addclass-removeclass-helper-functions/</link>
+					<comments>/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 May 2017 10:52:16 +0000</pubDate>
@@ -40,9 +40,9 @@
 		<category><![CDATA[DOM]]></category>
 		<category><![CDATA[Helper]]></category>
 		<category><![CDATA[JavaScript]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1977</guid>
+		<guid isPermaLink="false">/?p=1977</guid>
 
-					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
+					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
 										<content:encoded><![CDATA[<p>If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you:</p>
 <pre class="prettyprint lang-js">
 function hasClass(el, className) {
@@ -68,7 +68,7 @@ function removeClass(el, className) {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
+					<wfw:commentRss>/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

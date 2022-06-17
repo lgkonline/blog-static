@@ -9,8 +9,8 @@
 
 <channel>
 	<title>nintendo &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/nintendo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/nintendo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 30 Aug 2014 13:06:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>nintendo &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue 3DS-Geräte im Anmarsch</title>
-		<link>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/</link>
-					<comments>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		<link>/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[nintendo]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
 
-					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement.jpg 678w, https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure>
 <p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
 <p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
 <p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
@@ -58,46 +58,46 @@ Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.<
 <p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
 <p><span id="more-1189"></span></p>
 <hr>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Verbessertes 3D</h2>
 <p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
 Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Das C-Pad</h2>
 <p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neue Schulter-Tasten</h2>
 <p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Gefärbte ABXY-Knöpfe</h2>
 <p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
 <p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Amiibo</h2>
 <p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
 <p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
 <p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/speed-300x248.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Mehr Speed</h2>
 <p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
 <p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Personalisierbarer Home-Screen</h2>
 <p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
 <p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Hard-Cover für den New Nintendo 3DS</h2>
 <p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
 <p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/positions-249x300.jpg 249w, https://blog-static.lgk.io/wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
 <h2>Neue Positionen</h2>
 <p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
 <p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
@@ -105,7 +105,7 @@ Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p
 Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
 <p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Zubehör und Nicht-Zubehör</h2>
 <p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
 Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
@@ -121,15 +121,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Game Check: New Super Mario Bros.</title>
-		<link>https://blog-static.lgk.io/game-check-new-super-mario-bros/</link>
-					<comments>https://blog-static.lgk.io/game-check-new-super-mario-bros/#respond</comments>
+		<link>/game-check-new-super-mario-bros/</link>
+					<comments>/game-check-new-super-mario-bros/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2011 13:50:24 +0000</pubDate>
@@ -141,8 +141,8 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[nintendo ds]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=216</guid>
 
-					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="https://blog-static.lgk.io/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, https://blog-static.lgk.io/wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
+					<description><![CDATA[Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS. Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.&#8230; <a class="more-link" href="/game-check-new-super-mario-bros/">Continue reading <span class="screen-reader-text">Game Check: New Super Mario Bros.</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_217" aria-describedby="caption-attachment-217" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-217 " title="Quelle: VGnews" src="http://blog.lgkonline.com/wp-content/uploads/2011/08/new-super-mario-bros.jpg" alt="Quelle: VGnews" width="270" height="244" srcset="/wp-content/uploads/2011/08/new-super-mario-bros.jpg 450w, /wp-content/uploads/2011/08/new-super-mario-bros-300x270.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /><figcaption id="caption-attachment-217" class="wp-caption-text">Quelle: VGnews</figcaption></figure>
 <p>Normalerweise macht man einen Game Check über ein Spiel, das gerade erst erschienen ist. Ich mache einfach mal eins, das mittlerweile schon 5 Jahre alt ist: New Super Mario Bros. für den Nintendo DS.</p>
 <p>Ich muss dazu sagen, dass ich kein Experte von Games bin. Ich schreibe diesen Artikel also aus der Sicht eines Amateurs.</p>
 <p>Obwohl es bereits 5 Jahre alt ist, ist New Super Mario Bros. vom Preis her nicht günstiger geworden. Nintendo sah darin wohl keinen Bedarf, denn die Verkaufszahlen sind weiterhin sehr hoch. Ich habe mein Spiel für € 39,95 bekommen.<br />
@@ -174,7 +174,7 @@ Ich hätte allerdings ein Zwischenspeichern gut gefunden, so wie man es z.B. von
 <img src="http://blog.lgkonline.com/wp-content/uploads/2011/08/1314451226_Bullet-Bill.png" alt="" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/game-check-new-super-mario-bros/feed/</wfw:commentRss>
+					<wfw:commentRss>/game-check-new-super-mario-bros/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Node.js: Check if you are in debug or production mode	</title>
-	<atom:link href="https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/</link>
+	<atom:link href="/node-js-check-if-you-are-in-debug-or-production-mode/feed/" rel="self" type="application/rss+xml" />
+	<link>/node-js-check-if-you-are-in-debug-or-production-mode/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 10 May 2017 08:12:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

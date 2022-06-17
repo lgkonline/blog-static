@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Downloads &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/downloads/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/downloads/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 15 Nov 2014 12:09:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Downloads &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neues WordPress-Theme ist verfügbar</title>
-		<link>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/</link>
-					<comments>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
+		<link>/neues-wordpress-theme-ist-verfuegbar/</link>
+					<comments>/neues-wordpress-theme-ist-verfuegbar/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 15 Nov 2014 12:09:29 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[ZIP]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1359</guid>
 
-					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot-300x219.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure>
+					<description><![CDATA[Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;. Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen. Den Download-Link findet ihr auf http://lgkonline.com/winegum/. Über das Dashboard von WordPress könnt ihr Winegum weiter anpassen. So könnt ihr z.B. das Header-Hintergrundbild, ein eigenes Logo&#8230; <a class="more-link" href="/neues-wordpress-theme-ist-verfuegbar/">Continue reading <span class="screen-reader-text">Neues WordPress-Theme ist verfügbar</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/11/screenshot-300x219.png" alt="Ein anpassbares Theme für WordPress." width="300" height="219" class="size-medium wp-image-1360" srcset="/wp-content/uploads/2014/11/screenshot-300x219.png 300w, /wp-content/uploads/2014/11/screenshot.png 868w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1360" class="wp-caption-text">Ein anpassbares Theme für WordPress.</figcaption></figure>
 <p>Wie ihr vielleicht seht, erscheint der Blog erneut in einem neuen Look. Das ist die verbesserte Version von &#8220;Winegum&#8221;.<br />
 Diesen Theme könnt ihr auch nutzen und ihn auch selbst anpassen.</p>
 <p>Den Download-Link findet ihr auf <a href="http://lgkonline.com/winegum/" target="_blank">http://lgkonline.com/winegum/</a>.</p>
@@ -72,15 +72,15 @@ Derzeit werden diese Dienste angeboten:</p>
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
+					<wfw:commentRss>/neues-wordpress-theme-ist-verfuegbar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Version von orange_files steht zum Download bereit</title>
-		<link>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/</link>
-					<comments>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
+		<link>/neue-version-von-orange_files-steht-zum-download-bereit/</link>
+					<comments>/neue-version-von-orange_files-steht-zum-download-bereit/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 07 Sep 2014 17:15:35 +0000</pubDate>
@@ -101,8 +101,8 @@ Derzeit werden diese Dienste angeboten:</p>
 		<category><![CDATA[Organizer]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1252</guid>
 
-					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
+					<description><![CDATA[Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen. Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive. Lässt sich also auch prima auf Tablets und Handys nutzen. Ebenfalls lassen sich in OPTIONS.php&#8230; <a class="more-link" href="/neue-version-von-orange_files-steht-zum-download-bereit/">Continue reading <span class="screen-reader-text">Neue Version von orange_files steht zum Download bereit</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1253" aria-describedby="caption-attachment-1253" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/orange-files-03-300x202.png" alt="Die Oberfläche wurde deutlich modernisiert." width="300" height="202" class="size-medium wp-image-1253" srcset="/wp-content/uploads/2014/09/orange-files-03-300x202.png 300w, /wp-content/uploads/2014/09/orange-files-03.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1253" class="wp-caption-text">Die Oberfläche wurde deutlich modernisiert.</figcaption></figure>
 <p>Schon länger liegt eine verbesserte Version von orange_files auf meiner Festplatte rum. Nun bin ich endlich dazu kommen, diese fertig zu stellen.</p>
 <p>Auffälligste Änderung ist die neue Oberfläche. Diese basiert nun auf das Framework Bootstrap und ich damit auch responsive.<br />
 Lässt sich also auch prima auf Tablets und Handys nutzen.</p>
@@ -112,15 +112,15 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 <p><a href="http://files.lgkonline.com/" class="btn btn-primary" title="Auf der Website kannst du die Installations-ZIP herunterladen">Auf zur orange_files-Website &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-version-von-orange_files-steht-zum-download-bereit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kleines Update für Orange Files</title>
-		<link>https://blog-static.lgk.io/kleines-update-fuer-orange-files/</link>
-					<comments>https://blog-static.lgk.io/kleines-update-fuer-orange-files/#respond</comments>
+		<link>/kleines-update-fuer-orange-files/</link>
+					<comments>/kleines-update-fuer-orange-files/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 28 Mar 2014 17:09:56 +0000</pubDate>
@@ -139,18 +139,18 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 										<content:encoded><![CDATA[<p>Dem schlanken File-Viewer <a href="http://lgk.bplaced.net/orange-files/" target="_blank">Orange Files</a> habe ich ein kleines Update verpasst.</p>
 <p>Was neu ist, dass die Dateien nun alphabetisch angeordnet werden. Außerdem gibt es nun Video-Dateien ein Symbol.</p>
 <p>Okay, das war&#8217;s auch schon. Die Version ist jetzt 0.1.0 und kann <a href="http://lgk.bplaced.net/orange-files/" target="_blank">hier heruntergeladen werden.</a></p>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg" alt="Kleines Update" width="709" height="665" class="aligncenter size-full wp-image-955" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/03/orange-files-02.jpg 709w, https://blog-static.lgk.io/wp-content/uploads/2014/03/orange-files-02-300x281.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/03/orange-files-02.jpg" alt="Kleines Update" width="709" height="665" class="aligncenter size-full wp-image-955" srcset="/wp-content/uploads/2014/03/orange-files-02.jpg 709w, /wp-content/uploads/2014/03/orange-files-02-300x281.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/kleines-update-fuer-orange-files/feed/</wfw:commentRss>
+					<wfw:commentRss>/kleines-update-fuer-orange-files/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</title>
-		<link>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/</link>
-					<comments>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/#respond</comments>
+		<link>/tutorial-long-shadow-icon-flat-mit-photoshop/</link>
+					<comments>/tutorial-long-shadow-icon-flat-mit-photoshop/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 22 Jul 2013 13:04:25 +0000</pubDate>
@@ -167,16 +167,16 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 		<category><![CDATA[tutorial]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=836</guid>
 
-					<description><![CDATA[Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen. Aber auch Google und nun auch Apple ziehen nun mit. Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese. Seht einfach selbst: Weitere Beispiele findet ihr in diesem Artikel auf&#8230; <a class="more-link" href="https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/">Continue reading <span class="screen-reader-text">Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</span></a>]]></description>
+					<description><![CDATA[Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen. Aber auch Google und nun auch Apple ziehen nun mit. Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese. Seht einfach selbst: Weitere Beispiele findet ihr in diesem Artikel auf&#8230; <a class="more-link" href="/tutorial-long-shadow-icon-flat-mit-photoshop/">Continue reading <span class="screen-reader-text">Tutorial: &#8220;Long Shadow&#8221;-Icon (Flat) mit Photoshop</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Flaches Design ist der neue Trend. Vor allem Microsoft hat mit seiner &#8220;Modern UI&#8221; einen guten Teil dazu beigetragen.</p>
 <p>Aber auch Google und nun auch Apple ziehen nun mit.</p>
 <p>Ein Bestandteil von Flat Design sind &#8220;Long Shadows&#8221;. Vor allem bei App-Icons findet man diese.</p>
 <p>Seht einfach selbst:</p>
-<figure id="attachment_839" aria-describedby="caption-attachment-839" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-839" alt="Das Icon zu Google Fonts. (Quelle: designmodo.com)" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/flat-shadow.jpg" width="600" height="320" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/flat-shadow.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/flat-shadow-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-839" class="wp-caption-text">Das Icon zu Google Fonts. (Quelle: <a href="http://designmodo.com/long-shadows-design/" target="_blank">designmodo.com</a>)</figcaption></figure>
+<figure id="attachment_839" aria-describedby="caption-attachment-839" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-839" alt="Das Icon zu Google Fonts. (Quelle: designmodo.com)" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/flat-shadow.jpg" width="600" height="320" srcset="/wp-content/uploads/2013/07/flat-shadow.jpg 600w, /wp-content/uploads/2013/07/flat-shadow-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-839" class="wp-caption-text">Das Icon zu Google Fonts. (Quelle: <a href="http://designmodo.com/long-shadows-design/" target="_blank">designmodo.com</a>)</figcaption></figure>
 <p>Weitere Beispiele findet ihr <a href="http://designmodo.com/long-shadows-design/" target="_blank">in diesem Artikel auf designmodo.com</a>.</p>
 <h2>Tutorial</h2>
 <p>Aber dies soll ein Tutorial sein, darüber wie man &#8220;Long Shadow&#8221;-Icons mit Photoshop verwirklichen kann.<span id="more-836"></span></p>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4.png"><img loading="lazy" class="size-medium wp-image-847 alignleft" title="Die Vorlage für den 45°-Schatten." alt="Die Vorlage für den 45°-Schatten." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4-300x168.png" width="300" height="168" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4-300x168.png 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4-1024x575.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-4.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4.png"><img loading="lazy" class="size-medium wp-image-847 alignleft" title="Die Vorlage für den 45°-Schatten." alt="Die Vorlage für den 45°-Schatten." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-4-300x168.png" width="300" height="168" srcset="/wp-content/uploads/2013/07/Screenshot-4-300x168.png 300w, /wp-content/uploads/2013/07/Screenshot-4-1024x575.png 1024w, /wp-content/uploads/2013/07/Screenshot-4.png 1366w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Für den Schatten verwende ich eine selbstgemachte Vorlage, womit es einfacher ist den Schatten zu erstellen.</p>
 <p>Die Vorlage hier als PSD: <a href="/files/45-Grad-Form.psd" target="_blank">45-Grad-Form.psd</a></p>
 <p>Wie bei dem Beispiel mit dem Google Fonts-Icon, erstellen wir einen 45°-Schatten, welcher nach unten rechts scheint.</p>
@@ -185,7 +185,7 @@ In der Datei <code>OPTIONS.php</code> lassen sich die Plugins aber auch ganz ein
 <p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.png"><img loading="lazy" class="aligncenter size-large wp-image-851" title="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." alt="Für den Icon-Hintergrund erstellen wir ein abgerundetes Quadrat in der Farbe #00a89b." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-5.jpg" width="600" height="337" /></a></p>
 <p>Für das Tutorial wollen wir ein &#8220;Home&#8221;-Icon machen.<br />
 Also fügen wir ein Haus-Symbol ein. Das Icon stammt von <a href="http://iconmonstr.com/" target="_blank">iconmonstr.com</a>. Dort findet ihr noch viele weitere Icons, die ihr verwenden könnt.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png"><img loading="lazy" class="aligncenter size-full wp-image-855" title="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." alt="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png" width="600" height="368" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-7.png 866w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-7-300x183.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png"><img loading="lazy" class="aligncenter size-full wp-image-855" title="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." alt="Für das Tutorial wollen wir ein “Home”-Icon machen. Also fügen wir ein Haus-Symbol ein." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-7.png" width="600" height="368" srcset="/wp-content/uploads/2013/07/Screenshot-7.png 866w, /wp-content/uploads/2013/07/Screenshot-7-300x183.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Da das Symbol aus zwei Körpern (Haus und Schornstein) besteht, erstellen wir zwei voneinander getrennte Schatten.</p>
 <p>Zuerst ist das Haus dran. Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses.</p>
 <p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.png"><img loading="lazy" class="aligncenter size-large wp-image-860" title="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." alt="Wir fügen die beiden Ebenen aus der Schatten-Vorlage ein und bewegen diese zu der jeweils äußersten Kante des Hauses." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-6.jpg" width="600" height="337" /></a></p>
@@ -202,25 +202,25 @@ Also fügen wir ein Haus-Symbol ein. Das Icon stammt von <a href="http://iconmon
 <p>Auch hier, geht es am einfachsten, wenn du den Icon-Hintergrund mit STRG und Klick auf die Miniatur auswählst.</p>
 <p>Allerdings musst du danach die Auswahl noch umkehren, da wir ja den Teil des Schattens außerhalb des Icon-Hintergrundes entfernen wollen.</p>
 <p>Nun, auch dafür gibt es einen Tastenkürzel, und zwar STRG + SHIFT (Umschalt) + I.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.png"><img loading="lazy" class="aligncenter size-full wp-image-871" title="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." alt="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-11.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-11-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.png"><img loading="lazy" class="aligncenter size-full wp-image-871" title="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." alt="Blendest du nun die Vorlagen-Ebenen aus (in meinem Fall sind es Ebene 4 und Ebene 3), wirst du sehen, dass ein Teil des Schattens noch über den Icon-Hintergrund übersteht." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-11.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-11.jpg 600w, /wp-content/uploads/2013/07/Screenshot-11-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Wechseln wir nun wieder zur &#8220;Schatten&#8221;-Ebene und drücken ENTF, wird der unschöne Überschuss entfernt.</p>
 <p>Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt.</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.png"><img loading="lazy" class="aligncenter size-full wp-image-875" title="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." alt="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-12.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-12-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.png"><img loading="lazy" class="aligncenter size-full wp-image-875" title="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." alt="Nun können wir noch die Deckkraft des Schattens regulieren. Ich habe sie bei mir auf 23% gestellt." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-12.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-12.jpg 600w, /wp-content/uploads/2013/07/Screenshot-12-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Das Resultat ist doch schon mal ganz ansprechend. Die vorherigen Schritte wiederholen wir jetzt, allerdings beim Schornstein.<br />
 Das sieht dann so aus:</p>
-<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.png"><img loading="lazy" class="aligncenter size-full wp-image-879" title="Das Resultat ist doch schon mal ganz ansprechend." alt="Das Resultat ist doch schon mal ganz ansprechend." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.jpg" width="600" height="337" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-13.jpg 600w, https://blog-static.lgk.io/wp-content/uploads/2013/07/Screenshot-13-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.png"><img loading="lazy" class="aligncenter size-full wp-image-879" title="Das Resultat ist doch schon mal ganz ansprechend." alt="Das Resultat ist doch schon mal ganz ansprechend." src="http://blog.lgkonline.com/wp-content/uploads/2013/07/Screenshot-13.jpg" width="600" height="337" srcset="/wp-content/uploads/2013/07/Screenshot-13.jpg 600w, /wp-content/uploads/2013/07/Screenshot-13-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Das fertige Projekt könnt ihr hier als PSD runterladen: <a href="/files/home-long-shadow.psd" target="_blank">home-long-shadow.psd</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/tutorial-long-shadow-icon-flat-mit-photoshop/feed/</wfw:commentRss>
+					<wfw:commentRss>/tutorial-long-shadow-icon-flat-mit-photoshop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Version von orange css</title>
-		<link>https://blog-static.lgk.io/neue-version-von-orange-css/</link>
-					<comments>https://blog-static.lgk.io/neue-version-von-orange-css/#respond</comments>
+		<link>/neue-version-von-orange-css/</link>
+					<comments>/neue-version-von-orange-css/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2013 13:19:01 +0000</pubDate>
@@ -238,8 +238,8 @@ Das sieht dann so aus:</p>
 		<category><![CDATA[Version]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=828</guid>
 
-					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
+					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, /wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
 <p>Der CSS-Standard orange css wurde nun aktualisiert.</p>
 <p>Es gibt zwei neue Definitionen und zwei weitere Verbesserungen.</p>
 <p>Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden.<br />
@@ -249,15 +249,15 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 <p>Wer orange css per Einbindung nutzt, braucht nichts zu ändern. Wer den Stylesheet runtergeladen hat, sollte sich die neueste Version von der Website runterladen: <a href="http://orange-css.tk/" target="_blank">orange-css.tk</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange-css/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-version-von-orange-css/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>orange css im Einsatz!</title>
-		<link>https://blog-static.lgk.io/orange-css-im-einsatz/</link>
-					<comments>https://blog-static.lgk.io/orange-css-im-einsatz/#respond</comments>
+		<link>/orange-css-im-einsatz/</link>
+					<comments>/orange-css-im-einsatz/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 Jul 2013 11:40:43 +0000</pubDate>
@@ -275,8 +275,8 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 		<category><![CDATA[Stylesheet]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=820</guid>
 
-					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="https://blog-static.lgk.io/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
+					<description><![CDATA[Das hauseigene CSS-Framework orange css wird jetzt für das Kontaktformular und dem Impressum verwendet: lgkonline.de/about orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version. Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit. Hier geht&#8217;s&#8230; <a class="more-link" href="/orange-css-im-einsatz/">Continue reading <span class="screen-reader-text">orange css im Einsatz!</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1000" aria-describedby="caption-attachment-1000" style="width: 210px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg" alt="orange css im Einsatz!" width="210" height="300" class="size-medium wp-image-1000" srcset="/wp-content/uploads/2013/07/orange-css-on-about2-210x300.jpg 210w, /wp-content/uploads/2013/07/orange-css-on-about2-720x1024.jpg 720w, /wp-content/uploads/2013/07/orange-css-on-about2.jpg 1062w" sizes="(max-width: 210px) 100vw, 210px" /></a><figcaption id="caption-attachment-1000" class="wp-caption-text">orange css im Einsatz!</figcaption></figure>
 <p>Das hauseigene CSS-Framework <a href="http://orange-css.tk/" target="_blank">orange css</a> wird jetzt für das Kontaktformular und dem Impressum verwendet: <a href="/about" target="_blank">lgkonline.de/about</a></p>
 <p>orange css kann von jeden kostenlos genutzt werden. Du kannst entweder den Stylesheet direkt vom Server einbinden. Damit nutzt du immer die aktuellste Version.</p>
 <p>Oder du downloadest die aktuellste Version und bindest diese ein. Das garantiert die Verfügbarkeit.</p>
@@ -284,15 +284,15 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 Eine Dokumentation gibt es auch.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/orange-css-im-einsatz/feed/</wfw:commentRss>
+					<wfw:commentRss>/orange-css-im-einsatz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neuer Twitter-Vogel</title>
-		<link>https://blog-static.lgk.io/neuer-twitter-vogel/</link>
-					<comments>https://blog-static.lgk.io/neuer-twitter-vogel/#respond</comments>
+		<link>/neuer-twitter-vogel/</link>
+					<comments>/neuer-twitter-vogel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 06 Jun 2012 17:00:23 +0000</pubDate>
@@ -310,8 +310,8 @@ Eine Dokumentation gibt es auch.</p>
 		<category><![CDATA[twitter]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=467</guid>
 
-					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="https://blog-static.lgk.io/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Das stolze Markenzeichen von Twitter ist das Vogel-Symbol. Dieses Symbol wurde nun leicht ver&#228;ndert. Der Vogel, der im &#220;brigen auf den Namen &#8220;Larry&#8221; h&#246;rt, fliegt jetzt nicht mehr geradeaus, sondern schr&#228;g nach oben. Unter https://twitter.com/about/logos k&#246;nnt ihr das neue Logo runterladen und es nutzen. Allerdings wird darauf hingewiesen, dass ihr das Logo nicht ver&#228;ndern sollt.&#8230; <a class="more-link" href="/neuer-twitter-vogel/">Continue reading <span class="screen-reader-text">Neuer Twitter-Vogel</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/twitter-neu-300x168.png" alt="" title="Der neue Larry" width="300" height="168" class="alignleft size-medium wp-image-468" srcset="/wp-content/uploads/2012/06/twitter-neu-300x168.png 300w, /wp-content/uploads/2012/06/twitter-neu.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Das stolze Markenzeichen von Twitter ist das Vogel-Symbol.</p>
 <p>Dieses Symbol wurde nun leicht ver&auml;ndert. Der Vogel, der im &Uuml;brigen auf den Namen &#8220;Larry&#8221; h&ouml;rt, fliegt jetzt<br />
 nicht mehr geradeaus, sondern schr&auml;g nach oben.</p>
@@ -329,15 +329,15 @@ gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, w
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neuer-twitter-vogel/feed/</wfw:commentRss>
+					<wfw:commentRss>/neuer-twitter-vogel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Einheitliche Taskbar-Symbole</title>
-		<link>https://blog-static.lgk.io/einheitliche-taskbar-symbole/</link>
-					<comments>https://blog-static.lgk.io/einheitliche-taskbar-symbole/#respond</comments>
+		<link>/einheitliche-taskbar-symbole/</link>
+					<comments>/einheitliche-taskbar-symbole/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 03 Jun 2012 15:59:03 +0000</pubDate>
@@ -355,8 +355,8 @@ gedreht werden, noch verdeckt werden. Auch sollen keine anderen Markenzeichen, w
 		<category><![CDATA[waterline]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=462</guid>
 
-					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="https://blog-static.lgk.io/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, /wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&auml;ndern, gibt es einen kleinen Tipp:</p>
 <p>Halte die linke Shift-Taste gedr&uuml;ckt und klicke mit der rechten Maustaste auf das gew&uuml;nschte Programm.<br />
 Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&#8221; l&auml;sst sich das Symbol beliebig ersetzen.</p>
@@ -364,15 +364,15 @@ Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&
 <p>Die von mir benutzten Symbole, findet ihr hier: <a href="http://yankoa.deviantart.com/art/MetroStation-183210118" target="_blank">http://yankoa.deviantart.com/art/MetroStation-183210118</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
+					<wfw:commentRss>/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Die Cursor von Windows 8 als Download</title>
-		<link>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/</link>
-					<comments>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/#respond</comments>
+		<link>/die-cursor-von-windows-8-als-download/</link>
+					<comments>/die-cursor-von-windows-8-als-download/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 02 Jun 2012 18:03:54 +0000</pubDate>
@@ -387,8 +387,8 @@ Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=453</guid>
 
-					<description><![CDATA[Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar. &#196;u&#223;erlich hat sich nicht allzu viel getan. Allerdings haben sich die Cursor, also die Mauszeiger-Symbole, ver&#228;ndert. Da dies blo&#223; Ani-Dateien sind, lassen sich diese auch ganz einfach auf anderen Betriebssystemen verwenden. Deshalb habe ich mir die Dateien mal rausgesucht und&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/">Continue reading <span class="screen-reader-text">Die Cursor von Windows 8 als Download</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors-300x79.jpg" alt="" title="Die neuen Aero-Cursor" width="300" height="79" class="alignleft size-medium wp-image-454" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/win8-cursors-300x79.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/win8-cursors.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar. &#196;u&#223;erlich hat sich nicht allzu viel getan. Allerdings haben sich die Cursor, also die Mauszeiger-Symbole, ver&#228;ndert. Da dies blo&#223; Ani-Dateien sind, lassen sich diese auch ganz einfach auf anderen Betriebssystemen verwenden. Deshalb habe ich mir die Dateien mal rausgesucht und&#8230; <a class="more-link" href="/die-cursor-von-windows-8-als-download/">Continue reading <span class="screen-reader-text">Die Cursor von Windows 8 als Download</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/win8-cursors-300x79.jpg" alt="" title="Die neuen Aero-Cursor" width="300" height="79" class="alignleft size-medium wp-image-454" srcset="/wp-content/uploads/2012/06/win8-cursors-300x79.jpg 300w, /wp-content/uploads/2012/06/win8-cursors.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>
 Seit dem 31. Mai ist die letzte Vorabversion von Windows 8, die Release Preview, verfügbar.
 </p>
@@ -401,15 +401,15 @@ Da dies blo&szlig; Ani-Dateien sind, lassen sich diese auch ganz einfach auf and
 Deshalb habe ich mir die Dateien mal rausgesucht und biete sie bei <a href="/design/downloads.php">LGK Design als Download an.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/die-cursor-von-windows-8-als-download/feed/</wfw:commentRss>
+					<wfw:commentRss>/die-cursor-von-windows-8-als-download/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Photoshop-Funktion: Video</title>
-		<link>https://blog-static.lgk.io/neue-photoshop-funktion-video/</link>
-					<comments>https://blog-static.lgk.io/neue-photoshop-funktion-video/#respond</comments>
+		<link>/neue-photoshop-funktion-video/</link>
+					<comments>/neue-photoshop-funktion-video/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 22 Mar 2012 17:48:42 +0000</pubDate>
@@ -432,26 +432,26 @@ Deshalb habe ich mir die Dateien mal rausgesucht und biete sie bei <a href="/des
 		<category><![CDATA[video]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=414</guid>
 
-					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
+					<description><![CDATA[Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert. Was sofort auffällt ist natürlich die neue düstere Optik. Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden. Somit lassen sich mit&#8230; <a class="more-link" href="/neue-photoshop-funktion-video/">Continue reading <span class="screen-reader-text">Neue Photoshop-Funktion: Video</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_415" aria-describedby="caption-attachment-415" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg" alt="" title="Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge" width="300" height="168" class="size-medium wp-image-415" srcset="/wp-content/uploads/2012/03/ps_cs6_01-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_01.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-415" class="wp-caption-text">Beim ersten Start von Ps CS6 sticht die Timeline sofort ins Auge</figcaption></figure>
 <p>Ich habe soeben die Beta-Version von Adobe Photoshop CS6 heruntergeladen und installiert.</p>
 <p>Was sofort auffällt ist natürlich die neue düstere Optik.</p>
 <p>Aber auch die erste neue Funktion offenbart sich sehr schnell: Die erweiterte Timeline. Damit lassen sich jetzt nicht nur Bilder und Texte bearbeiten, sondern es können auch Audio-Tracks eingebunden werden.<br />
 Somit lassen sich mit Photoshop in Zukunft auch Videos bearbeiten. Bisher konnte man nur einfache Animationen erstellen.</p>
 <p>Für Nutzer, die mit anderen Schnittprogrammen ihre Probleme haben, mit Sicherheit eine gute Nachricht. Denn mit Photoshop ist das Schneiden sehr viel leichter.<span id="more-414"></span></p>
 <div class="float-reg"></div>
-<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
+<p><figure id="attachment_416" aria-describedby="caption-attachment-416" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg" alt="" title="So lassen sich Videos abspeichern" width="300" height="168" class="size-medium wp-image-416" srcset="/wp-content/uploads/2012/03/ps_cs6_02-300x168.jpg 300w, /wp-content/uploads/2012/03/ps_cs6_02.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-416" class="wp-caption-text">So lassen sich Videos abspeichern</figcaption></figure><br />
 Video-Projekte lassen sich dann im PSD-Format abspeichern. Um ein Video draus zu machen, muss es erst exportiert werden.<br />
 Eine große Auswahl an Codecs werden gleich mitgeliefert, womit das Video direkt im entsprechendem Format gespeichert werden kann.</p>
 <div class="float-reg"></div>
-<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
+<figure id="attachment_417" aria-describedby="caption-attachment-417" style="width: 800px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/ps_cs6_03.jpg" alt="" title="Das Video lässt sich z.B. für iPhones oder YouTube anpassen" width="800" height="450" class="size-full wp-image-417" srcset="/wp-content/uploads/2012/03/ps_cs6_03.jpg 800w, /wp-content/uploads/2012/03/ps_cs6_03-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-417" class="wp-caption-text">Das Video lässt sich z.B. für iPhones oder YouTube anpassen</figcaption></figure>
 <ul>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta_55121160.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Windows</a></li>
 <li><a href="http://www.chip.de/downloads/Photoshop-CS6-Beta-fuer-Mac-OS_55132144.html" target="_blank" title="Link zu CHIP Online">Photoshop CS6 Beta für Mac OS</a></li>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-photoshop-funktion-video/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-photoshop-funktion-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

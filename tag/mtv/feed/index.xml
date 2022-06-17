@@ -9,8 +9,8 @@
 
 <channel>
 	<title>mtv &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/mtv/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/mtv/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 27 Sep 2011 18:42:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>mtv &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Comedy Central Deutschland bekommt neues Logo + Design</title>
-		<link>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/</link>
-					<comments>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
+		<link>/comedy-central-deutschland-bekommt-neues-logo-design/</link>
+					<comments>/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 27 Sep 2011 18:42:34 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[viva]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=261</guid>
 
-					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
+					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
 										<content:encoded><![CDATA[<figure id="attachment_263" aria-describedby="caption-attachment-263" style="width: 200px" class="wp-caption alignright"><img class="size-full wp-image-263" title="" src="/blog/wp-content/uploads/2011/09/183713323_200.jpg" alt="" width="200" height="150" /><figcaption id="caption-attachment-263" class="wp-caption-text">Quelle: vimeo.com</figcaption></figure>
 <p>Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich.<br />
 Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen.<br />
@@ -67,7 +67,7 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
+					<wfw:commentRss>/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

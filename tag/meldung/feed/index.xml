@@ -9,8 +9,8 @@
 
 <channel>
 	<title>meldung &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/meldung/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/meldung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 03 Jun 2014 12:35:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>meldung &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Meldung nur zu einer bestimmten Zeit anzeigen</title>
-		<link>https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/</link>
-					<comments>https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/#respond</comments>
+		<link>/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/</link>
+					<comments>/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 14 May 2012 17:38:30 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[zeit]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=437</guid>
 
-					<description><![CDATA[Wenn du auf deiner Website eine Meldung nur zu einer bestimmten Zeit anzeigen möchtest, ist das mit PHP ganz einfach zu lösen: In der ersten Zeile wird geprüft, ob das heutige Datum der 14.05. ist. Trifft dies zu, wird die Meldung in der zweiten Zeile ausgegeben. Das gleiche lässt sich auch mit der Uhrzeit machen:&#8230; <a class="more-link" href="https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/">Continue reading <span class="screen-reader-text">Meldung nur zu einer bestimmten Zeit anzeigen</span></a>]]></description>
+					<description><![CDATA[Wenn du auf deiner Website eine Meldung nur zu einer bestimmten Zeit anzeigen möchtest, ist das mit PHP ganz einfach zu lösen: In der ersten Zeile wird geprüft, ob das heutige Datum der 14.05. ist. Trifft dies zu, wird die Meldung in der zweiten Zeile ausgegeben. Das gleiche lässt sich auch mit der Uhrzeit machen:&#8230; <a class="more-link" href="/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/">Continue reading <span class="screen-reader-text">Meldung nur zu einer bestimmten Zeit anzeigen</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/05/php-logo.jpg" alt="" title="php-logo" width="250" height="134" class="alignleft size-full wp-image-438" /></p>
 <p>
 Wenn du auf deiner Website eine Meldung nur zu einer bestimmten Zeit anzeigen möchtest, ist das mit PHP ganz einfach zu lösen:
@@ -83,7 +83,7 @@ Mit <code>else</code> (Zeile 4) wird hier auch gleich der Sonst-Befehl gesetzt.<
 Ist es nicht 06:30, wird dieser Befehl ausgeführt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/feed/</wfw:commentRss>
+					<wfw:commentRss>/meldung-nur-zu-einer-bestimmten-zeit-anzeigen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

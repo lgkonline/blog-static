@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Einstellung &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/einstellung/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/einstellung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 10 Jun 2014 10:11:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Einstellung &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Start Touch als Startseite für das Smartphone</title>
-		<link>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/</link>
-					<comments>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
+		<link>/start-touch-als-startseite-fuer-das-smartphone/</link>
+					<comments>/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2014 10:43:25 +0000</pubDate>
@@ -50,27 +50,27 @@
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=923</guid>
 
-					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
+					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, /wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
 Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon.<br />
 Nichts weiter. Ohne Schnickschnack.</p>
 <p>Damit eignet es sich vor allem für ältere oder langsamere Smartphones.</p>
 <h2>Wie richte ich Start Touch als Startseite ein?</h2>
 <p>Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten.</p>
 <p>Am schnellsten geht es, wenn du die Seite über diesen QR-Code öffnest:<br />
-<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
+<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, /wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
 <div class="clear-both"></div>
 
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
+					<wfw:commentRss>/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

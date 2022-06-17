@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dienst &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/dienst/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/dienst/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 25 Sep 2014 17:49:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Dienst &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Registrierung bei Startmon ist jetzt möglich</title>
-		<link>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
-					<comments>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
+		<link>/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
+					<comments>/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2014 17:47:49 +0000</pubDate>
@@ -50,12 +50,12 @@
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1276</guid>
 
-					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
+					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, /wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, /wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
 <p>Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich.<br />
 Somit können Nutzer Startmon jetzt selbst anpassen.</p>
 <p>Nun können eigene Link-Menüs und Links angelegt werden.</p>
-<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
+<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, /wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
 <p>Für die Link-Menüs können Icons und Farben angepasst werden.</p>
 <p>Klicke hier, <a href="http://start.lgkonline.com/register" target="_blank">um dich zu registrieren.</a><br />
 Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <span class="glyphicon glyphicon-pencil"></span>-Symbol und der Edit-Modus wird aktiv.</p>
@@ -63,15 +63,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p><a href="http://start.lgkonline.com/" target="_blank" class="btn btn-primary" title="Im neuen Tab öffnen">start.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
+					<wfw:commentRss>/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mit Orange Files Dateien teilen</title>
-		<link>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/</link>
-					<comments>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/#respond</comments>
+		<link>/mit-orange-files-dateien-teilen/</link>
+					<comments>/mit-orange-files-dateien-teilen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2013 18:09:19 +0000</pubDate>
@@ -91,8 +91,8 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[Service]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=902</guid>
 
-					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="https://blog-static.lgk.io/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen. Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort. Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen. Die Dateien lädt der Nutzer selbst auf seinen eigenen FTP-Server hoch.&#8230; <a class="more-link" href="/mit-orange-files-dateien-teilen/">Continue reading <span class="screen-reader-text">Mit Orange Files Dateien teilen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2013/08/orange-files-01-300x140.jpg" alt="Orange Files" width="300" height="140" class="alignleft size-medium wp-image-903" srcset="/wp-content/uploads/2013/08/orange-files-01-300x140.jpg 300w, /wp-content/uploads/2013/08/orange-files-01.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Besonders in Zeiten des PRISM-Skandals, will man seine Dateien wohl nur noch ungern Internet-Riesen wie Google oder Microsoft anvertrauen.</p>
 <p>Hat man einen eigenen Server, lagert man seine Dateien am liebsten dort.</p>
 <p>Orange Files bietet die Möglichkeit, seine Dateien übersichtlich aufzulisten und diese zu teilen.</p>
@@ -104,7 +104,7 @@ Die Methode der Keys dient nur wenig Schutz.</p>
 <p>Orange Files ist lediglich dazu da, seine Dateien aufzulisten um es für Andere übersichtlicher zu halten.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
+					<wfw:commentRss>/mit-orange-files-dateien-teilen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Taskleiste &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/taskleiste/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/taskleiste/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 10 Jun 2014 10:11:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Taskleiste &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tipp: Flat UI Colors in die Taskleiste (Windows)</title>
-		<link>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/</link>
-					<comments>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/#respond</comments>
+		<link>/tipp-flat-ui-colors-in-die-taskleiste-windows/</link>
+					<comments>/tipp-flat-ui-colors-in-die-taskleiste-windows/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 24 Apr 2014 15:29:37 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=962</guid>
 
-					<description><![CDATA[Flat UI Colors ist eine nette kleine Web-App von Ahmet Sülek. Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben. Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen. Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet habt. Um Flat UI Colors anzupinnen, rufe&#8230; <a class="more-link" href="https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/">Continue reading <span class="screen-reader-text">Tipp: Flat UI Colors in die Taskleiste (Windows)</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_965" aria-describedby="caption-attachment-965" style="width: 294px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg"><img class="wp-image-965 size-medium" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg" alt="Die Web-App angepinnt an der Taskleiste." width="294" height="300" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg 294w, https://blog-static.lgk.io/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg 878w" sizes="(max-width: 294px) 100vw, 294px" /></a><figcaption id="caption-attachment-965" class="wp-caption-text">Die Web-App angepinnt an der Taskleiste.</figcaption></figure>
+					<description><![CDATA[Flat UI Colors ist eine nette kleine Web-App von Ahmet Sülek. Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben. Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen. Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet habt. Um Flat UI Colors anzupinnen, rufe&#8230; <a class="more-link" href="/tipp-flat-ui-colors-in-die-taskleiste-windows/">Continue reading <span class="screen-reader-text">Tipp: Flat UI Colors in die Taskleiste (Windows)</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_965" aria-describedby="caption-attachment-965" style="width: 294px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie.jpg"><img class="wp-image-965 size-medium" src="http://blog.lgkonline.com/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg" alt="Die Web-App angepinnt an der Taskleiste." width="294" height="300" srcset="/wp-content/uploads/2014/04/flat-ui-colors-ie-294x300.jpg 294w, /wp-content/uploads/2014/04/flat-ui-colors-ie.jpg 878w" sizes="(max-width: 294px) 100vw, 294px" /></a><figcaption id="caption-attachment-965" class="wp-caption-text">Die Web-App angepinnt an der Taskleiste.</figcaption></figure>
 <p>Flat UI Colors ist eine nette kleine Web-App von <a title="@ahmetsulek auf Twitter" href="https://twitter.com/ahmetsulek" target="_blank">Ahmet Sülek</a>.<br />
 Sie bietet eine Farbpalette für Web-Designer mit passenden Flat UI-Farben.</p>
 <p>Seit Version 9 bietet der Internet Explorer die Möglichkeit, Webseiten als Web-Apps an die Windows-Taskleiste anzupinnen.<br />
@@ -52,7 +52,7 @@ Das geht übrigens auch, wenn ihr IE nicht als Standard-Browser eingerichtet hab
 <p>Um Flat UI Colors anzupinnen, rufe einfach die Seite <a title="Seite öffnen" href="http://flatuicolors.com/" target="_blank">http://flatuicolors.com/</a> im Internet Explorer auf und ziehe das Favicon in der Adress-Leiste in die Taskleiste. Fertig.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/tipp-flat-ui-colors-in-die-taskleiste-windows/feed/</wfw:commentRss>
+					<wfw:commentRss>/tipp-flat-ui-colors-in-die-taskleiste-windows/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

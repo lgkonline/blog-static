@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tipps &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/tipps/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/tipps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 24 Apr 2016 15:20:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Tipps &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tumblr Bilder schneller im Vollbild betrachten</title>
-		<link>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
-					<comments>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
+		<link>/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
+					<comments>/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Apr 2016 15:20:34 +0000</pubDate>
@@ -44,24 +44,24 @@
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[Tools]]></category>
 		<category><![CDATA[Tumblr]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1883</guid>
+		<guid isPermaLink="false">/?p=1883</guid>
 
-					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img src="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png 600w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
+					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img src="/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="/wp-content/uploads/2016/04/showTumblrImage.png 600w, /wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, /wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
 Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^</p>
 <p>Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die URL des Tumblr-Posts ein und du wirst direkt auf die Vollansicht weitergeleitet.</p>
 <p><a href="http://lgk.io/show-tumblr-image" class="btn btn-primary btn-lg" target="">lgk.io/show-tumblr-image</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
+					<wfw:commentRss>/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>So einfach können lästige Dauer-Spam-Mails vermieden werden</title>
-		<link>https://blog-static.lgk.io/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/</link>
-					<comments>https://blog-static.lgk.io/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/#respond</comments>
+		<link>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/</link>
+					<comments>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2012 16:54:40 +0000</pubDate>
@@ -73,14 +73,14 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 		<category><![CDATA[Newsletter]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=410</guid>
 
-					<description><![CDATA[Die meisten E-Mails, die man täglich bekommt, bestehen aus Werbung, die einen wenig interessiert. Wer diese einfach nur lästig findet und in Zukunft damit in Ruhe gelassen werden will, kann diese meistens ganz einfach kündigen. Beispielsweise durch einer Registrierung bei Magix, wird automatisch ein Newsletter abonniert. Um eine solche Nervensäge loszuwerden, genügt in den meisten&#8230; <a class="more-link" href="https://blog-static.lgk.io/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/">Continue reading <span class="screen-reader-text">So einfach können lästige Dauer-Spam-Mails vermieden werden</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam-300x245.jpg" alt="" title="Newsletter lassen sich meistens ganz einfach abbestellen" width="300" height="245" class="alignleft size-medium wp-image-411" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/03/spam-300x245.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/03/spam.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+					<description><![CDATA[Die meisten E-Mails, die man täglich bekommt, bestehen aus Werbung, die einen wenig interessiert. Wer diese einfach nur lästig findet und in Zukunft damit in Ruhe gelassen werden will, kann diese meistens ganz einfach kündigen. Beispielsweise durch einer Registrierung bei Magix, wird automatisch ein Newsletter abonniert. Um eine solche Nervensäge loszuwerden, genügt in den meisten&#8230; <a class="more-link" href="/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/">Continue reading <span class="screen-reader-text">So einfach können lästige Dauer-Spam-Mails vermieden werden</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/03/spam-300x245.jpg" alt="" title="Newsletter lassen sich meistens ganz einfach abbestellen" width="300" height="245" class="alignleft size-medium wp-image-411" srcset="/wp-content/uploads/2012/03/spam-300x245.jpg 300w, /wp-content/uploads/2012/03/spam.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 Die meisten E-Mails, die man täglich bekommt, bestehen aus Werbung, die einen wenig interessiert. Wer diese einfach nur lästig findet und in Zukunft damit in Ruhe gelassen werden will, kann diese meistens ganz einfach kündigen.<br />
 Beispielsweise durch einer Registrierung bei Magix, wird automatisch ein Newsletter abonniert.</p>
 <p>Um eine solche Nervensäge loszuwerden, genügt in den meisten Fällen ein einfacher Klick auf den Link ganz am Ende der E-Mail. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/feed/</wfw:commentRss>
+					<wfw:commentRss>/so-einfach-konnen-lastige-dauer-spam-mails-vermieden-werden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

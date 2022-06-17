@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Alle Blogs und News-Portale auf einem Blick	</title>
-	<atom:link href="https://blog-static.lgk.io/alle-blogs-und-news-portale-auf-einem-blick/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/alle-blogs-und-news-portale-auf-einem-blick/</link>
+	<atom:link href="/alle-blogs-und-news-portale-auf-einem-blick/feed/" rel="self" type="application/rss+xml" />
+	<link>/alle-blogs-und-news-portale-auf-einem-blick/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 24 Aug 2012 20:17:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for LGK Blog	</title>
-	<atom:link href="https://blog-static.lgk.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 14 Apr 2022 11:15:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

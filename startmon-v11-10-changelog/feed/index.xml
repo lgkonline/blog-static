@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Startmon v11.10 Changelog	</title>
-	<atom:link href="https://blog-static.lgk.io/startmon-v11-10-changelog/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/startmon-v11-10-changelog/</link>
+	<atom:link href="/startmon-v11-10-changelog/feed/" rel="self" type="application/rss+xml" />
+	<link>/startmon-v11-10-changelog/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 15 Sep 2015 18:31:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

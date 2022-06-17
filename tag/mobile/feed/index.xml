@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mobile &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/mobile/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 27 May 2016 18:14:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Mobile &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Experimentell: Colorganize als Windows 10 Universal App</title>
-		<link>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/</link>
-					<comments>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/#respond</comments>
+		<link>/experimentell-colorganize-als-windows-10-universal-app/</link>
+					<comments>/experimentell-colorganize-als-windows-10-universal-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 27 May 2016 18:14:02 +0000</pubDate>
@@ -44,10 +44,10 @@
 		<category><![CDATA[Universal]]></category>
 		<category><![CDATA[UWP]]></category>
 		<category><![CDATA[Windows 10]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1907</guid>
+		<guid isPermaLink="false">/?p=1907</guid>
 
-					<description><![CDATA[So wird die App installiert: Entpacke die ZIP-Datei Im Ordner befindet sich eine PS1-Datei (Add-AppDevPackage.ps1). Rechtsklicke darauf und wähle im Kontektmenü &#8220;Mit PowerShell ausführen&#8221;. Folge den Anweisungen im PowerShell-Fenster. Möglicherweise sind Änderungen bezüglich der Zertifikat-Akzeptierung nötig. Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden. Bei Fragen helfe ich&#8230; <a class="more-link" href="https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/">Continue reading <span class="screen-reader-text">Experimentell: Colorganize als Windows 10 Universal App</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1908" aria-describedby="caption-attachment-1908" style="width: 300px" class="wp-caption alignright"><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png" alt="Colorganize als UWP App" width="300" height="190" class="size-medium wp-image-1908" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5.png 696w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1908" class="wp-caption-text">Colorganize als UWP App</figcaption></figure>
+					<description><![CDATA[So wird die App installiert: Entpacke die ZIP-Datei Im Ordner befindet sich eine PS1-Datei (Add-AppDevPackage.ps1). Rechtsklicke darauf und wähle im Kontektmenü &#8220;Mit PowerShell ausführen&#8221;. Folge den Anweisungen im PowerShell-Fenster. Möglicherweise sind Änderungen bezüglich der Zertifikat-Akzeptierung nötig. Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden. Bei Fragen helfe ich&#8230; <a class="more-link" href="/experimentell-colorganize-als-windows-10-universal-app/">Continue reading <span class="screen-reader-text">Experimentell: Colorganize als Windows 10 Universal App</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1908" aria-describedby="caption-attachment-1908" style="width: 300px" class="wp-caption alignright"><a href="/wp-content/uploads/2016/05/colorganize-scr-5.png"><img src="/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png" alt="Colorganize als UWP App" width="300" height="190" class="size-medium wp-image-1908" srcset="/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png 300w, /wp-content/uploads/2016/05/colorganize-scr-5.png 696w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1908" class="wp-caption-text">Colorganize als UWP App</figcaption></figure>
 <p>So wird die App installiert:</p>
 <ol>
 <li>Entpacke die ZIP-Datei</li>
@@ -56,18 +56,18 @@
 </ol>
 <p>Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden.<br />
 Bei Fragen helfe ich natürlich gerne. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/Colorganize-Hosted_1.0.0.0_Debug_Test.zip" class="btn btn-success"><i class="fa fa-cloud-download" aria-hidden="true"></i> Colorganize Hosted_1.0.0.0_Debug_Test.zip</a></p>
+<p><a href="/wp-content/uploads/2016/05/Colorganize-Hosted_1.0.0.0_Debug_Test.zip" class="btn btn-success"><i class="fa fa-cloud-download" aria-hidden="true"></i> Colorganize Hosted_1.0.0.0_Debug_Test.zip</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/experimentell-colorganize-als-windows-10-universal-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Start Touch als Startseite für das Smartphone</title>
-		<link>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/</link>
-					<comments>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
+		<link>/start-touch-als-startseite-fuer-das-smartphone/</link>
+					<comments>/start-touch-als-startseite-fuer-das-smartphone/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2014 10:43:25 +0000</pubDate>
@@ -87,27 +87,27 @@ Bei Fragen helfe ich natürlich gerne. <img src="https://s.w.org/images/core/emo
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=923</guid>
 
-					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, https://blog-static.lgk.io/wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
+					<description><![CDATA[Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon. Nichts weiter. Ohne Schnickschnack. Damit eignet es sich vor allem für ältere oder langsamere Smartphones. Wie richte ich Start Touch als Startseite ein? Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten. Am&#8230; <a class="more-link" href="/start-touch-als-startseite-fuer-das-smartphone/">Continue reading <span class="screen-reader-text">Start Touch als Startseite für das Smartphone</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_693" aria-describedby="caption-attachment-693" style="width: 140px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone.png"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/04/touch-smartphone-140x300.png" alt="Die neue mobile Version passt sich dem Bildschirm an." width="140" height="300" class="size-medium wp-image-693" srcset="/wp-content/uploads/2013/04/touch-smartphone-140x300.png 140w, /wp-content/uploads/2013/04/touch-smartphone.png 267w" sizes="(max-width: 140px) 100vw, 140px" /></a><figcaption id="caption-attachment-693" class="wp-caption-text">Die neue mobile Version passt sich dem Bildschirm an.</figcaption></figure><br />
 Mit LGK Start Touch hast du Zugriff auf die Suchmasken für Google Web, Google Bilder, Wikipedia, YouTube und Amazon.<br />
 Nichts weiter. Ohne Schnickschnack.</p>
 <p>Damit eignet es sich vor allem für ältere oder langsamere Smartphones.</p>
 <h2>Wie richte ich Start Touch als Startseite ein?</h2>
 <p>Zumindest bei den Standard-Browsern von Android kann man noch eine Startseite einrichten.</p>
 <p>Am schnellsten geht es, wenn du die Seite über diesen QR-Code öffnest:<br />
-<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
+<center><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/01/touch_qr-150x150.png" alt="touch_qr" width="150" height="150" class="aligncenter size-thumbnail wp-image-931" srcset="/wp-content/uploads/2014/01/touch_qr-150x150.png 150w, /wp-content/uploads/2014/01/touch_qr.png 250w" sizes="(max-width: 150px) 100vw, 150px" /></center></p>
 <div class="clear-both"></div>
 
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
-<a href='https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="https://blog-static.lgk.io/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-52-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-58-09-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-35-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-47-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-56-55-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
+<a href='/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21.png'><img width="150" height="150" src="/wp-content/uploads/2014/01/Screenshot_2014-01-27-10-59-21-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" style="width:100%;height:166.67%;max-width:480px;" /></a>
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
+					<wfw:commentRss>/start-touch-als-startseite-fuer-das-smartphone/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

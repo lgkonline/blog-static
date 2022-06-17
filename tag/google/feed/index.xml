@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Google &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/google/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 25 Sep 2014 17:49:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Google &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Registrierung bei Startmon ist jetzt möglich</title>
-		<link>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
-					<comments>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
+		<link>/registrierung-bei-startmon-ist-jetzt-moeglich/</link>
+					<comments>/registrierung-bei-startmon-ist-jetzt-moeglich/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2014 17:47:49 +0000</pubDate>
@@ -50,12 +50,12 @@
 		<category><![CDATA[startseite]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1276</guid>
 
-					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
+					<description><![CDATA[Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich. Somit können Nutzer Startmon jetzt selbst anpassen. Nun können eigene Link-Menüs und Links angelegt werden. Für die Link-Menüs können Icons und Farben angepasst werden. Klicke hier, um dich zu registrieren. Um eigene Anpassungen zu machen, logge dich ein und klicke&#8230; <a class="more-link" href="/registrierung-bei-startmon-ist-jetzt-moeglich/">Continue reading <span class="screen-reader-text">Registrierung bei Startmon ist jetzt möglich</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03.jpg" alt="Startmon Preview 3" width="100%" class="aligncenter size-full wp-image-1277 img-responsive" srcset="/wp-content/uploads/2014/09/startmon-preview-03.jpg 1366w, /wp-content/uploads/2014/09/startmon-preview-03-300x146.jpg 300w, /wp-content/uploads/2014/09/startmon-preview-03-1024x500.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a></p>
 <p>Die dritte Preview von Startmon ist nun online und nun ist auch die Registrierung möglich.<br />
 Somit können Nutzer Startmon jetzt selbst anpassen.</p>
 <p>Nun können eigene Link-Menüs und Links angelegt werden.</p>
-<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, https://blog-static.lgk.io/wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
+<figure id="attachment_1281" aria-describedby="caption-attachment-1281" style="width: 362px" class="wp-caption alignleft"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/09/startmon-preview-03-2.jpg" alt="Startmon anpassen" width="362" height="297" class="size-full wp-image-1281" srcset="/wp-content/uploads/2014/09/startmon-preview-03-2.jpg 362w, /wp-content/uploads/2014/09/startmon-preview-03-2-300x246.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" /><figcaption id="caption-attachment-1281" class="wp-caption-text">Startmon anpassen</figcaption></figure>
 <p>Für die Link-Menüs können Icons und Farben angepasst werden.</p>
 <p>Klicke hier, <a href="http://start.lgkonline.com/register" target="_blank">um dich zu registrieren.</a><br />
 Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <span class="glyphicon glyphicon-pencil"></span>-Symbol und der Edit-Modus wird aktiv.</p>
@@ -63,15 +63,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p><a href="http://start.lgkonline.com/" target="_blank" class="btn btn-primary" title="Im neuen Tab öffnen">start.lgkonline.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
+					<wfw:commentRss>/registrierung-bei-startmon-ist-jetzt-moeglich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon: Öffentliche Preview jetzt online</title>
-		<link>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/</link>
-					<comments>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
+		<link>/startmon-oeffentliche-preview-jetzt-online/</link>
+					<comments>/startmon-oeffentliche-preview-jetzt-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 15:54:41 +0000</pubDate>
@@ -91,15 +91,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[Suchmaschine]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1119</guid>
 
-					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
+					<description><![CDATA[Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen. Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt. Ihr erreicht die Preview unter: start.lgkonline.com Auch für mobile Endgeräte Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht,&#8230; <a class="more-link" href="/startmon-oeffentliche-preview-jetzt-online/">Continue reading <span class="screen-reader-text">Startmon: Öffentliche Preview jetzt online</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1120" aria-describedby="caption-attachment-1120" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg" alt="Erste Preview" width="300" height="172" class="size-medium wp-image-1120" srcset="/wp-content/uploads/2014/07/startmon-preview-01-300x172.jpg 300w, /wp-content/uploads/2014/07/startmon-preview-01-1024x588.jpg 1024w, /wp-content/uploads/2014/07/startmon-preview-01.jpg 1396w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1120" class="wp-caption-text">Schaut euch Startmon doch mal an.</figcaption></figure>
 <p>Ich arbeite momentan noch daran, die Personalisierung vom LGK Start-Nachfolger &#8220;Startmon&#8221; zu ermöglichen.</p>
 <p>Um euch aber schon mal ein kleines Sneak Peek zu geben, habe ich nun eine Version noch ohne Profile online gestellt.</p>
 <p>Ihr erreicht die Preview unter: <a href="http://start.lgkonline.com/" title="Startmon" target="_blank">start.lgkonline.com</a></p>
 <div class="clearfix"></div>
 <p><span id="more-1119"></span></p>
 <h2>Auch für mobile Endgeräte</h2>
-<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
+<figure id="attachment_1123" aria-describedby="caption-attachment-1123" style="width: 202px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg" alt="Startmon ist responsive." width="202" height="300" class="size-medium wp-image-1123" srcset="/wp-content/uploads/2014/07/startmon-preview-02-202x300.jpg 202w, /wp-content/uploads/2014/07/startmon-preview-02.jpg 542w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-1123" class="wp-caption-text">Startmon ist responsive.</figcaption></figure>
 <p>Damit Startmon auch auf Smartphones und Tablets eine gute Figur macht, habe ich u.a. die Listen mit den Links entsprechend angepasst.</p>
 <p>Tippt man auf eine der Kategorien, wird die Liste in voller Größe eingeblendet. Auf dem PC erscheint dafür beim Rüberfahren mit der Maus einfach ein Dropdown-Menü, wie üblich.</p>
 <p>Für allgemeine Responsiveness sorgt übrigens das Framework Bootstrap.</p>
@@ -107,15 +107,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p>Habt ihr etwas an Startmon auszusetzen oder ihr wollt es vielleicht auch loben, zögert nicht, und schreibt eure Meinung hier in die Kommentare oder nutzt das <a href="http://start.lgkonline.com/feedback" target="_blank">Feedback-Formular auf Startmon</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-oeffentliche-preview-jetzt-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Testet den nächsten LGK Start</title>
-		<link>https://blog-static.lgk.io/testet-den-nachsten-lgk-start/</link>
-					<comments>https://blog-static.lgk.io/testet-den-nachsten-lgk-start/#respond</comments>
+		<link>/testet-den-nachsten-lgk-start/</link>
+					<comments>/testet-den-nachsten-lgk-start/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 16 Sep 2012 18:21:45 +0000</pubDate>
@@ -138,8 +138,8 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[waterline]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=641</guid>
 
-					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="https://blog-static.lgk.io/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
+					<description><![CDATA[In diesem Artikel habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet. Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt. Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt&#8230; <a class="more-link" href="/testet-den-nachsten-lgk-start/">Continue reading <span class="screen-reader-text">Testet den nächsten LGK Start</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_642" aria-describedby="caption-attachment-642" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/09/mys-new-300x142.jpg" alt="" title="LGK Start mit &quot;Water bubble&quot;-Hintergrund" width="300" height="142" class="size-medium wp-image-642" srcset="/wp-content/uploads/2012/09/mys-new-300x142.jpg 300w, /wp-content/uploads/2012/09/mys-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-642" class="wp-caption-text">LGK Start mit &#8220;Water bubble&#8221;-Hintergrund</figcaption></figure>
 <p>In <a href="http://lgkonline.de/blog/?p=623">diesem Artikel</a> habe ich bereits von dem &#8220;nächsten LGK Start&#8221; berichtet.</p>
 <p>Ich habe nun die Arbeiten daran fortgesetzt. Damit ist die Seite jetzt grundsätzlich voll funktionsfähig. Alle Suchmasken funktionieren jetzt.</p>
 <p>Es ist jetzt außerdem so, dass wenn ihr eine Eingabe bei der Startseite macht und dann beispielsweise auf YouTube klickt, die Suche sofort beginnt und ihr direkt nach YouTube weitergeleitet werdet.</p>
@@ -148,15 +148,15 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 <p><strong><a href="http://lgkonline.de/mys/new/" target="_blank">Klicke hier, um das neue LGK Start zu testen.</a></strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
+					<wfw:commentRss>/testet-den-nachsten-lgk-start/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Alle Blogs und News-Portale auf einem Blick</title>
-		<link>https://blog-static.lgk.io/alle-blogs-und-news-portale-auf-einem-blick/</link>
-					<comments>https://blog-static.lgk.io/alle-blogs-und-news-portale-auf-einem-blick/#respond</comments>
+		<link>/alle-blogs-und-news-portale-auf-einem-blick/</link>
+					<comments>/alle-blogs-und-news-portale-auf-einem-blick/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 24 Aug 2012 20:17:17 +0000</pubDate>
@@ -172,22 +172,22 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=543</guid>
 
 					<description><![CDATA[Im Internet gibt es eine Menge guter News-Portale und Weblogs, die einen interessieren. Mit Google Reader könnt ihr all diese Sites zusammenfügen und Artikel direkt im Google-Dienst (z.B. auch auf einer entsprechenden Smartphone-/Tablet-App) lesen. Auch diesen Blog kannst du dort abonnieren. Die richtige RSS-Adresse von uns:http://lgkonline.de/blog/?feed=rss Link zu Google Reader: http://www.google.com/reader]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/?feed=rss"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/google-reader.png" alt="" title="Abonniere diesen Blog bei Google Reader" width="332" height="119" class="alignleft size-full wp-image-544" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/google-reader.png 332w, https://blog-static.lgk.io/wp-content/uploads/2012/08/google-reader-300x107.png 300w" sizes="(max-width: 332px) 100vw, 332px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/?feed=rss"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/google-reader.png" alt="" title="Abonniere diesen Blog bei Google Reader" width="332" height="119" class="alignleft size-full wp-image-544" srcset="/wp-content/uploads/2012/08/google-reader.png 332w, /wp-content/uploads/2012/08/google-reader-300x107.png 300w" sizes="(max-width: 332px) 100vw, 332px" /></a></p>
 <p>Im Internet gibt es eine Menge guter News-Portale und Weblogs, die einen interessieren. Mit Google Reader könnt ihr all diese Sites zusammenfügen und Artikel direkt im Google-Dienst (z.B. auch auf einer entsprechenden Smartphone-/Tablet-App) lesen.</p>
 <p>Auch diesen Blog kannst du dort abonnieren.</p>
 <p>Die richtige RSS-Adresse von uns:<br /><a href="http://lgkonline.de/blog/?feed=rss" target="_blank">http://lgkonline.de/blog/?feed=rss</a></p>
 <p>Link zu Google Reader: <a href="http://www.google.com/reader" target="_blank">http://www.google.com/reader</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/alle-blogs-und-news-portale-auf-einem-blick/feed/</wfw:commentRss>
+					<wfw:commentRss>/alle-blogs-und-news-portale-auf-einem-blick/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</title>
-		<link>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
-					<comments>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
+		<link>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/</link>
+					<comments>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 29 Jun 2012 18:39:46 +0000</pubDate>
@@ -209,9 +209,9 @@ Um eigene Anpassungen zu machen, logge dich ein und klicke oben rechts auf das <
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=481</guid>
 
-					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
+					<description><![CDATA[Zu LGK Start: lgkonline.de/start &#187; Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe: Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst. Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben. Was jetzt tun? Nach&#8230; <a class="more-link" href="/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/">Continue reading <span class="screen-reader-text">Neue Funktion bei LGK Start &#8211; und ein verbessertes Design</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
+<figure id="attachment_482" aria-describedby="caption-attachment-482" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-300x165.jpg" alt="" title="Die neue Funktion &quot;Memory&quot;" width="300" height="165" class="size-medium wp-image-482" srcset="/wp-content/uploads/2012/06/lgkstart-300x165.jpg 300w, /wp-content/uploads/2012/06/lgkstart.jpg 402w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-482" class="wp-caption-text">Die neue Funktion &quot;Memory&quot;</figcaption></figure>
 <p>Ich habe heute eine Funktion in LGK Start eingeführt, die ich mir schon länger gewünscht habe:<br />
 Das Beibehalten eines Suchwortes beim Wechsel in einen anderen Suchdienst.</p>
 <p>Wenn ich meine Startseite aufrufe und nach einem Bild suchen will, habe ich es aus Versehen in der Websuche eingeben.<br />
@@ -231,10 +231,10 @@ Was jetzt tun? Nach &#8220;Google Bilder&#8221; wechseln und die Eingabe erneut 
 <p>Außerdem auch, weil ich vor ein paar Tagen die Schriftart der Eingabe auf Dekar geändert habe und die Schrift damit ebenfalls vergrößert werden musste.</p>
 <p>Also habe ich das Ganze mehr in den Mittelpunkt verschoben und alles ein wenig breiter gemacht.</p>
 <p><a href="http://lgkonline.de/start" target="_blank">Zu LGK Start: lgkonline.de/start &raquo;</a></p>
-<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, https://blog-static.lgk.io/wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 600px" class="wp-caption aligncenter"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/lgkstart-screenshot.jpg" alt="" title="Überarbeites Design (Stand 29.06.2012)" width="600" height="308" class="size-medium wp-image-491" srcset="/wp-content/uploads/2012/06/lgkstart-screenshot.jpg 800w, /wp-content/uploads/2012/06/lgkstart-screenshot-300x154.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-491" class="wp-caption-text">Überarbeites Design</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-funktion-bei-lgk-start-und-ein-verbessertes-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

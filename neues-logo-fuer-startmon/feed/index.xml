@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Neues Logo für startmon	</title>
-	<atom:link href="https://blog-static.lgk.io/neues-logo-fuer-startmon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/neues-logo-fuer-startmon/</link>
+	<atom:link href="/neues-logo-fuer-startmon/feed/" rel="self" type="application/rss+xml" />
+	<link>/neues-logo-fuer-startmon/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 31 Jul 2014 17:55:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

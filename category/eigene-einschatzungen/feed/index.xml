@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Eigene Einschätzungen &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/eigene-einschatzungen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/eigene-einschatzungen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:38:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Eigene Einschätzungen &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Gedanken zu Material You für Web</title>
-		<link>https://blog-static.lgk.io/gedanken-zu-material-you-fuer-web/</link>
+		<link>/gedanken-zu-material-you-fuer-web/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Oct 2021 06:58:20 +0000</pubDate>
@@ -48,9 +48,9 @@
 		<category><![CDATA[Materialize]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2241</guid>
+		<guid isPermaLink="false">/?p=2241</guid>
 
-					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="https://blog-static.lgk.io/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
+					<description><![CDATA[Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: Material Design 3. Auf der Website bekommst du auch einen guten Eindruck, was sich geändert hat. Unter anderem neue Formen und neue Animationen. Was ich am spannendsten finde: dynamische Farben. Google hat in&#8230; <a class="more-link" href="/gedanken-zu-material-you-fuer-web/">Continue reading <span class="screen-reader-text">Gedanken zu Material You für Web</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Material Design, die Designsprache von Google, bekommt in Android 12 ein großes Update: Material You. Es gibt jetzt auch einen offiziellen Guide: <a href="https://m3.material.io/" data-type="URL" data-id="https://m3.material.io/" target="_blank" rel="noreferrer noopener">Material Design 3</a>.</p>
 
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed.png 676w, https://blog-static.lgk.io/wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2021/10/unnamed.png"><img loading="lazy" width="676" height="800" src="/wp-content/uploads/2021/10/unnamed.png" alt="" class="wp-image-2310" srcset="/wp-content/uploads/2021/10/unnamed.png 676w, /wp-content/uploads/2021/10/unnamed-254x300.png 254w" sizes="(max-width: 676px) 100vw, 676px" /></a><figcaption>Quelle: <a href="https://m3.material.io/styles/color/dynamic-color/user-generated-color" data-type="URL" data-id="https://m3.material.io/styles/color/dynamic-color/user-generated-color" target="_blank" rel="noreferrer noopener">Material Design 3</a></figcaption></figure>
 
 
 
@@ -97,7 +97,7 @@
 
 
 <figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28.png"><img loading="lazy" width="1024" height="611" data-id="2327"  src="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png" alt="" class="wp-image-2327" srcset="/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1024x611.png 1024w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-300x179.png 300w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-768x458.png 768w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1536x916.png 1536w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-2048x1222.png 2048w, /wp-content/uploads/2021/10/Bildschirmfoto-2021-10-28-um-08.45.28-1568x935.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </figure>
 
 
@@ -122,8 +122,8 @@
 			</item>
 		<item>
 		<title>The code behind the new SP-Studio</title>
-		<link>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/</link>
-					<comments>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/#respond</comments>
+		<link>/the-code-behind-the-new-sp-studio/</link>
+					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
@@ -140,11 +140,11 @@
 		<category><![CDATA[south park]]></category>
 		<category><![CDATA[TypeScript]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2146</guid>
+		<guid isPermaLink="false">/?p=2146</guid>
 
 					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
 
 
 
@@ -192,7 +192,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
 
 
 
@@ -413,7 +413,7 @@ export default SkiSki001</code></pre>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
 
 
 
@@ -436,15 +436,15 @@ export default SkiSki001</code></pre>
 <p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Apple M1: Potential für die gesamte PC-Sparte?</title>
-		<link>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
-					<comments>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
+		<link>/apple-m1-potential-fuer-die-gesamte-pc-sparte/</link>
+					<comments>/apple-m1-potential-fuer-die-gesamte-pc-sparte/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Dec 2020 11:34:08 +0000</pubDate>
@@ -457,25 +457,25 @@ export default SkiSki001</code></pre>
 		<category><![CDATA[arm]]></category>
 		<category><![CDATA[big sur]]></category>
 		<category><![CDATA[macos]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2128</guid>
+		<guid isPermaLink="false">/?p=2128</guid>
 
-					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
+					<description><![CDATA[Im November hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt. Aber auch für Microsoft bietet das meiner&#8230; <a class="more-link" href="/apple-m1-potential-fuer-die-gesamte-pc-sparte/">Continue reading <span class="screen-reader-text">Apple M1: Potential für die gesamte PC-Sparte?</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://www.apple.com/apple-events/november-2020/" target="_blank" rel="noopener noreferrer">Im November</a> hat Apple die ersten Macs mit M1 veröffentlicht, der ersten Generation des eigenen Prozessors. Für Apple und dessen User bedeutet das einen großen Bruch, weg von Intel x86-CPUs und hin zu auf ARM-basierende Chips, wie man sie bisher hauptsächlich aus Mobilgeräten wie Smartphones und Tablets kennt.</p>
-<p><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
+<p><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-04-um-13.19.59.png" alt="Colorganize als UWP App" width="100%"></p>
 <p>Aber auch für Microsoft bietet das meiner Ansicht nach die Chance, Windows ARM endlich attraktiver zu machen. Tatsächlich war Microsoft in dem Bereich schon viel weiter, <a href="https://de.wikipedia.org/wiki/Microsoft_Windows_RT" target="_blank" rel="noopener noreferrer">Windows RT</a> wurde bereits 2012 veröffentlicht. Möglicherweise seiner Zeit voraus, konnte es sich aber nicht gut behaupten. Es gab nur wenig gute Apps, die dafür entwickelt wurden und es war auch nicht möglich, x86-Apps zu emulieren, so wie es mit Apple M1 und macOS Big Sur möglich ist (Stichwort Rosetta 2).</p>
 <p>Microsoft war leider noch nie erfolgreich darin, Entwickler zu überzeugen, Software für ihre Plattform anzupassen. Windows Phone und Windows Mobile hatten ein ähnliches Problem. Das ist leider auch ein Teufelskreis. Entwickler werden Apps eher für Betriebssysteme schreiben, die auch von der Mehrheit genutzt wird (iOS/Android). Apple ist darin deutlich besser. Bereits in der kurzen Zeit, seitdem macOS mit Apple Silicon angekündigt hat, haben bereits viele Entwickler begonnen, ihre Software anzupassen und auf ARM-Architektur zu optimieren. Und deswegen glaube ich, dass bald auch Windows-ARM-Geräte wieder interessanter werden können. Denn wenn Software wie Photoshop einmal für Apple M1 umgeschrieben wurde, könnte es auch einfacher sein, diesen Code auch für andere ARM-CPUs zu kompilieren.</p>
 <p>Glaubt ihr, dass wir schon bald mehr ARM-PCs mit Windows sehen werden?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
+					<wfw:commentRss>/apple-m1-potential-fuer-die-gesamte-pc-sparte/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</title>
-		<link>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
-					<comments>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
+		<link>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/</link>
+					<comments>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 14:26:57 +0000</pubDate>
@@ -492,9 +492,9 @@ export default SkiSki001</code></pre>
 		<category><![CDATA[Icon]]></category>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[unicode]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1925</guid>
+		<guid isPermaLink="false">/?p=1925</guid>
 
-					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
+					<description><![CDATA[&#9829; &#9782; &#5779; Emoticons sind aus sozialen Netzwerken längst nicht mehr wegzudenken. Sie werden vor allem dafür genutzt, Gefühle auszudrücken, etwas was durch Wörter häufig schwer auszudrücken ist. Oder sie untermahlen Geschriebenes, u.a. auch um Missverständnisse des Textes zu umgehen. Aber nicht nur beim Austauschen von Nachrichten sind Icons hilfreich. Für die User Experience sind&#8230; <a class="more-link" href="/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/">Continue reading <span class="screen-reader-text">Viele Schriftarten enthalten alle Icons die du brauchst &#8211; also warum nutzt du sie nicht?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption alignleft">
 <div style="font-size: 7em;padding:0 16px;">&#9829; &#9782; &#5779;</div>
 </div>
@@ -510,15 +510,15 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 <p>In der Suchleiste gibst du einfach ein was du brauchst. Auf der Detail-Seite zu einem Icon findest du dann die nötigen HTML-Codes zum Einbinden auf deine Seite.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
+					<wfw:commentRss>/viele-schriftarten-enthalten-alle-icons-die-du-brauchst-also-warum-nutzt-du-sie-nicht/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das &#8220;Thin Design&#8221;-Phänomen</title>
-		<link>https://blog-static.lgk.io/das-thin-design-phaenomen/</link>
-					<comments>https://blog-static.lgk.io/das-thin-design-phaenomen/#respond</comments>
+		<link>/das-thin-design-phaenomen/</link>
+					<comments>/das-thin-design-phaenomen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 08 May 2016 12:00:09 +0000</pubDate>
@@ -530,33 +530,33 @@ Vorraussetzung dafür, dass das Symbol auch angezeigt wird, ist dass die verwend
 		<category><![CDATA[Zukunft]]></category>
 		<category><![CDATA[Flat Design]]></category>
 		<category><![CDATA[Thin Design]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1889</guid>
+		<guid isPermaLink="false">/?p=1889</guid>
 
-					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="https://blog-static.lgk.io/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
+					<description><![CDATA[&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie. Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard. Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren.&#8230; <a class="more-link" href="/das-thin-design-phaenomen/">Continue reading <span class="screen-reader-text">Das &#8220;Thin Design&#8221;-Phänomen</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&#8220;Dünn&#8221; als Schönheitsideal existiert nicht nur bei bei Menschen, sondern seit geraumer Zeit auch in der Typografie.<br />
 Die Variante &#8220;Light&#8221; einer Schriftart ist mittlerweile Standard.</p>
 <p>Der Trend geht in diese Richtung, weil Bildschirme immer hochauflösender werden. In Zeiten von 4K und Retina Displays haben UX-Designer deutlich mehr Möglichkeiten Dinge auszuprobieren, die zuvor noch undenkbar waren. </p>
 <p>&#8220;Thin Design&#8221; scheint ein Teil davon zu sein. Und es beschränkt sich nicht nur auf die Typografie. Wer in letzter Zeit die Design-Entwicklungen von Microsoft (Windows 10) und Apple (OS X, iOS) verfolgt hat, wird feststellen, dass auch Symbole vom Schlankheitswahn betroffen sind.</p>
 <p>Hier mal ein Beispiel, das ich auf der Apple-Website gefunden habe:<br />
-<a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223.jpg 998w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<a href="/wp-content/uploads/2016/05/scr-0223.jpg"><img loading="lazy" width="998" height="278" src="/wp-content/uploads/2016/05/scr-0223.jpg" alt="Screenshot" class="size-full wp-image-1893 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0223.jpg 998w, /wp-content/uploads/2016/05/scr-0223-300x84.jpg 300w, /wp-content/uploads/2016/05/scr-0223-768x214.jpg 768w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
 <h2>Wo kann ich &#8220;Thin Design&#8221; einsetzen &#8211; wo nicht?</h2>
 <p>Als UX-Elemente halte ich &#8220;Thin Design&#8221; für eine angebrachte Sache. Sowohl für Typografie, Symbole, aber auch für andere Controls, wie Buttons, Eingabefelder, Trennlinien.<br />
 Linien sollten aber möglichst vektorbasiert erzeugt werden und nicht beispielsweise als Bitmap, um eine Skalierbarkeit zu ermöglichen. Es besteht nämlich die Gefahr, dass die Linien dadurch verschwinden könnten. Bei Webdesign könnten Thin-Elemente beispielsweise per CSS (Border) oder SVG erzeugt werden.</p>
 <p>Unangebracht halte ich Thin Design allerdings beim Logo-Design. Ein Logo muss universell einsetzbar sein und eine starke und selbstbewusste Darstellung haben. Besteht eine Bildmarke nur aus dünnen Linien, kann es schnell untergehen, wenn nicht sogar verschwinden. In Fließtexten bieten sich &#8220;leichte&#8221; Schriftarten auch nicht an, weil dadurch die Lesbarkeit beeinträchtigt werden kann.</p>
 <p>Beim Redesign der Nachrichten-Feeds auf Startmon.com habe ich mich auch mal am &#8220;Thin Design&#8221; orientiert.<br />
 Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="undefined" target="_blank">https://startmon.com/</a> gehst und dann bei &#8220;Nachrichten-Feeds&#8221; unten links auf den Maximieren-Button klickst.</p>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-300x197.png 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224-768x505.png 768w, https://blog-static.lgk.io/wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="/wp-content/uploads/2016/05/scr-0224.png"><img loading="lazy" width="1024" height="673" src="/wp-content/uploads/2016/05/scr-0224-1024x673.png" alt="Screenshot" class="size-large wp-image-1903 img-responsive" srcset="/wp-content/uploads/2016/05/scr-0224-1024x673.png 1024w, /wp-content/uploads/2016/05/scr-0224-300x197.png 300w, /wp-content/uploads/2016/05/scr-0224-768x505.png 768w, /wp-content/uploads/2016/05/scr-0224.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/das-thin-design-phaenomen/feed/</wfw:commentRss>
+					<wfw:commentRss>/das-thin-design-phaenomen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Melde dich nie mehr bei einer Web App an.</title>
-		<link>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
-					<comments>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
+		<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+					<comments>/melde-dich-nie-mehr-bei-einer-web-app-an/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2015 15:58:40 +0000</pubDate>
@@ -570,10 +570,10 @@ Du kannst es betrachten, wenn du auf <a href="https://startmon.com/" title="unde
 		<category><![CDATA[Login]]></category>
 		<category><![CDATA[Modell]]></category>
 		<category><![CDATA[Rumspinnerei]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1705</guid>
+		<guid isPermaLink="false">/?p=1705</guid>
 
-					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd.png 400w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+					<description><![CDATA[Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss. Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft&#8230; <a class="more-link" href="/melde-dich-nie-mehr-bei-einer-web-app-an/">Continue reading <span class="screen-reader-text">Melde dich nie mehr bei einer Web App an.</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="/wp-content/uploads/2015/09/no-pwd.png" alt="Nie mehr anmelden" width="400" height="400" class="alignleft size-full wp-image-1717" srcset="/wp-content/uploads/2015/09/no-pwd.png 400w, /wp-content/uploads/2015/09/no-pwd-150x150.png 150w, /wp-content/uploads/2015/09/no-pwd-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
 <p>Wie wäre das? Ich ertappe mich oft dabei, einen Online-Dienst nutzen zu wollen, es mich dann aber abschreckt, dass man sich registrieren muss.</p>
 <p>Ich bin halt einfach zu faul dazu, meine E-Mail Adresse anzugeben, mir ein Passwort auszudenken und Angst darum zu haben, ich könnte dieses vergessen. Vor allem graust es mich davor, in Zukunft vom Anbieter vollgespamt zu werden.</p>
 <p>Glücklicherweise bieten es mittlerweile auch viele Dienste an, sich mit Google+, Facebook oder Twitter anzumelden. Doch wie wäre es, wenn du dich gar nicht anmelden bräuchtest?</p>
@@ -585,15 +585,15 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 <p>Also, ich finde dieses Konzept genial. Natürlich eignet es sich nicht für alle Anwendungen. Denn wenn die Einstellungen als Cookies gespeichert werden, sind sie leicht für andere einsehbar. Aber solange es sich nicht um sensible Daten handelt, halte ich es für völlig in Ordnung.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
+					<wfw:commentRss>/melde-dich-nie-mehr-bei-einer-web-app-an/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
-		<link>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/</link>
-					<comments>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
@@ -612,8 +612,8 @@ Es ist ein Dienst, um Farben zu mischen und diese in sogenannten Themen zu speic
 		<category><![CDATA[widget]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
 
-					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure></p>
 <p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
 Es ist keine extra Registrierung nötig.</p>
 <p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
@@ -623,7 +623,7 @@ Es ist keine extra Registrierung nötig.</p>
 <div class="clearfix"></div>
 <hr>
 <h3>Der Farb-Picker ist zurück!</h3>
-<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
+<p><figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure></p>
 <p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
 Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
 <h3>Ideen für die Zukunft</h3>
@@ -633,15 +633,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue 3DS-Geräte im Anmarsch</title>
-		<link>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/</link>
-					<comments>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/#respond</comments>
+		<link>/neue-3ds-geraete-im-anmarsch/</link>
+					<comments>/neue-3ds-geraete-im-anmarsch/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 30 Aug 2014 13:06:38 +0000</pubDate>
@@ -658,8 +658,8 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 		<category><![CDATA[nintendo]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1189</guid>
 
-					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement.jpg 678w, https://blog-static.lgk.io/wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure></p>
+					<description><![CDATA[Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL. Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden&#8230; <a class="more-link" href="/neue-3ds-geraete-im-anmarsch/">Continue reading <span class="screen-reader-text">Neue 3DS-Geräte im Anmarsch</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1193" aria-describedby="caption-attachment-1193" style="width: 678px" class="wp-caption aligncenter"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/announcement.jpg" alt="Die neuen Geräte erscheinen in Japan bereits am 11. Oktober." width="678" height="418" class="size-full wp-image-1193" srcset="/wp-content/uploads/2014/08/announcement.jpg 678w, /wp-content/uploads/2014/08/announcement-300x184.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption id="caption-attachment-1193" class="wp-caption-text">Die neuen Geräte erscheinen in Japan bereits am 11. Oktober.</figcaption></figure></p>
 <p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/CPUGEqQAgxI" frameborder="0" allowfullscreen class="pull-right"></iframe></p>
 <p>Brandheiße News für Nintendo-Fans: Gestern wurden auf der japanischen Nintendo Direct zwei neue Handheld-Modelle vorgestellt. Den New Nintendo 3DS und den New Nintendo 3DS LL.</p>
 <p>Es stellt vor allem ein Update an der Hardware dar. So wurde der Arbeitsspeicher und auch die CPU verbessert. So soll beispielsweise das Surfen im Browser als auch das Laden von Software aus dem eShop deutlich schneller erfolgen.</p>
@@ -669,46 +669,46 @@ Bei den neuen Geräten soll sich der Effekt der Position des Spielers anpassen.<
 <p>Im Folgenden gehe ich näher auf die einzelnen Neuerungen ein.</p>
 <p><span id="more-1189"></span></p>
 <hr>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/no-blur-300x219.jpg" alt="no-blur" width="300" height="219" class="alignright size-medium wp-image-1199" srcset="/wp-content/uploads/2014/08/no-blur-300x219.jpg 300w, /wp-content/uploads/2014/08/no-blur.jpg 647w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Verbessertes 3D</h2>
 <p>Ein neuer Sensor am Gerät soll die Position des Spielers erfassen und dem entsprechend den 3D-Effekt darstellen.<br />
 Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/c-pad-300x205.jpg" alt="C-Pad" width="300" height="205" class="alignright size-medium wp-image-1204" srcset="/wp-content/uploads/2014/08/c-pad-300x205.jpg 300w, /wp-content/uploads/2014/08/c-pad.jpg 638w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Das C-Pad</h2>
 <p>Viele Fans wünschten sich ein einen zweiten Analog-Stick. Das C-Pad ist vom Namen her dem GameCube-Controller entsprungen und soll beispielweise zur Steuerung der Kamera genutzt werden. Das könnte bei Spielen wie Kingdom Hearts sehr nützlich sein.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg" alt="Neue Schulter-Tasten" width="300" height="169" class="alignright size-medium wp-image-1210" srcset="/wp-content/uploads/2014/08/shoulder-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/shoulder-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neue Schulter-Tasten</h2>
 <p>Man kennt sie schon vom Wii U-Controller. Jetzt nehmen die Schulter-Tasten ZL und ZR auch auf dem 3DS Platz. Sie sollen von neuen Spielen genutzt werden können, die exklusiv für die neuen Geräte erscheinen werden.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/color-buttons-300x169.jpg" alt="color-buttons" width="300" height="169" class="alignright size-medium wp-image-1214" srcset="/wp-content/uploads/2014/08/color-buttons-300x169.jpg 300w, /wp-content/uploads/2014/08/color-buttons.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Gefärbte ABXY-Knöpfe</h2>
 <p>Bei all den neuen Tasten und Analog-Sticks sah es Nintendo wohl für sinnvoll, die Hauptknöpfe ABXY einzufärben. Dabei ließen sie sich vom SNES-Controller (Super Nintendo Entertainment System) inspirieren. Auf dem 3DS LL sind allerdings lediglich die Letter eingefärbt.</p>
 <p>Entwickler können die Indikatoren sinnvoll in ihren Spielen einbringen.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/amiibo-300x177.jpg" alt="amiibo" width="300" height="177" class="alignright size-medium wp-image-1217" srcset="/wp-content/uploads/2014/08/amiibo-300x177.jpg 300w, /wp-content/uploads/2014/08/amiibo-1024x607.jpg 1024w, /wp-content/uploads/2014/08/amiibo.jpg 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Amiibo</h2>
 <p>Von der Wii U kennen wir Amiibo bereits. Es soll dort u.a. für Super Smash Bros. genutzt werden. Das Prinzip ist mit Disney Infinty auch bereits bekannt.</p>
 <p>Dabei können die Spieler kleine Spielfiguren erwerben. Der Chip darin verbindet sich mit dem NFC-Chip auf dem Wii U-Controller und es werden entsprechende Events im Spiel freigeschaltet.</p>
 <p>Auch die neuen 3DS-Geräte besitzen einen NFC-Chip, womit auch diese Amiibo nutzen können. Vermutlich kommt dies als erstes bei Super Smash Bros. für 3DS zum Einsatz.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/speed-300x248.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/speed-300x248.jpg" alt="speed" width="300" height="248" class="alignright size-medium wp-image-1221" srcset="/wp-content/uploads/2014/08/speed-300x248.jpg 300w, /wp-content/uploads/2014/08/speed.jpg 661w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Mehr Speed</h2>
 <p>Die neuen CPU- und RAM-Specs sollen sich vor allem positiv auf das Surf-Verhalten auswirken. So wird die Nutzung des Browsers deutlich angenehmer und auch das Laden von Software aus dem eShop soll sich beschleunigen.</p>
 <p>Der Browser, welcher im Übrigen von Opera zur Verfügung gestellt wird, soll außerdem auch HTML5-Videos abspielen können. Da Opera vor kurzem auf die Engine von Chromium umgestiegen ist, liegt die Vermutung nahe, dass auch der 3DS-Browser Chromium als Unterbau nutzt.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/new-home-300x275.jpg" alt="new-home" width="300" height="275" class="alignright size-medium wp-image-1224" srcset="/wp-content/uploads/2014/08/new-home-300x275.jpg 300w, /wp-content/uploads/2014/08/new-home.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Personalisierbarer Home-Screen</h2>
 <p>Dieses Feature kommt auch Nutzer der älteren Modelle zugute: Eine neue Version der Firmware ermöglicht es, das Home-Menü mit Skins anzupassen.</p>
 <p>Das Update soll ebenfalls im Oktober veröffentlicht werden. Hoffentlich auch für uns Europäer. Und zwar für den Nintendo 3DS, Nintendo 3DS XL und Nintendo 2DS.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/hard-cover-300x296.jpg" alt="hard-cover" width="300" height="296" class="alignright size-medium wp-image-1227" srcset="/wp-content/uploads/2014/08/hard-cover-300x296.jpg 300w, /wp-content/uploads/2014/08/hard-cover.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Hard-Cover für den New Nintendo 3DS</h2>
 <p>Teile an der Vorder- und Rückseite des New 3DS lassen sich abnehmen und durch alternative Cover ersetzen. So ist es viel einfacher, seinen 3DS den eigenen Wünschen anzupassen.</p>
 <p>Leider geht das nur mit dem normalen New 3DS, nicht mit der größeren Variante New 3DS LL (oder hier wahrscheinlich XL). Das finde ich persönlich ziemlich schade, da ich eigentlich den XL aufgrund der größeren Displays bevorzuge.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/positions-249x300.jpg 249w, https://blog-static.lgk.io/wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/positions-249x300.jpg" alt="positions" width="249" height="300" class="alignright size-medium wp-image-1236" srcset="/wp-content/uploads/2014/08/positions-249x300.jpg 249w, /wp-content/uploads/2014/08/positions.jpg 403w" sizes="(max-width: 249px) 100vw, 249px" /></a></p>
 <h2>Neue Positionen</h2>
 <p>Der Lautstärke-Regler befindet sich nun gegenüber vom 3D-Regler und wurde auch vom Layout her diesem angeglichen. Stellt man die Lautstärke auf OFF wird dieser Zustand, ähnlich wie schon beim 3DS XL, eingerastet.</p>
 <p>Die START- und SELECT-Knöpfe befinden sich nun wieder, wie beim DSi, unter den ABXY-Knöpfen und sind wieder einfacher zu erreichen. Der HOME-Button hat die Form von der Wii U bekommen und befindet sich weiterhin unterhalb vom Touchscreen.</p>
@@ -716,7 +716,7 @@ Somit könnte der 3D-Effekt endlich mehr werden als nur eine Werbe-Grundlage.</p
 Der Audio-Ausgang ist mehr mittig und daneben befindet sich der Stauraum für den Stylus. Schade, ich fand den Platz an der Seite eigentlich ideal, weil man den Stylus dann ganz einfach während des Spielens rausziehen konnte.</p>
 <p>Der Power-Button ist jetzt außen und dient gleichzeitig als Symbol für die Power-LED.</p>
 <div class="clearfix"></div>
-<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/08/accessories-300x166.jpg" alt="accessories" width="300" height="166" class="alignright size-medium wp-image-1232" srcset="/wp-content/uploads/2014/08/accessories-300x166.jpg 300w, /wp-content/uploads/2014/08/accessories.jpg 935w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Zubehör und Nicht-Zubehör</h2>
 <p>Ich bin zwar des Japanischen nicht mächtig, aber das Stecker-Symbol auf der offiziellen Website lässt darauf schließen, dass bei den neuen Geräten wieder keine Ladekabel mitgeliefert werden.<br />
 Im Text darunter werden 3DS, 3DS LL, DSi und DSi LL genannt, also denke ich, dass das gleiche Ladekabel wie von dort genutzt werden kann.</p>
@@ -732,15 +732,15 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 <p>Alle Grafiken in diesem Artikel stammen von der japanischen <a href="http://nintendo.co.jp/" title="Offizielle Nintendo-Website" target="_blank">Nintendo-Website</a> sowie von der Nintendo Direct.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-3ds-geraete-im-anmarsch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Der Google-Glocke wurde Leben eingehaucht</title>
-		<link>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/</link>
-					<comments>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
+		<link>/der-google-glocke-wurde-leben-eingehaucht/</link>
+					<comments>/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 03 Jul 2014 15:48:29 +0000</pubDate>
@@ -751,27 +751,27 @@ Vermutlich werden die neuen Geräte erst März 2015 veröffentlicht.</p>
 		<category><![CDATA[Google Now Service Windows Android Taskbar Innovation]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1104</guid>
 
-					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure></p>
+					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure></p>
 <p>Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt.</p>
 <p>Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat.</p>
 <h2>Verschmelzung von Android und Chrome</h2>
 <p>Auf der letzten Google I/O (<a href="https://www.youtube.com/watch?v=9pmPa_KxsAM" target="_blank" title="Zum Video">Keynote ansehen &raquo;</a>) wurde verkündet, man wolle Android und Google Chrome näher verbinden.<br />
 So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter Android sollen Web-Apps mehr Beachtung finden, indem diese unter &#8220;geöffnete Apps&#8221; auftauchen sollen.</p>
-<p><figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure></p>
+<p><figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure></p>
 <p>Die Benachrichtungs-Glocke ist wohl ebenfalls Teil dieses &#8220;Verschmelzungs-Prozesses&#8221;. Denn sie übernimmt eine Aufgabe, die Chrome vorher nicht hatte: Benachrichtigungen.</p>
 <p>Einige Apps können die Benachrichtigungen anscheint benutzen. YouTube ist leider bisher noch nicht dabei.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
+					<wfw:commentRss>/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Autocomplete und Wallpaper einreichen</title>
-		<link>https://blog-static.lgk.io/autocomplete-und-wallpaper-einreichen/</link>
-					<comments>https://blog-static.lgk.io/autocomplete-und-wallpaper-einreichen/#respond</comments>
+		<link>/autocomplete-und-wallpaper-einreichen/</link>
+					<comments>/autocomplete-und-wallpaper-einreichen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 26 Jun 2013 14:40:23 +0000</pubDate>
@@ -788,18 +788,18 @@ So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter A
 		<category><![CDATA[wallpaper]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=766</guid>
 
-					<description><![CDATA[Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5. Open Build öffnen. Autocomplete Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen. Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann. Diese ist zwar&#8230; <a class="more-link" href="https://blog-static.lgk.io/autocomplete-und-wallpaper-einreichen/">Continue reading <span class="screen-reader-text">Autocomplete und Wallpaper einreichen</span></a>]]></description>
+					<description><![CDATA[Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5. Open Build öffnen. Autocomplete Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen. Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann. Diese ist zwar&#8230; <a class="more-link" href="/autocomplete-und-wallpaper-einreichen/">Continue reading <span class="screen-reader-text">Autocomplete und Wallpaper einreichen</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Das neue LGK Start befindet sich mittlerweile in der Version Open Build 10.0.5.</p>
 <p><a href="http://lgkonline.de/start_new/" target="_blank">Open Build öffnen.</a></p>
 <h2>Autocomplete</h2>
-<p><figure id="attachment_767" aria-describedby="caption-attachment-767" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg" alt="Autocomplete in Aktion" width="300" height="149" class="size-medium wp-image-767" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_01-1024x509.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-767" class="wp-caption-text">Autocomplete in Aktion</figcaption></figure></p>
+<p><figure id="attachment_767" aria-describedby="caption-attachment-767" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg" alt="Autocomplete in Aktion" width="300" height="149" class="size-medium wp-image-767" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_01-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_01.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-767" class="wp-caption-text">Autocomplete in Aktion</figcaption></figure></p>
 <p>Autocomplete ist eine Funktion, die ich mir bereits früher gewünscht hätte. Allerdings kann ich schlecht die Datenbank von Google benutzen.<br />
 Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplete genutzt werden kann.</p>
 <p>Diese ist zwar noch lange nicht so groß, wie die von Google, aber es ist zu mindest schon mal ein Anfang.</p>
 <p>Und mit der Zeit wird sich der Wortschatz füllen.</p>
 <div class="clear-both"></div>
 <h2>Eigene Wallpaper einreichen</h2>
-<p><figure id="attachment_775" aria-describedby="caption-attachment-775" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg" alt="Bereichere LGK Start mit eigenen Werken" width="300" height="149" class="size-medium wp-image-775" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_02-1024x509.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-775" class="wp-caption-text">Bereichere LGK Start mit eigenen Werken</figcaption></figure></p>
+<p><figure id="attachment_775" aria-describedby="caption-attachment-775" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg" alt="Bereichere LGK Start mit eigenen Werken" width="300" height="149" class="size-medium wp-image-775" srcset="/wp-content/uploads/2013/06/lgkstart-10-0-05_02-300x149.jpg 300w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02-1024x509.jpg 1024w, /wp-content/uploads/2013/06/lgkstart-10-0-05_02.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-775" class="wp-caption-text">Bereichere LGK Start mit eigenen Werken</figcaption></figure></p>
 <p>Als Hintergrund sieht man bei LGK Start immer einen hübschen Wallpaper. Mal ist es ein Ozean, mal die Erde von oben oder eben was ganz anderes.</p>
 <p>Diese Bilder stehen alle unter Creative Commons-Lizenz, so dass ich sie verwenden darf.</p>
 <p>Nun bietet sich die Möglichkeit, eigene Wallpaper einzureichen.</p>
@@ -808,7 +808,7 @@ Deshalb habe ich nun einfach eine eigene Datenbank angelegt, die von Autocomplet
 <p>Das Bild kann direkt auf meinen Server geladen werden oder es wird woanders hochgeladen und der entsprechende Link wird ins Formular eingefügt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/autocomplete-und-wallpaper-einreichen/feed/</wfw:commentRss>
+					<wfw:commentRss>/autocomplete-und-wallpaper-einreichen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The code behind the new SP-Studio	</title>
-	<atom:link href="https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/</link>
+	<atom:link href="/the-code-behind-the-new-sp-studio/feed/" rel="self" type="application/rss+xml" />
+	<link>/the-code-behind-the-new-sp-studio/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:38:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

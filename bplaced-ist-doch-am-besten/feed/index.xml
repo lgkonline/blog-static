@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: bplaced ist doch am besten!	</title>
-	<atom:link href="https://blog-static.lgk.io/bplaced-ist-doch-am-besten/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/bplaced-ist-doch-am-besten/</link>
+	<atom:link href="/bplaced-ist-doch-am-besten/feed/" rel="self" type="application/rss+xml" />
+	<link>/bplaced-ist-doch-am-besten/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 17 Aug 2011 16:42:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

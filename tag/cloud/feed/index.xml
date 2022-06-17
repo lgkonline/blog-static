@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cloud &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/cloud/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 17 Feb 2013 12:49:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Cloud &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Links bei LGK Start: Cloud-Dienste</title>
-		<link>https://blog-static.lgk.io/neue-links-bei-lgk-start-cloud-dienste/</link>
-					<comments>https://blog-static.lgk.io/neue-links-bei-lgk-start-cloud-dienste/#respond</comments>
+		<link>/neue-links-bei-lgk-start-cloud-dienste/</link>
+					<comments>/neue-links-bei-lgk-start-cloud-dienste/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 17 Feb 2013 12:49:49 +0000</pubDate>
@@ -45,14 +45,14 @@
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=670</guid>
 
 					<description><![CDATA[Bei dem Link-Menü von LGK Start gibt es einen neuen Punkt: Cloud-Dienste. Cloud-Dienste werden immer wichtiger und nützlicher. Dadurch lassen sich seine Daten von überall abrufen. Bei vielen Anbietern auch direkt im Browser. Diese Anbieter habe ich nun unter dem neuen Punkt verlinkt. Auf gehts &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/02/cloud-dienste.jpg"><img loading="lazy" class="alignleft size-medium wp-image-671" alt="" src="http://lgkonline.de/blog/wp-content/uploads/2013/02/cloud-dienste-300x168.jpg" width="300" height="168" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/02/cloud-dienste-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/02/cloud-dienste.jpg 723w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2013/02/cloud-dienste.jpg"><img loading="lazy" class="alignleft size-medium wp-image-671" alt="" src="http://lgkonline.de/blog/wp-content/uploads/2013/02/cloud-dienste-300x168.jpg" width="300" height="168" srcset="/wp-content/uploads/2013/02/cloud-dienste-300x168.jpg 300w, /wp-content/uploads/2013/02/cloud-dienste.jpg 723w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Bei dem Link-Menü von LGK Start gibt es einen neuen Punkt: Cloud-Dienste.</p>
 <p>Cloud-Dienste werden immer wichtiger und nützlicher. Dadurch lassen sich seine Daten von überall abrufen. Bei vielen Anbietern auch direkt im Browser.</p>
 <p>Diese Anbieter habe ich nun unter dem neuen Punkt verlinkt.</p>
 <p><a href="http://lgkonline.de/start" target="_blank">Auf gehts &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-links-bei-lgk-start-cloud-dienste/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-links-bei-lgk-start-cloud-dienste/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

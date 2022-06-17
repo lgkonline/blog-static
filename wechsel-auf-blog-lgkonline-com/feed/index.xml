@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Wechsel auf blog.lgkonline.com	</title>
-	<atom:link href="https://blog-static.lgk.io/wechsel-auf-blog-lgkonline-com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/wechsel-auf-blog-lgkonline-com/</link>
+	<atom:link href="/wechsel-auf-blog-lgkonline-com/feed/" rel="self" type="application/rss+xml" />
+	<link>/wechsel-auf-blog-lgkonline-com/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 03 Jul 2014 18:05:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

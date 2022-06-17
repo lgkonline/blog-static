@@ -9,8 +9,8 @@
 
 <channel>
 	<title>colorganize.com &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/colorganize-com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/colorganize-com/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 27 May 2016 18:14:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>colorganize.com &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Experimentell: Colorganize als Windows 10 Universal App</title>
-		<link>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/</link>
-					<comments>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/#respond</comments>
+		<link>/experimentell-colorganize-als-windows-10-universal-app/</link>
+					<comments>/experimentell-colorganize-als-windows-10-universal-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 27 May 2016 18:14:02 +0000</pubDate>
@@ -44,10 +44,10 @@
 		<category><![CDATA[Universal]]></category>
 		<category><![CDATA[UWP]]></category>
 		<category><![CDATA[Windows 10]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1907</guid>
+		<guid isPermaLink="false">/?p=1907</guid>
 
-					<description><![CDATA[So wird die App installiert: Entpacke die ZIP-Datei Im Ordner befindet sich eine PS1-Datei (Add-AppDevPackage.ps1). Rechtsklicke darauf und wähle im Kontektmenü &#8220;Mit PowerShell ausführen&#8221;. Folge den Anweisungen im PowerShell-Fenster. Möglicherweise sind Änderungen bezüglich der Zertifikat-Akzeptierung nötig. Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden. Bei Fragen helfe ich&#8230; <a class="more-link" href="https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/">Continue reading <span class="screen-reader-text">Experimentell: Colorganize als Windows 10 Universal App</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1908" aria-describedby="caption-attachment-1908" style="width: 300px" class="wp-caption alignright"><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png" alt="Colorganize als UWP App" width="300" height="190" class="size-medium wp-image-1908" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png 300w, https://blog-static.lgk.io/wp-content/uploads/2016/05/colorganize-scr-5.png 696w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1908" class="wp-caption-text">Colorganize als UWP App</figcaption></figure>
+					<description><![CDATA[So wird die App installiert: Entpacke die ZIP-Datei Im Ordner befindet sich eine PS1-Datei (Add-AppDevPackage.ps1). Rechtsklicke darauf und wähle im Kontektmenü &#8220;Mit PowerShell ausführen&#8221;. Folge den Anweisungen im PowerShell-Fenster. Möglicherweise sind Änderungen bezüglich der Zertifikat-Akzeptierung nötig. Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden. Bei Fragen helfe ich&#8230; <a class="more-link" href="/experimentell-colorganize-als-windows-10-universal-app/">Continue reading <span class="screen-reader-text">Experimentell: Colorganize als Windows 10 Universal App</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1908" aria-describedby="caption-attachment-1908" style="width: 300px" class="wp-caption alignright"><a href="/wp-content/uploads/2016/05/colorganize-scr-5.png"><img src="/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png" alt="Colorganize als UWP App" width="300" height="190" class="size-medium wp-image-1908" srcset="/wp-content/uploads/2016/05/colorganize-scr-5-300x190.png 300w, /wp-content/uploads/2016/05/colorganize-scr-5.png 696w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1908" class="wp-caption-text">Colorganize als UWP App</figcaption></figure>
 <p>So wird die App installiert:</p>
 <ol>
 <li>Entpacke die ZIP-Datei</li>
@@ -56,18 +56,18 @@
 </ol>
 <p>Hat alles geklappt, sollte sich im Startmenü unter &#8220;Alle Apps&#8221; ein neuer Eintrag &#8220;Colorganize&#8221; befinden.<br />
 Bei Fragen helfe ich natürlich gerne. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/05/Colorganize-Hosted_1.0.0.0_Debug_Test.zip" class="btn btn-success"><i class="fa fa-cloud-download" aria-hidden="true"></i> Colorganize Hosted_1.0.0.0_Debug_Test.zip</a></p>
+<p><a href="/wp-content/uploads/2016/05/Colorganize-Hosted_1.0.0.0_Debug_Test.zip" class="btn btn-success"><i class="fa fa-cloud-download" aria-hidden="true"></i> Colorganize Hosted_1.0.0.0_Debug_Test.zip</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/experimentell-colorganize-als-windows-10-universal-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/experimentell-colorganize-als-windows-10-universal-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
-		<link>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
-					<comments>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
@@ -78,25 +78,25 @@ Bei Fragen helfe ich natürlich gerne. <img src="https://s.w.org/images/core/emo
 		<category><![CDATA[Ideen]]></category>
 		<category><![CDATA[LGK]]></category>
 		<category><![CDATA[LGK Services]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1695</guid>
+		<guid isPermaLink="false">/?p=1695</guid>
 
 					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png 420w, https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
 <p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
 <p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
 <p>In Kürze dazu mehr.</p>
 <p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photoshop-Tutorial: Pipetten-Werkzeug außerhalb verwenden</title>
-		<link>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
-					<comments>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
+		<link>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/</link>
+					<comments>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 25 Feb 2015 10:00:55 +0000</pubDate>
@@ -112,7 +112,7 @@ Bei Fragen helfe ich natürlich gerne. <img src="https://s.w.org/images/core/emo
 		<category><![CDATA[Farbe]]></category>
 		<category><![CDATA[photoshop]]></category>
 		<category><![CDATA[Pipette]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1490</guid>
+		<guid isPermaLink="false">/?p=1490</guid>
 
 					<description><![CDATA[Diese Methode erspart euch einige Copy-Paste-Vorgänge von Farb-Codes. Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von anderen Fenstern auswählen. Video direkt auf YouTube ansehen.]]></description>
 										<content:encoded><![CDATA[<div class="embed-responsive embed-responsive-16by9">
@@ -123,15 +123,15 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 <p><a href="https://www.youtube.com/watch?v=Hmq3HMy56Yo">Video direkt auf YouTube ansehen.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
+					<wfw:commentRss>/photoshop-tutorial-pipetten-werkzeug-ausserhalb-verwenden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Synchronisiere Colorganize-Paletten mit LESS und Sass</title>
-		<link>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
-					<comments>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
+		<link>/synchronisiere-colorganize-paletten-mit-less-und-sass/</link>
+					<comments>/synchronisiere-colorganize-paletten-mit-less-und-sass/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 23 Jan 2015 14:04:36 +0000</pubDate>
@@ -148,8 +148,8 @@ Mit dem Pipetten-Werkzeug von Photoshop könnt ihr auch ganz einfach Farben von 
 		<category><![CDATA[Sass]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1441</guid>
 
-					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, https://blog-static.lgk.io/wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure>
+					<description><![CDATA[LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;. Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen. Mehr über die Vorteile von CSS Pre-Prozessoren &#187; Es ist nun möglich, seine Paletten aus Colorganize.com direkt mit eigenen LESS- und Sass-Code zu verbinden. Ein @import genügt und du kannst deine Farben aus deiner Palette innerhalb&#8230; <a class="more-link" href="/synchronisiere-colorganize-paletten-mit-less-und-sass/">Continue reading <span class="screen-reader-text">Synchronisiere Colorganize-Paletten mit LESS und Sass</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1451" aria-describedby="caption-attachment-1451" style="width: 500px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2015/01/scr-less-for-colorganize.png" alt="Paletten-Farben als LESS-Variablen." width="500" class="size-medium wp-image-1451 img-responsive" srcset="/wp-content/uploads/2015/01/scr-less-for-colorganize.png 795w, /wp-content/uploads/2015/01/scr-less-for-colorganize-300x182.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a><figcaption id="caption-attachment-1451" class="wp-caption-text">Paletten-Farben als LESS-Variablen.</figcaption></figure>
 <p>LESS und Sass sind sogenannte &#8220;CSS Pre-Prozessoren&#8221;.<br />
 Damit ist es möglich, Stylesheets effizienter als je zu vor zu erstellen.<br />
 <a href="http://www.der-zyklop.de/blog/scss-sass-less">Mehr über die Vorteile von CSS Pre-Prozessoren &raquo;</a></p>
@@ -173,15 +173,15 @@ Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markier
 <p>Falls du noch nicht registriert bist, ist es übrigens auch möglich sich mit seinen Twitter-Account anzumelden. <a href="http://blog.lgkonline.com/update-bei-colorganize-einloggen-mit-twitter/" title="Update bei Colorganize – Einloggen mit Twitter" target="">Mehr dazu hier &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
+					<wfw:commentRss>/synchronisiere-colorganize-paletten-mit-less-und-sass/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Update bei Colorganize &#8211; Einloggen mit Twitter</title>
-		<link>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/</link>
-					<comments>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
+		<link>/update-bei-colorganize-einloggen-mit-twitter/</link>
+					<comments>/update-bei-colorganize-einloggen-mit-twitter/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2014 14:10:30 +0000</pubDate>
@@ -200,8 +200,8 @@ Standardmäßig sind aber alle Nutzer-Paletten als &#8220;private&#8221; markier
 		<category><![CDATA[widget]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1375</guid>
 
-					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure>
+					<description><![CDATA[Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen. Es ist keine extra Registrierung nötig. Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App. Es ist geplant, weitere Login-Möglichkeiten einzubringen (Facebook, Google etc.). Teste es gleich aus: colorganize.com Der Farb-Picker ist zurück! Seit dem Redesign fehlte&#8230; <a class="more-link" href="/update-bei-colorganize-einloggen-mit-twitter/">Continue reading <span class="screen-reader-text">Update bei Colorganize &#8211; Einloggen mit Twitter</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1376" aria-describedby="caption-attachment-1376" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-01-300x252.png" alt="Login mit Twitter" width="300" height="252" class="size-medium wp-image-1376" srcset="/wp-content/uploads/2014/12/colorganize-01-01-300x252.png 300w, /wp-content/uploads/2014/12/colorganize-01-01.png 968w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1376" class="wp-caption-text">Login mit Twitter</figcaption></figure>
 <p>Ab sofort können sich Nutzer bei Colorganize ganz einfach mit seinem Twitter-Account einloggen.<br />
 Es ist keine extra Registrierung nötig.</p>
 <p>Klicke einfach auf den Button &#8220;Sign in with Twitter&#8221; und autorisiere Colorganize als Twitter-App.</p>
@@ -211,7 +211,7 @@ Es ist keine extra Registrierung nötig.</p>
 <div class="clearfix"></div>
 <hr>
 <h3>Der Farb-Picker ist zurück!</h3>
-<figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure>
+<figure id="attachment_1387" aria-describedby="caption-attachment-1387" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/12/colorganize-01-02-300x234.png" alt="Farb-Picker ist zurück" width="300" height="234" class="size-medium wp-image-1387" srcset="/wp-content/uploads/2014/12/colorganize-01-02-300x234.png 300w, /wp-content/uploads/2014/12/colorganize-01-02-1024x801.png 1024w, /wp-content/uploads/2014/12/colorganize-01-02.png 1043w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1387" class="wp-caption-text">Farb-Picker ist zurück</figcaption></figure>
 <p>Seit dem Redesign fehlte der bisher enthaltene Farb-Picker. Dieser ist nun wieder da.<br />
 Klicke im Farb-Modal einfach auf das Tropfen-Symbol und er erscheint.</p>
 <h3>Ideen für die Zukunft</h3>
@@ -221,15 +221,15 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 <p>Mal sehen, inwiefern ich es schaffe, diese Ideen umzusetzen&#8230; ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
+					<wfw:commentRss>/update-bei-colorganize-einloggen-mit-twitter/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Redesign von colorganize.com</title>
-		<link>https://blog-static.lgk.io/redesign-von-colorganize-com/</link>
-					<comments>https://blog-static.lgk.io/redesign-von-colorganize-com/#respond</comments>
+		<link>/redesign-von-colorganize-com/</link>
+					<comments>/redesign-von-colorganize-com/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Sep 2014 10:42:28 +0000</pubDate>
@@ -248,9 +248,9 @@ Nutzer können von einer ihrer Paletten eine URL erhalten, die sie dann weiterge
 		<category><![CDATA[Web-App]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1265</guid>
 
-					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="https://blog-static.lgk.io/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
-<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure>
+					<description><![CDATA[colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor. Aber es gibt auch ein paar nette neue Features. Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick. Außerdem speichert der Client deine letzte Position, wenn du ihn schließt. Sowohl in welcher Palette du zuletzt warst als&#8230; <a class="more-link" href="/redesign-von-colorganize-com/">Continue reading <span class="screen-reader-text">Redesign von colorganize.com</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01.png"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png" alt="Redesign of colorganize.com" width="100%" class="aligncenter size-large wp-image-1266 img-responsive" srcset="/wp-content/uploads/2014/09/colorganize-redesign-01-1024x577.png 1024w, /wp-content/uploads/2014/09/colorganize-redesign-01-300x169.png 300w, /wp-content/uploads/2014/09/colorganize-redesign-01.png 1546w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="The old design." width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Das alte Design.</figcaption></figure>
 <p>colorganize.com hat endlich ein Redesign bekommen und sieht nun deutlich freundlicher aus als zuvor.<br />
 Aber es gibt auch ein paar nette neue Features.</p>
 <p>Um ein Farbcode direkt im Zwischenspeicher zu halten, reicht nun ein einfacher Klick.</p>
@@ -260,15 +260,15 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 <p>Ich habe außerdem eine Hosted App für Chrome erstellt. Diese wird womöglich bald im Chrome Web Store veröffentlicht.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/redesign-von-colorganize-com/feed/</wfw:commentRss>
+					<wfw:commentRss>/redesign-von-colorganize-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>colorganize is your new color picker web app</title>
-		<link>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/</link>
-					<comments>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/#respond</comments>
+		<link>/colorganize-new-color-picker-web-app/</link>
+					<comments>/colorganize-new-color-picker-web-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 23 May 2014 20:02:14 +0000</pubDate>
@@ -283,18 +283,18 @@ Sowohl in welcher Palette du zuletzt warst als auch dein Code-Format (also Hex#,
 		<category><![CDATA[Zukunft]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=992</guid>
 
-					<description><![CDATA[Colorganize is a small color picker web app for web designers and artists. You can save all color codes you will need for a project. For example you want to draw a fanart to Shin Chan. Or maybe more than one. In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. Select all&#8230; <a class="more-link" href="https://blog-static.lgk.io/colorganize-new-color-picker-web-app/">Continue reading <span class="screen-reader-text">colorganize is your new color picker web app</span></a>]]></description>
+					<description><![CDATA[Colorganize is a small color picker web app for web designers and artists. You can save all color codes you will need for a project. For example you want to draw a fanart to Shin Chan. Or maybe more than one. In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. Select all&#8230; <a class="more-link" href="/colorganize-new-color-picker-web-app/">Continue reading <span class="screen-reader-text">colorganize is your new color picker web app</span></a>]]></description>
 										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//player.vimeo.com/video/96239969?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=0&amp;loop=1" width="716" height="402" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 <p>Colorganize is a small color picker web app for web designers and artists.</p>
 <p>You can save all color codes you will need for a project.</p>
-<p><figure id="attachment_996" aria-describedby="caption-attachment-996" style="width: 250px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan-250x300.png" alt="You want to draw shin chan?" width="250" height="300" class="size-medium wp-image-996" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/shin-chan-250x300.png 250w, https://blog-static.lgk.io/wp-content/uploads/2014/05/shin-chan.png 361w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption id="caption-attachment-996" class="wp-caption-text">You want to draw shin chan?</figcaption></figure><br />
+<p><figure id="attachment_996" aria-describedby="caption-attachment-996" style="width: 250px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/shin-chan-250x300.png" alt="You want to draw shin chan?" width="250" height="300" class="size-medium wp-image-996" srcset="/wp-content/uploads/2014/05/shin-chan-250x300.png 250w, /wp-content/uploads/2014/05/shin-chan.png 361w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption id="caption-attachment-996" class="wp-caption-text">You want to draw shin chan?</figcaption></figure><br />
 For example you want to draw a fanart to Shin Chan. Or maybe more than one.</p>
 <ol>
 <li>In colorganize create a new color palette with the title &#8220;Shin Chan&#8221;. </li>
 <li>Select all important colors and insert them to the palette.</li>
 <li>Tada:</li>
 </ol>
-<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="Our color palette" width="300" height="225" class="size-medium wp-image-998" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Our color palette</figcaption></figure>
+<figure id="attachment_998" aria-describedby="caption-attachment-998" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/05/scr-12-300x225.png" alt="Our color palette" width="300" height="225" class="size-medium wp-image-998" srcset="/wp-content/uploads/2014/05/scr-12-300x225.png 300w, /wp-content/uploads/2014/05/scr-12-1024x768.png 1024w, /wp-content/uploads/2014/05/scr-12.png 1054w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-998" class="wp-caption-text">Our color palette</figcaption></figure>
 <div class="clear-both"></div>
 <p>Now you can select each color and its code by just clicking on it. On the head you can switch which code format you prefer: Hexadecimal, hexadecimal with starting #, RGB or RGB with alpha.</p>
 <p>That&#8217;s it. I hope you enjoy it.<br />
@@ -303,7 +303,7 @@ For example you want to draw a fanart to Shin Chan. Or maybe more than one.</p>
 (Email: <a href="mailto:lgk@live.de">lgk@live.de</a>, Twitter: <a href="http://twitter.com/lgkonline" target="_blank">@lgkonline</a>).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/colorganize-new-color-picker-web-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

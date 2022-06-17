@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Komprimierung &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/komprimierung/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/komprimierung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 31 Oct 2015 16:51:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Komprimierung &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</title>
-		<link>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
-					<comments>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
+		<link>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
+					<comments>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 31 Oct 2015 16:51:23 +0000</pubDate>
@@ -45,14 +45,14 @@
 		<category><![CDATA[LESS]]></category>
 		<category><![CDATA[Open Source]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1782</guid>
+		<guid isPermaLink="false">/?p=1782</guid>
 
-					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png 1174w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-300x90.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
-<p>In den Artikeln <a href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
+					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="/wp-content/uploads/2015/10/logo.png 1174w, /wp-content/uploads/2015/10/logo-300x90.png 300w, /wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+<p>In den Artikeln <a href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
 <p>Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit nutze ich für das Kompilieren von LESS-Dateien die Anwendung <a href="http://koala-app.com/" title="undefined" target="">Koala</a>.</p>
 <p>Nur für das Kombinieren von JavaScript-Dateien habe ich bisher noch keine Lösung gefunden. Und deswegen habe ich mir einfach selbst eine gemacht: <strong>Miniphpy</strong></p>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, /wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, /wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>Durch das Web-Interface kannst du deine Dateien zu Bündel kombinieren. Um auf Dateien zu verweisen, kannst du entweder einen lokalen Pfad oder eine URI zu einer Datei angeben.</p>
 <p>Die Dateien werden dann, abhängig von der Reihenfolge, zusammgefügt und anschließend komprimiert.</p>
 <p>Hierbei kannst du wählen, ob die Komprimierung lokal (erfolgt mithilfe von Bibliotheken, die in Miniphpy enthalten sind) oder remote (dabei werden APIs der Komprimierungs-Dienste <a href="http://javascript-minifier.com/" title="undefined" target="_blank">http://javascript-minifier.com/</a> und <a href="http://cssminifier.com/" title="undefined" target="_blank">http://cssminifier.com/</a> verwendet) passieren soll.</p>
@@ -62,7 +62,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
+					<wfw:commentRss>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

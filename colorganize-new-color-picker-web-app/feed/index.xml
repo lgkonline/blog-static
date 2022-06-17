@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: colorganize is your new color picker web app	</title>
-	<atom:link href="https://blog-static.lgk.io/colorganize-new-color-picker-web-app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/colorganize-new-color-picker-web-app/</link>
+	<atom:link href="/colorganize-new-color-picker-web-app/feed/" rel="self" type="application/rss+xml" />
+	<link>/colorganize-new-color-picker-web-app/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 19 Sep 2014 07:33:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

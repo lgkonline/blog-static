@@ -9,8 +9,8 @@
 
 <channel>
 	<title>JavaScript &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/javascript/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 14 Apr 2022 10:01:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>JavaScript &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How I hacked Piskel and added a new feature for me</title>
-		<link>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
-					<comments>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
+		<link>/how-i-hacked-piskel-and-added-a-new-feature-for-me/</link>
+					<comments>/how-i-hacked-piskel-and-added-a-new-feature-for-me/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 11:15:00 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[pixel]]></category>
 		<category><![CDATA[tool]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2442</guid>
+		<guid isPermaLink="false">/?p=2442</guid>
 
 					<description><![CDATA[In this post I explain, how I used JavaScript to extend Piskel with a helpful feature.]]></description>
 										<content:encoded><![CDATA[
@@ -118,15 +118,15 @@ document.getElementById("lgkColorInput")
 <p>So if you would like to my new tool aswell, just install the extension and paste in my code and it should work. ^^</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-i-hacked-piskel-and-added-a-new-feature-for-me/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How I created a card game with Svelte</title>
-		<link>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/</link>
-					<comments>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/#respond</comments>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
@@ -141,22 +141,22 @@ document.getElementById("lgkColorInput")
 		<category><![CDATA[Web]]></category>
 		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
 
-					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
 
 
 
 <figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/2-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/3-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
 <figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
 
 
@@ -165,7 +165,7 @@ document.getElementById("lgkColorInput")
 
 
 
-<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/4-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
 
 
 
@@ -173,22 +173,22 @@ document.getElementById("lgkColorInput")
 
 
 
-<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/5-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
 
 
 
 <p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mach deinen Code prettier</title>
-		<link>https://blog-static.lgk.io/mach-deinen-code-prettier/</link>
-					<comments>https://blog-static.lgk.io/mach-deinen-code-prettier/#comments</comments>
+		<link>/mach-deinen-code-prettier/</link>
+					<comments>/mach-deinen-code-prettier/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 30 Sep 2021 14:01:00 +0000</pubDate>
@@ -202,9 +202,9 @@ document.getElementById("lgkColorInput")
 		<category><![CDATA[GitHub]]></category>
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[Uglify]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2222</guid>
+		<guid isPermaLink="false">/?p=2222</guid>
 
-					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="https://blog-static.lgk.io/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
+					<description><![CDATA[Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (') oder doppelte (")? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele? Innerhalb eines Projekts ist es auf jeden Fall angenehm, überall die gleiche Formatierung zu haben. Das sorgt für eine bessere Übersicht und&#8230; <a class="more-link" href="/mach-deinen-code-prettier/">Continue reading <span class="screen-reader-text">Mach deinen Code prettier</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Als Programmier:in entwickelt man mit der Zeit eine eigene Code-&#8220;Handschrift&#8221;. Benutzt du für Strings einfache Anführungszeichen (<code>'</code>) oder doppelte (<code>"</code>)? Benutzt du Semikolons? Benutzt du für Einrückungen Tabstopps oder Leerzeichen und wie viele?</p>
 
@@ -271,15 +271,15 @@ document.getElementById("lgkColorInput")
 <p>Was du in .prettierignore reinschreibst, ist stark von deinem jeweiligem Projekt abhängig. Grundsätzlich sollte da alles rein, was kompiliert wird (vielleicht build-Ordner).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/mach-deinen-code-prettier/feed/</wfw:commentRss>
+					<wfw:commentRss>/mach-deinen-code-prettier/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The code behind the new SP-Studio</title>
-		<link>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/</link>
-					<comments>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/#respond</comments>
+		<link>/the-code-behind-the-new-sp-studio/</link>
+					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
@@ -296,11 +296,11 @@ document.getElementById("lgkColorInput")
 		<category><![CDATA[south park]]></category>
 		<category><![CDATA[TypeScript]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2146</guid>
+		<guid isPermaLink="false">/?p=2146</guid>
 
 					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
 
 
 
@@ -348,7 +348,7 @@ document.getElementById("lgkColorInput")
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
 
 
 
@@ -569,7 +569,7 @@ export default SkiSki001</code></pre>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
 
 
 
@@ -592,15 +592,15 @@ export default SkiSki001</code></pre>
 <p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>If / else statement inside of React Component&#8217;s Render method</title>
-		<link>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/</link>
-					<comments>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/#respond</comments>
+		<link>/if-else-statement-inside-of-react-components-render-method/</link>
+					<comments>/if-else-statement-inside-of-react-components-render-method/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2017 09:50:11 +0000</pubDate>
@@ -615,9 +615,9 @@ export default SkiSki001</code></pre>
 		<category><![CDATA[JavaScript]]></category>
 		<category><![CDATA[React]]></category>
 		<category><![CDATA[React.js]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1993</guid>
+		<guid isPermaLink="false">/?p=1993</guid>
 
-					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
+					<description><![CDATA[Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods. You could do it like this: import React from "react"; class MyComponent extends React.Component { render() { return ( {"LGK" == "awesome" ? LGK is awesome! : LGK is not awesome :C } ); } } This works&#8230; <a class="more-link" href="/if-else-statement-inside-of-react-components-render-method/">Continue reading <span class="screen-reader-text">If / else statement inside of React Component&#8217;s Render method</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes (well, actually pretty often) you have to use conditional statements inside of React Component&#8217;s Render methods.</p>
 <p>You could do it like this:</p>
 <pre class="prettyprint lang-js">
@@ -656,15 +656,15 @@ class MyComponent extends React.Component {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
+					<wfw:commentRss>/if-else-statement-inside-of-react-components-render-method/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Node.js: Check if you are in debug or production mode</title>
-		<link>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/</link>
-					<comments>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
+		<link>/node-js-check-if-you-are-in-debug-or-production-mode/</link>
+					<comments>/node-js-check-if-you-are-in-debug-or-production-mode/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 10 May 2017 08:12:16 +0000</pubDate>
@@ -676,9 +676,9 @@ class MyComponent extends React.Component {
 		<category><![CDATA[Node.js]]></category>
 		<category><![CDATA[Production]]></category>
 		<category><![CDATA[Publish]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1983</guid>
+		<guid isPermaLink="false">/?p=1983</guid>
 
-					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
+					<description><![CDATA[Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it. For example you have to use another web service URL. Here is how can do it: var webApiUrl; if (process.env.NODE_ENV === "production") { // use in production webApiUrl = "http://myapp.online/awesome-app/api"; } else&#8230; <a class="more-link" href="/node-js-check-if-you-are-in-debug-or-production-mode/">Continue reading <span class="screen-reader-text">Node.js: Check if you are in debug or production mode</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Sometimes you have to use other values in a variable when your application is in production as if when you are debugging it.<br />
 For example you have to use another web service URL.</p>
 <p>Here is how can do it:</p>
@@ -697,15 +697,15 @@ else {
 <p>If you do it like me and use Webpack, you can start the debug mode with <code>webpack -d</code> and the production mode with <code>webpack -p</code>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
+					<wfw:commentRss>/node-js-check-if-you-are-in-debug-or-production-mode/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JS: Hide an element when clicking on somewhere else</title>
-		<link>https://blog-static.lgk.io/js-hide-an-element-when-clicking-on-somewhere-else/</link>
-					<comments>https://blog-static.lgk.io/js-hide-an-element-when-clicking-on-somewhere-else/#respond</comments>
+		<link>/js-hide-an-element-when-clicking-on-somewhere-else/</link>
+					<comments>/js-hide-an-element-when-clicking-on-somewhere-else/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 May 2017 10:54:39 +0000</pubDate>
@@ -714,23 +714,23 @@ else {
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[DOM]]></category>
 		<category><![CDATA[JavaScript]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1980</guid>
+		<guid isPermaLink="false">/?p=1980</guid>
 
 					<description><![CDATA[Hint: I used the functions removeClass() and addClass() to make things easier. You can find them on See the Pen Hide an element when clicking on somewhere else by Lars Gerrit Kliesing LGK (@lgkonline) on CodePen.]]></description>
-										<content:encoded><![CDATA[<p>Hint: I used the functions <code>removeClass()</code> and <code>addClass()</code> to make things easier. You can find them on <a href="https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/" title="undefined" target="null"></a></p>
+										<content:encoded><![CDATA[<p>Hint: I used the functions <code>removeClass()</code> and <code>addClass()</code> to make things easier. You can find them on <a href="/javascript-hasclass-addclass-removeclass-helper-functions/" title="undefined" target="null"></a></p>
 <p data-height="491" data-theme-id="0" data-slug-hash="rjorrw" data-default-tab="js,result" data-user="lgkonline" data-embed-version="2" data-pen-title="Hide an element when clicking on somewhere else" class="codepen">See the Pen <a href="http://codepen.io/lgkonline/pen/rjorrw/">Hide an element when clicking on somewhere else</a> by Lars Gerrit Kliesing LGK (<a href="http://codepen.io/lgkonline">@lgkonline</a>) on <a href="http://codepen.io/">CodePen</a>.</p>
 <p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/js-hide-an-element-when-clicking-on-somewhere-else/feed/</wfw:commentRss>
+					<wfw:commentRss>/js-hide-an-element-when-clicking-on-somewhere-else/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</title>
-		<link>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/</link>
-					<comments>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
+		<link>/javascript-hasclass-addclass-removeclass-helper-functions/</link>
+					<comments>/javascript-hasclass-addclass-removeclass-helper-functions/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 08 May 2017 10:52:16 +0000</pubDate>
@@ -740,9 +740,9 @@ else {
 		<category><![CDATA[DOM]]></category>
 		<category><![CDATA[Helper]]></category>
 		<category><![CDATA[JavaScript]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1977</guid>
+		<guid isPermaLink="false">/?p=1977</guid>
 
-					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
+					<description><![CDATA[If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you: function hasClass(el, className) { if (el.classList) return el.classList.contains(className); else return !!el.className.match(new RegExp('(\\s&#124;^)' + className + '(\\s&#124;$)')); } function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += " " + className; }&#8230; <a class="more-link" href="/javascript-hasclass-addclass-removeclass-helper-functions/">Continue reading <span class="screen-reader-text">JavaScript &#8220;hasClass()&#8221;, &#8220;addClass()&#8221;, &#8220;removeClass()&#8221; helper functions</span></a>]]></description>
 										<content:encoded><![CDATA[<p>If you&#8217;re like me and come from jQuery to pure JavaScript, these helper functions might be very helpful for you:</p>
 <pre class="prettyprint lang-js">
 function hasClass(el, className) {
@@ -768,15 +768,15 @@ function removeClass(el, className) {
 </pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
+					<wfw:commentRss>/javascript-hasclass-addclass-removeclass-helper-functions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Try to avoid loops in JavaScript for better performance</title>
-		<link>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/</link>
-					<comments>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
+		<link>/try-to-avoid-loops-in-javascript-for-better-performance/</link>
+					<comments>/try-to-avoid-loops-in-javascript-for-better-performance/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 03 Apr 2017 11:49:14 +0000</pubDate>
@@ -790,9 +790,9 @@ function removeClass(el, className) {
 		<category><![CDATA[UX]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[webdev]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1961</guid>
+		<guid isPermaLink="false">/?p=1961</guid>
 
-					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
+					<description><![CDATA[Use objects instead of arrays A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers. Here is a simple example: const exampleDataArray = [ { id: 8462943, name: "Google", url: "http://google.com/" }, { id: 9847323, name: "Amazon", url: "http://amazon.com/" }, { id: 938442934,&#8230; <a class="more-link" href="/try-to-avoid-loops-in-javascript-for-better-performance/">Continue reading <span class="screen-reader-text">Try to avoid loops in JavaScript for better performance</span></a>]]></description>
 										<content:encoded><![CDATA[<h1><small>Use objects instead of arrays</small></h1>
 <p>A benefit of objects is that you can directly call its children elements (properties) by name. While arrays only have index numbers.</p>
 <p>Here is a simple example:</p>
@@ -848,15 +848,15 @@ function getDataById(id) {
 <p>This way we can directly point to the item we want and don't have to use a loop.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
+					<wfw:commentRss>/try-to-avoid-loops-in-javascript-for-better-performance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</title>
-		<link>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
-					<comments>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
+		<link>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/</link>
+					<comments>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 31 Oct 2015 16:51:23 +0000</pubDate>
@@ -871,14 +871,14 @@ function getDataById(id) {
 		<category><![CDATA[LESS]]></category>
 		<category><![CDATA[Open Source]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1782</guid>
+		<guid isPermaLink="false">/?p=1782</guid>
 
-					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/logo.png 1174w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-300x90.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
-<p>In den Artikeln <a href="https://blog-static.lgk.io/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="https://blog-static.lgk.io/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
+					<description><![CDATA[In den Artikeln Traffic verringern: JavaScript-Dateien kombinieren und Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern. Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit&#8230; <a class="more-link" href="/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/">Continue reading <span class="screen-reader-text">Die komfortable Art, JavaScript- und CSS-Dateien zu kombinieren &#8212; mit Miniphpy</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="1174" height="351" src="/wp-content/uploads/2015/10/logo.png" alt="Miniphpy" class="alignnone size-full wp-image-1787 center-block img-responsive" style="max-width: 500px;" srcset="/wp-content/uploads/2015/10/logo.png 1174w, /wp-content/uploads/2015/10/logo-300x90.png 300w, /wp-content/uploads/2015/10/logo-1024x306.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+<p>In den Artikeln <a href="/traffic-verringern-teil-2-javascript-dateien-kombinieren/" title="undefined" target="">Traffic verringern: JavaScript-Dateien kombinieren</a> und <a href="/website-gestaltung-beschleunigung-durch-kombinieren-von-css-dateien/" title="undefined" target="">Website-Gestaltung: Beschleunigung durch Kombinieren von CSS-Dateien</a> bin ich bereits darauf eingegangen, dass es Sinn macht, bei Web-Projekten CSS- und JavaScript-Dateien zusammenzufassen, um mehrfaches Abfragen einzelner Dateien zu verhindern.</p>
 <p>Verwendet man CSS Pre-Prozessoren wie LESS oder Sass, ist es ziemlich einfach, seine Stylesheets zu kombinieren. Seit einiger Zeit nutze ich für das Kompilieren von LESS-Dateien die Anwendung <a href="http://koala-app.com/" title="undefined" target="">Koala</a>.</p>
 <p>Nur für das Kombinieren von JavaScript-Dateien habe ich bisher noch keine Lösung gefunden. Und deswegen habe ich mir einfach selbst eine gemacht: <strong>Miniphpy</strong></p>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="/wp-content/uploads/2015/10/miniphpy-screenshot.png"><img src="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png" alt="miniphpy-screenshot" width="500" class="alignleft size-medium wp-image-1799 img-responsive" srcset="/wp-content/uploads/2015/10/miniphpy-screenshot-1024x799.png 1024w, /wp-content/uploads/2015/10/miniphpy-screenshot-300x234.png 300w, /wp-content/uploads/2015/10/miniphpy-screenshot.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>Durch das Web-Interface kannst du deine Dateien zu Bündel kombinieren. Um auf Dateien zu verweisen, kannst du entweder einen lokalen Pfad oder eine URI zu einer Datei angeben.</p>
 <p>Die Dateien werden dann, abhängig von der Reihenfolge, zusammgefügt und anschließend komprimiert.</p>
 <p>Hierbei kannst du wählen, ob die Komprimierung lokal (erfolgt mithilfe von Bibliotheken, die in Miniphpy enthalten sind) oder remote (dabei werden APIs der Komprimierungs-Dienste <a href="http://javascript-minifier.com/" title="undefined" target="_blank">http://javascript-minifier.com/</a> und <a href="http://cssminifier.com/" title="undefined" target="_blank">http://cssminifier.com/</a> verwendet) passieren soll.</p>
@@ -888,7 +888,7 @@ function getDataById(id) {
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
+					<wfw:commentRss>/die-komfortable-art-javascript-und-css-dateien-zu-kombinieren-mit-miniphpy/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

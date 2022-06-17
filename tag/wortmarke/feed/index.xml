@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wortmarke &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/wortmarke/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/wortmarke/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 31 Jul 2014 17:55:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Wortmarke &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neues Logo für startmon</title>
-		<link>https://blog-static.lgk.io/neues-logo-fuer-startmon/</link>
-					<comments>https://blog-static.lgk.io/neues-logo-fuer-startmon/#comments</comments>
+		<link>/neues-logo-fuer-startmon/</link>
+					<comments>/neues-logo-fuer-startmon/#comments</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 31 Jul 2014 17:21:28 +0000</pubDate>
@@ -47,11 +47,11 @@
 		<category><![CDATA[Wortmarke]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1144</guid>
 
-					<description><![CDATA[Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte. Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat. Es besteht nun aus einer Bild- und einer Wortmarke. Die Idee hinter der&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-logo-fuer-startmon/">Continue reading <span class="screen-reader-text">Neues Logo für startmon</span></a>]]></description>
+					<description><![CDATA[Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte. Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat. Es besteht nun aus einer Bild- und einer Wortmarke. Die Idee hinter der&#8230; <a class="more-link" href="/neues-logo-fuer-startmon/">Continue reading <span class="screen-reader-text">Neues Logo für startmon</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-caption thumbnail">
-<a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png" alt="Neues startmon-Logo" width="1000" height="212" class="aligncenter size-full wp-image-1146 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-neues-logo.png 1000w, https://blog-static.lgk.io/wp-content/uploads/2014/07/startmon-neues-logo-300x63.png 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
+<a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/startmon-neues-logo.png" alt="Neues startmon-Logo" width="1000" height="212" class="aligncenter size-full wp-image-1146 img-responsive" srcset="/wp-content/uploads/2014/07/startmon-neues-logo.png 1000w, /wp-content/uploads/2014/07/startmon-neues-logo-300x63.png 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
 </div>
-<figure id="attachment_1150" aria-describedby="caption-attachment-1150" style="width: 150px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon-150x150.png" alt="Altes Logo" width="150" height="150" class="size-thumbnail wp-image-1150" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/favicon-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2014/07/favicon.png 265w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption id="caption-attachment-1150" class="wp-caption-text">Das ehemalige Logo</figcaption></figure>
+<figure id="attachment_1150" aria-describedby="caption-attachment-1150" style="width: 150px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon.png"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/favicon-150x150.png" alt="Altes Logo" width="150" height="150" class="size-thumbnail wp-image-1150" srcset="/wp-content/uploads/2014/07/favicon-150x150.png 150w, /wp-content/uploads/2014/07/favicon.png 265w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption id="caption-attachment-1150" class="wp-caption-text">Das ehemalige Logo</figcaption></figure>
 <p>Das bisherige Logo für startmon war eher provisorisch gedacht. Vor allem, weil ich mir noch nicht sicher war, ob der Name bestehen bleiben sollte.</p>
 <p>Nun habe ich mich aber dran gesetzt und ein neues Logo kreiert. Und oben seht ihr das Resultat.</p>
 <p>Es besteht nun aus einer Bild- und einer Wortmarke.</p>
@@ -63,7 +63,7 @@
 <p>Die Wortmarke wird in der Standard-Schriftart Roboto dargestellt. Diese wird auch innerhalb vom Dienst verwendet. Die Farbe kann je nach Einsatzort variieren.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neues-logo-fuer-startmon/feed/</wfw:commentRss>
+					<wfw:commentRss>/neues-logo-fuer-startmon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

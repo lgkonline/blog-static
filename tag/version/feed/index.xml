@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Version &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/version/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/version/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 10 Jul 2013 13:19:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Version &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Neue Version von orange css</title>
-		<link>https://blog-static.lgk.io/neue-version-von-orange-css/</link>
-					<comments>https://blog-static.lgk.io/neue-version-von-orange-css/#respond</comments>
+		<link>/neue-version-von-orange-css/</link>
+					<comments>/neue-version-von-orange-css/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2013 13:19:01 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[Version]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=828</guid>
 
-					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="https://blog-static.lgk.io/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
+					<description><![CDATA[Der CSS-Standard orange css wurde nun aktualisiert. Es gibt zwei neue Definitionen und zwei weitere Verbesserungen. Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden. Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgeschickt, erscheint eine Info-Box, gab es ein Problem erscheint eine Fehler-Box. Außerdem wurden die Tags &#60;code&#62; und&#8230; <a class="more-link" href="/neue-version-von-orange-css/">Continue reading <span class="screen-reader-text">Neue Version von orange css</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_829" aria-describedby="caption-attachment-829" style="width: 300px" class="wp-caption alignleft"><a href="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg" alt="Alle Neuerungen auf einem Blick." width="300" height="182" class="size-medium wp-image-829" srcset="/wp-content/uploads/2013/07/orange-css-1-1-300x182.jpg 300w, /wp-content/uploads/2013/07/orange-css-1-1.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-829" class="wp-caption-text">Alle Neuerungen auf einem Blick.</figcaption></figure>
 <p>Der CSS-Standard orange css wurde nun aktualisiert.</p>
 <p>Es gibt zwei neue Definitionen und zwei weitere Verbesserungen.</p>
 <p>Mit den Klassen &#8220;info-box&#8221; und &#8220;error-box&#8221; können nun Benachrichtigungs-Boxen erstellt werden.<br />
@@ -59,15 +59,15 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 <p>Wer orange css per Einbindung nutzt, braucht nichts zu ändern. Wer den Stylesheet runtergeladen hat, sollte sich die neueste Version von der Website runterladen: <a href="http://orange-css.tk/" target="_blank">orange-css.tk</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neue-version-von-orange-css/feed/</wfw:commentRss>
+					<wfw:commentRss>/neue-version-von-orange-css/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LGK Start 10.1 Final ist fertig</title>
-		<link>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/</link>
-					<comments>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/#respond</comments>
+		<link>/lgk-start-10-1-final-ist-fertig/</link>
+					<comments>/lgk-start-10-1-final-ist-fertig/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 29 Jun 2013 15:40:29 +0000</pubDate>
@@ -90,7 +90,7 @@ Das eignet sich z.B. Formularen sehr gut. Wurde das Formular erfolgreich abgesch
 <p><iframe loading="lazy" class="box" src="http://lgkonline.de/files/start_new/Presentation.html" width="883px" height="450px" frameborder="0"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/lgk-start-10-1-final-ist-fertig/feed/</wfw:commentRss>
+					<wfw:commentRss>/lgk-start-10-1-final-ist-fertig/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

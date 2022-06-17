@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Link-Tipp: Blog über Entwicklung von Windows 8	</title>
-	<atom:link href="https://blog-static.lgk.io/link-tipp-blog-uber-entwicklung-von-windows-8/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/link-tipp-blog-uber-entwicklung-von-windows-8/</link>
+	<atom:link href="/link-tipp-blog-uber-entwicklung-von-windows-8/feed/" rel="self" type="application/rss+xml" />
+	<link>/link-tipp-blog-uber-entwicklung-von-windows-8/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 23 Aug 2011 19:40:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sprache &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/sprache/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/sprache/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 16 Jun 2013 17:20:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Sprache &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Aktueller Stand der LGK Start Open Build</title>
-		<link>https://blog-static.lgk.io/aktueller-stand-der-lgk-start-open-build/</link>
-					<comments>https://blog-static.lgk.io/aktueller-stand-der-lgk-start-open-build/#respond</comments>
+		<link>/aktueller-stand-der-lgk-start-open-build/</link>
+					<comments>/aktueller-stand-der-lgk-start-open-build/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 16 Jun 2013 17:20:01 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[Suche]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=747</guid>
 
-					<description><![CDATA[Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert. Es werden regelmäßig Meilensteine der Entwicklung online gestellt. Neu bei der Version 10.0.2 Open Build sind folgende Dinge: Neue Such-Methode Deutsche und englische Sprache Neue Such-Methode Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert. Aber&#8230; <a class="more-link" href="https://blog-static.lgk.io/aktueller-stand-der-lgk-start-open-build/">Continue reading <span class="screen-reader-text">Aktueller Stand der LGK Start Open Build</span></a>]]></description>
+					<description><![CDATA[Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert. Es werden regelmäßig Meilensteine der Entwicklung online gestellt. Neu bei der Version 10.0.2 Open Build sind folgende Dinge: Neue Such-Methode Deutsche und englische Sprache Neue Such-Methode Optisch hat sich die neue Suche seit der vorherigen Open Build nicht geändert. Aber&#8230; <a class="more-link" href="/aktueller-stand-der-lgk-start-open-build/">Continue reading <span class="screen-reader-text">Aktueller Stand der LGK Start Open Build</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Seit dem Blog-Eintrag haben sich einige Dinge an der nächsten Version von LGK Start geändert.</p>
 <p>Es werden regelmäßig Meilensteine der Entwicklung online gestellt.</p>
 <p>Neu bei der Version 10.0.2 Open Build sind folgende Dinge:</p>
@@ -72,7 +72,7 @@ Die englische Version kann auch durch diese Adresse aufgerufen werden:<br />
 <a href="http://lgkonline.de/start_new?lang=eng" target="_blank">lgkonline.de/start_new?lang=eng</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/aktueller-stand-der-lgk-start-open-build/feed/</wfw:commentRss>
+					<wfw:commentRss>/aktueller-stand-der-lgk-start-open-build/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

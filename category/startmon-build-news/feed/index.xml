@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Startmon Build-News &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/startmon-build-news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/startmon-build-news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 07 Mar 2016 20:52:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Startmon Build-News &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Startmon 12.7</title>
-		<link>https://blog-static.lgk.io/startmon-12-7/</link>
-					<comments>https://blog-static.lgk.io/startmon-12-7/#respond</comments>
+		<link>/startmon-12-7/</link>
+					<comments>/startmon-12-7/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2016 20:52:22 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1878</guid>
+		<guid isPermaLink="false">/?p=1878</guid>
 
 					<description><![CDATA[Umstellung auf HTTPS. &#8220;Links bearbeiten&#8221;-Menüpunk in Link-Listen hinzugefügt.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -45,20 +45,20 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-12-7/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-12-7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon 12.6.*</title>
-		<link>https://blog-static.lgk.io/startmon-12-6/</link>
-					<comments>https://blog-static.lgk.io/startmon-12-6/#respond</comments>
+		<link>/startmon-12-6/</link>
+					<comments>/startmon-12-6/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 25 Feb 2016 18:30:20 +0000</pubDate>
 				<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1875</guid>
+		<guid isPermaLink="false">/?p=1875</guid>
 
 					<description><![CDATA[&#8220;Angemeldet bleiben&#8221; Bug wurde behoben. Datenbank-Anfragen wurden auf PHP 7 angepasst. Nach der Registrierung wird man automatisch eingeloggt. Weitere Anpassungen für PHP 7. Der Webserver wurde auf PHP 7 umgestellt.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -70,15 +70,15 @@
 <p>Der Webserver wurde auf PHP 7 umgestellt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-12-6/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-12-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon 11.13</title>
-		<link>https://blog-static.lgk.io/startmon-11-13/</link>
-					<comments>https://blog-static.lgk.io/startmon-11-13/#respond</comments>
+		<link>/startmon-11-13/</link>
+					<comments>/startmon-11-13/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 26 Sep 2015 20:37:34 +0000</pubDate>
@@ -87,7 +87,7 @@
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1738</guid>
+		<guid isPermaLink="false">/?p=1738</guid>
 
 					<description><![CDATA[Link-Listen können nun schneller über neuer Oberfläche bearbeitet werden. &#8220;Bearbeitungs-Modus&#8221; gibt es nicht mehr. Bearbeitung erfolgt nun direkt von der Startseite aus. Startmon-Logo wird in Form einer SVG dargestellt. Neues Lade-Symbol für Ajax-Anfragen. Glyphicon Webfonts aus Bootstrap werden durch eigene Webfonts ersetzt. Weitere optische Kleinigkeiten&#8230;]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -100,15 +100,15 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-11-13/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-11-13/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</title>
-		<link>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
-					<comments>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
+		<link>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
+					<comments>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 19 Sep 2015 15:59:54 +0000</pubDate>
@@ -118,10 +118,10 @@
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1726</guid>
+		<guid isPermaLink="false">/?p=1726</guid>
 
-					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png 900w, https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2015/09/Screenshot-1.png 900w, /wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
 <h4>Startmon v11.11</h4>
 <p>Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen.</p>
 <p>Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &raquo; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;.</p>
@@ -129,15 +129,15 @@
 Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir per <a href="//about.lgkonline.com/kontakt">Kontakt</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
+					<wfw:commentRss>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.10 Changelog</title>
-		<link>https://blog-static.lgk.io/startmon-v11-10-changelog/</link>
-					<comments>https://blog-static.lgk.io/startmon-v11-10-changelog/#respond</comments>
+		<link>/startmon-v11-10-changelog/</link>
+					<comments>/startmon-v11-10-changelog/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2015 18:31:07 +0000</pubDate>
@@ -145,7 +145,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1722</guid>
+		<guid isPermaLink="false">/?p=1722</guid>
 
 					<description><![CDATA[News Feeds wurden ins System integriert, sodass im nächsten Schritt eine Konfiguration seitens des Nutzers möglich sein soll. Bixxel und Bixxel Design wurden als News-Quellen hinzugefügt. Doppelte Datenbank-Aufrufe wurden unterbunden um so Traffic zu sparen.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -155,15 +155,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-10-changelog/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-v11-10-changelog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.8</title>
-		<link>https://blog-static.lgk.io/startmon-v11-8/</link>
-					<comments>https://blog-static.lgk.io/startmon-v11-8/#respond</comments>
+		<link>/startmon-v11-8/</link>
+					<comments>/startmon-v11-8/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 31 May 2015 14:18:21 +0000</pubDate>
@@ -171,7 +171,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1675</guid>
+		<guid isPermaLink="false">/?p=1675</guid>
 
 					<description><![CDATA[startmon.lgk.io/wish: Ein Board, wo Vorschläge zu neuen Inhalten gemacht werden können. Umstellung der Schriftart auf Source Sans Pro. Login mit Twitter ist nun möglich.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -181,22 +181,22 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-8/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-v11-8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.7</title>
-		<link>https://blog-static.lgk.io/startmon-v11-7/</link>
-					<comments>https://blog-static.lgk.io/startmon-v11-7/#respond</comments>
+		<link>/startmon-v11-7/</link>
+					<comments>/startmon-v11-7/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 29 May 2015 18:10:25 +0000</pubDate>
 				<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1672</guid>
+		<guid isPermaLink="false">/?p=1672</guid>
 
 					<description><![CDATA[Wechsel der Entwicklungsumgebung auf Visual Studio 2013. Deutlich effizientere Weise, neue Versionen zu veröffentlichen. Detail-Änderungen am Startmon News Feed.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -206,15 +206,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-7/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-v11-7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon v11.6</title>
-		<link>https://blog-static.lgk.io/startmon-v11-6/</link>
-					<comments>https://blog-static.lgk.io/startmon-v11-6/#respond</comments>
+		<link>/startmon-v11-6/</link>
+					<comments>/startmon-v11-6/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 28 May 2015 18:59:03 +0000</pubDate>
@@ -222,7 +222,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1657</guid>
+		<guid isPermaLink="false">/?p=1657</guid>
 
 					<description><![CDATA[&#8220;Beta&#8221; wird ab sofort weggelassen. Startmon ist nun unter http://startmon.lgk.io/ erreichbar. Komprimierung von JS via uglifyjs. Startmon News Feed eingeführt.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -232,15 +232,15 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-v11-6/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-v11-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Beta 11.5</title>
-		<link>https://blog-static.lgk.io/beta-11-5/</link>
-					<comments>https://blog-static.lgk.io/beta-11-5/#respond</comments>
+		<link>/beta-11-5/</link>
+					<comments>/beta-11-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 25 May 2015 15:03:20 +0000</pubDate>
@@ -248,7 +248,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Development]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1653</guid>
+		<guid isPermaLink="false">/?p=1653</guid>
 
 					<description><![CDATA[Link-Listen-Symbole wurden auf Font-Icons umgestellt. Breite der Suchleiste passt sich dynamisch an der Breite der Such-Tabs an. Beim Freilassen des Titeln beim Hinzufügen neuer Links, wird versucht den Titel anhand der URL abzurufen.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -258,21 +258,21 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/beta-11-5/feed/</wfw:commentRss>
+					<wfw:commentRss>/beta-11-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Beta 11.4</title>
-		<link>https://blog-static.lgk.io/beta-11-4/</link>
-					<comments>https://blog-static.lgk.io/beta-11-4/#respond</comments>
+		<link>/beta-11-4/</link>
+					<comments>/beta-11-4/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 06 May 2015 06:37:33 +0000</pubDate>
 				<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1557</guid>
+		<guid isPermaLink="false">/?p=1557</guid>
 
 					<description><![CDATA[Bug bezüglich dem Edit-Modus behoben.]]></description>
 										<content:encoded><![CDATA[<ul>
@@ -280,7 +280,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/beta-11-4/feed/</wfw:commentRss>
+					<wfw:commentRss>/beta-11-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

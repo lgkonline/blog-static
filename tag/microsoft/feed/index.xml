@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Microsoft &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 24 Aug 2012 18:27:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Microsoft &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Microsoft präsentiert neues Logo</title>
-		<link>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/</link>
-					<comments>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/#respond</comments>
+		<link>/microsoft-prasentiert-neues-logo/</link>
+					<comments>/microsoft-prasentiert-neues-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 24 Aug 2012 18:27:43 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=532</guid>
 
-					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
+					<description><![CDATA[Microsoft präsentiert mit einem Image-Video ihr neues Logo. Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold. Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist&#8230; <a class="more-link" href="/microsoft-prasentiert-neues-logo/">Continue reading <span class="screen-reader-text">Microsoft präsentiert neues Logo</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_533" aria-describedby="caption-attachment-533" style="width: 300px" class="wp-caption alignleft"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg" alt="" title="Neues Microsoft-Logo" width="300" height="110" class="size-medium wp-image-533" srcset="/wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0-300x110.jpg 300w, /wp-content/uploads/2012/08/4162.Microsoft_Logo-for-screen.jpg-450x0.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-533" class="wp-caption-text">Quelle: blogs.technet.com</figcaption></figure>
 <p>Microsoft präsentiert mit einem Image-Video ihr neues Logo.</p>
 <p>Im Grunde ist es das alte Windows-Logo: Vier Quadrate mit den Farben rot, grün, blau und gelb. Daneben ein Microsoft-Schriftzug in Segoe UI Bold.</p>
 <p>Das bisherige Logo wird nun seit 25 Jahren verwendet. Jetzt wo Microsoft mit dem Surface auch unter eigenem Namen PCs produzieren will, ist ein neues Logo auch nötig, da das alte einfach nicht mehr zum Kachel-Design passte.</p>
@@ -65,15 +65,15 @@
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>/microsoft-prasentiert-neues-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Windows 8: Erste Test-Version veröffentlicht</title>
-		<link>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/</link>
-					<comments>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/#respond</comments>
+		<link>/windows-8-erste-test-version-veroffentlicht/</link>
+					<comments>/windows-8-erste-test-version-veroffentlicht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2011 18:01:38 +0000</pubDate>
@@ -87,8 +87,8 @@
 		<category><![CDATA[Windows 8]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=254</guid>
 
-					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/09/windows8-preview.jpg 468w, https://blog-static.lgk.io/wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
+					<description><![CDATA[Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt. Außerdem kann seit dem jeder eine Vorabversion ausprobieren. Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.&#8230; <a class="more-link" href="/windows-8-erste-test-version-veroffentlicht/">Continue reading <span class="screen-reader-text">Windows 8: Erste Test-Version veröffentlicht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_255" aria-describedby="caption-attachment-255" style="width: 268px" class="wp-caption alignright"><img src="http://lgkclub.de.vu/wp-content/uploads/2011/09/windows8-preview.jpg" alt="" title="windows8-preview" width="268" class="size-full wp-image-255" srcset="/wp-content/uploads/2011/09/windows8-preview.jpg 468w, /wp-content/uploads/2011/09/windows8-preview-300x168.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption id="caption-attachment-255" class="wp-caption-text">Das Desktop bald nur noch als App? (Quelle: chip.de)</figcaption></figure>Gestern bei der BUILD-Konferenz hat Microsoft die ersten (offiziellen) Bilder vom kommendem Betriebssystem Windows 8 gezeigt.<br />
 Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
 <p>Da es sich dabei aber noch nicht mal um eine Beta-Version handelt, ist es nicht ratsam, diese Version bereits an einem &#8220;Hauptrechner&#8221; zu testen, da es beispielsweise zu Systemabstürze kommen kann.<span id="more-254"></span></p>
 <p>CHIP Online war schnell und es ist bereits jetzt ein Test-Video verfügbar:</p>
@@ -100,7 +100,7 @@ Außerdem kann seit dem jeder eine Vorabversion ausprobieren.</p>
 Windows 8 scheint hauptsächlich für Tablet-PCs gemacht zu sein. Ich werde also wohl erst mal bis zur Beta warten.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
+					<wfw:commentRss>/windows-8-erste-test-version-veroffentlicht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

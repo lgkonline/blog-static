@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LGK &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/lgk-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/lgk-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:39:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>LGK &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How I created a card game with Svelte</title>
-		<link>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/</link>
-					<comments>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/#respond</comments>
+		<link>/how-i-created-a-card-game-with-svelte/</link>
+					<comments>/how-i-created-a-card-game-with-svelte/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Mar 2022 18:18:00 +0000</pubDate>
@@ -45,22 +45,22 @@
 		<category><![CDATA[Web]]></category>
 		<guid isPermaLink="false">http://localhost:8080/?p=2281</guid>
 
-					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
+					<description><![CDATA[It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I&#8230; <a class="more-link" href="/how-i-created-a-card-game-with-svelte/">Continue reading <span class="screen-reader-text">How I created a card game with Svelte</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>It’s kinda a tradition for me to use my Christmas holidays for a fun little project. Since Svelte became more and more a thing, so I wanted to do try it in practice myself. I also heard that SvelteKit is pretty popular in the community, so I decided to is as a framework. Because I already knew Vercel from previous side projects, I was very happy that it is supporting deploying SvelteKit projects. Vercel is awesome, because you don’t have to care too much about publishing web apps. I just had to put my code on GitHub and connect it to Vercel. Each time when I push to the main branch, a new version will also be deployed automatically. Vercel also allows me to use my own sub-domain, so I could use&nbsp;<a rel="noreferrer noopener" href="https://skip-it.lgk.io/" target="_blank">skip-it.lgk.io</a>. I also created my game as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/progressive-web-apps/" target="_blank">Progressive Web App (PWA)</a>, what makes it look and behave like an installable app, it even works offline!</p>
 
 
 
 <figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/1.png"><img data-id="2317"  src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-2317"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/2.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/2-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/2.png"><img loading="lazy" width="630" height="630" data-id="2318"  src="/wp-content/uploads/2022/03/2.png" alt="" class="wp-image-2318" srcset="/wp-content/uploads/2022/03/2.png 630w, /wp-content/uploads/2022/03/2-300x300.png 300w, /wp-content/uploads/2022/03/2-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/3.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/3-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/3.png"><img loading="lazy" width="630" height="630" data-id="2319"  src="/wp-content/uploads/2022/03/3.png" alt="" class="wp-image-2319" srcset="/wp-content/uploads/2022/03/3.png 630w, /wp-content/uploads/2022/03/3-300x300.png 300w, /wp-content/uploads/2022/03/3-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a></figure>
 <figcaption class="blocks-gallery-caption">How the looks the PWA on a phone. The app supports light and dark mode!</figcaption></figure>
 
 
@@ -69,7 +69,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/4.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/4-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/4.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/4.png" alt="" class="wp-image-2329" srcset="/wp-content/uploads/2022/03/4.png 630w, /wp-content/uploads/2022/03/4-300x300.png 300w, /wp-content/uploads/2022/03/4-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>Skip it! also looks good on iPads and tablets</figcaption></figure>
 
 
 
@@ -77,21 +77,21 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/5.png 630w, https://blog-static.lgk.io/wp-content/uploads/2022/03/5-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2022/03/5.png"><img loading="lazy" width="630" height="630" src="/wp-content/uploads/2022/03/5.png" alt="" class="wp-image-2330" srcset="/wp-content/uploads/2022/03/5.png 630w, /wp-content/uploads/2022/03/5-300x300.png 300w, /wp-content/uploads/2022/03/5-150x150.png 150w" sizes="(max-width: 630px) 100vw, 630px" /></a><figcaption>With the right browser (Chrome, Edge) you can also install PWAs on PCs.</figcaption></figure>
 
 
 
 <p>Right now you can play against 3 players. I also thought about if you could play against real players.&nbsp;<a rel="noreferrer noopener" href="https://vercel.com/docs/concepts/solutions/realtime" target="_blank">There are multiple ways to realise such realtime actions</a>. Maybe I will implement it next holidays. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-i-created-a-card-game-with-svelte/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The new design for my (this) blog</title>
-		<link>https://blog-static.lgk.io/the-new-design-for-my-this-blog/</link>
+		<link>/the-new-design-for-my-this-blog/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 09 Mar 2022 16:08:00 +0000</pubDate>
@@ -106,9 +106,9 @@
 		<category><![CDATA[look]]></category>
 		<category><![CDATA[theme]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2416</guid>
+		<guid isPermaLink="false">/?p=2416</guid>
 
-					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="https://blog-static.lgk.io/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
+					<description><![CDATA[Well, actually it’s already been a while since I launched this new design (October 2021 &#x1f605;), but without any comment. But I think it’s not too late to still write a little post about it. The goal: make the blog look like the rest of lgk.io The blog runs with WordPress and now with a&#8230; <a class="more-link" href="/the-new-design-for-my-this-blog/">Continue reading <span class="screen-reader-text">The new design for my (this) blog</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Well, actually it’s already been a while since I launched this new design (October 2021 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" />), but without any comment.</p>
 
@@ -126,7 +126,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img loading="lazy" width="1024" height="680" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48.png"><img loading="lazy" width="1024" height="680" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png" alt="" class="wp-image-2314" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1024x680.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-300x199.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-768x510.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1536x1020.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-2048x1360.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-15.38.48-1568x1042.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Previous look with Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48.png"><img loading="lazy" width="1024" height="608" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png" alt="" class="wp-image-2316" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1024x608.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-300x178.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-768x456.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1536x912.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-2048x1215.png 2048w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-09-um-07.56.48-1568x931.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>This is how the blog looked like until I switched to Twenty Twenty-One</figcaption></figure>
 
 
 
@@ -154,15 +154,15 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png" alt="" class="wp-image-2315" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.12.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The new search component on the start page</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, https://blog-static.lgk.io/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png"><img loading="lazy" width="1024" height="502" src="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png" alt="" class="wp-image-2328" srcset="/wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1024x502.png 1024w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-300x147.png 300w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-768x377.png 768w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1536x753.png 1536w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26-1568x769.png 1568w, /wp-content/uploads/2022/03/Bildschirmfoto-2022-03-08-um-16.02.26.png 1966w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Search bar appears when you click on the magnifying glass icon</figcaption></figure>
 
 
 
-<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (https://blog-static.lgk.io/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
+<p>This was actually a more difficult because I had to use some JavaScript here. I started coding the search bar on my portfolio and then brought it to the blog theme as a small React app only for the search bar. The search bar is just executing a simple WordPress search request (/?s=<strong>my+request</strong>). Right now, the request only shows results from my blog. It would be awesome, to also show results from my portfolio site. Maybe I will bring that in the future when I have time. ^^</p>
 ]]></content:encoded>
 					
 		
@@ -170,7 +170,7 @@
 			</item>
 		<item>
 		<title>Updated layout for my website</title>
-		<link>https://blog-static.lgk.io/updated-layout-for-my-website/</link>
+		<link>/updated-layout-for-my-website/</link>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 25 Jun 2021 20:54:40 +0000</pubDate>
@@ -185,9 +185,9 @@
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[grid]]></category>
 		<category><![CDATA[mobile-first]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2213</guid>
+		<guid isPermaLink="false">/?p=2213</guid>
 
-					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="https://blog-static.lgk.io/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
+					<description><![CDATA[I just finished some redesigning for my website lgk.io. Before the update: After the update: I now use display: grid; to show the latest blog post link next to my introduction card. This way, I waste less space and the user can see more, the links to the featured apps are visible again on the&#8230; <a class="more-link" href="/updated-layout-for-my-website/">Continue reading <span class="screen-reader-text">Updated layout for my website</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>I just finished some redesigning for my website <a href="https://lgk.io/" target="_blank" rel="noreferrer noopener">lgk.io</a>.</p>
 
@@ -198,11 +198,11 @@
 
 
 <figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png"><img data-id="2214"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.08-1024x614.png" alt="" class="wp-image-2214"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png"><img data-id="2215"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.42.39-1024x614.png" alt="" class="wp-image-2215"/></a></figure>
 </figure>
 
 
@@ -212,11 +212,11 @@
 
 
 <figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png"><img data-id="2217"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.28-1024x614.png" alt="" class="wp-image-2217"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="https://blog-static.lgk.io/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png"><img data-id="2216"  src="/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-25-um-22.43.11-1024x614.png" alt="" class="wp-image-2216"/></a></figure>
 </figure>
 
 
@@ -237,8 +237,8 @@
 			</item>
 		<item>
 		<title>The code behind the new SP-Studio</title>
-		<link>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/</link>
-					<comments>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/#respond</comments>
+		<link>/the-code-behind-the-new-sp-studio/</link>
+					<comments>/the-code-behind-the-new-sp-studio/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 20 Dec 2020 15:39:52 +0000</pubDate>
@@ -255,11 +255,11 @@
 		<category><![CDATA[south park]]></category>
 		<category><![CDATA[TypeScript]]></category>
 		<category><![CDATA[Web Design]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=2146</guid>
+		<guid isPermaLink="false">/?p=2146</guid>
 
 					<description><![CDATA[About the code and workflow behind the new SP-Studio.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/blog_sp-studio-remake_itemoptions.jpg" alt="SP-Studio screenshot" class="wp-image-2149" width="500" height="500"/></figure></div>
 
 
 
@@ -307,7 +307,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/SP-Studio.png"><img src="/wp-content/uploads/2020/12/SP-Studio.png" alt="" class="wp-image-2167"/></a><figcaption>The default body asset and its default color tones</figcaption></figure>
 
 
 
@@ -528,7 +528,7 @@ export default SkiSki001</code></pre>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="https://blog-static.lgk.io/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53.png"><img src="/wp-content/uploads/2020/12/Bildschirmfoto-2020-12-18-um-11.21.53-1024x542.png" alt="" class="wp-image-2165"/></a><figcaption>Vercel deploys and hosts for each change pushed to GitHub</figcaption></figure>
 
 
 
@@ -551,15 +551,15 @@ export default SkiSki001</code></pre>
 <p>The app will evolve with the time. We plan to publish a big update with more features early 2021. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f607.png" alt="😇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
+					<wfw:commentRss>/the-code-behind-the-new-sp-studio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tumblr Bilder schneller im Vollbild betrachten</title>
-		<link>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
-					<comments>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
+		<link>/tumblr-bilder-schneller-im-vollbild-betrachten/</link>
+					<comments>/tumblr-bilder-schneller-im-vollbild-betrachten/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Apr 2016 15:20:34 +0000</pubDate>
@@ -573,24 +573,24 @@ export default SkiSki001</code></pre>
 		<category><![CDATA[Service]]></category>
 		<category><![CDATA[Tools]]></category>
 		<category><![CDATA[Tumblr]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1883</guid>
+		<guid isPermaLink="false">/?p=1883</guid>
 
-					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage.png 600w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
+					<description><![CDATA[Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen. Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^ Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die&#8230; <a class="more-link" href="/tumblr-bilder-schneller-im-vollbild-betrachten/">Continue reading <span class="screen-reader-text">Tumblr Bilder schneller im Vollbild betrachten</span></a>]]></description>
+										<content:encoded><![CDATA[<p><figure id="attachment_1885" aria-describedby="caption-attachment-1885" style="width: 600px" class="wp-caption alignleft"><img loading="lazy" src="/wp-content/uploads/2016/04/showTumblrImage.png" alt="Tumblr-Bilder schneller in ganzer Pracht betrachten" width="600" height="600" class="size-full wp-image-1885" srcset="/wp-content/uploads/2016/04/showTumblrImage.png 600w, /wp-content/uploads/2016/04/showTumblrImage-150x150.png 150w, /wp-content/uploads/2016/04/showTumblrImage-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-1885" class="wp-caption-text">Tumblr-Bilder schneller in ganzer Pracht betrachten</figcaption></figure>Beim Stöbern durch Tumblr-Blogs spürst du vielleicht häufig das Verlangen, ein Bild in der vollen Dimension anzusehen.<br />
 Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bild zu kommen kann schon mal zu einem Krampf führen. ^^</p>
 <p>Deswegen habe ich für dieses Problem einen kleinen Service entwickelt. Dort gibst du die URL des Tumblr-Posts ein und du wirst direkt auf die Vollansicht weitergeleitet.</p>
 <p><a href="http://lgk.io/show-tumblr-image" class="btn btn-primary btn-lg" target="">lgk.io/show-tumblr-image</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
+					<wfw:commentRss>/tumblr-bilder-schneller-im-vollbild-betrachten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</title>
-		<link>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
-					<comments>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
+		<link>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/</link>
+					<comments>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 24 Jan 2016 19:29:30 +0000</pubDate>
@@ -607,13 +607,13 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 		<category><![CDATA[LGK App]]></category>
 		<category><![CDATA[Windows 10]]></category>
 		<category><![CDATA[Windows 10 Mobile]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1828</guid>
+		<guid isPermaLink="false">/?p=1828</guid>
 
-					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/logo.png 589w, https://blog-static.lgk.io/wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+					<description><![CDATA[Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550. Ziel des Spiels ist es, Songs nur anhand der ersten und der letzten Wörter des Lyrics zu erraten. Ist das auf Anhieb zu schwierig, bekommst du über &#8220;Get a new hint&#8221; zwei weitere Wörter zum Lyric hinzu. Ein Hinweis kostet dir&#8230; <a class="more-link" href="/ein-spiel-nur-mit-html-css-und-js-hang-the-song/">Continue reading <span class="screen-reader-text">Ein Spiel, nur mit HTML, CSS und JS: &#8220;Hang The Song&#8221;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/logo.png"><img loading="lazy" src="/wp-content/uploads/2016/01/logo.png" alt="Hang ... song!" width="589" height="274" class="aligncenter size-full wp-image-1831 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2016/01/logo.png 589w, /wp-content/uploads/2016/01/logo-300x140.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
 <div class="row">
 <div class="col-sm-4">
-		<a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, https://blog-static.lgk.io/wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+		<a href="/wp-content/uploads/2016/01/wp_ss_20160124_0001.png"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png" alt="Screenshot" class="size-large wp-image-1836 img-responsive" srcset="/wp-content/uploads/2016/01/wp_ss_20160124_0001-576x1024.png 576w, /wp-content/uploads/2016/01/wp_ss_20160124_0001-169x300.png 169w, /wp-content/uploads/2016/01/wp_ss_20160124_0001.png 720w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
 <p>Ein Bildschirmfoto der Hang The Song App unter Windows 10 auf meinem Lumia 550.</p>
 </p></div>
 <div class="col-sm-8">
@@ -639,24 +639,24 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 <ol>
 <li>Stelle sicher, dass dein Smartphone <strong>Querladen von Apps</strong> erlaubt.</li>
 <li>
-				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+				Installier das Windows Zertifikat auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-cert-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-cert-install.png" alt="hang-the-song-cert-install" width="689" height="368" class="alignnone size-full wp-image-1860" srcset="/wp-content/uploads/2016/01/hang-the-song-cert-install.png 689w, /wp-content/uploads/2016/01/hang-the-song-cert-install-300x160.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 			</li>
 <li>
-				Installier die App auf deinem Handy:<br /><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, https://blog-static.lgk.io/wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+				Installier die App auf deinem Handy:<br /><a href="/wp-content/uploads/2016/01/hang-the-song-app-install.png"><img loading="lazy" src="/wp-content/uploads/2016/01/hang-the-song-app-install.png" alt="hang-the-song-app-install" width="790" height="387" class="alignnone size-full wp-image-1862" srcset="/wp-content/uploads/2016/01/hang-the-song-app-install.png 790w, /wp-content/uploads/2016/01/hang-the-song-app-install-300x147.png 300w" sizes="(max-width: 790px) 100vw, 790px" /></a>
 			</li>
 </ol></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
+					<wfw:commentRss>/ein-spiel-nur-mit-html-css-und-js-hang-the-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Troye Sivan &#8211; Fools (Remix by Elgeekay) &#8212; Free download</title>
-		<link>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
-					<comments>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
+		<link>/troye-sivan-fools-remix-by-elgeekay-free-download/</link>
+					<comments>/troye-sivan-fools-remix-by-elgeekay-free-download/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2016 18:17:35 +0000</pubDate>
@@ -667,10 +667,10 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 		<category><![CDATA[Fools]]></category>
 		<category><![CDATA[Remix]]></category>
 		<category><![CDATA[Troye Sivan]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1814</guid>
+		<guid isPermaLink="false">/?p=1814</guid>
 
 					<description><![CDATA[I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: http://www.troyesivan.com/ You can download my remix for free. If you want to use it for any of your works, please contact me first. Download (MP3, 2.8 MB)]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-300x300.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-150x150.jpg 150w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, https://blog-static.lgk.io/wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/01/cover.jpg"><img loading="lazy" src="/wp-content/uploads/2016/01/cover-300x300.jpg" alt="cover" width="300" height="300" class="alignleft size-medium wp-image-1815 thumbnail" srcset="/wp-content/uploads/2016/01/cover-300x300.jpg 300w, /wp-content/uploads/2016/01/cover-150x150.jpg 150w, /wp-content/uploads/2016/01/cover-1024x1024.jpg 1024w, /wp-content/uploads/2016/01/cover.jpg 1417w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>I made a remix of the song &#8220;Fools&#8221; by Troye Sivan. To find out more about the original check out the official website: <a href="http://www.troyesivan.com/" title="undefined" target="_blank">http://www.troyesivan.com/</a></p>
 <p>You can download my remix for free. If you want to use it for any of your works, please contact me first.</p>
 <p><a href="http://lib.lgk.io/Fools.mp3" target="_blank" class="btn btn-lg btn-success"><i class="fa fa-arrow-down"></i> Download <small>(MP3, 2.8 MB)</small></a></p>
@@ -679,7 +679,7 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4wiHZrhQvsA" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
+					<wfw:commentRss>/troye-sivan-fools-remix-by-elgeekay-free-download/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="http://lib.lgk.io/Fools.mp3" length="2943400" type="audio/mpeg" />
@@ -687,8 +687,8 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 			</item>
 		<item>
 		<title>Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</title>
-		<link>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
-					<comments>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
+		<link>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/</link>
+					<comments>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 19 Sep 2015 15:59:54 +0000</pubDate>
@@ -698,10 +698,10 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 		<category><![CDATA[LGK Services]]></category>
 		<category><![CDATA[Startmon]]></category>
 		<category><![CDATA[Startmon Build-News]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1726</guid>
+		<guid isPermaLink="false">/?p=1726</guid>
 
-					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1.png 900w, https://blog-static.lgk.io/wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+					<description><![CDATA[Startmon v11.11 Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen. Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &#187; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;. Da das Feature noch neu ist, würde ich gerne deine Meinung dazu wissen. Schreibe dein Feedback gerne&#8230; <a class="more-link" href="/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/">Continue reading <span class="screen-reader-text">Neues Feature: Startmon kann jetzt Bings API für tägliche Hintergrundbilder nutzen</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/09/Screenshot-1.png"><img loading="lazy" src="/wp-content/uploads/2015/09/Screenshot-1.png" alt="Startmon nutzt Bings API" width="900" height="506" class="alignnone size-full wp-image-1727 img-responsive" style="margin-left: auto; margin-right: auto;" srcset="/wp-content/uploads/2015/09/Screenshot-1.png 900w, /wp-content/uploads/2015/09/Screenshot-1-300x169.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
 <h4>Startmon v11.11</h4>
 <p>Ab sofort können registrierte Nutzer von Startmon die täglich wechselnden Bilder von Bing als Hintergrund nutzen.</p>
 <p>Um dieses Feature zu aktivieren, gehe einfach nach &#8220;Anpassen&#8221; &raquo; &#8220;Hintergrund&#8221; und klicke auf &#8220;Use Bing&#8217;s image of the day&#8221;.</p>
@@ -709,15 +709,15 @@ Denn in Blog-Posts sind die Bilder meistens komprimiert und um auf das volle Bil
 Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir per <a href="//about.lgkonline.com/kontakt">Kontakt</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
+					<wfw:commentRss>/neues-feature-startmon-kann-jetzt-bings-api-fuer-taegliche-hintergrundbilder-nutzen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Colorganize: Verändertes Logo und geplante Windows App</title>
-		<link>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
-					<comments>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
+		<link>/colorganize-veraendertes-logo-und-geplante-windows-app/</link>
+					<comments>/colorganize-veraendertes-logo-und-geplante-windows-app/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2015 19:38:50 +0000</pubDate>
@@ -728,25 +728,25 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Ideen]]></category>
 		<category><![CDATA[LGK]]></category>
 		<category><![CDATA[LGK Services]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1695</guid>
+		<guid isPermaLink="false">/?p=1695</guid>
 
 					<description><![CDATA[Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert. Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können. In Kürze dazu mehr. Colorganize.com &#187;]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize.png 420w, https://blog-static.lgk.io/wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/08/new-colorganize.png"><img loading="lazy" src="/wp-content/uploads/2015/08/new-colorganize.png" alt="Colorganize" width="420" height="92" class="alignnone size-full wp-image-1696" srcset="/wp-content/uploads/2015/08/new-colorganize.png 420w, /wp-content/uploads/2015/08/new-colorganize-300x66.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></p>
 <p>Colorganize wurde nun komplett auf HTTPS umgestellt. Außerdem wurde das Logo aktualisiert.</p>
 <p>Um den Service noch nützlicher zu machen, plane ich eine Windows App. Mit Hilfe von CefSharp soll Colorganize in einem eigenen Fenster geöffnet werden und bequem von der Taskleiste aus gestartet werden können.</p>
 <p>In Kürze dazu mehr.</p>
 <p><a href="https://colorganize.com/" target="_blank" class="btn btn-primary btn-lg">Colorganize.com &raquo;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
+					<wfw:commentRss>/colorganize-veraendertes-logo-und-geplante-windows-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Startmon Rookie &#8211; Wie es weiter geht</title>
-		<link>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/</link>
-					<comments>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/#respond</comments>
+		<link>/startmon-rookie-wie-es-weiter-geht/</link>
+					<comments>/startmon-rookie-wie-es-weiter-geht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 05 Jul 2015 13:43:02 +0000</pubDate>
@@ -760,16 +760,16 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 		<category><![CDATA[Evolution]]></category>
 		<category><![CDATA[Rookie]]></category>
 		<category><![CDATA[testen]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1682</guid>
+		<guid isPermaLink="false">/?p=1682</guid>
 
-					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie-300x225.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert. Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden. Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden&#8230; <a class="more-link" href="/startmon-rookie-wie-es-weiter-geht/">Continue reading <span class="screen-reader-text">Startmon Rookie &#8211; Wie es weiter geht</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/07/rookie.png"><img loading="lazy" src="/wp-content/uploads/2015/07/rookie-300x225.png" alt="Startmon Rookie" width="300" height="225" class="alignleft size-medium wp-image-1683" srcset="/wp-content/uploads/2015/07/rookie-300x225.png 300w, /wp-content/uploads/2015/07/rookie.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>In den letzten Versionen von Startmon wurde vor allem die Client-Seite verbessert und optimiert.</p>
 <p>Im nächsten Schritt soll vor allem die Server-Seite überarbeitet werden, damit diese eine bessere Struktur erhält und auch mit Blick auf die Performance verbessert werden.</p>
 <p>Außerdem soll das System mehr Modular-basierend sein, damit Startmon zukünftig leichter durch neue Features erweitert werden kann.</p>
 <p>Um das zu realisieren, muss der grundsätzliche Code neu geschrieben werden. Diese neue Version, welche die Release-Nummer 12.x erhalten wird, nenne ich während sie noch in der Entstehung ist &#8220;Startmon Rookie&#8221; (hergeleitet aus Digimon).</p>
 <div class="clearfix"></div>
-<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, https://blog-static.lgk.io/wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="/wp-content/uploads/2015/07/pocket-logo.png"><img loading="lazy" src="/wp-content/uploads/2015/07/pocket-logo-300x300.png" alt="Pocket Logo" width="300" height="300" class="alignleft size-medium wp-image-1687" srcset="/wp-content/uploads/2015/07/pocket-logo-300x300.png 300w, /wp-content/uploads/2015/07/pocket-logo-150x150.png 150w, /wp-content/uploads/2015/07/pocket-logo.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <h2>Neues Feature: Pocket</h2>
 <p>Pocket ist ein Dienst, um schnell Web-Inhalte als Favorit zu speichern und das plattform-unabhängig. In der neuesten Firefox-Version ist Pocket bereits fest integriert.</p>
 <p>Dank der API von Pocket, können gespeicherte Links aus Pocket auch direkt auf Startmon angezeigt werden.</p>
@@ -778,7 +778,7 @@ Schreibe dein Feedback gerne als Kommentar unter diesem Post oder schreib mir pe
 <p>Sobald es so weit ist, werde ich es natürlich bekannt geben.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
+					<wfw:commentRss>/startmon-rookie-wie-es-weiter-geht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

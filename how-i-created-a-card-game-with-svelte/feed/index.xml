@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: How I created a card game with Svelte	</title>
-	<atom:link href="https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/how-i-created-a-card-game-with-svelte/</link>
+	<atom:link href="/how-i-created-a-card-game-with-svelte/feed/" rel="self" type="application/rss+xml" />
+	<link>/how-i-created-a-card-game-with-svelte/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 05 Apr 2022 13:22:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

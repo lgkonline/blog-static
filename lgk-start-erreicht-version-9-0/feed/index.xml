@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: LGK Start erreicht Version 9.0	</title>
-	<atom:link href="https://blog-static.lgk.io/lgk-start-erreicht-version-9-0/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/lgk-start-erreicht-version-9-0/</link>
+	<atom:link href="/lgk-start-erreicht-version-9-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/lgk-start-erreicht-version-9-0/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 02 Apr 2013 14:36:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

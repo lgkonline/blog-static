@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Erneut eine neue LGK-Welt	</title>
-	<atom:link href="https://blog-static.lgk.io/erneut-eine-neue-lgk-welt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/erneut-eine-neue-lgk-welt/</link>
+	<atom:link href="/erneut-eine-neue-lgk-welt/feed/" rel="self" type="application/rss+xml" />
+	<link>/erneut-eine-neue-lgk-welt/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 04 Mar 2012 17:52:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Startmon: Eigene Suchmaschinen hinzufügen und ändern	</title>
-	<atom:link href="https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/eigene-suchmaschinen-hinzufuegen-und-aendern/</link>
+	<atom:link href="/eigene-suchmaschinen-hinzufuegen-und-aendern/feed/" rel="self" type="application/rss+xml" />
+	<link>/eigene-suchmaschinen-hinzufuegen-und-aendern/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 14 Mar 2015 12:01:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

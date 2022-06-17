@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Events &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/category/events/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/category/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Thu, 03 Jul 2014 15:48:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Events &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Der Google-Glocke wurde Leben eingehaucht</title>
-		<link>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/</link>
-					<comments>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
+		<link>/der-google-glocke-wurde-leben-eingehaucht/</link>
+					<comments>/der-google-glocke-wurde-leben-eingehaucht/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Thu, 03 Jul 2014 15:48:29 +0000</pubDate>
@@ -41,27 +41,27 @@
 		<category><![CDATA[Google Now Service Windows Android Taskbar Innovation]]></category>
 		<guid isPermaLink="false">http://blog.lgkonline.com/?p=1104</guid>
 
-					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure>
+					<description><![CDATA[Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt. Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat. Verschmelzung von Android und Chrome&#8230; <a class="more-link" href="/der-google-glocke-wurde-leben-eingehaucht/">Continue reading <span class="screen-reader-text">Der Google-Glocke wurde Leben eingehaucht</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1105" aria-describedby="caption-attachment-1105" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows.jpg"><img src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg" alt="Google Now in Windows" width="300" height="176" class="size-medium wp-image-1105" srcset="/wp-content/uploads/2014/07/google-now-on-windows-300x176.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1105" class="wp-caption-text">Google Now-Benachrichtigungen in der Taskleiste von Windows.</figcaption></figure>
 <p>Seit der letzten Version von Google Chrome tauchte ab und zu mal die Benachrichtigungs-Glocke auf, welche man u.a. von Google+ und YouTube kennt.</p>
 <p>Nun hat diese Glocke auch eine Funktion: sie zeigt Benachrichtigungen von Chrome-Apps an. Und eben auch von Google Now, welches bisher nur bei Android Verwendung gefunden hat.</p>
 <h2>Verschmelzung von Android und Chrome</h2>
 <p>Auf der letzten Google I/O (<a href="https://www.youtube.com/watch?v=9pmPa_KxsAM" target="_blank" title="Zum Video">Keynote ansehen &raquo;</a>) wurde verkündet, man wolle Android und Google Chrome näher verbinden.<br />
 So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter Android sollen Web-Apps mehr Beachtung finden, indem diese unter &#8220;geöffnete Apps&#8221; auftauchen sollen.</p>
-<figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure>
+<figure id="attachment_1109" aria-describedby="caption-attachment-1109" style="width: 300px" class="wp-caption alignright"><a href="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2.jpg"><img loading="lazy" src="http://blog.lgkonline.com/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg" alt="Unterstützte Apps" width="300" height="272" class="size-medium wp-image-1109" srcset="/wp-content/uploads/2014/07/google-now-on-windows-2-300x272.jpg 300w, /wp-content/uploads/2014/07/google-now-on-windows-2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1109" class="wp-caption-text">Unterstützte Apps</figcaption></figure>
 <p>Die Benachrichtungs-Glocke ist wohl ebenfalls Teil dieses &#8220;Verschmelzungs-Prozesses&#8221;. Denn sie übernimmt eine Aufgabe, die Chrome vorher nicht hatte: Benachrichtigungen.</p>
 <p>Einige Apps können die Benachrichtigungen anscheint benutzen. YouTube ist leider bisher noch nicht dabei.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
+					<wfw:commentRss>/der-google-glocke-wurde-leben-eingehaucht/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LG verlost 3 LED-Beamer</title>
-		<link>https://blog-static.lgk.io/lg-verlost-3-led-beamer/</link>
-					<comments>https://blog-static.lgk.io/lg-verlost-3-led-beamer/#respond</comments>
+		<link>/lg-verlost-3-led-beamer/</link>
+					<comments>/lg-verlost-3-led-beamer/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Aug 2012 23:39:02 +0000</pubDate>
@@ -78,7 +78,7 @@ So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter A
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=605</guid>
 
 					<description><![CDATA[Auf dem offiziellem LG-Blog findet gerade ein Gewinnspiel statt: Ihr könnt eins von drei LED-Beamer gewinnen, womit ihr euch ein richtiges Kino-Fealing nach Hause holen könnt. Näheres zu den Gewinnen: LG HW300Y LG PA70G LG PB60G Wie ihr am Gewinnspiel teilnehmen könnt, erfahrt ihr in diesem Artikel.]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_607" aria-describedby="caption-attachment-607" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg" alt="" title="Eins dieser Schmuckstücke könnt ihr gewinnen" width="300" height="168" class="size-medium wp-image-607" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/08/lg-gewinnspiel.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-607" class="wp-caption-text">Eins dieser Schmuckstücke könnt ihr gewinnen (Abbildungen stammen von lgblog.de)</figcaption></figure>
+										<content:encoded><![CDATA[<figure id="attachment_607" aria-describedby="caption-attachment-607" style="width: 300px" class="wp-caption alignright"><a href="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg" alt="" title="Eins dieser Schmuckstücke könnt ihr gewinnen" width="300" height="168" class="size-medium wp-image-607" srcset="/wp-content/uploads/2012/08/lg-gewinnspiel-300x168.jpg 300w, /wp-content/uploads/2012/08/lg-gewinnspiel.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-607" class="wp-caption-text">Eins dieser Schmuckstücke könnt ihr gewinnen (Abbildungen stammen von lgblog.de)</figcaption></figure>
 <p>Auf dem <a href="http://www.lgblog.de/2012/08/22/zwischen-gamescom-und-ifa-wir-verlosen-die-drei-led-projektoren-hw300y-pa70g-und-pb60g/" target="_blank">offiziellem LG-Blog</a> findet gerade ein Gewinnspiel statt:</p>
 <p>Ihr könnt eins von drei LED-Beamer gewinnen, womit ihr euch ein richtiges Kino-Fealing nach Hause holen könnt.</p>
 <p>Näheres zu den Gewinnen:</p>
@@ -90,15 +90,15 @@ So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter A
 <p>Wie ihr am Gewinnspiel teilnehmen könnt, <br /><a href="http://www.lgblog.de/2012/08/22/zwischen-gamescom-und-ifa-wir-verlosen-die-drei-led-projektoren-hw300y-pa70g-und-pb60g/" target="_blank">erfahrt ihr in diesem Artikel.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/lg-verlost-3-led-beamer/feed/</wfw:commentRss>
+					<wfw:commentRss>/lg-verlost-3-led-beamer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comedy Central Deutschland bekommt neues Logo + Design</title>
-		<link>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/</link>
-					<comments>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
+		<link>/comedy-central-deutschland-bekommt-neues-logo-design/</link>
+					<comments>/comedy-central-deutschland-bekommt-neues-logo-design/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Tue, 27 Sep 2011 18:42:34 +0000</pubDate>
@@ -114,7 +114,7 @@ So sollen Android-Apps in Zukunft nativ auf Chrome OS funktionieren. Und unter A
 		<category><![CDATA[viva]]></category>
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=261</guid>
 
-					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
+					<description><![CDATA[Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich. Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen. Das neue Design soll am 1. Oktober 2011 on Air kommen. In Amerika ist das schlichte Design&#8230; <a class="more-link" href="/comedy-central-deutschland-bekommt-neues-logo-design/">Continue reading <span class="screen-reader-text">Comedy Central Deutschland bekommt neues Logo + Design</span></a>]]></description>
 										<content:encoded><![CDATA[<figure id="attachment_263" aria-describedby="caption-attachment-263" style="width: 200px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-263" title="" src="/blog/wp-content/uploads/2011/09/183713323_200.jpg" alt="" width="200" height="150" /><figcaption id="caption-attachment-263" class="wp-caption-text">Quelle: vimeo.com</figcaption></figure>
 <p>Die 3D-Welt von Comedy Central gibt es noch nicht mal einen Jahr (es wurde im Oktober 2010 eingeführt) und nun bekommt der Comedy-Sender erneut einen neuen Anstrich.<br />
 Auch das Logo ist komplett anders. Es ähnelt sehr dem Copyright-Zeichen.<br />
@@ -135,15 +135,15 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 <p></center></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
+					<wfw:commentRss>/comedy-central-deutschland-bekommt-neues-logo-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Das wars mit der gamescom &#8230;</title>
-		<link>https://blog-static.lgk.io/das-wars-mit-der-gamescom/</link>
-					<comments>https://blog-static.lgk.io/das-wars-mit-der-gamescom/#respond</comments>
+		<link>/das-wars-mit-der-gamescom/</link>
+					<comments>/das-wars-mit-der-gamescom/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 22 Aug 2011 04:19:23 +0000</pubDate>
@@ -155,7 +155,7 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=209</guid>
 
 					<description><![CDATA[Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker. Los geht&#8217;s: Weitere Videos&#8230;]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/1.jpg 334w, https://blog-static.lgk.io/wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="/wp-content/uploads/2011/08/1.jpg 334w, /wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Aber vom letzten Tag gibt es noch 3 Videos. Einmal natürlich die letzte Folge von gamescom TV, eins von Coldmirror zum Thema &#8220;Spezies YouTuber&#8221; und noch ein 2-Minuten-Video vom Fernsehkritiker.</p>
 <p>Los geht&#8217;s:<br />
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/Rb-PIxiWBQ0?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 <p>Weitere Videos&#8230; <span id="more-209"></span></p>
@@ -163,15 +163,15 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 <p><iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/YOTIPHnPK1A?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/das-wars-mit-der-gamescom/feed/</wfw:commentRss>
+					<wfw:commentRss>/das-wars-mit-der-gamescom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vorletzter Tag der gamescom 2011</title>
-		<link>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/</link>
-					<comments>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/#respond</comments>
+		<link>/vorletzter-tag-der-gamescom-2011/</link>
+					<comments>/vorletzter-tag-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 23:22:35 +0000</pubDate>
@@ -192,15 +192,15 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/zU2Gftxak08?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/vorletzter-tag-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>/vorletzter-tag-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>gamescom wegen Überfüllung vorläufig geschlossen</title>
-		<link>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/</link>
-					<comments>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/#respond</comments>
+		<link>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/</link>
+					<comments>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 13:05:20 +0000</pubDate>
@@ -212,21 +212,21 @@ Tags: &lt;a href=&#8221;http://www.comedycentral.de&/#8221;&gt;ComedyCentral Ger
 		<guid isPermaLink="false">http://lgkclub.de.vu/?p=204</guid>
 
 					<description><![CDATA[Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet. Es war also zu erwarten, dass es eine Überfüllung geben wird. Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz. Ganzer Artikel bei Spiegel Online &#9658;]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="https://blog-static.lgk.io/wp-content/uploads/2011/08/1.jpg 334w, https://blog-static.lgk.io/wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet.<br />
+										<content:encoded><![CDATA[<p><img loading="lazy" width="334" height="75" src="http://lgkclub.bplaced.net/wp-content/uploads/2011/08/1.jpg" alt="" title="1" class="alignright size-full wp-image-137" srcset="/wp-content/uploads/2011/08/1.jpg 334w, /wp-content/uploads/2011/08/1-300x67.jpg 300w" sizes="(max-width: 334px) 100vw, 334px" />Schon früh war bekannt, dass die gamescom dieses Jahr mehr Besucher denn je erwartet.<br />
 Es war also zu erwarten, dass es eine Überfüllung geben wird.<br />
 Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz.<br />
 <a href="http://www.spiegel.de/netzwelt/games/0,1518,781388,00.html" target="_blank">Ganzer Artikel bei Spiegel Online &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/gamescom-wegen-uberfullung-vorlaufig-geschlossen/feed/</wfw:commentRss>
+					<wfw:commentRss>/gamescom-wegen-uberfullung-vorlaufig-geschlossen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zweiter offizieller Tag der gamescom 2011</title>
-		<link>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/</link>
-					<comments>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/#respond</comments>
+		<link>/zweiter-offizieller-tag-der-gamescom-2011/</link>
+					<comments>/zweiter-offizieller-tag-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sat, 20 Aug 2011 08:11:05 +0000</pubDate>
@@ -242,15 +242,15 @@ Aus Sicherheitsgründen kommt erst mal keiner mehr auf den Messeplatz.<br />
 <a href="http://www.youtube.com/user/mygamescom" target="_blank">Zum gamescom-Channel auf YouTube &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/zweiter-offizieller-tag-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>/zweiter-offizieller-tag-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Coldmirror auf der gamescom 2011</title>
-		<link>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/</link>
-					<comments>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/#respond</comments>
+		<link>/coldmirror-auf-der-gamescom-2011/</link>
+					<comments>/coldmirror-auf-der-gamescom-2011/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:21:30 +0000</pubDate>
@@ -270,15 +270,15 @@ Sie befragt ein paar Menschen, was sie gerne spielen usw.:</p>
 <p><a href="http://www.youtube.com/user/coldmirrorgames" target="_blank">Zu Coldmirror&#8217;s YouTube-Channel über Games &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
+					<wfw:commentRss>/coldmirror-auf-der-gamescom-2011/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Black Eyed Peas Experience (Videospiel)</title>
-		<link>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/</link>
-					<comments>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/#respond</comments>
+		<link>/black-eyed-peas-experience-videospiel/</link>
+					<comments>/black-eyed-peas-experience-videospiel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:07:35 +0000</pubDate>
@@ -306,15 +306,15 @@ Und dieser Trailer wurde dort vorgestellt:</p>
 <p><a href="http://www.gamezone.de/news_detail.asp?nid=101447" target="_blank">Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
+					<wfw:commentRss>/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Erster Tag der gamescom (für alle)</title>
-		<link>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/</link>
-					<comments>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/#respond</comments>
+		<link>/erster-tag-der-gamescom-fur-alle/</link>
+					<comments>/erster-tag-der-gamescom-fur-alle/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 11:47:51 +0000</pubDate>
@@ -329,7 +329,7 @@ Schaut sie euch an:<br />
 <iframe loading="lazy" width="560" height="345" src="http://www.youtube.com/embed/syvUmSQcHaw?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/erster-tag-der-gamescom-fur-alle/feed/</wfw:commentRss>
+					<wfw:commentRss>/erster-tag-der-gamescom-fur-alle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>kinect &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/kinect/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/kinect/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Fri, 19 Aug 2011 17:07:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>kinect &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Black Eyed Peas Experience (Videospiel)</title>
-		<link>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/</link>
-					<comments>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/#respond</comments>
+		<link>/black-eyed-peas-experience-videospiel/</link>
+					<comments>/black-eyed-peas-experience-videospiel/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 17:07:35 +0000</pubDate>
@@ -58,7 +58,7 @@ Und dieser Trailer wurde dort vorgestellt:</p>
 <p><a href="http://www.gamezone.de/news_detail.asp?nid=101447" target="_blank">Klicke hier für weitere Infos über Black Eyed Peas Experience &#9658;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
+					<wfw:commentRss>/black-eyed-peas-experience-videospiel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

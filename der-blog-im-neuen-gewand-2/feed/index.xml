@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Der Blog im neuen Gewand	</title>
-	<atom:link href="https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/der-blog-im-neuen-gewand-2/</link>
+	<atom:link href="/der-blog-im-neuen-gewand-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/der-blog-im-neuen-gewand-2/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sat, 14 Jun 2014 13:48:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

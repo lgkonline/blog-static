@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Layout &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/layout/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/layout/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Mon, 27 Apr 2015 17:53:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>Layout &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>html_bones 2.1 ist online!</title>
-		<link>https://blog-static.lgk.io/html_bones-2-1-ist-online/</link>
-					<comments>https://blog-static.lgk.io/html_bones-2-1-ist-online/#respond</comments>
+		<link>/html_bones-2-1-ist-online/</link>
+					<comments>/html_bones-2-1-ist-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2015 17:53:23 +0000</pubDate>
@@ -50,10 +50,10 @@
 		<category><![CDATA[Materialize]]></category>
 		<category><![CDATA[Neue Version]]></category>
 		<category><![CDATA[Release]]></category>
-		<guid isPermaLink="false">https://blog-static.lgk.io/?p=1541</guid>
+		<guid isPermaLink="false">/?p=1541</guid>
 
-					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="https://blog-static.lgk.io/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, https://blog-static.lgk.io/wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+					<description><![CDATA[html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen. Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden. So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst. Es ist keine Anmeldung oder Registrierung notwendig. Jetzt starten &#187; Änderungen zur&#8230; <a class="more-link" href="/html_bones-2-1-ist-online/">Continue reading <span class="screen-reader-text">html_bones 2.1 ist online!</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/04/html_bones-v2.png"><img loading="lazy" src="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png" alt="html_bones Screenshot" width="1024" height="546" class="aligncenter size-large wp-image-1542 img-responsive" srcset="/wp-content/uploads/2015/04/html_bones-v2-1024x546.png 1024w, /wp-content/uploads/2015/04/html_bones-v2-300x160.png 300w, /wp-content/uploads/2015/04/html_bones-v2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>html_bones ist ein kleines Werkzeug für Web-Entwickler, die schnell mit einem neuen Web-Projekt starten wollen.<br />
 Aus eine Reihe an häufig genutzten HTML-Elementen, können die benötigten Komponenten aus- und abgewählt werden.</p>
 <p>So erhältst du schnell ein HTML-Grundaufbau, welchen du auch für später speichern kannst.</p>
@@ -73,7 +73,7 @@ Denn mit PHP musste für jede Auswahl eine neue HTTP-Anfrage gestellt und bearbe
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/html_bones-2-1-ist-online/feed/</wfw:commentRss>
+					<wfw:commentRss>/html_bones-2-1-ist-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

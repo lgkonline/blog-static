@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: LGK Start 10.0 jetzt testen!	</title>
-	<atom:link href="https://blog-static.lgk.io/lgk-start-10-0-jetzt-testen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/lgk-start-10-0-jetzt-testen/</link>
+	<atom:link href="/lgk-start-10-0-jetzt-testen/feed/" rel="self" type="application/rss+xml" />
+	<link>/lgk-start-10-0-jetzt-testen/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 09 Jun 2013 17:59:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

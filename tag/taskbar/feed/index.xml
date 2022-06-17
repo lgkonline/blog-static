@@ -9,8 +9,8 @@
 
 <channel>
 	<title>taskbar &#8211; LGK Blog</title>
-	<atom:link href="https://blog-static.lgk.io/tag/taskbar/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/</link>
+	<atom:link href="/tag/taskbar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Sun, 03 Jun 2012 15:59:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://blog-static.lgk.io/wp-content/uploads/2022/04/favicon-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/favicon-150x150.png</url>
 	<title>taskbar &#8211; LGK Blog</title>
-	<link>https://blog-static.lgk.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Einheitliche Taskbar-Symbole</title>
-		<link>https://blog-static.lgk.io/einheitliche-taskbar-symbole/</link>
-					<comments>https://blog-static.lgk.io/einheitliche-taskbar-symbole/#respond</comments>
+		<link>/einheitliche-taskbar-symbole/</link>
+					<comments>/einheitliche-taskbar-symbole/#respond</comments>
 		
 		<dc:creator><![CDATA[Lars Kliesing]]></dc:creator>
 		<pubDate>Sun, 03 Jun 2012 15:59:03 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[waterline]]></category>
 		<guid isPermaLink="false">http://lgkonline.de/blog/?p=462</guid>
 
-					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="https://blog-static.lgk.io/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, https://blog-static.lgk.io/wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+					<description><![CDATA[Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&#228;ndern, gibt es einen kleinen Tipp: Halte die linke Shift-Taste gedr&#252;ckt und klicke mit der rechten Maustaste auf das gew&#252;nschte Programm. Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&#252;pfung&#8221; l&#228;sst sich das Symbol beliebig ersetzen. Das funktioniert allerdings nur, wenn das Programm geschlossen&#8230; <a class="more-link" href="/einheitliche-taskbar-symbole/">Continue reading <span class="screen-reader-text">Einheitliche Taskbar-Symbole</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons.jpg"><img loading="lazy" src="http://lgkonline.de/blog/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg" alt="" title="Angepasste Taskbar-Symbole" width="300" height="137" class="alignleft size-medium wp-image-463" srcset="/wp-content/uploads/2012/06/taskbar-icons-300x137.jpg 300w, /wp-content/uploads/2012/06/taskbar-icons.jpg 887w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Um bei Windows 7 das Symbol eines an der Taskbar angepinnter Anwendung zu ver&auml;ndern, gibt es einen kleinen Tipp:</p>
 <p>Halte die linke Shift-Taste gedr&uuml;ckt und klicke mit der rechten Maustaste auf das gew&uuml;nschte Programm.<br />
 Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&#8221; l&auml;sst sich das Symbol beliebig ersetzen.</p>
@@ -57,7 +57,7 @@ Klicke jetzt auf &#8220;Eigenschaften&#8221;. Im Reiter &#8220;Verkn&uuml;pfung&
 <p>Die von mir benutzten Symbole, findet ihr hier: <a href="http://yankoa.deviantart.com/art/MetroStation-183210118" target="_blank">http://yankoa.deviantart.com/art/MetroStation-183210118</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://blog-static.lgk.io/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
+					<wfw:commentRss>/einheitliche-taskbar-symbole/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

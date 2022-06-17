@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Kleines Update für Orange Files	</title>
-	<atom:link href="https://blog-static.lgk.io/kleines-update-fuer-orange-files/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/kleines-update-fuer-orange-files/</link>
+	<atom:link href="/kleines-update-fuer-orange-files/feed/" rel="self" type="application/rss+xml" />
+	<link>/kleines-update-fuer-orange-files/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 10 Jun 2014 10:11:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Kleines Update für LGK Start	</title>
-	<atom:link href="https://blog-static.lgk.io/kleines-update-fuer-lgk-start/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/kleines-update-fuer-lgk-start/</link>
+	<atom:link href="/kleines-update-fuer-lgk-start/feed/" rel="self" type="application/rss+xml" />
+	<link>/kleines-update-fuer-lgk-start/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Tue, 10 Jun 2014 10:11:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

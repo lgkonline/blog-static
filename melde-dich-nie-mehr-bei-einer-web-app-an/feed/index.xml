@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Melde dich nie mehr bei einer Web App an.	</title>
-	<atom:link href="https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog-static.lgk.io/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
+	<atom:link href="/melde-dich-nie-mehr-bei-einer-web-app-an/feed/" rel="self" type="application/rss+xml" />
+	<link>/melde-dich-nie-mehr-bei-einer-web-app-an/</link>
 	<description>Design, Ideas and Thoughts</description>
 	<lastBuildDate>Wed, 09 Sep 2015 15:58:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
