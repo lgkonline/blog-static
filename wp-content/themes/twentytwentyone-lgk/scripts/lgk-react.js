@@ -64,7 +64,7 @@ function Search() {
                 { className: "dialog appear" },
                 React.createElement(
                     "form",
-                    { action: "https://blog.lgk.io", method: "GET" },
+                    { action: "https://duckduckgo.com/", method: "GET", target: "_blank" },
                     React.createElement(
                         "button",
                         {
@@ -78,11 +78,17 @@ function Search() {
                         React.createElement("span", { className: "icon-close" })
                     ),
                     React.createElement("input", {
+                        name: "q",
+                        type: "hidden",
+                        value: input + " site:.lgk.io",
+                        readOnly: true
+                    }),
+                    React.createElement("input", {
                         id: "search-input",
                         name: "s",
                         type: "text",
                         value: input,
-                        placeholder: "Browse the blog\u2026",
+                        placeholder: "Search via DuckDuckGo\u2026",
                         onChange: handleChange,
                         className: "form-control"
                     }),
